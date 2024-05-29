@@ -9,6 +9,7 @@ load_dotenv()
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 if not GITHUB_TOKEN:
     raise ValueError("No GITHUB_TOKEN provided. Ensure it is set in your environment variables.")
+raise ValueError(GITHUB_TOKEN)
 
 HEADERS = {
     'Authorization': f'token {GITHUB_TOKEN}',
