@@ -68,12 +68,12 @@ def main():
                 else:
                     str_star_count = f"{star_count / 1000:.1f}k"
                 f.write(f"## {i+j+1}. {repo_name}\n\n")
-                f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\" style=\"margin-right: 20px;\"></a> {repo_url}\n\n")
+                f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
                 f.write(f"**Stars**: {str_star_count}\n\n")
                 f.write(f"{description}\n\n")
             
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
-            f.write(f"[![Star History Chart]({chart_url})](https://star-history.com/#{'&'.join(repo_names)}&Date)\n\n")
+            f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
 if __name__ == "__main__":
     main()
