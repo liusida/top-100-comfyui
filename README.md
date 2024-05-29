@@ -1,3 +1,7 @@
+This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.
+
+### Last updated: 2024-05-29
+
 # TOP 1 - 5
 
 ## 1. comfyanonymous/ComfyUI
