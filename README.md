@@ -296,7 +296,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'><img src="https://avatars.githubusercontent.com/u/153757302?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: 717
+**Stars**: 718
 
 This node was designed to help AI image creators to generate prompts for human portraits.
 
@@ -882,5 +882,5 @@ ComfyUI nodes for Stable Video Diffusion
 
 <a href="https://star-history.com/#BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&Date"><img src="https://api.star-history.com/svg?repos=BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&type=Date" alt="Star History Chart" width="600"></a>
 
-### Automatically updated on: 2024-05-30 00:21:09
+### Automatically updated on: 2024-05-30 00:32:44 UTC
 
