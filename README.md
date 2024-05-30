@@ -2,6 +2,17 @@ This repository automatically updates a list of the top 100 repositories related
 
 ### Automatically updated on: 2024-05-30
 
+### Repositories by Tag:
+- [Core](tags/Core.md)
+- [Integration](tags/Integration.md)
+- [Management](tags/Management.md)
+- [Workflow Examples](tags/WorkflowExamples.md)
+- [Custom Nodes](tags/CustomNodes.md)
+- [Tutorials](tags/Tutorials.md)
+- [Acceleration](tags/Acceleration.md)
+- [Resources](tags/Resources.md)
+- [Translation](tags/Translation.md)
+
 # TOP 1 - 5
 
 ## 1. comfyanonymous/ComfyUI
@@ -140,7 +151,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
 <a href='https://github.com/huchenlei/ComfyUI-layerdiffuse'><img src="https://avatars.githubusercontent.com/u/20929282?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-layerdiffuse
 
-**Stars**: `1.2k` | **Last updated**: `2024-05-29` | **Tags**: `Custom Nodes`
+**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Layer Diffuse custom nodes
 
@@ -376,7 +387,7 @@ Custom nodes that extend the capabilities of Comfyui
 
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'><img src="https://avatars.githubusercontent.com/u/57548627?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `581` | **Last updated**: `2024-05-28` | **Tags**: `Custom Nodes`
+**Stars**: `583` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
@@ -828,25 +839,25 @@ Custom Nodes for Comfyui
 
 Various custom nodes for ComfyUI
 
-## 95. ashleykleynhans/stable-diffusion-docker
+## 95. BadCafeCode/masquerade-nodes-comfyui
+
+<a href='https://github.com/BadCafeCode/masquerade-nodes-comfyui'><img src="https://avatars.githubusercontent.com/u/131418214?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BadCafeCode/masquerade-nodes-comfyui
+
+**Stars**: `289` | **Last updated**: `2024-05-30` | **Tags**: 
+
+A powerful set of mask-related nodes for ComfyUI
+
+<a href="https://star-history.com/#if-ai/ComfyUI-IF_AI_tools,TinyTerra/ComfyUI_tinyterraNodes,FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,BadCafeCode/masquerade-nodes-comfyui&Date"><img src="https://api.star-history.com/svg?repos=if-ai/ComfyUI-IF_AI_tools,TinyTerra/ComfyUI_tinyterraNodes,FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,BadCafeCode/masquerade-nodes-comfyui&type=Date" alt="Star History Chart" width="600"></a>
+
+# TOP 96 - 100
+
+## 96. ashleykleynhans/stable-diffusion-docker
 
 <a href='https://github.com/ashleykleynhans/stable-diffusion-docker'><img src="https://avatars.githubusercontent.com/u/886709?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ashleykleynhans/stable-diffusion-docker
 
 **Stars**: `289` | **Last updated**: `2024-05-29` | **Tags**: 
 
 Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI
-
-<a href="https://star-history.com/#if-ai/ComfyUI-IF_AI_tools,TinyTerra/ComfyUI_tinyterraNodes,FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,ashleykleynhans/stable-diffusion-docker&Date"><img src="https://api.star-history.com/svg?repos=if-ai/ComfyUI-IF_AI_tools,TinyTerra/ComfyUI_tinyterraNodes,FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,ashleykleynhans/stable-diffusion-docker&type=Date" alt="Star History Chart" width="600"></a>
-
-# TOP 96 - 100
-
-## 96. BadCafeCode/masquerade-nodes-comfyui
-
-<a href='https://github.com/BadCafeCode/masquerade-nodes-comfyui'><img src="https://avatars.githubusercontent.com/u/131418214?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BadCafeCode/masquerade-nodes-comfyui
-
-**Stars**: `288` | **Last updated**: `2024-05-29` | **Tags**: 
-
-A powerful set of mask-related nodes for ComfyUI
 
 ## 97. fofr/cog-comfyui
 
@@ -872,15 +883,15 @@ ComfyUI BrushNet nodes
 
 Tiled samplers for ComfyUI
 
-## 100. thecooltechguy/ComfyUI-Stable-Video-Diffusion
+## 100. cubiq/ComfyUI_essentials
 
-<a href='https://github.com/thecooltechguy/ComfyUI-Stable-Video-Diffusion'><img src="https://avatars.githubusercontent.com/u/33400216?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/thecooltechguy/ComfyUI-Stable-Video-Diffusion
+<a href='https://github.com/cubiq/ComfyUI_essentials'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `274` | **Last updated**: `2024-05-24` | **Tags**: 
+**Stars**: `274` | **Last updated**: `2024-05-30` | **Tags**: 
 
-ComfyUI nodes for Stable Video Diffusion
+None
 
-<a href="https://star-history.com/#BadCafeCode/masquerade-nodes-comfyui,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&Date"><img src="https://api.star-history.com/svg?repos=BadCafeCode/masquerade-nodes-comfyui,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&type=Date" alt="Star History Chart" width="600"></a>
+<a href="https://star-history.com/#ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&Date"><img src="https://api.star-history.com/svg?repos=ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&type=Date" alt="Star History Chart" width="600"></a>
 
-### Automatically updated on: 2024-05-30 03:43:19 UTC
+### Automatically updated on: 2024-05-30 03:53:56 UTC
 
