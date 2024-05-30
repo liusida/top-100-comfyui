@@ -4,7 +4,7 @@
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `701` | **Last updated**: `2024-05-30` | **Tags**: `Video`
+**Stars**: `702` | **Last updated**: `2024-05-30` | **Tags**: `Video`
 
 A ComfyUI node for driving videos using batches of images.
 
