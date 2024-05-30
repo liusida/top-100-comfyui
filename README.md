@@ -882,5 +882,5 @@ ComfyUI nodes for Stable Video Diffusion
 
 <a href="https://star-history.com/#BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&Date"><img src="https://api.star-history.com/svg?repos=BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&type=Date" alt="Star History Chart" width="600"></a>
 
-### Automatically updated on: 2024-05-30 00:30:09 UTC
+### Automatically updated on: 2024-05-30 00:31:25 UTC
 
