@@ -1,5 +1,13 @@
 # Repositories tagged with `LLM`
 
+## ZHO-ZHO-ZHO/ComfyUI-Gemini
+
+<a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
+
+**Stars**: `566` | **Last updated**: `2024-05-29` | **Tags**: `LLM`
+
+Using Gemini in ComfyUI
+
 ## xXAdonesXx/NodeGPT
 
 <a href='https://github.com/xXAdonesXx/NodeGPT'><img src="https://avatars.githubusercontent.com/u/66518617?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xXAdonesXx/NodeGPT

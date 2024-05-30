@@ -48,14 +48,6 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 
 None
 
-## pythongosssss/ComfyUI-Custom-Scripts
-
-<a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'><img src="https://avatars.githubusercontent.com/u/125205205?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
-
-**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
-
-Enhancements & experiments for ComfyUI, mostly focusing on UI features
-
 ## huchenlei/ComfyUI-layerdiffuse
 
 <a href='https://github.com/huchenlei/ComfyUI-layerdiffuse'><img src="https://avatars.githubusercontent.com/u/20929282?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-layerdiffuse
@@ -108,7 +100,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `834` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `835` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 None
 
