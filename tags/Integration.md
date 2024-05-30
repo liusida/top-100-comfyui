@@ -44,7 +44,7 @@ Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to cr
 
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'><img src="https://avatars.githubusercontent.com/u/25550995?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `769` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+**Stars**: `770` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
 
@@ -79,4 +79,68 @@ An open source `vercel` like deployment platform for Comfy UI
 **Stars**: `549` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
 
 Customizable Stable Diffusion frontend for ComfyUI
+
+## AIGODLIKE/ComfyUI-BlenderAI-node
+
+<a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'><img src="https://avatars.githubusercontent.com/u/124877023?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+
+**Stars**: `503` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+
+Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
+
+## mrhan1993/Fooocus-API
+
+<a href='https://github.com/mrhan1993/Fooocus-API'><img src="https://avatars.githubusercontent.com/u/50648276?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
+
+**Stars**: `465` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+
+FastAPI powered API for Fooocus
+
+## ModelSurge/sd-webui-comfyui
+
+<a href='https://github.com/ModelSurge/sd-webui-comfyui'><img src="https://avatars.githubusercontent.com/u/120546502?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ModelSurge/sd-webui-comfyui
+
+**Stars**: `448` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+
+An extension to integrate ComfyUI workflows into the Webui's pipeline
+
+## AlexanderDzhoganov/ComfyTextures
+
+<a href='https://github.com/AlexanderDzhoganov/ComfyTextures'><img src="https://avatars.githubusercontent.com/u/855464?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlexanderDzhoganov/ComfyTextures
+
+**Stars**: `446` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+
+Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models 
+
+## xingren23/ComfyFlowApp
+
+<a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
+
+**Stars**: `420` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+
+From comfyui workflow to web app, in seconds
+
+## ai-dock/comfyui
+
+<a href='https://github.com/ai-dock/comfyui'><img src="https://avatars.githubusercontent.com/u/138283508?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
+
+**Stars**: `331` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+
+ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
+
+## ashleykleynhans/stable-diffusion-docker
+
+<a href='https://github.com/ashleykleynhans/stable-diffusion-docker'><img src="https://avatars.githubusercontent.com/u/886709?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ashleykleynhans/stable-diffusion-docker
+
+**Stars**: `289` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+
+Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI
+
+## fofr/cog-comfyui
+
+<a href='https://github.com/fofr/cog-comfyui'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-comfyui
+
+**Stars**: `282` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+
+Run ComfyUI with an API
 

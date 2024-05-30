@@ -48,3 +48,19 @@ some wyrde workflows for comfyUI
 
 face-to-sticker
 
+## SytanSD/Sytan-SDXL-ComfyUI
+
+<a href='https://github.com/SytanSD/Sytan-SDXL-ComfyUI'><img src="https://avatars.githubusercontent.com/u/122675732?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SytanSD/Sytan-SDXL-ComfyUI
+
+**Stars**: `408` | **Last updated**: `2024-05-27` | **Tags**: `Workflow Examples`
+
+A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
+
+## atlasunified/Templates-ComfyUI-
+
+<a href='https://github.com/atlasunified/Templates-ComfyUI-'><img src="https://avatars.githubusercontent.com/u/113645143?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/atlasunified/Templates-ComfyUI-
+
+**Stars**: `314` | **Last updated**: `2024-05-22` | **Tags**: `Workflow Examples`
+
+Templates to view the variety of a prompt based on the samplers available in ComfyUI. Variety of sizes and singlular seed and random seed templates.
+
