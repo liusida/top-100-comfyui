@@ -36,7 +36,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.4k` | **Last updated**: `2024-05-29` | **Tags**: `Custom Nodes`
+**Stars**: `1.4k` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 肖像大师 中文版 comfyui-portrait-master
 
@@ -84,7 +84,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyU
 
 <a href='https://github.com/Gourieff/comfyui-reactor-node'><img src="https://avatars.githubusercontent.com/u/85128026?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/comfyui-reactor-node
 
-**Stars**: `977` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `979` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Fast and Simple Face Swap Extension Node for ComfyUI
 
@@ -92,7 +92,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `880` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `881` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 An extensive node suite for ComfyUI with over 210 new nodes
 
@@ -116,7 +116,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `734` | **Last updated**: `2024-05-29` | **Tags**: `Custom Nodes`
+**Stars**: `735` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -140,7 +140,7 @@ This node was designed to help AI image creators to generate prompts for human p
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `701` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `702` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 A ComfyUI node for driving videos using batches of images.
 
@@ -180,7 +180,7 @@ Custom nodes that extend the capabilities of Comfyui
 
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'><img src="https://avatars.githubusercontent.com/u/57548627?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `583` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `582` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
@@ -188,7 +188,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
 <a href='https://github.com/twri/sdxl_prompt_styler'><img src="https://avatars.githubusercontent.com/u/4344671?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `578` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `579` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Custom prompt styler node for SDXL in ComfyUI
 
@@ -204,7 +204,7 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `566` | **Last updated**: `2024-05-29` | **Tags**: `Custom Nodes`
+**Stars**: `567` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Using Gemini in ComfyUI
 
@@ -212,7 +212,7 @@ Using Gemini in ComfyUI
 
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'><img src="https://avatars.githubusercontent.com/u/130118553?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `538` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `540` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 
@@ -228,7 +228,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/storyicon/comfyui_segment_anything'><img src="https://avatars.githubusercontent.com/u/29772821?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `476` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `477` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
 
@@ -244,7 +244,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `429` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `430` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -428,7 +428,7 @@ Unofficial implementation of APISR for ComfyUI
 
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'><img src="https://avatars.githubusercontent.com/u/21185218?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `303` | **Last updated**: `2024-05-29` | **Tags**: `Custom Nodes`
+**Stars**: `304` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
 
