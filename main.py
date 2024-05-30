@@ -113,7 +113,7 @@ def main():
     tag_links = []
     for tag in repos_by_tag.keys():
         tag_filename = f"tags/{tag.replace(' ', '')}.md"
-        tag_links.append(f"- [{tag}](tags/{tag.replace(' ', '')}.md)")
+        tag_links.append(f"- [{tag}](tags/{tag.replace(' ', '')}.md) ({len(repos_by_tag[tag])})")
 
     with open("README.md", "w", encoding="utf-8") as f:
         # Write the updated date at the beginning
