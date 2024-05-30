@@ -3,15 +3,15 @@ This repository automatically updates a list of the top 100 repositories related
 ### Automatically updated on: 2024-05-30
 
 ### Repositories by Tag:
-- [Core](tags/Core.md)
-- [Integration](tags/Integration.md)
-- [Management](tags/Management.md)
-- [Workflow Examples](tags/WorkflowExamples.md)
-- [Custom Nodes](tags/CustomNodes.md)
-- [Tutorials](tags/Tutorials.md)
-- [Acceleration](tags/Acceleration.md)
-- [Resources](tags/Resources.md)
-- [Translation](tags/Translation.md)
+- [Core](tags/Core.md) (1)
+- [Integration](tags/Integration.md) (10)
+- [Management](tags/Management.md) (3)
+- [Workflow Examples](tags/WorkflowExamples.md) (6)
+- [Custom Nodes](tags/CustomNodes.md) (27)
+- [Tutorials](tags/Tutorials.md) (1)
+- [Acceleration](tags/Acceleration.md) (1)
+- [Resources](tags/Resources.md) (1)
+- [Translation](tags/Translation.md) (1)
 
 # TOP 1 - 5
 
@@ -219,7 +219,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `879` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `880` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 An extensive node suite for ComfyUI with over 210 new nodes
 
@@ -893,5 +893,5 @@ None
 
 <a href="https://star-history.com/#ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&Date"><img src="https://api.star-history.com/svg?repos=ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&type=Date" alt="Star History Chart" width="600"></a>
 
-### Automatically updated on: 2024-05-30 03:57:25 UTC
+### Automatically updated on: 2024-05-30 04:03:14 UTC
 
