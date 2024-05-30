@@ -100,3 +100,107 @@ tags:
     - Custom Nodes
   ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG:
     - Custom Nodes
+  ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn:
+    - Custom Nodes
+  jags111/efficiency-nodes-comfyui:
+    - Custom Nodes
+  WASasquatch/comfyui-plugins:
+    - Resources
+  AIGODLIKE/ComfyUI-BlenderAI-node:
+    - Integration
+  storyicon/comfyui_segment_anything:
+    - Custom Nodes
+  mrhan1993/Fooocus-API:
+    - Integration
+  ModelSurge/sd-webui-comfyui:
+    - Integration
+  AlexanderDzhoganov/ComfyTextures:
+    - Integration
+  Suzie1/ComfyUI_Comfyroll_CustomNodes:
+    - Custom Nodes
+  yolain/ComfyUI-Easy-Use:
+    - Custom Nodes
+  crystian/ComfyUI-Crystools:
+    - Management
+  MrForExample/ComfyUI-AnimateAnyone-Evolved:
+    - Custom Nodes
+  toyxyz/ComfyUI_toyxyz_test_nodes:
+    - Custom Nodes
+  ltdrdata/ComfyUI-extension-tutorials:
+    - Tutorials
+  xingren23/ComfyFlowApp:
+    - Integration
+  ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM:
+    - Custom Nodes
+  SytanSD/Sytan-SDXL-ComfyUI:
+    - Workflow Examples
+  talesofai/comfyui-browser:
+    - Management
+  Kosinkadink/ComfyUI-Advanced-ControlNet:
+    - Custom Nodes
+  pythongosssss/ComfyUI-WD14-Tagger:
+    - Custom Nodes
+  frankchieng/ComfyUI_MagicClothing:
+    - Custom Nodes
+  ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese:
+    - Translation
+  Kosinkadink/ComfyUI-VideoHelperSuite:
+    - Custom Nodes
+  Acly/comfyui-inpaint-nodes:
+    - Custom Nodes
+  cubiq/PuLID_ComfyUI:
+    - Custom Nodes
+  kijai/ComfyUI-Marigold:
+    - Custom Nodes
+  ComfyWorkflows/ComfyUI-Launcher:
+    - Management
+  chaojie/ComfyUI-DragNUWA:
+    - Custom Nodes
+  flowtyone/ComfyUI-Flowty-TripoSR:
+    - Custom Nodes
+  Nuked88/ComfyUI-N-Sidebar:
+    - Management
+  ai-dock/comfyui:
+    - Integration
+  melMass/comfy_mtb:
+    - Custom Nodes
+  huchenlei/ComfyUI-IC-Light-Native:
+    - Custom Nodes
+  BlenderNeko/ComfyUI_Cutoff:
+    - Custom Nodes
+  AuroBit/ComfyUI-OOTDiffusion:
+    - Custom Nodes
+  Fannovel16/ComfyUI-Frame-Interpolation:
+    - Custom Nodes
+    - Video
+  xXAdonesXx/NodeGPT:
+    - Custom Nodes
+    - LLM
+  ZHO-ZHO-ZHO/ComfyUI-ArtGallery:
+    - Custom Nodes
+  atlasunified/Templates-ComfyUI-:
+    - Workflow Examples
+  kijai/ComfyUI-IC-Light-Wrapper:
+    - Custom Nodes
+  kijai/ComfyUI-IC-Light:
+    - Custom Nodes
+  ZHO-ZHO-ZHO/ComfyUI-APISR:
+    - Custom Nodes
+  kijai/ComfyUI-DiffusersStableCascade:
+    - Deprecated
+  if-ai/ComfyUI-IF_AI_tools:
+    - Custom Nodes
+    - LLM
+  TinyTerra/ComfyUI_tinyterraNodes:
+    - Custom Nodes
+  FizzleDorf/ComfyUI_FizzNodes:
+    - Custom Nodes
+    - Video
+  kijai/ComfyUI-KJNodes:
+    - Custom Nodes
+  BadCafeCode/masquerade-nodes-comfyui:
+    - Custom Nodes
+  ashleykleynhans/stable-diffusion-docker:
+    - Integration
+  fofr/cog-comfyui:
+    - Integration
