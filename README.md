@@ -263,7 +263,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 
 <a href='https://github.com/6174/comflowy'><img src="https://avatars.githubusercontent.com/u/3872872?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowy
 
-**Stars**: `785` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+**Stars**: `786` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
 
 Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users. 
 
@@ -893,5 +893,5 @@ None
 
 <a href="https://star-history.com/#ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&Date"><img src="https://api.star-history.com/svg?repos=ashleykleynhans/stable-diffusion-docker,fofr/cog-comfyui,nullquant/ComfyUI-BrushNet,BlenderNeko/ComfyUI_TiledKSampler,cubiq/ComfyUI_essentials&type=Date" alt="Star History Chart" width="600"></a>
 
-### Automatically updated on: 2024-05-30 03:53:56 UTC
+### Automatically updated on: 2024-05-30 03:57:25 UTC
 
