@@ -153,6 +153,10 @@ def main():
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
+        f.write(f"## Data Source\n\n")
+        f.write(f"This list is based on data from the `GitHub Search API`, `Star History API`, and `manually curated tags`.\n\n * The GitHub Search API is used to find repositories based on the query `comfyui fork:true`, sorted by the number of stars.\n\n * The Star History API provides the star count history for these repositories.\n\n * Manual tags are used to categorize and filter repositories.\n\n")
+        f.write(f"Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](tags.yml).\n\n")
+        f.write(f"All rights belong to the original authors of the repositories.\n\n")
         f.write(f"### Automatically updated on: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
 
     # Write individual tag files
