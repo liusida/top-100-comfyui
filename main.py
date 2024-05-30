@@ -55,13 +55,10 @@ def main():
 
     print(f"Got {len(repositories)} repositories.")
     
-    # Get the current date
-    current_date = datetime.now().strftime('%Y-%m-%d')
-
     with open("README.md", "w", encoding="utf-8") as f:
         # Write the updated date at the beginning
         f.write("This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.\n\n")
-        f.write(f"### Last updated: {current_date}\n\n")
+        f.write(f"### Automatically updated on: {datetime.now().strftime('%Y-%m-%d')}\n\n")
 
         for i in range(0, len(repositories), 5):
             f.write(f"# TOP {i+1} - {i+5}\n\n")
@@ -85,5 +82,6 @@ def main():
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
+        f.write(f"### Automatically updated on: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n\n")
 if __name__ == "__main__":
     main()
