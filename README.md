@@ -1,6 +1,6 @@
 This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.
 
-### Last updated: 2024-05-29
+### Automatically updated on: 2024-05-30
 
 # TOP 1 - 5
 
@@ -881,4 +881,6 @@ Tiled samplers for ComfyUI
 ComfyUI nodes for Stable Video Diffusion
 
 <a href="https://star-history.com/#BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&Date"><img src="https://api.star-history.com/svg?repos=BadCafeCode/masquerade-nodes-comfyui,nullquant/ComfyUI-BrushNet,fofr/cog-comfyui,BlenderNeko/ComfyUI_TiledKSampler,thecooltechguy/ComfyUI-Stable-Video-Diffusion&type=Date" alt="Star History Chart" width="600"></a>
+
+### Automatically updated on: 2024-05-30 00:21:09
 
