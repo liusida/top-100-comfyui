@@ -1,0 +1,102 @@
+tags:
+  comfyanonymous/ComfyUI:
+    - Core
+  AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin:
+    - Integration
+  ltdrdata/ComfyUI-Manager:
+    - Management
+  ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO:
+    - Workflow Examples
+  LykosAI/StabilityMatrix:
+    - Integration
+  cubiq/ComfyUI_IPAdapter_plus:
+    - Custom Nodes
+  Kosinkadink/ComfyUI-AnimateDiff-Evolved:
+    - Custom Nodes
+  mut-ex/gligen-gui:
+    - Integration
+  FurkanGozukara/Stable-Diffusion:
+    - Tutorials
+  6174/comflowyspace:
+    - Integration
+  MrForExample/ComfyUI-3D-Pack:
+    - Custom Nodes
+  Fannovel16/comfyui_controlnet_aux:
+    - Custom Nodes
+  ltdrdata/ComfyUI-Impact-Pack:
+    - Custom Nodes
+  siliconflow/onediff:
+    - Acceleration
+  pythongosssss/ComfyUI-Custom-Scripts:
+    - Custom Nodes
+  huchenlei/ComfyUI-layerdiffuse:
+    - Custom Nodes
+  fofr/cog-face-to-many:
+    - Workflow Examples
+  ZHO-ZHO-ZHO/ComfyUI-InstantID:
+    - Custom Nodes
+  comfyanonymous/ComfyUI_examples:
+    - Workflow Examples
+  nerdyrodent/AVeryComfyNerd:
+    - Resources
+  kijai/ComfyUI-SUPIR:
+    - Custom Nodes
+  mcmonkeyprojects/sd-dynamic-thresholding:
+    - Custom Nodes
+  Gourieff/comfyui-reactor-node:
+    - Custom Nodes
+  WASasquatch/was-node-suite-comfyui:
+    - Custom Nodes
+  zanllp/sd-webui-infinite-image-browsing:
+    - Management
+  cubiq/ComfyUI_InstantID:
+    - Custom Nodes
+  shadowcz007/comfyui-mixlab-nodes:
+    - Custom Nodes
+  AIGODLIKE/AIGODLIKE-ComfyUI-Translation:
+    - Translation
+  6174/comflowy:
+    - Integration
+  pydn/ComfyUI-to-Python-Extension:
+    - Integration
+  ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO:
+    - Custom Nodes
+  11cafe/comfyui-workspace-manager:
+    - Management
+  SeargeDP/SeargeSDXL:
+    - Custom Nodes
+    - Workflow Examples
+  florestefano1975/comfyui-portrait-master:
+    - Custom Nodes
+  banodoco/Steerable-Motion:
+    - Custom Nodes
+  wyrde/wyrde-comfyui-workflows:
+    - Workflow Examples
+  diStyApps/seait:
+    - Integration
+  rgthree/rgthree-comfy:
+    - Custom Nodes
+  BennyKok/comfyui-deploy:
+    - Integration
+  ArtVentureX/comfyui-animatediff:
+    - Custom Nodes
+  AlekPet/ComfyUI_Custom_Nodes_AlekPet:
+    - Custom Nodes
+  rvion/CushyStudio:
+    - Integration
+  ssitu/ComfyUI_UltimateSDUpscale:
+    - Custom Nodes
+  LucianoCirino/efficiency-nodes-comfyui:
+    - Custom Nodes
+  twri/sdxl_prompt_styler:
+    - Custom Nodes
+  ZHO-ZHO-ZHO/ComfyUI-Gemini:
+    - Custom Nodes
+  fofr/cog-face-to-sticker:
+    - Workflow Examples
+  space-nuko/ComfyBox:
+    - Integration
+  chflame163/ComfyUI_LayerStyle:
+    - Custom Nodes
+  ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG:
+    - Custom Nodes

@@ -1,6 +1,7 @@
 import requests
 import os
 import pickle
+import yaml
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
@@ -60,6 +61,10 @@ def format_updated_at_date(date_str):
     date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
     return date_obj.strftime('%Y-%m-%d')
 
+def load_tags(file_path='tags.yml'):
+    with open(file_path, 'r') as file:
+        return yaml.safe_load(file)
+
 def main():
     if is_cache_valid():
         repositories = load_cache()
@@ -68,6 +73,8 @@ def main():
         repositories = fetch_repositories()
         save_cache(repositories)
         print("Fetched and cached new repositories.")
+
+    tags = load_tags().get('tags', {})
 
     print(f"Got {len(repositories)} repositories.")
     
@@ -91,9 +98,15 @@ def main():
                     str_star_count = f"{star_count}"
                 else:
                     str_star_count = f"{star_count / 1000:.1f}k"
+                
+                # Get the tags for the current repository
+                repo_tags = tags.get(repo_name, [])
+
                 f.write(f"## {i+j+1}. {repo_name}\n\n")
                 f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
-                f.write(f"**Stars**: {str_star_count} | **Last updated**: {format_updated_at_date(updated_at)}\n\n")
+                f.write(f"**Stars**: {str_star_count} | ")
+                f.write(f"**Last updated**: {format_updated_at_date(updated_at)} | ")
+                f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
                 f.write(f"{description}\n\n")
             
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
