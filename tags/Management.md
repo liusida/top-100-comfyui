@@ -24,3 +24,35 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
 
+## crystian/ComfyUI-Crystools
+
+<a href='https://github.com/crystian/ComfyUI-Crystools'><img src="https://avatars.githubusercontent.com/u/3886806?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
+
+**Stars**: `429` | **Last updated**: `2024-05-30` | **Tags**: `Management`
+
+A powerful set of tools for ComfyUI
+
+## talesofai/comfyui-browser
+
+<a href='https://github.com/talesofai/comfyui-browser'><img src="https://avatars.githubusercontent.com/u/120728204?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/talesofai/comfyui-browser
+
+**Stars**: `388` | **Last updated**: `2024-05-29` | **Tags**: `Management`
+
+An image/video/workflow browser and manager for ComfyUI.
+
+## ComfyWorkflows/ComfyUI-Launcher
+
+<a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'><img src="https://avatars.githubusercontent.com/u/159965932?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
+
+**Stars**: `355` | **Last updated**: `2024-05-30` | **Tags**: `Management`
+
+Run any ComfyUI workflow w/ ZERO setup.
+
+## Nuked88/ComfyUI-N-Sidebar
+
+<a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'><img src="https://avatars.githubusercontent.com/u/1554140?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
+
+**Stars**: `331` | **Last updated**: `2024-05-29` | **Tags**: `Management`
+
+A simple sidebar for your ConfyUI!
+
