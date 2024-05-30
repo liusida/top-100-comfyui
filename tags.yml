@@ -21,6 +21,7 @@ tags:
     - Integration
   MrForExample/ComfyUI-3D-Pack:
     - Custom Nodes
+    - 3D
   Fannovel16/comfyui_controlnet_aux:
     - Custom Nodes
   ltdrdata/ComfyUI-Impact-Pack:
@@ -28,7 +29,7 @@ tags:
   siliconflow/onediff:
     - Acceleration
   pythongosssss/ComfyUI-Custom-Scripts:
-    - Custom Nodes
+    - Management
   huchenlei/ComfyUI-layerdiffuse:
     - Custom Nodes
   fofr/cog-face-to-many:
@@ -70,6 +71,7 @@ tags:
     - Custom Nodes
   banodoco/Steerable-Motion:
     - Custom Nodes
+    - Video
   wyrde/wyrde-comfyui-workflows:
     - Workflow Examples
   diStyApps/seait:
@@ -80,6 +82,7 @@ tags:
     - Integration
   ArtVentureX/comfyui-animatediff:
     - Custom Nodes
+    - Video
   AlekPet/ComfyUI_Custom_Nodes_AlekPet:
     - Custom Nodes
   rvion/CushyStudio:
@@ -88,10 +91,12 @@ tags:
     - Custom Nodes
   LucianoCirino/efficiency-nodes-comfyui:
     - Custom Nodes
+    - Deprecated
   twri/sdxl_prompt_styler:
     - Custom Nodes
   ZHO-ZHO-ZHO/ComfyUI-Gemini:
     - Custom Nodes
+    - LLM
   fofr/cog-face-to-sticker:
     - Workflow Examples
   space-nuko/ComfyBox:
@@ -108,6 +113,7 @@ tags:
     - Resources
   AIGODLIKE/ComfyUI-BlenderAI-node:
     - Integration
+    - 3D
   storyicon/comfyui_segment_anything:
     - Custom Nodes
   mrhan1993/Fooocus-API:
@@ -116,6 +122,7 @@ tags:
     - Integration
   AlexanderDzhoganov/ComfyTextures:
     - Integration
+    - 3D
   Suzie1/ComfyUI_Comfyroll_CustomNodes:
     - Custom Nodes
   yolain/ComfyUI-Easy-Use:
@@ -124,8 +131,10 @@ tags:
     - Management
   MrForExample/ComfyUI-AnimateAnyone-Evolved:
     - Custom Nodes
+    - Video
   toyxyz/ComfyUI_toyxyz_test_nodes:
     - Custom Nodes
+    - 3D
   ltdrdata/ComfyUI-extension-tutorials:
     - Tutorials
   xingren23/ComfyFlowApp:
@@ -146,6 +155,7 @@ tags:
     - Translation
   Kosinkadink/ComfyUI-VideoHelperSuite:
     - Custom Nodes
+    - Video
   Acly/comfyui-inpaint-nodes:
     - Custom Nodes
   cubiq/PuLID_ComfyUI:
@@ -164,6 +174,7 @@ tags:
     - Integration
   melMass/comfy_mtb:
     - Custom Nodes
+    - Video
   huchenlei/ComfyUI-IC-Light-Native:
     - Custom Nodes
   BlenderNeko/ComfyUI_Cutoff:
