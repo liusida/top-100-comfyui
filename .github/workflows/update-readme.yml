@@ -36,7 +36,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull --rebase origin main  # Ensure the local branch is up-to-date
         git add README.md
         git commit -m "Update README.md"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
