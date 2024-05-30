@@ -104,8 +104,8 @@ def main():
 
                 f.write(f"## {i+j+1}. {repo_name}\n\n")
                 f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
-                f.write(f"**Stars**: {str_star_count} | ")
-                f.write(f"**Last updated**: {format_updated_at_date(updated_at)} | ")
+                f.write(f"**Stars**: `{str_star_count}` | ")
+                f.write(f"**Last updated**: `{format_updated_at_date(updated_at)}` | ")
                 f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
                 f.write(f"{description}\n\n")
             
