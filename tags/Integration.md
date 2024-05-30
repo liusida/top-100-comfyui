@@ -32,14 +32,6 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 
-## 6174/comflowy
-
-<a href='https://github.com/6174/comflowy'><img src="https://avatars.githubusercontent.com/u/3872872?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowy
-
-**Stars**: `787` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
-
-Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users. 
-
 ## pydn/ComfyUI-to-Python-Extension
 
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'><img src="https://avatars.githubusercontent.com/u/25550995?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
@@ -116,7 +108,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 
 <a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `420` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+**Stars**: `421` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
 
 From comfyui workflow to web app, in seconds
 

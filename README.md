@@ -4,7 +4,7 @@ This repository automatically updates a list of the top 100 repositories related
 
 ### Repositories by Tag:
 - [Core](tags/Core.md) (1)
-- [Integration](tags/Integration.md) (17)
+- [Integration](tags/Integration.md) (16)
 - [Management](tags/Management.md) (8)
 - [Workflow Examples](tags/WorkflowExamples.md) (8)
 - [Custom Nodes](tags/CustomNodes.md) (58)
@@ -13,6 +13,7 @@ This repository automatically updates a list of the top 100 repositories related
 - [Acceleration](tags/Acceleration.md) (1)
 - [Resources](tags/Resources.md) (2)
 - [Translation](tags/Translation.md) (2)
+- [Website](tags/Website.md) (1)
 - [Video](tags/Video.md) (7)
 - [Deprecated](tags/Deprecated.md) (2)
 - [LLM](tags/LLM.md) (3)
@@ -231,7 +232,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `881` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `882` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 An extensive node suite for ComfyUI with over 210 new nodes
 
@@ -251,7 +252,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `835` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `836` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 None
 
@@ -275,7 +276,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 
 <a href='https://github.com/6174/comflowy'><img src="https://avatars.githubusercontent.com/u/3872872?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowy
 
-**Stars**: `787` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+**Stars**: `787` | **Last updated**: `2024-05-30` | **Tags**: `Website`
 
 Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users. 
 
@@ -463,7 +464,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'><img src="https://avatars.githubusercontent.com/u/130118553?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `540` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `542` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 
@@ -571,7 +572,15 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 Custom node and script for sending webcam to ComfyUI
 
-## 64. ltdrdata/ComfyUI-extension-tutorials
+## 64. xingren23/ComfyFlowApp
+
+<a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
+
+**Stars**: `421` | **Last updated**: `2024-05-30` | **Tags**: `Integration`
+
+From comfyui workflow to web app, in seconds
+
+## 65. ltdrdata/ComfyUI-extension-tutorials
 
 <a href='https://github.com/ltdrdata/ComfyUI-extension-tutorials'><img src="https://avatars.githubusercontent.com/u/128333288?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-extension-tutorials
 
@@ -579,15 +588,7 @@ Custom node and script for sending webcam to ComfyUI
 
 None
 
-## 65. xingren23/ComfyFlowApp
-
-<a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
-
-**Stars**: `420` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
-
-From comfyui workflow to web app, in seconds
-
-<a href="https://star-history.com/#crystian/ComfyUI-Crystools,MrForExample/ComfyUI-AnimateAnyone-Evolved,toyxyz/ComfyUI_toyxyz_test_nodes,ltdrdata/ComfyUI-extension-tutorials,xingren23/ComfyFlowApp&Date"><img src="https://api.star-history.com/svg?repos=crystian/ComfyUI-Crystools,MrForExample/ComfyUI-AnimateAnyone-Evolved,toyxyz/ComfyUI_toyxyz_test_nodes,ltdrdata/ComfyUI-extension-tutorials,xingren23/ComfyFlowApp&type=Date" alt="Star History Chart" width="600"></a>
+<a href="https://star-history.com/#crystian/ComfyUI-Crystools,MrForExample/ComfyUI-AnimateAnyone-Evolved,toyxyz/ComfyUI_toyxyz_test_nodes,xingren23/ComfyFlowApp,ltdrdata/ComfyUI-extension-tutorials&Date"><img src="https://api.star-history.com/svg?repos=crystian/ComfyUI-Crystools,MrForExample/ComfyUI-AnimateAnyone-Evolved,toyxyz/ComfyUI_toyxyz_test_nodes,xingren23/ComfyFlowApp,ltdrdata/ComfyUI-extension-tutorials&type=Date" alt="Star History Chart" width="600"></a>
 
 # TOP 66 - 70
 
@@ -911,5 +912,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-05-30 07:51:35 UTC
+### Automatically updated on: 2024-05-30 08:10:16 UTC
 

@@ -92,7 +92,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `881` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `882` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 An extensive node suite for ComfyUI with over 210 new nodes
 
@@ -100,7 +100,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `835` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `836` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 None
 
@@ -212,7 +212,7 @@ Using Gemini in ComfyUI
 
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'><img src="https://avatars.githubusercontent.com/u/130118553?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `540` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `542` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 
