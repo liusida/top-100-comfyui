@@ -16,7 +16,7 @@ HEADERS = {
     'Accept': 'application/vnd.github.v3.star+json'
 }
 SEARCH_URL = "https://api.github.com/search/repositories"
-QUERY = "comfyui"
+QUERY = "comfyui fork:true"
 PARAMS = {
     'q': QUERY,
     'sort': 'stars',
