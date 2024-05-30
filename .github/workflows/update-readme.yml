@@ -1,4 +1,4 @@
-name: Update README
+name: Update .md files
 
 on:
   schedule:
@@ -33,12 +33,12 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit README.md
+    - name: Commit .md files
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Update README.md"
+        git add *.md tags/*.md
+        git commit -m "Update generated markdown files"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
