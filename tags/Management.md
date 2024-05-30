@@ -8,6 +8,14 @@
 
 None
 
+## pythongosssss/ComfyUI-Custom-Scripts
+
+<a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'><img src="https://avatars.githubusercontent.com/u/125205205?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
+**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Management`
+
+Enhancements & experiments for ComfyUI, mostly focusing on UI features
+
 ## zanllp/sd-webui-infinite-image-browsing
 
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'><img src="https://avatars.githubusercontent.com/u/25872019?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
