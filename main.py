@@ -34,7 +34,19 @@ def is_cache_valid():
 def fetch_repositories():
     response = requests.get(SEARCH_URL, headers=HEADERS, params=PARAMS)
     response.raise_for_status()
-    return response.json().get('items', [])
+    repositories = response.json().get('items', [])
+    for repo in repositories:
+        repo['last_commit'] = fetch_last_commit_date(repo['full_name'])
+    return repositories
+
+def fetch_last_commit_date(repo_full_name):
+    commits_url = f"https://api.github.com/repos/{repo_full_name}/commits"
+    response = requests.get(commits_url, headers=HEADERS, params={'per_page': 1})
+    response.raise_for_status()
+    commits = response.json()
+    if commits:
+        return commits[0]['commit']['committer']['date']
+    return None
 
 def load_cache():
     with open(CACHE_FILE, 'rb') as f:
@@ -43,6 +55,10 @@ def load_cache():
 def save_cache(repositories):
     with open(CACHE_FILE, 'wb') as f:
         pickle.dump(repositories, f)
+
+def format_updated_at_date(date_str):
+    date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+    return date_obj.strftime('%Y-%m-%d')
 
 def main():
     if is_cache_valid():
@@ -68,20 +84,22 @@ def main():
             star_counts = [repo['stargazers_count'] for repo in repo_group]
             avatar_urls = [repo['owner']['avatar_url'] for repo in repo_group]
             descriptions = [repo['description'] for repo in repo_group]
+            updated_ats = [repo['updated_at'] for repo in repo_group]
             
-            for j, (repo_name, repo_url, star_count, avatar_url, description) in enumerate(zip(repo_names, repo_urls, star_counts, avatar_urls, descriptions)):
+            for j, (repo_name, repo_url, star_count, avatar_url, description, updated_at) in enumerate(zip(repo_names, repo_urls, star_counts, avatar_urls, descriptions, updated_ats)):
                 if star_count < 1000:
                     str_star_count = f"{star_count}"
                 else:
                     str_star_count = f"{star_count / 1000:.1f}k"
                 f.write(f"## {i+j+1}. {repo_name}\n\n")
                 f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
-                f.write(f"**Stars**: {str_star_count}\n\n")
+                f.write(f"**Stars**: {str_star_count} | **Last updated**: {format_updated_at_date(updated_at)}\n\n")
                 f.write(f"{description}\n\n")
             
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
         f.write(f"### Automatically updated on: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
+
 if __name__ == "__main__":
     main()
