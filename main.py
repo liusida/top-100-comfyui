@@ -62,7 +62,7 @@ def format_updated_at_date(date_str):
     return date_obj.strftime('%Y-%m-%d')
 
 def load_tags(file_path='tags.yml'):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding="utf-8") as file:
         return yaml.safe_load(file)
 
 def write_tag_file(tag, repositories, tags):

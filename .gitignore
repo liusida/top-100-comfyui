@@ -1,4 +1,6 @@
 repo_cache.pkl
+tmp.py
+READMEs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
