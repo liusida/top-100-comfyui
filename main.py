@@ -87,7 +87,7 @@ def write_tag_file(tag, repositories, tags):
             f.write(f"**Tags**: {' '.join([f'`{t}`' for t in tags[repo['full_name']] if t == tag])}\n\n")
             f.write(f"{description}\n\n")
 
-def write_by_date_file(repositories):
+def write_by_date_file(repositories, tags):
     sorted_repos = sorted(repositories, key=lambda x: x['created_at'])
     with open("byDate.md", "w", encoding="utf-8") as f:
         f.write("## Repositories ordered by creation date (oldest to newest)\n\n")
@@ -101,10 +101,12 @@ def write_by_date_file(repositories):
             avatar_url = repo['owner']['avatar_url']
             description = repo['description']
             created_at = repo['created_at']
+            repo_tags = tags.get(repo['full_name'], [])
             f.write(f"### {repo['full_name']}\n\n")
             f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
             f.write(f"**Stars**: `{str_star_count}` | ")
-            f.write(f"**Created at**: `{format_updated_at_date(created_at)}`\n\n")
+            f.write(f"**Created at**: `{format_updated_at_date(created_at)}` | ")
+            f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
             f.write(f"{description}\n\n")
 
 def main():
@@ -209,7 +211,7 @@ def main():
         write_tag_file(tag, repos, tags)
     
     # Write by date file
-    write_by_date_file(repositories)
+    write_by_date_file(repositories, tags)
 
 if __name__ == "__main__":
     main()
