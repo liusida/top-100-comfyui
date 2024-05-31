@@ -111,9 +111,25 @@ def main():
             repos_by_tag[tag].append(repo)
 
     tag_links = []
-    for tag in repos_by_tag.keys():
-        tag_filename = f"tags/{tag.replace(' ', '')}.md"
-        tag_links.append(f"- [{tag}](tags/{tag.replace(' ', '')}.md) ({len(repos_by_tag[tag])})")
+    # Collect tag names and their counts
+    tag_counts = [(tag, len(repos)) for tag, repos in repos_by_tag.items()]
+
+    # Sort tags by the number of repositories in descending order
+    sorted_tag_counts = sorted(tag_counts, key=lambda x: x[1], reverse=True)
+
+    # Create the links for each tag
+    for tag, count in sorted_tag_counts:
+        tag_links.append(f"- [{tag}](tags/{tag.replace(' ', '')}.md) ({count})")
+
+    def move_tag_to_end(tag_links, tag_name):
+        tag_to_move = next((link for link in tag_links if tag_name in link), None)
+        if tag_to_move:
+            tag_links.remove(tag_to_move)
+            tag_links.append(tag_to_move)
+        return tag_links
+
+    tag_links = move_tag_to_end(tag_links, "Chinese Language")
+    tag_links = move_tag_to_end(tag_links, "Deprecated")
 
     with open("README.md", "w", encoding="utf-8") as f:
         # Write the updated date at the beginning

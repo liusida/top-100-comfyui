@@ -7,7 +7,7 @@ tags:
     - Management
   ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO:
     - Workflow Examples
-    - 中
+    - Chinese Language
   LykosAI/StabilityMatrix:
     - Integration
   cubiq/ComfyUI_IPAdapter_plus:
@@ -37,7 +37,7 @@ tags:
     - Workflow Examples
   ZHO-ZHO-ZHO/ComfyUI-InstantID:
     - Custom Nodes
-    - 中
+    - Chinese Language
   comfyanonymous/ComfyUI_examples:
     - Workflow Examples
   nerdyrodent/AVeryComfyNerd:
@@ -56,7 +56,7 @@ tags:
     - Custom Nodes
   shadowcz007/comfyui-mixlab-nodes:
     - Custom Nodes
-    - 中
+    - Chinese Language
   AIGODLIKE/AIGODLIKE-ComfyUI-Translation:
     - Translation
   6174/comflowy:
@@ -65,7 +65,7 @@ tags:
     - Integration
   ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO:
     - Custom Nodes
-    - 中
+    - Chinese Language
   11cafe/comfyui-workspace-manager:
     - Management
   SeargeDP/SeargeSDXL:
@@ -101,7 +101,7 @@ tags:
   ZHO-ZHO-ZHO/ComfyUI-Gemini:
     - Custom Nodes
     - LLM
-    - 中
+    - Chinese Language
   fofr/cog-face-to-sticker:
     - Workflow Examples
   space-nuko/ComfyBox:
@@ -110,10 +110,10 @@ tags:
     - Custom Nodes
   ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG:
     - Custom Nodes
-    - 中
-  ZHO-ZHO-ZHO/comfyui-portrait-master-zh-中:
+    - Chinese Language
+  ZHO-ZHO-ZHO/comfyui-portrait-master-zh-Chinese Language:
     - Custom Nodes
-    - 中
+    - Chinese Language
   jags111/efficiency-nodes-comfyui:
     - Custom Nodes
   WASasquatch/comfyui-plugins:
@@ -134,7 +134,7 @@ tags:
     - Custom Nodes
   yolain/ComfyUI-Easy-Use:
     - Custom Nodes
-    - 中
+    - Chinese Language
   crystian/ComfyUI-Crystools:
     - Management
   MrForExample/ComfyUI-AnimateAnyone-Evolved:
@@ -149,7 +149,7 @@ tags:
     - Integration
   ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM:
     - Custom Nodes
-    - 中
+    - Chinese Language
   SytanSD/Sytan-SDXL-ComfyUI:
     - Workflow Examples
   talesofai/comfyui-browser:
@@ -162,7 +162,7 @@ tags:
     - Custom Nodes
   ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese:
     - Translation
-    - 中
+    - Chinese Language
   Kosinkadink/ComfyUI-VideoHelperSuite:
     - Custom Nodes
     - Video
@@ -191,7 +191,7 @@ tags:
     - Custom Nodes
   AuroBit/ComfyUI-OOTDiffusion:
     - Custom Nodes
-    - 中
+    - Chinese Language
   Fannovel16/ComfyUI-Frame-Interpolation:
     - Custom Nodes
     - Video
@@ -200,7 +200,7 @@ tags:
     - LLM
   ZHO-ZHO-ZHO/ComfyUI-ArtGallery:
     - Custom Nodes
-    - 中
+    - Chinese Language
   atlasunified/Templates-ComfyUI-:
     - Workflow Examples
   kijai/ComfyUI-IC-Light-Wrapper:
@@ -209,7 +209,7 @@ tags:
     - Custom Nodes
   ZHO-ZHO-ZHO/ComfyUI-APISR:
     - Custom Nodes
-    - 中
+    - Chinese Language
   kijai/ComfyUI-DiffusersStableCascade:
     - Deprecated
   if-ai/ComfyUI-IF_AI_tools:
