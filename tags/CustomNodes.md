@@ -456,3 +456,11 @@ Various custom nodes for ComfyUI
 
 A powerful set of mask-related nodes for ComfyUI
 
+## nullquant/ComfyUI-BrushNet
+
+<a href='https://github.com/nullquant/ComfyUI-BrushNet'><img src="https://avatars.githubusercontent.com/u/81931994?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
+
+**Stars**: `287` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes`
+
+ComfyUI BrushNet nodes
+
