@@ -4,7 +4,7 @@
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `706` | **Last updated**: `2024-05-31` | **Tags**: `Video`
+**Stars**: `707` | **Last updated**: `2024-05-31` | **Tags**: `Video`
 
 A ComfyUI node for driving videos using batches of images.
 
@@ -20,7 +20,7 @@ AnimateDiff for ComfyUI
 
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'><img src="https://avatars.githubusercontent.com/u/62230687?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `423` | **Last updated**: `2024-05-29` | **Tags**: `Video`
+**Stars**: `425` | **Last updated**: `2024-05-31` | **Tags**: `Video`
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
 
@@ -28,7 +28,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `368` | **Last updated**: `2024-05-30` | **Tags**: `Video`
+**Stars**: `369` | **Last updated**: `2024-05-31` | **Tags**: `Video`
 
 Nodes related to video workflows
 
@@ -52,7 +52,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 
 <a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
 
-**Stars**: `297` | **Last updated**: `2024-05-31` | **Tags**: `Video`
+**Stars**: `298` | **Last updated**: `2024-05-31` | **Tags**: `Video`
 
 Custom Nodes for Comfyui
 

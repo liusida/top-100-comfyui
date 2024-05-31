@@ -12,7 +12,7 @@
 
 <a href='https://github.com/fofr/cog-face-to-many'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Last updated**: `2024-05-29` | **Tags**: `Workflow Examples`
+**Stars**: `1.2k` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
 
@@ -28,7 +28,7 @@ Examples of ComfyUI workflows
 
 <a href='https://github.com/SeargeDP/SeargeSDXL'><img src="https://avatars.githubusercontent.com/u/3330978?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `724` | **Last updated**: `2024-05-29` | **Tags**: `Workflow Examples`
+**Stars**: `725` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
 
 Custom nodes and workflows for SDXL in ComfyUI
 
@@ -60,7 +60,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 
 <a href='https://github.com/atlasunified/Templates-ComfyUI-'><img src="https://avatars.githubusercontent.com/u/113645143?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/atlasunified/Templates-ComfyUI-
 
-**Stars**: `314` | **Last updated**: `2024-05-22` | **Tags**: `Workflow Examples`
+**Stars**: `315` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
 
 Templates to view the variety of a prompt based on the samplers available in ComfyUI. Variety of sizes and singlular seed and random seed templates.
 
