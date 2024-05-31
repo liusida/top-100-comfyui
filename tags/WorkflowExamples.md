@@ -36,7 +36,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'><img src="https://avatars.githubusercontent.com/u/9657443?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `690` | **Last updated**: `2024-05-29` | **Tags**: `Workflow Examples`
+**Stars**: `691` | **Last updated**: `2024-05-30` | **Tags**: `Workflow Examples`
 
 some wyrde workflows for comfyUI
 
