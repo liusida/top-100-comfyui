@@ -597,7 +597,7 @@ Custom node and script for sending webcam to ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `419` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `420` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -693,7 +693,7 @@ Marigold depth estimation in ComfyUI
 
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'><img src="https://avatars.githubusercontent.com/u/159965932?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `357` | **Last updated**: `2024-05-31` | **Tags**: `Management`
+**Stars**: `358` | **Last updated**: `2024-05-31` | **Tags**: `Management`
 
 Run any ComfyUI workflow w/ ZERO setup.
 
@@ -917,5 +917,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-05-31 12:00:10 UTC
+### Automatically updated on: 2024-05-31 12:15:40 UTC
 

@@ -260,7 +260,7 @@ Custom node and script for sending webcam to ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `419` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes`
+**Stars**: `420` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
