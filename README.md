@@ -3,6 +3,7 @@ This repository automatically updates a list of the top 100 repositories related
 ### Automatically updated on: 2024-05-31
 
 ### Repositories by Tag:
+- [Core](tags/Core.md) (1)
 - [Custom Nodes](tags/CustomNodes.md) (58)
 - [Integration](tags/Integration.md) (16)
 - [Management](tags/Management.md) (8)
@@ -13,7 +14,6 @@ This repository automatically updates a list of the top 100 repositories related
 - [Tutorials](tags/Tutorials.md) (2)
 - [Resources](tags/Resources.md) (2)
 - [Translation](tags/Translation.md) (2)
-- [Core](tags/Core.md) (1)
 - [Acceleration](tags/Acceleration.md) (1)
 - [Website](tags/Website.md) (1)
 - [Chinese Language](tags/ChineseLanguage.md) (12)
@@ -899,6 +899,10 @@ ComfyUI BrushNet nodes
 
 <a href="https://star-history.com/#FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,BadCafeCode/masquerade-nodes-comfyui,ashleykleynhans/stable-diffusion-docker,nullquant/ComfyUI-BrushNet&Date"><img src="https://api.star-history.com/svg?repos=FizzleDorf/ComfyUI_FizzNodes,kijai/ComfyUI-KJNodes,BadCafeCode/masquerade-nodes-comfyui,ashleykleynhans/stable-diffusion-docker,nullquant/ComfyUI-BrushNet&type=Date" alt="Star History Chart" width="600"></a>
 
+## By Date
+
+You can also view this list in the order of creation date (to get a sense of the history of ComfyUI) [here](byDate.md).
+
 ## Data Source
 
 This list is based on data from the `GitHub Search API`, `Star History API`, and `manually curated tags`.
@@ -913,5 +917,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-05-31 11:45:34 UTC
+### Automatically updated on: 2024-05-31 12:00:10 UTC
 
