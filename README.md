@@ -3,21 +3,21 @@ This repository automatically updates a list of the top 100 repositories related
 ### Automatically updated on: 2024-05-31
 
 ### Repositories by Tag:
-- [Core](tags/Core.md) (1)
+- [Custom Nodes](tags/CustomNodes.md) (57)
 - [Integration](tags/Integration.md) (16)
 - [Management](tags/Management.md) (8)
 - [Workflow Examples](tags/WorkflowExamples.md) (8)
-- [中](tags/中.md) (12)
-- [Custom Nodes](tags/CustomNodes.md) (57)
-- [Tutorials](tags/Tutorials.md) (2)
+- [Video](tags/Video.md) (7)
 - [3D](tags/3D.md) (4)
-- [Acceleration](tags/Acceleration.md) (1)
+- [LLM](tags/LLM.md) (3)
+- [Tutorials](tags/Tutorials.md) (2)
 - [Resources](tags/Resources.md) (2)
 - [Translation](tags/Translation.md) (2)
+- [Core](tags/Core.md) (1)
+- [Acceleration](tags/Acceleration.md) (1)
 - [Website](tags/Website.md) (1)
-- [Video](tags/Video.md) (7)
+- [Chinese Language](tags/ChineseLanguage.md) (12)
 - [Deprecated](tags/Deprecated.md) (2)
-- [LLM](tags/LLM.md) (3)
 
 # TOP 1 - 5
 
@@ -49,7 +49,7 @@ None
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples` `中`
+**Stars**: `3.5k` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples` `Chinese Language`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -181,7 +181,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of InstantID for ComfyUI
 
@@ -261,7 +261,7 @@ None
 
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'><img src="https://avatars.githubusercontent.com/u/12645064?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `825` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `825` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
@@ -305,7 +305,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `735` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `735` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -437,7 +437,7 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `567` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `LLM` `中`
+**Stars**: `567` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
 
 Using Gemini in ComfyUI
 
@@ -473,7 +473,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `536` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `536` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
 
@@ -541,7 +541,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `434` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `中`
+**Stars**: `434` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `Chinese Language`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -597,7 +597,7 @@ Custom node and script for sending webcam to ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `419` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `419` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -657,7 +657,7 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
-**Stars**: `370` | **Last updated**: `2024-05-29` | **Tags**: `Translation` `中`
+**Stars**: `370` | **Last updated**: `2024-05-29` | **Tags**: `Translation` `Chinese Language`
 
 简体中文版 ComfyUI
 
@@ -773,7 +773,7 @@ Using IC-LIght models in ComfyUI
 
 <a href='https://github.com/AuroBit/ComfyUI-OOTDiffusion'><img src="https://avatars.githubusercontent.com/u/135130495?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AuroBit/ComfyUI-OOTDiffusion
 
-**Stars**: `319` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `中`
+**Stars**: `319` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `Chinese Language`
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
 
@@ -797,7 +797,7 @@ ComfyUI Extension Nodes for Automated Text Generation.
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
-**Stars**: `316` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `中`
+**Stars**: `316` | **Last updated**: `2024-05-30` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Prompt Visualization | Art Gallery
 
@@ -825,7 +825,7 @@ Wraps the IC-Light Diffuser demo to a ComfyUI node
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR
 
-**Stars**: `308` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `中`
+**Stars**: `308` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of APISR for ComfyUI
 
@@ -913,5 +913,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-05-31 11:29:17 UTC
+### Automatically updated on: 2024-05-31 11:43:12 UTC
 
