@@ -3,7 +3,7 @@ This repository automatically updates a list of the top 100 repositories related
 ### Automatically updated on: 2024-05-31
 
 ### Repositories by Tag:
-- [Custom Nodes](tags/CustomNodes.md) (57)
+- [Custom Nodes](tags/CustomNodes.md) (58)
 - [Integration](tags/Integration.md) (16)
 - [Management](tags/Management.md) (8)
 - [Workflow Examples](tags/WorkflowExamples.md) (8)
@@ -893,7 +893,7 @@ Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambo
 
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'><img src="https://avatars.githubusercontent.com/u/81931994?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `287` | **Last updated**: `2024-05-31` | **Tags**: 
+**Stars**: `287` | **Last updated**: `2024-05-31` | **Tags**: `Custom Nodes`
 
 ComfyUI BrushNet nodes
 
@@ -913,5 +913,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-05-31 11:43:12 UTC
+### Automatically updated on: 2024-05-31 11:45:34 UTC
 
