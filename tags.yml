@@ -228,3 +228,5 @@ tags:
     - Integration
   fofr/cog-comfyui:
     - Integration
+  nullquant/ComfyUI-BrushNet:
+    - Custom Nodes
