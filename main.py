@@ -87,6 +87,26 @@ def write_tag_file(tag, repositories, tags):
             f.write(f"**Tags**: {' '.join([f'`{t}`' for t in tags[repo['full_name']] if t == tag])}\n\n")
             f.write(f"{description}\n\n")
 
+def write_by_date_file(repositories):
+    sorted_repos = sorted(repositories, key=lambda x: x['created_at'])
+    with open("byDate.md", "w", encoding="utf-8") as f:
+        f.write("## Repositories ordered by creation date (oldest to newest)\n\n")
+        for repo in sorted_repos:
+            repo_url = f"https://github.com/{repo['full_name']}"
+            star_count = repo['stargazers_count']
+            if star_count < 1000:
+                str_star_count = f"{star_count}"
+            else:
+                str_star_count = f"{star_count / 1000:.1f}k"
+            avatar_url = repo['owner']['avatar_url']
+            description = repo['description']
+            created_at = repo['created_at']
+            f.write(f"### {repo['full_name']}\n\n")
+            f.write(f"<a href='{repo_url}'><img src=\"{avatar_url}\" alt=\"Owner Avatar\" width=\"50\" height=\"50\"></a> &nbsp; &nbsp; {repo_url}\n\n")
+            f.write(f"**Stars**: `{str_star_count}` | ")
+            f.write(f"**Created at**: `{format_updated_at_date(created_at)}`\n\n")
+            f.write(f"{description}\n\n")
+
 def main():
     if is_cache_valid():
         repositories = load_cache()
@@ -121,15 +141,20 @@ def main():
     for tag, count in sorted_tag_counts:
         tag_links.append(f"- [{tag}](tags/{tag.replace(' ', '')}.md) ({count})")
 
-    def move_tag_to_end(tag_links, tag_name):
+    def move_tag(tag_links, tag_name, to_end=True):
         tag_to_move = next((link for link in tag_links if tag_name in link), None)
         if tag_to_move:
             tag_links.remove(tag_to_move)
-            tag_links.append(tag_to_move)
+            if to_end:
+                tag_links.append(tag_to_move)
+            else:
+                tag_links.insert(0, tag_to_move)
         return tag_links
-
-    tag_links = move_tag_to_end(tag_links, "Chinese Language")
-    tag_links = move_tag_to_end(tag_links, "Deprecated")
+    
+    # Reorder a bit
+    tag_links = move_tag(tag_links, "Core", to_end=False)
+    tag_links = move_tag(tag_links, "Chinese Language")
+    tag_links = move_tag(tag_links, "Deprecated")
 
     with open("README.md", "w", encoding="utf-8") as f:
         # Write the updated date at the beginning
@@ -169,6 +194,10 @@ def main():
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
+        # Add link to byDate.md
+        f.write("## By Date\n\n")
+        f.write("You can also view this list in the order of creation date (to get a sense of the history of ComfyUI) [here](byDate.md).\n\n")
+
         f.write(f"## Data Source\n\n")
         f.write(f"This list is based on data from the `GitHub Search API`, `Star History API`, and `manually curated tags`.\n\n * The GitHub Search API is used to find repositories based on the query `comfyui fork:true`, sorted by the number of stars.\n\n * The Star History API provides the star count history for these repositories.\n\n * Manual tags are used to categorize and filter repositories.\n\n")
         f.write(f"Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](tags.yml).\n\n")
@@ -178,6 +207,9 @@ def main():
     # Write individual tag files
     for tag, repos in repos_by_tag.items():
         write_tag_file(tag, repos, tags)
+    
+    # Write by date file
+    write_by_date_file(repositories)
 
 if __name__ == "__main__":
     main()
