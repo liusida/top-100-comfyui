@@ -36,7 +36,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'><img src="https://avatars.githubusercontent.com/u/25550995?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `774` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
+**Stars**: `776` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
 
@@ -52,7 +52,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 
 <a href='https://github.com/BennyKok/comfyui-deploy'><img src="https://avatars.githubusercontent.com/u/18395202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `631` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
+**Stars**: `632` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
 
 An open source `vercel` like deployment platform for Comfy UI
 
@@ -60,7 +60,7 @@ An open source `vercel` like deployment platform for Comfy UI
 
 <a href='https://github.com/rvion/CushyStudio'><img src="https://avatars.githubusercontent.com/u/2150990?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `594` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
+**Stars**: `595` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
 
 🛋 The AI and Generative Art platform for everyone
 
@@ -124,7 +124,7 @@ ComfyUI docker images for use in GPU cloud and local environments. Includes AI-D
 
 <a href='https://github.com/ashleykleynhans/stable-diffusion-docker'><img src="https://avatars.githubusercontent.com/u/886709?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ashleykleynhans/stable-diffusion-docker
 
-**Stars**: `289` | **Last updated**: `2024-05-29` | **Tags**: `Integration`
+**Stars**: `289` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
 
 Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI
 
