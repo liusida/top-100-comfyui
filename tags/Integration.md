@@ -28,7 +28,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
 <a href='https://github.com/6174/comflowyspace'><img src="https://avatars.githubusercontent.com/u/3872872?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `1.6k` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
+**Stars**: `1.6k` | **Last updated**: `2024-06-01` | **Tags**: `Integration`
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 
@@ -52,7 +52,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 
 <a href='https://github.com/BennyKok/comfyui-deploy'><img src="https://avatars.githubusercontent.com/u/18395202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `632` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
+**Stars**: `633` | **Last updated**: `2024-05-31` | **Tags**: `Integration`
 
 An open source `vercel` like deployment platform for Comfy UI
 
