@@ -31,7 +31,7 @@ jobs:
     - name: Run script
       run: python main.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
     - name: Commit .md files
       run: |
@@ -39,6 +39,6 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add *.md tags/*.md
         git commit -m "Update generated markdown files"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
