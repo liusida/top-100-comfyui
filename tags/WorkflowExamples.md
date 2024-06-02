@@ -12,7 +12,7 @@
 
 <a href='https://github.com/fofr/cog-face-to-many'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
+**Stars**: `1.2k` | **Last updated**: `2024-06-01` | **Tags**: `Workflow Examples`
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
 
@@ -20,7 +20,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'><img src="https://avatars.githubusercontent.com/u/121283862?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.1k` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
+**Stars**: `1.1k` | **Last updated**: `2024-06-01` | **Tags**: `Workflow Examples`
 
 Examples of ComfyUI workflows
 
@@ -44,7 +44,7 @@ some wyrde workflows for comfyUI
 
 <a href='https://github.com/fofr/cog-face-to-sticker'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `561` | **Last updated**: `2024-05-31` | **Tags**: `Workflow Examples`
+**Stars**: `562` | **Last updated**: `2024-06-01` | **Tags**: `Workflow Examples`
 
 face-to-sticker
 

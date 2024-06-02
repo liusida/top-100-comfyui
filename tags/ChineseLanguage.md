@@ -12,7 +12,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Last updated**: `2024-05-30` | **Tags**: `Chinese Language`
+**Stars**: `1.2k` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Unofficial implementation of InstantID for ComfyUI
 
@@ -20,7 +20,7 @@ Unofficial implementation of InstantID for ComfyUI
 
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'><img src="https://avatars.githubusercontent.com/u/12645064?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `825` | **Last updated**: `2024-05-30` | **Tags**: `Chinese Language`
+**Stars**: `826` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
@@ -28,7 +28,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `735` | **Last updated**: `2024-05-30` | **Tags**: `Chinese Language`
+**Stars**: `736` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -36,7 +36,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `567` | **Last updated**: `2024-05-30` | **Tags**: `Chinese Language`
+**Stars**: `568` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Using Gemini in ComfyUI
 
@@ -52,7 +52,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `435` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
+**Stars**: `436` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -60,7 +60,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `420` | **Last updated**: `2024-05-31` | **Tags**: `Chinese Language`
+**Stars**: `421` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -76,7 +76,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
 <a href='https://github.com/AuroBit/ComfyUI-OOTDiffusion'><img src="https://avatars.githubusercontent.com/u/135130495?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AuroBit/ComfyUI-OOTDiffusion
 
-**Stars**: `319` | **Last updated**: `2024-05-31` | **Tags**: `Chinese Language`
+**Stars**: `320` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
 
@@ -84,7 +84,7 @@ ComfyUI custom node that simply integrates the OOTDiffusion.
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
-**Stars**: `316` | **Last updated**: `2024-05-30` | **Tags**: `Chinese Language`
+**Stars**: `318` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
 
 Prompt Visualization | Art Gallery
 
