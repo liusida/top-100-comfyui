@@ -4,7 +4,7 @@
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `709` | **Last updated**: `2024-06-01` | **Tags**: `Video`
+**Stars**: `713` | **Last updated**: `2024-06-02` | **Tags**: `Video`
 
 A ComfyUI node for driving videos using batches of images.
 
@@ -52,7 +52,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 
 <a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
 
-**Stars**: `299` | **Last updated**: `2024-06-01` | **Tags**: `Video`
+**Stars**: `300` | **Last updated**: `2024-06-02` | **Tags**: `Video`
 
 Custom Nodes for Comfyui
 

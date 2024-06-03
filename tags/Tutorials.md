@@ -4,7 +4,7 @@
 
 <a href='https://github.com/FurkanGozukara/Stable-Diffusion'><img src="https://avatars.githubusercontent.com/u/19240467?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FurkanGozukara/Stable-Diffusion
 
-**Stars**: `1.8k` | **Last updated**: `2024-06-01` | **Tags**: `Tutorials`
+**Stars**: `1.8k` | **Last updated**: `2024-06-02` | **Tags**: `Tutorials`
 
 Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney
 
@@ -12,7 +12,7 @@ Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI
 
 <a href='https://github.com/ltdrdata/ComfyUI-extension-tutorials'><img src="https://avatars.githubusercontent.com/u/128333288?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-extension-tutorials
 
-**Stars**: `425` | **Last updated**: `2024-06-01` | **Tags**: `Tutorials`
+**Stars**: `426` | **Last updated**: `2024-06-02` | **Tags**: `Tutorials`
 
 None
 
