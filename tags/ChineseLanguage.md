@@ -4,7 +4,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `3.5k` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -12,7 +12,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `1.2k` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 Unofficial implementation of InstantID for ComfyUI
 
@@ -28,7 +28,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `735` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `737` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -52,7 +52,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `437` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `440` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -60,7 +60,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `422` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `423` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -68,7 +68,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
-**Stars**: `370` | **Last updated**: `2024-05-29` | **Tags**: `Chinese Language`
+**Stars**: `372` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 简体中文版 ComfyUI
 
@@ -76,7 +76,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
 <a href='https://github.com/AuroBit/ComfyUI-OOTDiffusion'><img src="https://avatars.githubusercontent.com/u/135130495?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AuroBit/ComfyUI-OOTDiffusion
 
-**Stars**: `321` | **Last updated**: `2024-06-02` | **Tags**: `Chinese Language`
+**Stars**: `322` | **Last updated**: `2024-06-03` | **Tags**: `Chinese Language`
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
 

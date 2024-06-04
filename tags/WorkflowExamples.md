@@ -4,7 +4,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
+**Stars**: `3.5k` | **Last updated**: `2024-06-03` | **Tags**: `Workflow Examples`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -12,7 +12,7 @@
 
 <a href='https://github.com/fofr/cog-face-to-many'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
+**Stars**: `1.2k` | **Last updated**: `2024-06-03` | **Tags**: `Workflow Examples`
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
 
@@ -20,7 +20,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'><img src="https://avatars.githubusercontent.com/u/121283862?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.1k` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
+**Stars**: `1.1k` | **Last updated**: `2024-06-03` | **Tags**: `Workflow Examples`
 
 Examples of ComfyUI workflows
 
@@ -28,7 +28,7 @@ Examples of ComfyUI workflows
 
 <a href='https://github.com/SeargeDP/SeargeSDXL'><img src="https://avatars.githubusercontent.com/u/3330978?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `727` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
+**Stars**: `727` | **Last updated**: `2024-06-03` | **Tags**: `Workflow Examples`
 
 Custom nodes and workflows for SDXL in ComfyUI
 
@@ -44,7 +44,7 @@ some wyrde workflows for comfyUI
 
 <a href='https://github.com/fofr/cog-face-to-sticker'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `563` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
+**Stars**: `564` | **Last updated**: `2024-06-03` | **Tags**: `Workflow Examples`
 
 face-to-sticker
 
