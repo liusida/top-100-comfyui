@@ -92,7 +92,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `856` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `857` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 None
 
@@ -180,7 +180,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
 <a href='https://github.com/twri/sdxl_prompt_styler'><img src="https://avatars.githubusercontent.com/u/4344671?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `590` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes`
+**Stars**: `591` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Custom prompt styler node for SDXL in ComfyUI
 
@@ -220,7 +220,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/storyicon/comfyui_segment_anything'><img src="https://avatars.githubusercontent.com/u/29772821?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `483` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `484` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
 
@@ -264,6 +264,14 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 Custom node and script for sending webcam to ComfyUI
 
+## kijai/ComfyUI-DynamiCrafterWrapper
+
+<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+
+**Stars**: `396` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+
+Wrapper to use DynamiCrafter models in ComfyUI
+
 ## Kosinkadink/ComfyUI-Advanced-ControlNet
 
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
@@ -271,14 +279,6 @@ Custom node and script for sending webcam to ComfyUI
 **Stars**: `394` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes`
 
 ControlNet scheduling and masking nodes with sliding context support
-
-## kijai/ComfyUI-DynamiCrafterWrapper
-
-<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
-
-**Stars**: `394` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
-
-Wrapper to use DynamiCrafter models in ComfyUI
 
 ## pythongosssss/ComfyUI-WD14-Tagger
 

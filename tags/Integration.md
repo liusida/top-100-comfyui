@@ -20,7 +20,7 @@ Multi-Platform Package Manager for Stable Diffusion
 
 <a href='https://github.com/mut-ex/gligen-gui'><img src="https://avatars.githubusercontent.com/u/21265981?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `1.9k` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `1.9k` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 

@@ -116,7 +116,7 @@ cutoff implementation for ComfyUI
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'><img src="https://avatars.githubusercontent.com/u/9657443?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `694` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
+**Stars**: `695` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
 
 some wyrde workflows for comfyUI
 
@@ -276,7 +276,7 @@ AnimateDiff for ComfyUI
 
 <a href='https://github.com/twri/sdxl_prompt_styler'><img src="https://avatars.githubusercontent.com/u/4344671?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `590` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
+**Stars**: `591` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
 
 Custom prompt styler node for SDXL in ComfyUI
 
@@ -412,7 +412,7 @@ Various custom nodes for ComfyUI
 
 <a href='https://github.com/storyicon/comfyui_segment_anything'><img src="https://avatars.githubusercontent.com/u/29772821?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `483` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
+**Stars**: `484` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
 
@@ -612,7 +612,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `856` | **Created at**: `2024-01-27` | **Tags**: `Custom Nodes`
+**Stars**: `857` | **Created at**: `2024-01-27` | **Tags**: `Custom Nodes`
 
 None
 
@@ -724,7 +724,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `394` | **Created at**: `2024-03-15` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `396` | **Created at**: `2024-03-15` | **Tags**: `Custom Nodes` `Video`
 
 Wrapper to use DynamiCrafter models in ComfyUI
 

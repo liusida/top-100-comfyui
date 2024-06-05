@@ -28,7 +28,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `394` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `396` | **Last updated**: `2024-06-05` | **Tags**: `Video`
 
 Wrapper to use DynamiCrafter models in ComfyUI
 
