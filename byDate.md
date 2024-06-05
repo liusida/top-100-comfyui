@@ -593,7 +593,7 @@ ComfyUI related stuff and things
 
 <a href='https://github.com/ai-dock/comfyui'><img src="https://avatars.githubusercontent.com/u/138283508?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `342` | **Created at**: `2023-08-22` | **Tags**: `Integration`
+**Stars**: `343` | **Created at**: `2023-08-22` | **Tags**: `Integration`
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
 

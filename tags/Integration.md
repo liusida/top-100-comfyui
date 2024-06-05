@@ -121,7 +121,7 @@ From comfyui workflow to web app, in seconds
 
 <a href='https://github.com/ai-dock/comfyui'><img src="https://avatars.githubusercontent.com/u/138283508?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `342` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
+**Stars**: `343` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
 
