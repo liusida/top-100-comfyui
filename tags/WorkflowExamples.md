@@ -60,7 +60,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 
 <a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `361` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+**Stars**: `362` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 Create images of a given character in different poses
 

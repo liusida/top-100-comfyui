@@ -489,7 +489,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 
 <a href='https://github.com/WASasquatch/comfyui-plugins'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/comfyui-plugins
 
-**Stars**: `522` | **Last updated**: `2024-06-05` | **Tags**: `Resources`
+**Stars**: `523` | **Last updated**: `2024-06-05` | **Tags**: `Resources`
 
 Extensions, Custom Nodes, and other plugins for ComfyUI
 
@@ -709,7 +709,7 @@ Marigold depth estimation in ComfyUI
 
 <a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `361` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+**Stars**: `362` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 Create images of a given character in different poses
 
@@ -917,5 +917,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-05 13:23:08 UTC
+### Automatically updated on: 2024-06-05 13:30:14 UTC
 

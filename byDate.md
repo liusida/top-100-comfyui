@@ -148,7 +148,7 @@ ComfyUI Extension Nodes for Automated Text Generation.
 
 <a href='https://github.com/WASasquatch/comfyui-plugins'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/comfyui-plugins
 
-**Stars**: `522` | **Created at**: `2023-04-10` | **Tags**: `Resources`
+**Stars**: `523` | **Created at**: `2023-04-10` | **Tags**: `Resources`
 
 Extensions, Custom Nodes, and other plugins for ComfyUI
 
@@ -796,7 +796,7 @@ A Node for ComfyUI that does what you ask it to do
 
 <a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `361` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
+**Stars**: `362` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
 
 Create images of a given character in different poses
 
