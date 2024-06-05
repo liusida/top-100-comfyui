@@ -796,7 +796,7 @@ A Node for ComfyUI that does what you ask it to do
 
 <a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `360` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
+**Stars**: `361` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
 
 Create images of a given character in different poses
 
