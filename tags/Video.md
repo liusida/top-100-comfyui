@@ -16,6 +16,13 @@ A ComfyUI node for driving videos using batches of images.
 
 AnimateDiff for ComfyUI
 
+<details><summary>Included Nodes (7)</summary>
+
+ - AnimateDiffCombine, AnimateDiffLoraLoader, AnimateDiffModuleLoader, AnimateDiffSampler, AnimateDiffSlidingWindowOptions
+ - ImageSizeAndBatchSize
+ - LoadVideo
+</details>
+
 ## MrForExample/ComfyUI-AnimateAnyone-Evolved
 
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'><img src="https://avatars.githubusercontent.com/u/62230687?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
@@ -23,6 +30,10 @@ AnimateDiff for ComfyUI
 **Stars**: `427` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
+
+<details><summary>Included Nodes (0)</summary>
+
+</details>
 
 ## kijai/ComfyUI-DynamiCrafterWrapper
 
@@ -32,6 +43,12 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 Wrapper to use DynamiCrafter models in ComfyUI
 
+<details><summary>Included Nodes (8)</summary>
+
+ - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
+ - ToonCrafterDecode, ToonCrafterInterpolation
+</details>
+
 ## Kosinkadink/ComfyUI-VideoHelperSuite
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
@@ -39,6 +56,11 @@ Wrapper to use DynamiCrafter models in ComfyUI
 **Stars**: `373` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Nodes related to video workflows
+
+<details><summary>Included Nodes (29)</summary>
+
+ - VHS_BatchManager, VHS_DuplicateImages, VHS_DuplicateLatents, VHS_DuplicateMasks, VHS_GetImageCount, VHS_GetLatentCount, VHS_GetMaskCount, VHS_LoadAudio, VHS_LoadAudioUpload, VHS_LoadImages, VHS_LoadImagesPath, VHS_LoadVideo, VHS_LoadVideoPath, VHS_MergeImages, VHS_MergeLatents, VHS_MergeMasks, VHS_PruneOutputs, VHS_SelectEveryNthImage, VHS_SelectEveryNthLatent, VHS_SelectEveryNthMask, VHS_SplitImages, VHS_SplitLatents, VHS_SplitMasks, VHS_VAEDecodeBatched, VHS_VAEEncodeBatched, VHS_VideoCombine, VHS_VideoInfo, VHS_VideoInfoLoaded, VHS_VideoInfoSource
+</details>
 
 ## melMass/comfy_mtb
 
@@ -48,6 +70,27 @@ Nodes related to video workflows
 
 Animation oriented nodes pack for ComfyUI
 
+<details><summary>Included Nodes (60)</summary>
+
+ - Animation Builder (mtb), Any To String (mtb)
+ - Batch Float (mtb), Batch Float Assemble (mtb), Batch Float Fill (mtb), Batch Make (mtb), Batch Merge (mtb), Batch Shake (mtb), Batch Shape (mtb), Batch Transform (mtb), Bbox (mtb), Bbox From Mask (mtb), Blur (mtb)
+ - Color Correct (mtb), Colored Image (mtb), Concat Images (mtb), Crop (mtb)
+ - Debug (mtb), Deep Bump (mtb)
+ - Export With Ffmpeg (mtb)
+ - Face Swap (mtb), Film Interpolation (mtb), Fit Number (mtb), Float To Number (mtb)
+ - Get Batch From History (mtb)
+ - Image Compare (mtb), Image Premultiply (mtb), Image Remove Background Rembg (mtb), Image Resize Factor (mtb), Image Tile Offset (mtb), Int To Bool (mtb), Int To Number (mtb), Interpolate Clip Sequential (mtb)
+ - Latent Lerp (mtb), Load Face Analysis Model (mtb), Load Face Enhance Model (mtb), Load Face Swap Model (mtb), Load Film Model (mtb), Load Image From Url (mtb), Load Image Sequence (mtb)
+ - Mask To Image (mtb), Math Expression (mtb), Model Patch Seamless (mtb)
+ - Pick From Batch (mtb)
+ - Qr Code (mtb)
+ - Restore Face (mtb)
+ - Save Gif (mtb), Save Image Grid (mtb), Save Image Sequence (mtb), Save Tensors (mtb), Sharpen (mtb), Smart Step (mtb), Stack Images (mtb), String Replace (mtb), Styles Loader (mtb)
+ - Text To Image (mtb), Transform Image (mtb)
+ - Uncrop (mtb), Unsplash Image (mtb)
+ - Vae Decode (mtb)
+</details>
+
 ## Fannovel16/ComfyUI-Frame-Interpolation
 
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'><img src="https://avatars.githubusercontent.com/u/16047777?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
@@ -56,6 +99,20 @@ Animation oriented nodes pack for ComfyUI
 
 A custom node set for Video Frame Interpolation in ComfyUI.
 
+<details><summary>Included Nodes (14)</summary>
+
+ - AMT VFI
+ - CAIN VFI
+ - FILM VFI, FLAVR VFI
+ - GMFSS Fortuna VFI
+ - IFRNet VFI, IFUnet VFI
+ - KSampler Gradually Adding More Denoise (efficient)
+ - M2M VFI, Make Interpolation State List
+ - RIFE VFI
+ - Sepconv VFI, STMFNet VFI
+ - VFI FloatToInt
+</details>
+
 ## FizzleDorf/ComfyUI_FizzNodes
 
 <a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
@@ -63,4 +120,18 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 **Stars**: `301` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Custom Nodes for Comfyui
+
+<details><summary>Included Nodes (33)</summary>
+
+ - AbsCosWave, AbsSinWave
+ - BatchGLIGENSchedule, BatchPromptSchedule, BatchPromptScheduleEncodeSDXL, BatchPromptScheduleLatentInput, BatchPromptScheduleNodeFlowEnd, BatchPromptScheduleSDXLLatentInput, BatchStringSchedule, BatchValueSchedule, BatchValueScheduleLatentInput
+ - CalculateFrameOffset, ConcatStringSingle, convertKeyframeKeysToBatchKeys, CosWave
+ - FizzFrame, FizzFrameConcatenate
+ - ImagesFromBatchSchedule, Init FizzFrame, InvCosWave, InvSinWave
+ - Lerp
+ - PromptSchedule, PromptScheduleEncodeSDXL, PromptScheduleNodeFlow, PromptScheduleNodeFlowEnd
+ - SawtoothWave, SinWave, SquareWave, StringConcatenate, StringSchedule
+ - TriangleWave
+ - ValueSchedule
+</details>
 

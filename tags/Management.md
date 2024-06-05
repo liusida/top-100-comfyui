@@ -16,6 +16,16 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
+<details><summary>Included Nodes (14)</summary>
+
+ - CheckpointLoader|pysssss, ConstrainImageforVideo|pysssss, ConstrainImage|pysssss
+ - LoadText|pysssss, LoraLoader|pysssss
+ - MathExpression|pysssss, MultiPrimitive|pysssss
+ - PlaySound|pysssss
+ - Repeater|pysssss, ReroutePrimitive|pysssss
+ - SaveText|pysssss, ShowText|pysssss, StringFunction|pysssss, SystemNotification|pysssss
+</details>
+
 ## zanllp/sd-webui-infinite-image-browsing
 
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'><img src="https://avatars.githubusercontent.com/u/25872019?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
@@ -40,6 +50,10 @@ A ComfyUI workflows and models management extension to organize and manage all y
 
 A powerful set of tools for ComfyUI
 
+<details><summary>Included Nodes (0)</summary>
+
+</details>
+
 ## talesofai/comfyui-browser
 
 <a href='https://github.com/talesofai/comfyui-browser'><img src="https://avatars.githubusercontent.com/u/120728204?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/talesofai/comfyui-browser
@@ -47,6 +61,15 @@ A powerful set of tools for ComfyUI
 **Stars**: `400` | **Last updated**: `2024-06-05` | **Tags**: `Management`
 
 An image/video/workflow browser and manager for ComfyUI.
+
+<details><summary>Included Nodes (5)</summary>
+
+ - DifyTextGenerator //Browser
+ - LoadImageByUrl //Browser
+ - SelectInputs //Browser
+ - UploadToRemote //Browser
+ - XyzPlot //Browser
+</details>
 
 ## ComfyWorkflows/ComfyUI-Launcher
 

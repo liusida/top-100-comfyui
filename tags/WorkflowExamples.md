@@ -32,6 +32,11 @@ Examples of ComfyUI workflows
 
 Custom nodes and workflows for SDXL in ComfyUI
 
+<details><summary>Included Nodes (73)</summary>
+
+ - SeargeAdvancedParameters, SeargeCheckpointLoader, SeargeConditioningMuxer2, SeargeConditioningMuxer5, SeargeConditioningParameters, SeargeConditionMixing, SeargeControlnetAdapterV2, SeargeControlnetModels, SeargeCustomAfterUpscaling, SeargeCustomAfterVaeDecode, SeargeCustomPromptMode, SeargeDebugPrinter, SeargeEnablerInputs, SeargeFloatConstant, SeargeFloatMath, SeargeFloatPair, SeargeFreeU, SeargeGenerated1, SeargeGenerationParameters, SeargeHighResolution, SeargeImage2ImageAndInpainting, SeargeImageAdapterV2, SeargeImageSave, SeargeImageSaving, SeargeInput1, SeargeInput2, SeargeInput3, SeargeInput4, SeargeInput5, SeargeInput6, SeargeInput7, SeargeIntegerConstant, SeargeIntegerMath, SeargeIntegerPair, SeargeIntegerScaler, SeargeLatentMuxer3, SeargeLoraLoader, SeargeLoras, SeargeMagicBox, SeargeModelSelector, SeargeOperatingMode, SeargeOutput1, SeargeOutput2, SeargeOutput3, SeargeOutput4, SeargeOutput5, SeargeOutput6, SeargeOutput7, SeargeParameterProcessor, SeargePipelineStart, SeargePipelineTerminator, SeargePreviewImage, SeargePromptAdapterV2, SeargePromptCombiner, SeargePromptStyles, SeargePromptText, SeargeSamplerAdvanced, SeargeSamplerInputs, SeargeSaveFolderInputs, SeargeSDXLBasePromptEncoder, SeargeSDXLImage2ImageSampler, SeargeSDXLImage2ImageSampler2, SeargeSDXLPromptEncoder, SeargeSDXLRefinerPromptEncoder, SeargeSDXLSampler, SeargeSDXLSampler2, SeargeSDXLSamplerV3, SeargeSeparator, SeargeStylePreprocessor, SeargeTextInputV2, SeargeUpscaleModelLoader, SeargeUpscaleModels, SeargeVAELoader
+</details>
+
 ## wyrde/wyrde-comfyui-workflows
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'><img src="https://avatars.githubusercontent.com/u/9657443?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows

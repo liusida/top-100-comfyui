@@ -56,6 +56,11 @@ SEAIT is a user-friendly application that simplifies the installation process of
 
 An open source `vercel` like deployment platform for Comfy UI
 
+<details><summary>Included Nodes (14)</summary>
+
+ - ComfyDeployWebscoketImageInput, ComfyDeployWebscoketImageOutput, ComfyUIDeployExternalBoolean, ComfyUIDeployExternalCheckpoint, ComfyUIDeployExternalImage, ComfyUIDeployExternalImageAlpha, ComfyUIDeployExternalImageBatch, ComfyUIDeployExternalLora, ComfyUIDeployExternalNumber, ComfyUIDeployExternalNumberInt, ComfyUIDeployExternalNumberSlider, ComfyUIDeployExternalText, ComfyUIDeployExternalVid, ComfyUIDeployExternalVideo
+</details>
+
 ## rvion/CushyStudio
 
 <a href='https://github.com/rvion/CushyStudio'><img src="https://avatars.githubusercontent.com/u/2150990?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
