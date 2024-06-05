@@ -4,7 +4,7 @@
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `715` | **Last updated**: `2024-06-03` | **Tags**: `Video`
+**Stars**: `717` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 A ComfyUI node for driving videos using batches of images.
 
@@ -20,7 +20,7 @@ AnimateDiff for ComfyUI
 
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'><img src="https://avatars.githubusercontent.com/u/62230687?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `426` | **Last updated**: `2024-06-03` | **Tags**: `Video`
+**Stars**: `427` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
 
@@ -28,7 +28,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `371` | **Last updated**: `2024-06-03` | **Tags**: `Video`
+**Stars**: `373` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Nodes related to video workflows
 
@@ -36,7 +36,7 @@ Nodes related to video workflows
 
 <a href='https://github.com/melMass/comfy_mtb'><img src="https://avatars.githubusercontent.com/u/7041726?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `322` | **Last updated**: `2024-06-03` | **Tags**: `Video`
+**Stars**: `323` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Animation oriented nodes pack for ComfyUI
 
@@ -44,7 +44,7 @@ Animation oriented nodes pack for ComfyUI
 
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'><img src="https://avatars.githubusercontent.com/u/16047777?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `319` | **Last updated**: `2024-06-03` | **Tags**: `Video`
+**Stars**: `320` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 A custom node set for Video Frame Interpolation in ComfyUI.
 
@@ -52,7 +52,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 
 <a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
 
-**Stars**: `300` | **Last updated**: `2024-06-02` | **Tags**: `Video`
+**Stars**: `301` | **Last updated**: `2024-06-04` | **Tags**: `Video`
 
 Custom Nodes for Comfyui
 
