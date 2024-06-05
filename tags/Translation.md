@@ -4,7 +4,7 @@
 
 <a href='https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation'><img src="https://avatars.githubusercontent.com/u/124877023?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation
 
-**Stars**: `814` | **Last updated**: `2024-06-04` | **Tags**: `Translation`
+**Stars**: `815` | **Last updated**: `2024-06-05` | **Tags**: `Translation`
 
 A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 

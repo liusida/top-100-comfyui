@@ -8,6 +8,14 @@
 
 Using Gemini in ComfyUI
 
+## lks-ai/anynode
+
+<a href='https://github.com/lks-ai/anynode'><img src="https://avatars.githubusercontent.com/u/163685473?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
+
+**Stars**: `323` | **Last updated**: `2024-06-05` | **Tags**: `LLM`
+
+A Node for ComfyUI that does what you ask it to do
+
 ## xXAdonesXx/NodeGPT
 
 <a href='https://github.com/xXAdonesXx/NodeGPT'><img src="https://avatars.githubusercontent.com/u/66518617?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xXAdonesXx/NodeGPT
