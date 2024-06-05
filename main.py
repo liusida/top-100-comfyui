@@ -1,3 +1,4 @@
+import itertools
 import requests
 import os
 import pickle
@@ -25,6 +26,15 @@ PARAMS = {
 }
 CACHE_FILE = 'repo_cache.pkl'
 CACHE_EXPIRATION = timedelta(days=1)
+
+extension_map = {}
+EXTENSION_NODE_MAP_URL = "https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json"
+def fetch_extension_node_map():
+    global extension_map
+    response = requests.get(EXTENSION_NODE_MAP_URL)
+    response.raise_for_status()
+    extension_map = response.json()
+    return extension_map
 
 def is_cache_valid():
     if not os.path.exists(CACHE_FILE):
@@ -86,7 +96,16 @@ def write_tag_file(tag, repositories, tags):
             f.write(f"**Last updated**: `{format_updated_at_date(updated_at)}` | ")
             f.write(f"**Tags**: {' '.join([f'`{t}`' for t in tags[repo['full_name']] if t == tag])}\n\n")
             f.write(f"{description}\n\n")
-
+            # Write extension nodes
+            nodes = extension_map.get(repo_url, [])
+            if nodes:
+                nodes_sorted = sorted(nodes[0], key=str.casefold)
+                grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
+                f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
+                for key, group in grouped_nodes:
+                    f.write(" - " + ", ".join(group) + "\n")
+                f.write("</details>\n\n")
+                
 def write_by_date_file(repositories, tags):
     sorted_repos = sorted(repositories, key=lambda x: x['created_at'])
     with open("byDate.md", "w", encoding="utf-8") as f:
@@ -108,15 +127,24 @@ def write_by_date_file(repositories, tags):
             f.write(f"**Created at**: `{format_updated_at_date(created_at)}` | ")
             f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
             f.write(f"{description}\n\n")
-
+            # Write extension nodes
+            nodes = extension_map.get(repo_url, [])
+            if nodes:
+                nodes_sorted = sorted(nodes[0], key=str.casefold)
+                grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
+                f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
+                for key, group in grouped_nodes:
+                    f.write(" - " + ", ".join(group) + "\n")
+                f.write("</details>\n\n")
 def main():
+    fetch_extension_node_map()
     if is_cache_valid():
         repositories = load_cache()
         print("Loaded repositories from cache.")
     else:
+        print("Fetched and cached new repositories.")
         repositories = fetch_repositories()
         save_cache(repositories)
-        print("Fetched and cached new repositories.")
 
     tags = load_tags().get('tags', {})
 
@@ -192,7 +220,16 @@ def main():
                 f.write(f"**Last updated**: `{format_updated_at_date(updated_at)}` | ")
                 f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
                 f.write(f"{description}\n\n")
-            
+                # Write extension nodes
+                nodes = extension_map.get(repo_url, [])
+                if nodes:
+                    nodes_sorted = sorted(nodes[0], key=str.casefold)
+                    grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
+                    f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
+                    for key, group in grouped_nodes:
+                        f.write(" - " + ", ".join(group) + "\n")
+                    f.write("</details>\n\n")
+                    
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
 
@@ -201,7 +238,11 @@ def main():
         f.write("You can also view this list in the order of creation date (to get a sense of the history of ComfyUI) [here](byDate.md).\n\n")
 
         f.write(f"## Data Source\n\n")
-        f.write(f"This list is based on data from the `GitHub Search API`, `Star History API`, and `manually curated tags`.\n\n * The GitHub Search API is used to find repositories based on the query `comfyui fork:true`, sorted by the number of stars.\n\n * The Star History API provides the star count history for these repositories.\n\n * Manual tags are used to categorize and filter repositories.\n\n")
+        f.write(f"This list is based on data from the `GitHub Search API`, `Star History API`, `ComfyUI-Manager`, and `manually curated tags`.\n")
+        f.write(f" * The GitHub Search API is used to find repositories based on the query `comfyui fork:true`, sorted by the number of stars.\n")
+        f.write(f" * The Star History API provides the star count history for these repositories.\n")
+        f.write(f" * ComfyUI-Manager provides the node list via the [extension_node_map]({EXTENSION_NODE_MAP_URL}).\n")
+        f.write(f" * Manual tags are used to categorize and filter repositories.\n\n")
         f.write(f"Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](tags.yml).\n\n")
         f.write(f"All rights belong to the original authors of the repositories.\n\n")
         f.write(f"### Automatically updated on: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
