@@ -230,3 +230,11 @@ tags:
     - Integration
   nullquant/ComfyUI-BrushNet:
     - Custom Nodes
+  lks-ai/anynode:
+    - Custom Nodes
+    - LLM
+  fofr/cog-consistent-character:
+    - Workflow Examples
+  kijai/ComfyUI-DynamiCrafterWrapper:
+    - Custom Nodes
+    - Video
