@@ -85,7 +85,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 
 <a href='https://github.com/mut-ex/gligen-gui'><img src="https://avatars.githubusercontent.com/u/21265981?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `1.9k` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `1.9k` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
@@ -253,7 +253,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `856` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `857` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 None
 
@@ -341,7 +341,7 @@ A ComfyUI node for driving videos using batches of images.
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'><img src="https://avatars.githubusercontent.com/u/9657443?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `694` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+**Stars**: `695` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 some wyrde workflows for comfyUI
 
@@ -421,7 +421,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
 <a href='https://github.com/twri/sdxl_prompt_styler'><img src="https://avatars.githubusercontent.com/u/4344671?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `590` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes`
+**Stars**: `591` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Custom prompt styler node for SDXL in ComfyUI
 
@@ -497,7 +497,7 @@ Extensions, Custom Nodes, and other plugins for ComfyUI
 
 <a href='https://github.com/storyicon/comfyui_segment_anything'><img src="https://avatars.githubusercontent.com/u/29772821?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `483` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `484` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
 
@@ -617,7 +617,15 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 
 An image/video/workflow browser and manager for ComfyUI.
 
-## 69. Kosinkadink/ComfyUI-Advanced-ControlNet
+## 69. kijai/ComfyUI-DynamiCrafterWrapper
+
+<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+
+**Stars**: `396` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes` `Video`
+
+Wrapper to use DynamiCrafter models in ComfyUI
+
+## 70. Kosinkadink/ComfyUI-Advanced-ControlNet
 
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
@@ -625,15 +633,7 @@ An image/video/workflow browser and manager for ComfyUI.
 
 ControlNet scheduling and masking nodes with sliding context support
 
-## 70. kijai/ComfyUI-DynamiCrafterWrapper
-
-<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
-
-**Stars**: `394` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes` `Video`
-
-Wrapper to use DynamiCrafter models in ComfyUI
-
-<a href="https://star-history.com/#toyxyz/ComfyUI_toyxyz_test_nodes,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,Kosinkadink/ComfyUI-Advanced-ControlNet,kijai/ComfyUI-DynamiCrafterWrapper&Date"><img src="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,Kosinkadink/ComfyUI-Advanced-ControlNet,kijai/ComfyUI-DynamiCrafterWrapper&type=Date" alt="Star History Chart" width="600"></a>
+<a href="https://star-history.com/#toyxyz/ComfyUI_toyxyz_test_nodes,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,kijai/ComfyUI-DynamiCrafterWrapper,Kosinkadink/ComfyUI-Advanced-ControlNet&Date"><img src="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,kijai/ComfyUI-DynamiCrafterWrapper,Kosinkadink/ComfyUI-Advanced-ControlNet&type=Date" alt="Star History Chart" width="600"></a>
 
 # TOP 71 - 75
 
@@ -917,5 +917,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-05 12:20:27 UTC
+### Automatically updated on: 2024-06-05 13:19:53 UTC
 
