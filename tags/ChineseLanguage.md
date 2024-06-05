@@ -4,7 +4,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `3.5k` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -12,7 +12,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `1.2k` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 Unofficial implementation of InstantID for ComfyUI
 
@@ -20,7 +20,7 @@ Unofficial implementation of InstantID for ComfyUI
 
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'><img src="https://avatars.githubusercontent.com/u/12645064?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `829` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `834` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
@@ -28,7 +28,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `738` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `740` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -44,7 +44,7 @@ Using Gemini in ComfyUI
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `537` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `538` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
 
@@ -52,7 +52,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `441` | **Last updated**: `2024-06-04` | **Tags**: `Chinese Language`
+**Stars**: `444` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -84,7 +84,7 @@ ComfyUI custom node that simply integrates the OOTDiffusion.
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
-**Stars**: `318` | **Last updated**: `2024-06-01` | **Tags**: `Chinese Language`
+**Stars**: `319` | **Last updated**: `2024-06-05` | **Tags**: `Chinese Language`
 
 Prompt Visualization | Art Gallery
 

@@ -4,7 +4,7 @@
 
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'><img src="https://avatars.githubusercontent.com/u/7842232?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `6.4k` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `6.4k` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 
@@ -12,7 +12,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 
 <a href='https://github.com/LykosAI/StabilityMatrix'><img src="https://avatars.githubusercontent.com/u/136279213?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.1k` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `3.1k` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 Multi-Platform Package Manager for Stable Diffusion
 
@@ -28,7 +28,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
 <a href='https://github.com/6174/comflowyspace'><img src="https://avatars.githubusercontent.com/u/3872872?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `1.6k` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `1.6k` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 
@@ -36,7 +36,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'><img src="https://avatars.githubusercontent.com/u/25550995?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `780` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `782` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
 
@@ -60,7 +60,7 @@ An open source `vercel` like deployment platform for Comfy UI
 
 <a href='https://github.com/rvion/CushyStudio'><img src="https://avatars.githubusercontent.com/u/2150990?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `599` | **Last updated**: `2024-06-02` | **Tags**: `Integration`
+**Stars**: `600` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 🛋 The AI and Generative Art platform for everyone
 
@@ -68,7 +68,7 @@ An open source `vercel` like deployment platform for Comfy UI
 
 <a href='https://github.com/space-nuko/ComfyBox'><img src="https://avatars.githubusercontent.com/u/24979496?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/space-nuko/ComfyBox
 
-**Stars**: `554` | **Last updated**: `2024-06-02` | **Tags**: `Integration`
+**Stars**: `555` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 Customizable Stable Diffusion frontend for ComfyUI
 
@@ -76,7 +76,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'><img src="https://avatars.githubusercontent.com/u/124877023?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `527` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `529` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
 
@@ -92,7 +92,7 @@ FastAPI powered API for Fooocus
 
 <a href='https://github.com/AlexanderDzhoganov/ComfyTextures'><img src="https://avatars.githubusercontent.com/u/855464?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlexanderDzhoganov/ComfyTextures
 
-**Stars**: `451` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `452` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models 
 
@@ -108,7 +108,7 @@ An extension to integrate ComfyUI workflows into the Webui's pipeline
 
 <a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `425` | **Last updated**: `2024-06-03` | **Tags**: `Integration`
+**Stars**: `426` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 From comfyui workflow to web app, in seconds
 
@@ -116,7 +116,7 @@ From comfyui workflow to web app, in seconds
 
 <a href='https://github.com/ai-dock/comfyui'><img src="https://avatars.githubusercontent.com/u/138283508?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `339` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `342` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
 

@@ -4,7 +4,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-06-04` | **Tags**: `Workflow Examples`
+**Stars**: `3.5k` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -20,7 +20,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'><img src="https://avatars.githubusercontent.com/u/121283862?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.1k` | **Last updated**: `2024-06-04` | **Tags**: `Workflow Examples`
+**Stars**: `1.1k` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 Examples of ComfyUI workflows
 
@@ -36,7 +36,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'><img src="https://avatars.githubusercontent.com/u/9657443?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `694` | **Last updated**: `2024-06-04` | **Tags**: `Workflow Examples`
+**Stars**: `694` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 some wyrde workflows for comfyUI
 
@@ -55,6 +55,14 @@ face-to-sticker
 **Stars**: `407` | **Last updated**: `2024-06-02` | **Tags**: `Workflow Examples`
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
+
+## fofr/cog-consistent-character
+
+<a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
+
+**Stars**: `360` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+
+Create images of a given character in different poses
 
 ## atlasunified/Templates-ComfyUI-
 
