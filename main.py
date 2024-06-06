@@ -4,10 +4,9 @@ import os
 import yaml
 from datetime import datetime, timedelta, timezone
 
-from utils.github import GITHUB_TOKEN, fetch_repositories
+from utils.github import GITHUB_TOKEN, fetch_repositories, fetch_broader_repositories, is_cache_valid, load_cache, save_cache
 from utils.extension_node_map import extension_map, EXTENSION_NODE_MAP_URL
 from utils.common import format_updated_at_date, load_template, get_human_readable_star_count
-from utils.pickle_cache import is_cache_valid, load_cache, save_cache
 
 def get_extension_nodes(repo_url):
     ret = ""
@@ -171,12 +170,43 @@ def get_tag_links(repos_by_tag):
     tag_links = move_tag(tag_links, "Deprecated")
     return tag_links
 
+def write_broader_collection_file():
+    repositories = fetch_broader_repositories()   
+
+    tags = load_tags().get('tags', {})
+
+    print(f"Got {len(repositories)} repositories.")
+
+    # Create a dictionary to store repositories by tags
+    filtered_repos = [repo for repo in repositories if tags.get(repo['full_name']) is None]
+    
+    # Write README.md file
+    with open("BroaderCollection.md", "w", encoding="utf-8") as f:
+        f.write("## Repositories that might also be related to ComfyUI (alternatives, AI researches, etc)\n\n")
+        for repo in filtered_repos:
+            repo_url = f"https://github.com/{repo['full_name']}"
+            str_star_count = get_human_readable_star_count(repo['stargazers_count'])
+            avatar_url = repo['owner']['avatar_url']
+            description = repo['description']
+            created_at = repo['created_at']
+            updated_at = repo['updated_at']
+            repo_item = load_template("repo_item").render({
+                "repo_name": repo['full_name'],
+                "repo_url": repo_url,
+                "avatar_url": avatar_url,
+                "star_count": str_star_count,
+                "created_at": format_updated_at_date(created_at),
+                "updated_at": format_updated_at_date(updated_at),
+                "description": description,
+            })
+            f.write(repo_item + '\n')
+
+            extension_nodes = get_extension_nodes(repo_url)
+            f.write(extension_nodes)
+
+
 def main():
-    if is_cache_valid():
-        repositories = load_cache()
-    else:
-        repositories = fetch_repositories()
-        save_cache(repositories)
+    repositories = fetch_repositories()
 
     tags = load_tags().get('tags', {})
 
@@ -196,6 +226,8 @@ def main():
     
     # Write by date file
     write_by_date_file(repositories, tags)
+
+    write_broader_collection_file()
 
 if __name__ == "__main__":
     main()
