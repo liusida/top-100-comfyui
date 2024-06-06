@@ -80,6 +80,22 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 </details>
 
 
+## ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
+
+
+<a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
+<img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
+
+**Stars**: `1.4k` | **Created at**: `2024-06-06`
+
+
+肖像大师 中文版 comfyui-portrait-master
+<details><summary>Included Nodes (1)</summary>
+
+ - PortraitMaster_中文版
+</details>
+
+
 ## ltdrdata/ComfyUI-Impact-Pack
 
 

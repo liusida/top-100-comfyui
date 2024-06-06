@@ -1050,7 +1050,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.4k` | **Created at**: `2023-12-15`
+**Stars**: `1.4k` | **Created at**: `2023-12-15` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 肖像大师 中文版 comfyui-portrait-master

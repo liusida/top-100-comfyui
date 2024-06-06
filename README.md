@@ -4,7 +4,7 @@ This repository automatically updates a list of the top 100 repositories related
 ### Automatically updated on: 2024-06-06
 ### Repositories by Tag:
 - [Core](tags/Core.md) (1)
-- [Custom Nodes](tags/CustomNodes.md) (58)
+- [Custom Nodes](tags/CustomNodes.md) (59)
 - [Integration](tags/Integration.md) (15)
 - [Workflow Examples](tags/WorkflowExamples.md) (9)
 - [Management](tags/Management.md) (8)
@@ -16,7 +16,7 @@ This repository automatically updates a list of the top 100 repositories related
 - [Translation](tags/Translation.md) (2)
 - [Acceleration](tags/Acceleration.md) (1)
 - [Website](tags/Website.md) (1)
-- [Chinese Language](tags/ChineseLanguage.md) (12)
+- [Chinese Language](tags/ChineseLanguage.md) (13)
 - [Deprecated](tags/Deprecated.md) (2)
 
 # TOP 1 - 5
@@ -229,7 +229,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.4k` | **Created at**: `2023-12-15` | **Last updated**: `2024-06-06`
+**Stars**: `1.4k` | **Created at**: `2023-12-15` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -1723,4 +1723,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-06 11:25:59 UTC
+### Automatically updated on: 2024-06-06 11:30:31 UTC
