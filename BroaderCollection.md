@@ -56,17 +56,6 @@ InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 
 Official implementation of AnimateDiff.
 
-## bleedline/aimoneyhunter
-
-
-<a href='https://github.com/bleedline/aimoneyhunter'>
-<img src="https://avatars.githubusercontent.com/u/69669728?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/bleedline/aimoneyhunter
-
-**Stars**: `9.3k` | **Created at**: `2023-12-14` | **Last updated**: `2024-06-06`
-
-
-ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
-
 ## TencentARC/PhotoMaker
 
 
@@ -161,7 +150,7 @@ The image prompt adapter is designed to enable a pretrained text-to-image diffus
 <a href='https://github.com/luosiallen/latent-consistency-model'>
 <img src="https://avatars.githubusercontent.com/u/47499850?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/luosiallen/latent-consistency-model
 
-**Stars**: `4.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-05`
+**Stars**: `4.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-06`
 
 
 Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
@@ -675,7 +664,7 @@ One Button Prompt
 <a href='https://github.com/Kiteretsu77/APISR'>
 <img src="https://avatars.githubusercontent.com/u/73270324?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kiteretsu77/APISR
 
-**Stars**: `702` | **Created at**: `2024-03-02` | **Last updated**: `2024-06-06`
+**Stars**: `703` | **Created at**: `2024-03-02` | **Last updated**: `2024-06-06`
 
 
 APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)

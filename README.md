@@ -479,7 +479,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `858` | **Created at**: `2024-01-27` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
+**Stars**: `859` | **Created at**: `2024-01-27` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 
 None
@@ -1423,7 +1423,7 @@ A simple sidebar for your ConfyUI!
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `334` | **Created at**: `2024-05-25` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `335` | **Created at**: `2024-05-25` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `LLM`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -1586,7 +1586,7 @@ Templates to view the variety of a prompt based on the samplers available in Com
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `314` | **Created at**: `2024-03-12` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `315` | **Created at**: `2024-03-12` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `LLM`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -1728,4 +1728,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-06 12:11:43 UTC
+### Automatically updated on: 2024-06-06 12:39:49 UTC

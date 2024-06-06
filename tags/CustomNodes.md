@@ -269,7 +269,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `858` | **Created at**: `2024-06-06`
+**Stars**: `859` | **Created at**: `2024-06-06`
 
 
 None
@@ -908,7 +908,7 @@ ComfyUI native implementation of IC-Light
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `334` | **Created at**: `2024-06-06`
+**Stars**: `335` | **Created at**: `2024-06-06`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -1056,7 +1056,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `314` | **Created at**: `2024-06-04`
+**Stars**: `315` | **Created at**: `2024-06-06`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
