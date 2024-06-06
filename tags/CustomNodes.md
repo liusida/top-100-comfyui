@@ -130,6 +130,27 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 </details>
 
 
+## pythongosssss/ComfyUI-Custom-Scripts
+
+
+<a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
+<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
+**Stars**: `1.3k` | **Created at**: `2024-06-06`
+
+
+Enhancements & experiments for ComfyUI, mostly focusing on UI features
+<details><summary>Included Nodes (14)</summary>
+
+ - CheckpointLoader|pysssss, ConstrainImageforVideo|pysssss, ConstrainImage|pysssss
+ - LoadText|pysssss, LoraLoader|pysssss
+ - MathExpression|pysssss, MultiPrimitive|pysssss
+ - PlaySound|pysssss
+ - Repeater|pysssss, ReroutePrimitive|pysssss
+ - SaveText|pysssss, ShowText|pysssss, StringFunction|pysssss, SystemNotification|pysssss
+</details>
+
+
 ## huchenlei/ComfyUI-layerdiffuse
 
 
@@ -400,6 +421,22 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 </details>
 
 
+## BennyKok/comfyui-deploy
+
+
+<a href='https://github.com/BennyKok/comfyui-deploy'>
+<img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
+
+**Stars**: `639` | **Created at**: `2024-06-05`
+
+
+An open source `vercel` like deployment platform for Comfy UI
+<details><summary>Included Nodes (14)</summary>
+
+ - ComfyDeployWebscoketImageInput, ComfyDeployWebscoketImageOutput, ComfyUIDeployExternalBoolean, ComfyUIDeployExternalCheckpoint, ComfyUIDeployExternalImage, ComfyUIDeployExternalImageAlpha, ComfyUIDeployExternalImageBatch, ComfyUIDeployExternalLora, ComfyUIDeployExternalNumber, ComfyUIDeployExternalNumberInt, ComfyUIDeployExternalNumberSlider, ComfyUIDeployExternalText, ComfyUIDeployExternalVid, ComfyUIDeployExternalVideo
+</details>
+
+
 ## AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
 
@@ -646,6 +683,26 @@ Wrapper to use DynamiCrafter models in ComfyUI
 
  - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
  - ToonCrafterDecode, ToonCrafterInterpolation
+</details>
+
+
+## talesofai/comfyui-browser
+
+
+<a href='https://github.com/talesofai/comfyui-browser'>
+<img src="https://avatars.githubusercontent.com/u/120728204?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/talesofai/comfyui-browser
+
+**Stars**: `401` | **Created at**: `2024-06-06`
+
+
+An image/video/workflow browser and manager for ComfyUI.
+<details><summary>Included Nodes (5)</summary>
+
+ - DifyTextGenerator //Browser
+ - LoadImageByUrl //Browser
+ - SelectInputs //Browser
+ - UploadToRemote //Browser
+ - XyzPlot //Browser
 </details>
 
 
