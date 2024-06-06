@@ -96,15 +96,7 @@ def write_tag_file(tag, repositories, tags):
             f.write(f"**Last updated**: `{format_updated_at_date(updated_at)}` | ")
             f.write(f"**Tags**: {' '.join([f'`{t}`' for t in tags[repo['full_name']] if t == tag])}\n\n")
             f.write(f"{description}\n\n")
-            # Write extension nodes
-            nodes = extension_map.get(repo_url, [])
-            if nodes:
-                nodes_sorted = sorted(nodes[0], key=str.casefold)
-                grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
-                f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
-                for key, group in grouped_nodes:
-                    f.write(" - " + ", ".join(group) + "\n")
-                f.write("</details>\n\n")
+            write_extension_nodes(f, repo_url)
                 
 def write_by_date_file(repositories, tags):
     sorted_repos = sorted(repositories, key=lambda x: x['created_at'])
@@ -127,15 +119,21 @@ def write_by_date_file(repositories, tags):
             f.write(f"**Created at**: `{format_updated_at_date(created_at)}` | ")
             f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
             f.write(f"{description}\n\n")
-            # Write extension nodes
-            nodes = extension_map.get(repo_url, [])
-            if nodes:
-                nodes_sorted = sorted(nodes[0], key=str.casefold)
-                grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
-                f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
-                for key, group in grouped_nodes:
-                    f.write(" - " + ", ".join(group) + "\n")
-                f.write("</details>\n\n")
+            write_extension_nodes(f, repo_url)
+
+def write_extension_nodes(f, repo_url):
+    nodes = extension_map.get(repo_url, [])
+    if nodes:
+        nodes_sorted = sorted(nodes[0], key=str.casefold)
+        grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
+        f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
+        if (len(nodes[0])):
+            for key, group in grouped_nodes:
+                f.write(" - " + ", ".join(group) + "\n")
+        else:
+            f.write(f" - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)")
+        f.write("</details>\n\n")
+
 def main():
     fetch_extension_node_map()
     if is_cache_valid():
@@ -220,18 +218,7 @@ def main():
                 f.write(f"**Last updated**: `{format_updated_at_date(updated_at)}` | ")
                 f.write(f"**Tags**: {' '.join([f'`{tag}`' for tag in repo_tags])}\n\n")
                 f.write(f"{description}\n\n")
-                # Write extension nodes
-                nodes = extension_map.get(repo_url, [])
-                if nodes:
-                    nodes_sorted = sorted(nodes[0], key=str.casefold)
-                    grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
-                    f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
-                    if (len(nodes[0])):
-                        for key, group in grouped_nodes:
-                            f.write(" - " + ", ".join(group) + "\n")
-                    else:
-                        f.write(f"Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)")
-                    f.write("</details>\n\n")
+                write_extension_nodes(f, repo_url)
                     
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
             f.write(f'<a href="https://star-history.com/#{",".join(repo_names)}&Date"><img src="{chart_url}" alt="Star History Chart" width="600"></a>\n\n')
