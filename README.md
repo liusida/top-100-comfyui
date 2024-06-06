@@ -153,7 +153,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
 
-<details><summary>Included Nodes (0)</summary>
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -552,7 +552,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 
 Making ComfyUI more comfortable!
 
-<details><summary>Included Nodes (0)</summary>
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -835,7 +835,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 
 A powerful set of tools for ComfyUI
 
-<details><summary>Included Nodes (0)</summary>
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -877,7 +877,7 @@ From comfyui workflow to web app, in seconds
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
 
-<details><summary>Included Nodes (0)</summary>
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -1422,5 +1422,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-06 05:58:53 UTC
+### Automatically updated on: 2024-06-06 06:02:03 UTC
 
