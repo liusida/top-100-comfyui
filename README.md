@@ -147,7 +147,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `1.9k` | **Created at**: `2024-02-17` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
+**Stars**: `1.9k` | **Created at**: `2024-02-17` | **Last updated**: `2024-06-06` | **Tags**: `Integration`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -682,7 +682,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `644` | **Created at**: `2023-08-31` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
+**Stars**: `645` | **Created at**: `2023-08-31` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -902,7 +902,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `532` | **Created at**: `2023-04-24` | **Last updated**: `2024-06-06` | **Tags**: `Integration` `3D`
+**Stars**: `533` | **Created at**: `2023-04-24` | **Last updated**: `2024-06-06` | **Tags**: `Integration` `3D`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -1080,7 +1080,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 From comfyui workflow to web app, in seconds
 # TOP 66 - 70
 
-<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,kijai/ComfyUI-DynamiCrafterWrapper,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,Kosinkadink/ComfyUI-Advanced-ControlNet&type=Date"><img src="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,kijai/ComfyUI-DynamiCrafterWrapper,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,Kosinkadink/ComfyUI-Advanced-ControlNet&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,kijai/ComfyUI-DynamiCrafterWrapper,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,pythongosssss/ComfyUI-WD14-Tagger&type=Date"><img src="https://api.star-history.com/svg?repos=toyxyz/ComfyUI_toyxyz_test_nodes,kijai/ComfyUI-DynamiCrafterWrapper,SytanSD/Sytan-SDXL-ComfyUI,talesofai/comfyui-browser,pythongosssss/ComfyUI-WD14-Tagger&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 66. toyxyz/ComfyUI_toyxyz_test_nodes
@@ -1150,7 +1150,27 @@ An image/video/workflow browser and manager for ComfyUI.
 </details>
 
 
-## 70. Kosinkadink/ComfyUI-Advanced-ControlNet
+## 70. pythongosssss/ComfyUI-WD14-Tagger
+
+
+<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
+<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+
+**Stars**: `395` | **Created at**: `2023-05-11` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
+
+
+A ComfyUI extension allowing for the interrogation of booru tags from images.
+<details><summary>Included Nodes (1)</summary>
+
+ - WD14Tagger|pysssss
+</details>
+
+# TOP 71 - 75
+
+<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=Kosinkadink/ComfyUI-Advanced-ControlNet,frankchieng/ComfyUI_MagicClothing,Acly/comfyui-inpaint-nodes,cubiq/PuLID_ComfyUI,fofr/cog-consistent-character&type=Date"><img src="https://api.star-history.com/svg?repos=Kosinkadink/ComfyUI-Advanced-ControlNet,frankchieng/ComfyUI_MagicClothing,Acly/comfyui-inpaint-nodes,cubiq/PuLID_ComfyUI,fofr/cog-consistent-character&type=Date" alt="Star History Chart" width="500"></a></details>
+
+
+## 71. Kosinkadink/ComfyUI-Advanced-ControlNet
 
 
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
@@ -1168,26 +1188,6 @@ ControlNet scheduling and masking nodes with sliding context support
  - LatentKeyframe, LatentKeyframeBatchedGroup, LatentKeyframeGroup, LatentKeyframeTiming, LoadImagesFromDirectory
  - ScaledSoftControlNetWeights, ScaledSoftMaskedUniversalWeights, SoftControlNetWeights, SoftT2IAdapterWeights
  - TimestepKeyframe
-</details>
-
-# TOP 71 - 75
-
-<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=pythongosssss/ComfyUI-WD14-Tagger,frankchieng/ComfyUI_MagicClothing,Acly/comfyui-inpaint-nodes,cubiq/PuLID_ComfyUI,fofr/cog-consistent-character&type=Date"><img src="https://api.star-history.com/svg?repos=pythongosssss/ComfyUI-WD14-Tagger,frankchieng/ComfyUI_MagicClothing,Acly/comfyui-inpaint-nodes,cubiq/PuLID_ComfyUI,fofr/cog-consistent-character&type=Date" alt="Star History Chart" width="500"></a></details>
-
-
-## 71. pythongosssss/ComfyUI-WD14-Tagger
-
-
-<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
-<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
-
-**Stars**: `394` | **Created at**: `2023-05-11` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
-
-
-A ComfyUI extension allowing for the interrogation of booru tags from images.
-<details><summary>Included Nodes (1)</summary>
-
- - WD14Tagger|pysssss
 </details>
 
 
@@ -1277,7 +1277,7 @@ Nodes related to video workflows
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
-**Stars**: `373` | **Created at**: `2023-08-03` | **Last updated**: `2024-06-06` | **Tags**: `Translation` `Chinese Language`
+**Stars**: `374` | **Created at**: `2023-08-03` | **Last updated**: `2024-06-06` | **Tags**: `Translation` `Chinese Language`
 
 
 简体中文版 ComfyUI
@@ -1711,6 +1711,11 @@ Various custom nodes for ComfyUI
 
 You can also view this list in the order of creation date (to get a sense of the history of ComfyUI) [here](byDate.md).
 
+## A Broader Collection
+
+There are also many repositories refer to `ComfyUI` in their `README.md`.
+This broader collection can be found [here](BroaderCollection.md).
+
 ## Data Source
 
 This list is based on data from the `GitHub Search API`, `Star History API`, `ComfyUI-Manager`, and `manually curated tags`.
@@ -1723,4 +1728,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-06 11:36:36 UTC
+### Automatically updated on: 2024-06-06 12:11:43 UTC

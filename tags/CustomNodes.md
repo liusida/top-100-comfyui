@@ -398,7 +398,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `644` | **Created at**: `2024-06-06`
+**Stars**: `645` | **Created at**: `2024-06-06`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -706,6 +706,22 @@ An image/video/workflow browser and manager for ComfyUI.
 </details>
 
 
+## pythongosssss/ComfyUI-WD14-Tagger
+
+
+<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
+<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+
+**Stars**: `395` | **Created at**: `2024-06-06`
+
+
+A ComfyUI extension allowing for the interrogation of booru tags from images.
+<details><summary>Included Nodes (1)</summary>
+
+ - WD14Tagger|pysssss
+</details>
+
+
 ## Kosinkadink/ComfyUI-Advanced-ControlNet
 
 
@@ -724,22 +740,6 @@ ControlNet scheduling and masking nodes with sliding context support
  - LatentKeyframe, LatentKeyframeBatchedGroup, LatentKeyframeGroup, LatentKeyframeTiming, LoadImagesFromDirectory
  - ScaledSoftControlNetWeights, ScaledSoftMaskedUniversalWeights, SoftControlNetWeights, SoftT2IAdapterWeights
  - TimestepKeyframe
-</details>
-
-
-## pythongosssss/ComfyUI-WD14-Tagger
-
-
-<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
-<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
-
-**Stars**: `394` | **Created at**: `2024-06-06`
-
-
-A ComfyUI extension allowing for the interrogation of booru tags from images.
-<details><summary>Included Nodes (1)</summary>
-
- - WD14Tagger|pysssss
 </details>
 
 
