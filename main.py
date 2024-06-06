@@ -47,7 +47,7 @@ def write_tag_file(tag, repositories, tags):
                 "created_at": format_updated_at_date(updated_at),
                 "description": description,
             })
-            f.write(repo_item)
+            f.write(repo_item + '\n')
             extension_nodes = get_extension_nodes(repo_url)
             f.write(extension_nodes)
             
@@ -71,7 +71,7 @@ def write_by_date_file(repositories, tags):
                 "tags": ' '.join([f'`{tag}`' for tag in repo_tags]),
                 "description": description,
             })
-            f.write(repo_item)
+            f.write(repo_item + '\n')
 
             extension_nodes = get_extension_nodes(repo_url)
             f.write(extension_nodes)
@@ -82,7 +82,7 @@ def write_readme_file(repositories, tags, tag_links, preview=False):
         header = load_template("header").render({
             "updated_date": datetime.now(timezone.utc).strftime('%Y-%m-%d'),
         })
-        f.write(header)
+        f.write(header + '\n')
 
         # Write links to the tag files
         f.write("### Repositories by Tag:\n")
@@ -100,7 +100,7 @@ def write_readme_file(repositories, tags, tag_links, preview=False):
             created_ats = [repo['created_at'] for repo in repo_group]
 
             star_history_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
-            f.write(f'<details><summary>Star History for TOP {i+1} - {i+5}</summary><a href="{star_history_url}"><img src="{star_history_url}" alt="Star History Chart" width="400"></a></details>\n\n')
+            f.write(f'<details><summary>Star History for TOP {i+1} - {i+5}</summary><a href="{star_history_url}"><img src="{star_history_url}" alt="Star History Chart" width="500"></a></details>\n\n')
 
             for j, (repo_name, repo_url, star_count, avatar_url, description, updated_at, created_at) in enumerate(zip(repo_names, repo_urls, star_counts, avatar_urls, descriptions, updated_ats, created_ats)):
                 str_star_count = get_human_readable_star_count(star_count)
@@ -118,7 +118,7 @@ def write_readme_file(repositories, tags, tag_links, preview=False):
                     "tags": ' '.join([f'`{tag}`' for tag in repo_tags]),
                     "description": description,
                 })
-                f.write(repo_item)
+                f.write(repo_item + '\n')
 
                 extension_nodes = get_extension_nodes(repo_url)
                 f.write(extension_nodes)
@@ -188,7 +188,7 @@ def main():
     tag_links = get_tag_links(repos_by_tag)
     
     # Write README.md file
-    write_readme_file(repositories, tags, tag_links, preview=True)
+    write_readme_file(repositories, tags, tag_links, preview=False)
 
     # Write individual tag files
     for tag, repos in repos_by_tag.items():
