@@ -126,7 +126,7 @@ def write_extension_nodes(f, repo_url):
     if nodes:
         nodes_sorted = sorted(nodes[0], key=str.casefold)
         grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
-        f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
+        f.write(f"<details><summary>Included Nodes ({len(nodes[0])}){'?' if len(nodes[0]) == 0 else ''}</summary>\n\n")
         if (len(nodes[0])):
             for key, group in grouped_nodes:
                 f.write(" - " + ", ".join(group) + "\n")
