@@ -39,7 +39,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `396` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `406` | **Last updated**: `2024-06-06` | **Tags**: `Video`
 
 Wrapper to use DynamiCrafter models in ComfyUI
 
@@ -53,7 +53,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `373` | **Last updated**: `2024-06-04` | **Tags**: `Video`
+**Stars**: `374` | **Last updated**: `2024-06-05` | **Tags**: `Video`
 
 Nodes related to video workflows
 
@@ -95,7 +95,7 @@ Animation oriented nodes pack for ComfyUI
 
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'><img src="https://avatars.githubusercontent.com/u/16047777?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `321` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `323` | **Last updated**: `2024-06-05` | **Tags**: `Video`
 
 A custom node set for Video Frame Interpolation in ComfyUI.
 
@@ -111,27 +111,5 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - RIFE VFI
  - Sepconv VFI, STMFNet VFI
  - VFI FloatToInt
-</details>
-
-## FizzleDorf/ComfyUI_FizzNodes
-
-<a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
-
-**Stars**: `301` | **Last updated**: `2024-06-04` | **Tags**: `Video`
-
-Custom Nodes for Comfyui
-
-<details><summary>Included Nodes (33)</summary>
-
- - AbsCosWave, AbsSinWave
- - BatchGLIGENSchedule, BatchPromptSchedule, BatchPromptScheduleEncodeSDXL, BatchPromptScheduleLatentInput, BatchPromptScheduleNodeFlowEnd, BatchPromptScheduleSDXLLatentInput, BatchStringSchedule, BatchValueSchedule, BatchValueScheduleLatentInput
- - CalculateFrameOffset, ConcatStringSingle, convertKeyframeKeysToBatchKeys, CosWave
- - FizzFrame, FizzFrameConcatenate
- - ImagesFromBatchSchedule, Init FizzFrame, InvCosWave, InvSinWave
- - Lerp
- - PromptSchedule, PromptScheduleEncodeSDXL, PromptScheduleNodeFlow, PromptScheduleNodeFlowEnd
- - SawtoothWave, SinWave, SquareWave, StringConcatenate, StringSchedule
- - TriangleWave
- - ValueSchedule
 </details>
 

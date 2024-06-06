@@ -30,7 +30,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'><img src="https://avatars.githubusercontent.com/u/25872019?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
 
-**Stars**: `874` | **Last updated**: `2024-06-03` | **Tags**: `Management`
+**Stars**: `875` | **Last updated**: `2024-06-05` | **Tags**: `Management`
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
 
@@ -83,7 +83,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'><img src="https://avatars.githubusercontent.com/u/1554140?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `342` | **Last updated**: `2024-06-05` | **Tags**: `Management`
+**Stars**: `344` | **Last updated**: `2024-06-05` | **Tags**: `Management`
 
 A simple sidebar for your ConfyUI!
 

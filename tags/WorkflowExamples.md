@@ -4,7 +4,7 @@
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.5k` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+**Stars**: `3.6k` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
@@ -65,7 +65,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 
 <a href='https://github.com/fofr/cog-consistent-character'><img src="https://avatars.githubusercontent.com/u/319055?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `362` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
+**Stars**: `368` | **Last updated**: `2024-06-05` | **Tags**: `Workflow Examples`
 
 Create images of a given character in different poses
 

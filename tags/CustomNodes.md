@@ -168,7 +168,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'><img src="https://avatars.githubusercontent.com/u/1151589?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `896` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `898` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 An extensive node suite for ComfyUI with over 210 new nodes
 
@@ -211,7 +211,7 @@ None
 
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'><img src="https://avatars.githubusercontent.com/u/12645064?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `834` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `834` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
@@ -241,7 +241,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `740` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `741` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Unofficial implementation of PhotoMaker for ComfyUI
 
@@ -292,7 +292,7 @@ A ComfyUI node for driving videos using batches of images.
 
 <a href='https://github.com/rgthree/rgthree-comfy'><img src="https://avatars.githubusercontent.com/u/476360?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `647` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `649` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Making ComfyUI more comfortable!
 
@@ -330,7 +330,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'><img src="https://avatars.githubusercontent.com/u/25489996?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `623` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `624` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Custom nodes that extend the capabilities of Comfyui
 
@@ -374,7 +374,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 
 <a href='https://github.com/twri/sdxl_prompt_styler'><img src="https://avatars.githubusercontent.com/u/4344671?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `591` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `592` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Custom prompt styler node for SDXL in ComfyUI
 
@@ -410,7 +410,7 @@ Using Gemini in ComfyUI
 
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'><img src="https://avatars.githubusercontent.com/u/130118553?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `562` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `566` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 
@@ -436,7 +436,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 
 <a href='https://github.com/storyicon/comfyui_segment_anything'><img src="https://avatars.githubusercontent.com/u/29772821?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `484` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `485` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
 
@@ -464,7 +464,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'><img src="https://avatars.githubusercontent.com/u/73304135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `444` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `446` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
 
@@ -520,7 +520,7 @@ Custom node and script for sending webcam to ComfyUI
 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `396` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `406` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 Wrapper to use DynamiCrafter models in ComfyUI
 
@@ -565,7 +565,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 
 <a href='https://github.com/frankchieng/ComfyUI_MagicClothing'><img src="https://avatars.githubusercontent.com/u/130369523?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/frankchieng/ComfyUI_MagicClothing
 
-**Stars**: `388` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `391` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 unofficial implementation of Comfyui magic clothing
 
@@ -591,7 +591,7 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 
 <a href='https://github.com/cubiq/PuLID_ComfyUI'><img src="https://avatars.githubusercontent.com/u/427614?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `376` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `377` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 PuLID native implementation for ComfyUI
 
@@ -605,7 +605,7 @@ PuLID native implementation for ComfyUI
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `373` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes`
+**Stars**: `374` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 Nodes related to video workflows
 
@@ -683,7 +683,7 @@ Using IC-LIght models in ComfyUI
 
 <a href='https://github.com/huchenlei/ComfyUI-IC-Light-Native'><img src="https://avatars.githubusercontent.com/u/20929282?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-IC-Light-Native
 
-**Stars**: `341` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `342` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 ComfyUI native implementation of IC-Light
 
@@ -693,11 +693,24 @@ ComfyUI native implementation of IC-Light
  - VAEEncodeArgMax
 </details>
 
+## lks-ai/anynode
+
+<a href='https://github.com/lks-ai/anynode'><img src="https://avatars.githubusercontent.com/u/163685473?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
+
+**Stars**: `328` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
+
+A Node for ComfyUI that does what you ask it to do
+
+<details><summary>Included Nodes (5)</summary>
+
+ - AnyNode, AnyNodeCodeViewer, AnyNodeExport, AnyNodeGemini, AnyNodeLocal
+</details>
+
 ## BlenderNeko/ComfyUI_Cutoff
 
 <a href='https://github.com/BlenderNeko/ComfyUI_Cutoff'><img src="https://avatars.githubusercontent.com/u/126974546?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BlenderNeko/ComfyUI_Cutoff
 
-**Stars**: `326` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `327` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 cutoff implementation for ComfyUI
 
@@ -743,24 +756,11 @@ Animation oriented nodes pack for ComfyUI
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
 
-## lks-ai/anynode
-
-<a href='https://github.com/lks-ai/anynode'><img src="https://avatars.githubusercontent.com/u/163685473?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
-
-**Stars**: `324` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
-
-A Node for ComfyUI that does what you ask it to do
-
-<details><summary>Included Nodes (5)</summary>
-
- - AnyNode, AnyNodeCodeViewer, AnyNodeExport, AnyNodeGemini, AnyNodeLocal
-</details>
-
 ## Fannovel16/ComfyUI-Frame-Interpolation
 
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'><img src="https://avatars.githubusercontent.com/u/16047777?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `321` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+**Stars**: `323` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
 
 A custom node set for Video Frame Interpolation in ComfyUI.
 
@@ -867,6 +867,23 @@ A selection of nodes for Stable Diffusion ComfyUI
  - ttN advanced xyPlot, ttN advPlot range, ttN compareInput, ttN concat, ttN conditioning, ttN debugInput, ttN float, ttN hiresfixScale, ttN imageOutput, ttN imageREMBG, ttN int, ttN KSampler_v2, ttN multiModelMerge, ttN pipe2BASIC, ttN pipe2DETAILER, ttN pipeEDIT, ttN pipeEncodeConcat, ttN pipeIN, ttN pipeKSampler, ttN pipeKSampler_v2, ttN pipeKSamplerAdvanced, ttN pipeKSamplerAdvanced_v2, ttN pipeKSamplerSDXL, ttN pipeKSamplerSDXL_v2, ttN pipeLoader, ttN pipeLoader_v2, ttN pipeLoaderSDXL, ttN pipeLoaderSDXL_v2, ttN pipeLoraStack, ttN pipeOUT, ttN seed, ttN text, ttN text3BOX_3WAYconcat, ttN text7BOX_concat, ttN textCycleLine, ttN textDebug, ttN tinyLoader, ttN xyPlot
 </details>
 
+## nullquant/ComfyUI-BrushNet
+
+<a href='https://github.com/nullquant/ComfyUI-BrushNet'><img src="https://avatars.githubusercontent.com/u/81931994?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
+
+**Stars**: `303` | **Last updated**: `2024-06-05` | **Tags**: `Custom Nodes`
+
+ComfyUI BrushNet nodes
+
+<details><summary>Included Nodes (8)</summary>
+
+ - BlendInpaint, BrushNet, BrushNetLoader
+ - CutForInpaint
+ - PowerPaint, PowerPaintCLIPLoader
+ - RAUNet
+ - Terminal
+</details>
+
 ## kijai/ComfyUI-KJNodes
 
 <a href='https://github.com/kijai/ComfyUI-KJNodes'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
@@ -895,27 +912,5 @@ Various custom nodes for ComfyUI
  - SaveImageWithAlpha, ScaleBatchPromptSchedule, Sleep, SomethingToString, SoundReactive, SplineEditor, SplitBboxes, SplitImageChannels, StabilityAPI_SD3, StableZero123_BatchSchedule, StringConstant, StringConstantMultiline, Superprompt, SV3D_BatchSchedule
  - VRAM_Debug
  - WeightScheduleConvert, WeightScheduleExtend, WidgetToString
-</details>
-
-## FizzleDorf/ComfyUI_FizzNodes
-
-<a href='https://github.com/FizzleDorf/ComfyUI_FizzNodes'><img src="https://avatars.githubusercontent.com/u/46942135?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FizzleDorf/ComfyUI_FizzNodes
-
-**Stars**: `301` | **Last updated**: `2024-06-04` | **Tags**: `Custom Nodes`
-
-Custom Nodes for Comfyui
-
-<details><summary>Included Nodes (33)</summary>
-
- - AbsCosWave, AbsSinWave
- - BatchGLIGENSchedule, BatchPromptSchedule, BatchPromptScheduleEncodeSDXL, BatchPromptScheduleLatentInput, BatchPromptScheduleNodeFlowEnd, BatchPromptScheduleSDXLLatentInput, BatchStringSchedule, BatchValueSchedule, BatchValueScheduleLatentInput
- - CalculateFrameOffset, ConcatStringSingle, convertKeyframeKeysToBatchKeys, CosWave
- - FizzFrame, FizzFrameConcatenate
- - ImagesFromBatchSchedule, Init FizzFrame, InvCosWave, InvSinWave
- - Lerp
- - PromptSchedule, PromptScheduleEncodeSDXL, PromptScheduleNodeFlow, PromptScheduleNodeFlowEnd
- - SawtoothWave, SinWave, SquareWave, StringConcatenate, StringSchedule
- - TriangleWave
- - ValueSchedule
 </details>
 

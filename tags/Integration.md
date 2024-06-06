@@ -36,7 +36,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'><img src="https://avatars.githubusercontent.com/u/25550995?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `782` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
+**Stars**: `783` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
 
@@ -52,7 +52,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 
 <a href='https://github.com/BennyKok/comfyui-deploy'><img src="https://avatars.githubusercontent.com/u/18395202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `638` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `639` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 An open source `vercel` like deployment platform for Comfy UI
 
@@ -65,7 +65,7 @@ An open source `vercel` like deployment platform for Comfy UI
 
 <a href='https://github.com/rvion/CushyStudio'><img src="https://avatars.githubusercontent.com/u/2150990?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `600` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
+**Stars**: `601` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 🛋 The AI and Generative Art platform for everyone
 
@@ -89,7 +89,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 
 <a href='https://github.com/mrhan1993/Fooocus-API'><img src="https://avatars.githubusercontent.com/u/50648276?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `470` | **Last updated**: `2024-06-04` | **Tags**: `Integration`
+**Stars**: `472` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 FastAPI powered API for Fooocus
 
@@ -113,7 +113,7 @@ An extension to integrate ComfyUI workflows into the Webui's pipeline
 
 <a href='https://github.com/xingren23/ComfyFlowApp'><img src="https://avatars.githubusercontent.com/u/3837202?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `426` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
+**Stars**: `427` | **Last updated**: `2024-06-05` | **Tags**: `Integration`
 
 From comfyui workflow to web app, in seconds
 
