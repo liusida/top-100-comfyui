@@ -12,7 +12,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
-**Stars**: `372` | **Last updated**: `2024-06-03` | **Tags**: `Translation`
+**Stars**: `373` | **Last updated**: `2024-06-06` | **Tags**: `Translation`
 
 简体中文版 ComfyUI
 

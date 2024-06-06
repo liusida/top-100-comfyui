@@ -4,7 +4,7 @@
 
 <a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `719` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `720` | **Last updated**: `2024-06-06` | **Tags**: `Video`
 
 A ComfyUI node for driving videos using batches of images.
 
@@ -39,7 +39,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `406` | **Last updated**: `2024-06-06` | **Tags**: `Video`
+**Stars**: `410` | **Last updated**: `2024-06-06` | **Tags**: `Video`
 
 Wrapper to use DynamiCrafter models in ComfyUI
 
@@ -53,7 +53,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `374` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `374` | **Last updated**: `2024-06-06` | **Tags**: `Video`
 
 Nodes related to video workflows
 
@@ -66,7 +66,7 @@ Nodes related to video workflows
 
 <a href='https://github.com/melMass/comfy_mtb'><img src="https://avatars.githubusercontent.com/u/7041726?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `324` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+**Stars**: `325` | **Last updated**: `2024-06-06` | **Tags**: `Video`
 
 Animation oriented nodes pack for ComfyUI
 

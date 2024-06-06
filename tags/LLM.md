@@ -19,7 +19,7 @@ Using Gemini in ComfyUI
 
 <a href='https://github.com/lks-ai/anynode'><img src="https://avatars.githubusercontent.com/u/163685473?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `328` | **Last updated**: `2024-06-06` | **Tags**: `LLM`
+**Stars**: `333` | **Last updated**: `2024-06-06` | **Tags**: `LLM`
 
 A Node for ComfyUI that does what you ask it to do
 
