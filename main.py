@@ -226,8 +226,11 @@ def main():
                     nodes_sorted = sorted(nodes[0], key=str.casefold)
                     grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
                     f.write(f"<details><summary>Included Nodes ({len(nodes[0])})</summary>\n\n")
-                    for key, group in grouped_nodes:
-                        f.write(" - " + ", ".join(group) + "\n")
+                    if (len(nodes[0])):
+                        for key, group in grouped_nodes:
+                            f.write(" - " + ", ".join(group) + "\n")
+                    else:
+                        f.write(f"Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)")
                     f.write("</details>\n\n")
                     
             chart_url = f"https://api.star-history.com/svg?repos={','.join(repo_names)}&type=Date"
