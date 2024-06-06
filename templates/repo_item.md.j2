@@ -1,0 +1,13 @@
+{% if index %}
+## {{ index }}. {{ repo_name }}
+{% else %}
+## {{ repo_name }}
+{% endif %}
+
+<a href='{{ repo_url }}'>
+<img src="{{ avatar_url }}" width="50" height="50"></a> &nbsp; &nbsp; {{ repo_url }}
+
+**Stars**: `{{ star_count }}`{% if created_at %} | **Created at**: `{{ created_at }}`{% endif %}{% if updated_at %} | **Last updated**: `{{ updated_at }}`{% endif %}{% if tags %} | **Tags**: {{ tags }}{% endif %}
+
+
+{{ description }}
