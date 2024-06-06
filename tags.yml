@@ -30,6 +30,7 @@ tags:
   siliconflow/onediff:
     - Acceleration
   pythongosssss/ComfyUI-Custom-Scripts:
+    - Custom Nodes
     - Management
   huchenlei/ComfyUI-layerdiffuse:
     - Custom Nodes
@@ -83,6 +84,7 @@ tags:
   rgthree/rgthree-comfy:
     - Custom Nodes
   BennyKok/comfyui-deploy:
+    - Custom Nodes
     - Integration
   ArtVentureX/comfyui-animatediff:
     - Custom Nodes
@@ -154,6 +156,7 @@ tags:
     - Workflow Examples
   talesofai/comfyui-browser:
     - Management
+    - Custom Nodes
   Kosinkadink/ComfyUI-Advanced-ControlNet:
     - Custom Nodes
   pythongosssss/ComfyUI-WD14-Tagger:
