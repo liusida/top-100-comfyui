@@ -170,15 +170,21 @@ def get_tag_links(repos_by_tag):
     tag_links = move_tag(tag_links, "Deprecated")
     return tag_links
 
+def load_blacklist(file_path='blacklist.yml'):
+    with open(file_path, 'r', encoding="utf-8") as file:
+        return yaml.safe_load(file)
+
 def write_broader_collection_file():
     repositories = fetch_broader_repositories()   
 
     tags = load_tags().get('tags', {})
+    blacklist = load_blacklist().get('blacklist', {})
 
     print(f"Got {len(repositories)} repositories.")
 
     # Create a dictionary to store repositories by tags
     filtered_repos = [repo for repo in repositories if tags.get(repo['full_name']) is None]
+    filtered_repos = [repo for repo in filtered_repos if blacklist.get(repo['full_name']) is None]
     
     # Write README.md file
     with open("BroaderCollection.md", "w", encoding="utf-8") as f:
