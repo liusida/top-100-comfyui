@@ -1,76 +1,88 @@
 # Repositories tagged with `Video`
 
+
 ## banodoco/Steerable-Motion
 
-<a href='https://github.com/banodoco/Steerable-Motion'><img src="https://avatars.githubusercontent.com/u/134059142?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `720` | **Last updated**: `2024-06-06` | **Tags**: `Video`
+<a href='https://github.com/banodoco/Steerable-Motion'>
+<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
+
+**Stars**: `720` | **Created at**: `2024-06-06`
+
 
 A ComfyUI node for driving videos using batches of images.
-
 ## ArtVentureX/comfyui-animatediff
 
-<a href='https://github.com/ArtVentureX/comfyui-animatediff'><img src="https://avatars.githubusercontent.com/u/133736036?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `622` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+<a href='https://github.com/ArtVentureX/comfyui-animatediff'>
+<img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-AnimateDiff for ComfyUI
+**Stars**: `622` | **Created at**: `2024-06-05`
 
-<details><summary>Included Nodes (7)</summary>
+
+AnimateDiff for ComfyUI<details><summary>Included Nodes (7)</summary>
 
  - AnimateDiffCombine, AnimateDiffLoraLoader, AnimateDiffModuleLoader, AnimateDiffSampler, AnimateDiffSlidingWindowOptions
  - ImageSizeAndBatchSize
  - LoadVideo
 </details>
 
+
 ## MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-<a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'><img src="https://avatars.githubusercontent.com/u/62230687?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `427` | **Last updated**: `2024-06-04` | **Tags**: `Video`
+<a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
+<img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
+**Stars**: `428` | **Created at**: `2024-06-06`
 
-<details><summary>Included Nodes (0)?</summary>
+
+Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video <details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
+
 ## kijai/ComfyUI-DynamiCrafterWrapper
 
-<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'><img src="https://avatars.githubusercontent.com/u/40791699?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `410` | **Last updated**: `2024-06-06` | **Tags**: `Video`
+<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-Wrapper to use DynamiCrafter models in ComfyUI
+**Stars**: `413` | **Created at**: `2024-06-06`
 
-<details><summary>Included Nodes (8)</summary>
+
+Wrapper to use DynamiCrafter models in ComfyUI<details><summary>Included Nodes (8)</summary>
 
  - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
  - ToonCrafterDecode, ToonCrafterInterpolation
 </details>
 
+
 ## Kosinkadink/ComfyUI-VideoHelperSuite
 
-<a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'><img src="https://avatars.githubusercontent.com/u/7365912?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `374` | **Last updated**: `2024-06-06` | **Tags**: `Video`
+<a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
+<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-Nodes related to video workflows
+**Stars**: `376` | **Created at**: `2024-06-06`
 
-<details><summary>Included Nodes (29)</summary>
+
+Nodes related to video workflows<details><summary>Included Nodes (29)</summary>
 
  - VHS_BatchManager, VHS_DuplicateImages, VHS_DuplicateLatents, VHS_DuplicateMasks, VHS_GetImageCount, VHS_GetLatentCount, VHS_GetMaskCount, VHS_LoadAudio, VHS_LoadAudioUpload, VHS_LoadImages, VHS_LoadImagesPath, VHS_LoadVideo, VHS_LoadVideoPath, VHS_MergeImages, VHS_MergeLatents, VHS_MergeMasks, VHS_PruneOutputs, VHS_SelectEveryNthImage, VHS_SelectEveryNthLatent, VHS_SelectEveryNthMask, VHS_SplitImages, VHS_SplitLatents, VHS_SplitMasks, VHS_VAEDecodeBatched, VHS_VAEEncodeBatched, VHS_VideoCombine, VHS_VideoInfo, VHS_VideoInfoLoaded, VHS_VideoInfoSource
 </details>
 
+
 ## melMass/comfy_mtb
 
-<a href='https://github.com/melMass/comfy_mtb'><img src="https://avatars.githubusercontent.com/u/7041726?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `325` | **Last updated**: `2024-06-06` | **Tags**: `Video`
+<a href='https://github.com/melMass/comfy_mtb'>
+<img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-Animation oriented nodes pack for ComfyUI
+**Stars**: `325` | **Created at**: `2024-06-06`
 
-<details><summary>Included Nodes (60)</summary>
+
+Animation oriented nodes pack for ComfyUI<details><summary>Included Nodes (60)</summary>
 
  - Animation Builder (mtb), Any To String (mtb)
  - Batch Float (mtb), Batch Float Assemble (mtb), Batch Float Fill (mtb), Batch Make (mtb), Batch Merge (mtb), Batch Shake (mtb), Batch Shape (mtb), Batch Transform (mtb), Bbox (mtb), Bbox From Mask (mtb), Blur (mtb)
@@ -91,15 +103,17 @@ Animation oriented nodes pack for ComfyUI
  - Vae Decode (mtb)
 </details>
 
+
 ## Fannovel16/ComfyUI-Frame-Interpolation
 
-<a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'><img src="https://avatars.githubusercontent.com/u/16047777?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `323` | **Last updated**: `2024-06-05` | **Tags**: `Video`
+<a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
+<img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-A custom node set for Video Frame Interpolation in ComfyUI.
+**Stars**: `324` | **Created at**: `2024-06-06`
 
-<details><summary>Included Nodes (14)</summary>
+
+A custom node set for Video Frame Interpolation in ComfyUI.<details><summary>Included Nodes (14)</summary>
 
  - AMT VFI
  - CAIN VFI
