@@ -522,7 +522,7 @@ Making ComfyUI more comfortable!
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ### AIGODLIKE/AIGODLIKE-ComfyUI-Translation
 
@@ -892,7 +892,7 @@ A powerful set of tools for ComfyUI
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ### ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
@@ -921,7 +921,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ### chaojie/ComfyUI-DragNUWA
 
@@ -982,7 +982,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ### ZHO-ZHO-ZHO/ComfyUI-InstantID
 
@@ -1066,7 +1066,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `428` | **Created at**: `2024-02-19` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `429` | **Created at**: `2024-02-19` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 

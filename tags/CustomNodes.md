@@ -38,7 +38,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## Fannovel16/comfyui_controlnet_aux
 
@@ -298,7 +298,7 @@ Making ComfyUI more comfortable!
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## jags111/efficiency-nodes-comfyui
 
@@ -478,7 +478,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `428` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
+**Stars**: `429` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -498,7 +498,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## toyxyz/ComfyUI_toyxyz_test_nodes
 

@@ -114,7 +114,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `428` | **Last updated**: `2024-06-06` | **Tags**: `Chinese Language`
+**Stars**: `429` | **Last updated**: `2024-06-06` | **Tags**: `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 

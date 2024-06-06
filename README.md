@@ -155,7 +155,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 
 <details><summary>Included Nodes (0)</summary>
 
-Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## 12. Fannovel16/comfyui_controlnet_aux
 
@@ -554,7 +554,7 @@ Making ComfyUI more comfortable!
 
 <details><summary>Included Nodes (0)</summary>
 
-Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## 40. jags111/efficiency-nodes-comfyui
 
@@ -837,21 +837,13 @@ A powerful set of tools for ComfyUI
 
 <details><summary>Included Nodes (0)</summary>
 
-Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
-## 62. ltdrdata/ComfyUI-extension-tutorials
-
-<a href='https://github.com/ltdrdata/ComfyUI-extension-tutorials'><img src="https://avatars.githubusercontent.com/u/128333288?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-extension-tutorials
-
-**Stars**: `429` | **Last updated**: `2024-06-06` | **Tags**: `Tutorials`
-
-None
-
-## 63. ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
+## 62. ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'><img src="https://avatars.githubusercontent.com/u/140084057?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `428` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `429` | **Last updated**: `2024-06-06` | **Tags**: `Custom Nodes` `Chinese Language`
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
@@ -860,6 +852,14 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
  - ESAM_ModelLoader_Zho
  - Yoloworld_ESAM_DetectorProvider_Zho, Yoloworld_ESAM_Zho, Yoloworld_ModelLoader_Zho
 </details>
+
+## 63. ltdrdata/ComfyUI-extension-tutorials
+
+<a href='https://github.com/ltdrdata/ComfyUI-extension-tutorials'><img src="https://avatars.githubusercontent.com/u/128333288?v=4" alt="Owner Avatar" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-extension-tutorials
+
+**Stars**: `429` | **Last updated**: `2024-06-06` | **Tags**: `Tutorials`
+
+None
 
 ## 64. xingren23/ComfyFlowApp
 
@@ -879,9 +879,9 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <details><summary>Included Nodes (0)</summary>
 
-Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
-<a href="https://star-history.com/#crystian/ComfyUI-Crystools,ltdrdata/ComfyUI-extension-tutorials,ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM,xingren23/ComfyFlowApp,MrForExample/ComfyUI-AnimateAnyone-Evolved&Date"><img src="https://api.star-history.com/svg?repos=crystian/ComfyUI-Crystools,ltdrdata/ComfyUI-extension-tutorials,ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM,xingren23/ComfyFlowApp,MrForExample/ComfyUI-AnimateAnyone-Evolved&type=Date" alt="Star History Chart" width="600"></a>
+<a href="https://star-history.com/#crystian/ComfyUI-Crystools,ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM,ltdrdata/ComfyUI-extension-tutorials,xingren23/ComfyFlowApp,MrForExample/ComfyUI-AnimateAnyone-Evolved&Date"><img src="https://api.star-history.com/svg?repos=crystian/ComfyUI-Crystools,ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM,ltdrdata/ComfyUI-extension-tutorials,xingren23/ComfyFlowApp,MrForExample/ComfyUI-AnimateAnyone-Evolved&type=Date" alt="Star History Chart" width="600"></a>
 
 # TOP 66 - 70
 
@@ -1422,5 +1422,5 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-06 05:51:47 UTC
+### Automatically updated on: 2024-06-06 05:58:53 UTC
 

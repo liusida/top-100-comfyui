@@ -33,7 +33,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 
 <details><summary>Included Nodes (0)</summary>
 
-</details>
+ - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 ## kijai/ComfyUI-DynamiCrafterWrapper
 
