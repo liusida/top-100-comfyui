@@ -11,6 +11,7 @@
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+
 ## pythongosssss/ComfyUI-Custom-Scripts
 
 
@@ -20,7 +21,8 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 **Stars**: `1.3k` | **Created at**: `2024-06-06`
 
 
-Enhancements & experiments for ComfyUI, mostly focusing on UI features<details><summary>Included Nodes (14)</summary>
+Enhancements & experiments for ComfyUI, mostly focusing on UI features
+<details><summary>Included Nodes (14)</summary>
 
  - CheckpointLoader|pysssss, ConstrainImageforVideo|pysssss, ConstrainImage|pysssss
  - LoadText|pysssss, LoraLoader|pysssss
@@ -41,6 +43,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features<details><
 
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
+
 ## 11cafe/comfyui-workspace-manager
 
 
@@ -51,6 +54,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
+
 ## crystian/ComfyUI-Crystools
 
 
@@ -60,7 +64,8 @@ A ComfyUI workflows and models management extension to organize and manage all y
 **Stars**: `440` | **Created at**: `2024-06-06`
 
 
-A powerful set of tools for ComfyUI<details><summary>Included Nodes (0)?</summary>
+A powerful set of tools for ComfyUI
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -74,7 +79,8 @@ A powerful set of tools for ComfyUI<details><summary>Included Nodes (0)?</summar
 **Stars**: `401` | **Created at**: `2024-06-06`
 
 
-An image/video/workflow browser and manager for ComfyUI.<details><summary>Included Nodes (5)</summary>
+An image/video/workflow browser and manager for ComfyUI.
+<details><summary>Included Nodes (5)</summary>
 
  - DifyTextGenerator //Browser
  - LoadImageByUrl //Browser
@@ -94,6 +100,7 @@ An image/video/workflow browser and manager for ComfyUI.<details><summary>Includ
 
 
 Run any ComfyUI workflow w/ ZERO setup.
+
 ## Nuked88/ComfyUI-N-Sidebar
 
 

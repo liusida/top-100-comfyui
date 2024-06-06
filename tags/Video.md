@@ -11,6 +11,7 @@
 
 
 A ComfyUI node for driving videos using batches of images.
+
 ## ArtVentureX/comfyui-animatediff
 
 
@@ -20,7 +21,8 @@ A ComfyUI node for driving videos using batches of images.
 **Stars**: `622` | **Created at**: `2024-06-05`
 
 
-AnimateDiff for ComfyUI<details><summary>Included Nodes (7)</summary>
+AnimateDiff for ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
  - AnimateDiffCombine, AnimateDiffLoraLoader, AnimateDiffModuleLoader, AnimateDiffSampler, AnimateDiffSlidingWindowOptions
  - ImageSizeAndBatchSize
@@ -37,7 +39,8 @@ AnimateDiff for ComfyUI<details><summary>Included Nodes (7)</summary>
 **Stars**: `428` | **Created at**: `2024-06-06`
 
 
-Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video <details><summary>Included Nodes (0)?</summary>
+Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -51,7 +54,8 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 **Stars**: `413` | **Created at**: `2024-06-06`
 
 
-Wrapper to use DynamiCrafter models in ComfyUI<details><summary>Included Nodes (8)</summary>
+Wrapper to use DynamiCrafter models in ComfyUI
+<details><summary>Included Nodes (8)</summary>
 
  - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
  - ToonCrafterDecode, ToonCrafterInterpolation
@@ -67,7 +71,8 @@ Wrapper to use DynamiCrafter models in ComfyUI<details><summary>Included Nodes (
 **Stars**: `376` | **Created at**: `2024-06-06`
 
 
-Nodes related to video workflows<details><summary>Included Nodes (29)</summary>
+Nodes related to video workflows
+<details><summary>Included Nodes (29)</summary>
 
  - VHS_BatchManager, VHS_DuplicateImages, VHS_DuplicateLatents, VHS_DuplicateMasks, VHS_GetImageCount, VHS_GetLatentCount, VHS_GetMaskCount, VHS_LoadAudio, VHS_LoadAudioUpload, VHS_LoadImages, VHS_LoadImagesPath, VHS_LoadVideo, VHS_LoadVideoPath, VHS_MergeImages, VHS_MergeLatents, VHS_MergeMasks, VHS_PruneOutputs, VHS_SelectEveryNthImage, VHS_SelectEveryNthLatent, VHS_SelectEveryNthMask, VHS_SplitImages, VHS_SplitLatents, VHS_SplitMasks, VHS_VAEDecodeBatched, VHS_VAEEncodeBatched, VHS_VideoCombine, VHS_VideoInfo, VHS_VideoInfoLoaded, VHS_VideoInfoSource
 </details>
@@ -82,7 +87,8 @@ Nodes related to video workflows<details><summary>Included Nodes (29)</summary>
 **Stars**: `325` | **Created at**: `2024-06-06`
 
 
-Animation oriented nodes pack for ComfyUI<details><summary>Included Nodes (60)</summary>
+Animation oriented nodes pack for ComfyUI
+<details><summary>Included Nodes (60)</summary>
 
  - Animation Builder (mtb), Any To String (mtb)
  - Batch Float (mtb), Batch Float Assemble (mtb), Batch Float Fill (mtb), Batch Make (mtb), Batch Merge (mtb), Batch Shake (mtb), Batch Shape (mtb), Batch Transform (mtb), Bbox (mtb), Bbox From Mask (mtb), Blur (mtb)
@@ -113,7 +119,8 @@ Animation oriented nodes pack for ComfyUI<details><summary>Included Nodes (60)</
 **Stars**: `324` | **Created at**: `2024-06-06`
 
 
-A custom node set for Video Frame Interpolation in ComfyUI.<details><summary>Included Nodes (14)</summary>
+A custom node set for Video Frame Interpolation in ComfyUI.
+<details><summary>Included Nodes (14)</summary>
 
  - AMT VFI
  - CAIN VFI

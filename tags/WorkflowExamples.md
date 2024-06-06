@@ -11,6 +11,7 @@
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+
 ## fofr/cog-face-to-many
 
 
@@ -21,6 +22,7 @@
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
+
 ## comfyanonymous/ComfyUI_examples
 
 
@@ -31,6 +33,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 
 Examples of ComfyUI workflows
+
 ## SeargeDP/SeargeSDXL
 
 
@@ -40,7 +43,8 @@ Examples of ComfyUI workflows
 **Stars**: `730` | **Created at**: `2024-06-06`
 
 
-Custom nodes and workflows for SDXL in ComfyUI<details><summary>Included Nodes (73)</summary>
+Custom nodes and workflows for SDXL in ComfyUI
+<details><summary>Included Nodes (73)</summary>
 
  - SeargeAdvancedParameters, SeargeCheckpointLoader, SeargeConditioningMuxer2, SeargeConditioningMuxer5, SeargeConditioningParameters, SeargeConditionMixing, SeargeControlnetAdapterV2, SeargeControlnetModels, SeargeCustomAfterUpscaling, SeargeCustomAfterVaeDecode, SeargeCustomPromptMode, SeargeDebugPrinter, SeargeEnablerInputs, SeargeFloatConstant, SeargeFloatMath, SeargeFloatPair, SeargeFreeU, SeargeGenerated1, SeargeGenerationParameters, SeargeHighResolution, SeargeImage2ImageAndInpainting, SeargeImageAdapterV2, SeargeImageSave, SeargeImageSaving, SeargeInput1, SeargeInput2, SeargeInput3, SeargeInput4, SeargeInput5, SeargeInput6, SeargeInput7, SeargeIntegerConstant, SeargeIntegerMath, SeargeIntegerPair, SeargeIntegerScaler, SeargeLatentMuxer3, SeargeLoraLoader, SeargeLoras, SeargeMagicBox, SeargeModelSelector, SeargeOperatingMode, SeargeOutput1, SeargeOutput2, SeargeOutput3, SeargeOutput4, SeargeOutput5, SeargeOutput6, SeargeOutput7, SeargeParameterProcessor, SeargePipelineStart, SeargePipelineTerminator, SeargePreviewImage, SeargePromptAdapterV2, SeargePromptCombiner, SeargePromptStyles, SeargePromptText, SeargeSamplerAdvanced, SeargeSamplerInputs, SeargeSaveFolderInputs, SeargeSDXLBasePromptEncoder, SeargeSDXLImage2ImageSampler, SeargeSDXLImage2ImageSampler2, SeargeSDXLPromptEncoder, SeargeSDXLRefinerPromptEncoder, SeargeSDXLSampler, SeargeSDXLSampler2, SeargeSDXLSamplerV3, SeargeSeparator, SeargeStylePreprocessor, SeargeTextInputV2, SeargeUpscaleModelLoader, SeargeUpscaleModels, SeargeVAELoader
 </details>
@@ -56,6 +60,7 @@ Custom nodes and workflows for SDXL in ComfyUI<details><summary>Included Nodes (
 
 
 some wyrde workflows for comfyUI
+
 ## fofr/cog-face-to-sticker
 
 
@@ -66,6 +71,7 @@ some wyrde workflows for comfyUI
 
 
 face-to-sticker
+
 ## SytanSD/Sytan-SDXL-ComfyUI
 
 
@@ -76,6 +82,7 @@ face-to-sticker
 
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
+
 ## fofr/cog-consistent-character
 
 
@@ -86,6 +93,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 
 
 Create images of a given character in different poses
+
 ## atlasunified/Templates-ComfyUI-
 
 

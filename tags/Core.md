@@ -10,7 +10,8 @@
 **Stars**: `36.9k` | **Created at**: `2024-06-06`
 
 
-The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.<details><summary>Included Nodes (179)</summary>
+The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+<details><summary>Included Nodes (179)</summary>
 
  - AddNoise, AlignYourStepsScheduler
  - BasicGuider, BasicScheduler

@@ -11,6 +11,7 @@
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+
 ## ZHO-ZHO-ZHO/ComfyUI-InstantID
 
 
@@ -20,7 +21,8 @@
 **Stars**: `1.2k` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of InstantID for ComfyUI<details><summary>Included Nodes (7)</summary>
+Unofficial implementation of InstantID for ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
  - ID_Prompt_Styler, IDBaseModelLoader_fromhub, IDBaseModelLoader_local, IDControlNetLoader, IDGenerationNode, InsightFaceLoader_Zho, Ipadapter_instantidLoader
 </details>
@@ -35,7 +37,8 @@ Unofficial implementation of InstantID for ComfyUI<details><summary>Included Nod
 **Stars**: `837` | **Created at**: `2024-06-06`
 
 
-Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS<details><summary>Included Nodes (86)</summary>
+Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+<details><summary>Included Nodes (86)</summary>
 
  - 3DImage
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
@@ -67,7 +70,8 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS<d
 **Stars**: `741` | **Created at**: `2024-06-05`
 
 
-Unofficial implementation of PhotoMaker for ComfyUI<details><summary>Included Nodes (9)</summary>
+Unofficial implementation of PhotoMaker for ComfyUI
+<details><summary>Included Nodes (9)</summary>
 
  - BaseModel_Loader_fromhub, BaseModel_Loader_local
  - LoRALoader
@@ -86,7 +90,8 @@ Unofficial implementation of PhotoMaker for ComfyUI<details><summary>Included No
 **Stars**: `573` | **Created at**: `2024-06-06`
 
 
-Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
+Using Gemini in ComfyUI
+<details><summary>Included Nodes (12)</summary>
 
  - ConcatText_Zho
  - DisplayText_Zho
@@ -103,7 +108,8 @@ Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
 **Stars**: `538` | **Created at**: `2024-06-05`
 
 
-Unofficial implementation of BRIA RMBG Model for ComfyUI<details><summary>Included Nodes (2)</summary>
+Unofficial implementation of BRIA RMBG Model for ComfyUI
+<details><summary>Included Nodes (2)</summary>
 
  - BRIA_RMBG_ModelLoader_Zho, BRIA_RMBG_Zho
 </details>
@@ -118,7 +124,8 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI<details><summary>Includ
 **Stars**: `449` | **Created at**: `2024-06-06`
 
 
-In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.<details><summary>Included Nodes (142)</summary>
+In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
+<details><summary>Included Nodes (142)</summary>
 
  - dynamicThresholdingFull
  - easy a1111Loader, easy applyBrushNet, easy applyFooocusInpaint, easy applyInpaint, easy applyPowerPaint, easy boolean, easy cascadeKSampler, easy cascadeLoader, easy ckptNames, easy cleanGpuUsed, easy clearCacheAll, easy clearCacheKey, easy comfyLoader, easy compare, easy controlnetLoader, easy controlnetLoaderADV, easy controlnetNames, easy controlnetStack, easy convertAnything, easy detailerFix, easy dynamiCrafterLoader, easy float, easy fullCascadeKSampler, easy fullkSampler, easy fullLoader, easy globalSeed, easy hiresFix, easy humanSegmentation, easy icLightApply, easy if, easy imageChooser, easy imageColorMatch, easy imageConcat, easy imageCount, easy imageCropFromMask, easy imageDetailTransfer, easy imageInsetCrop, easy imageInterrogator, easy imagePixelPerfect, easy imageRatio, easy imageRemBg, easy imageSave, easy imageScaleDown, easy imageScaleDownBy, easy imageScaleDownToSize, easy imageSize, easy imageSizeByLongerSide, easy imageSizeBySide, easy imageSplitGrid, easy imageSplitList, easy imagesSplitImage, easy imageSwitch, easy imageToBase64, easy imageToMask, easy imageUncropFromBBOX, easy injectNoiseToLatent, easy instantIDApply, easy instantIDApplyADV, easy int, easy ipadapterApply, easy ipadapterApplyADV, easy ipadapterApplyEmbeds, easy ipadapterApplyEncoder, easy ipadapterApplyFromParams, easy ipadapterApplyRegional, easy ipadapterStyleComposition, easy isSDXL, easy joinImageBatch, easy kSampler, easy kSamplerDownscaleUnet, easy kSamplerInpainting, easy kSamplerLayerDiffusion, easy kSamplerSDTurbo, easy kSamplerTiled, easy latentCompositeMaskedWithCond, easy latentNoisy, easy LLLiteLoader, easy loadImageBase64, easy loraStack, easy negative, easy pipeBatchIndex, easy pipeEdit, easy pipeIn, easy pipeOut, easy pipeToBasicPipe, easy portraitMaster, easy poseEditor, easy positive, easy preDetailerFix, easy preMaskDetailerFix, easy preSampling, easy preSamplingAdvanced, easy preSamplingCascade, easy preSamplingCustom, easy preSamplingDynamicCFG, easy preSamplingLayerDiffusion, easy preSamplingLayerDiffusionADDTL, easy preSamplingNoiseIn, easy preSamplingSdTurbo, easy prompt, easy promptConcat, easy promptLine, easy promptList, easy promptReplace, easy rangeFloat, easy rangeInt, easy removeLocalImage, easy samLoaderPipe, easy seed, easy showAnything, easy showLoaderSettingsNames, easy showSpentTime, easy showTensorShape, easy stableDiffusion3API, easy string, easy styleAlignedBatchAlign, easy stylesSelector, easy sv3dLoader, easy svdLoader, easy textSwitch, easy ultralyticsDetectorPipe, easy unSampler, easy wildcards, easy xyAny, easy XYInputs: CFG Scale, easy XYInputs: Checkpoint, easy XYInputs: ControlNet, easy XYInputs: Denoise, easy XYInputs: Lora, easy XYInputs: ModelMergeBlocks, easy XYInputs: NegativeCond, easy XYInputs: NegativeCondList, easy XYInputs: PositiveCond, easy XYInputs: PositiveCondList, easy XYInputs: PromptSR, easy XYInputs: Sampler/Scheduler, easy XYInputs: Seeds++ Batch, easy XYInputs: Steps, easy XYPlot, easy XYPlotAdvanced, easy zero123Loader
@@ -134,7 +141,8 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 **Stars**: `431` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI<details><summary>Included Nodes (4)</summary>
+Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
+<details><summary>Included Nodes (4)</summary>
 
  - ESAM_ModelLoader_Zho
  - Yoloworld_ESAM_DetectorProvider_Zho, Yoloworld_ESAM_Zho, Yoloworld_ModelLoader_Zho
@@ -151,6 +159,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI<details><sum
 
 
 简体中文版 ComfyUI
+
 ## AuroBit/ComfyUI-OOTDiffusion
 
 
@@ -161,6 +170,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI<details><sum
 
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
+
 ## ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
 
@@ -170,7 +180,8 @@ ComfyUI custom node that simply integrates the OOTDiffusion.
 **Stars**: `320` | **Created at**: `2024-06-06`
 
 
-Prompt Visualization | Art Gallery<details><summary>Included Nodes (6)</summary>
+Prompt Visualization | Art Gallery
+<details><summary>Included Nodes (6)</summary>
 
  - ArtGallery_Zho, ArtistsImage_Zho
  - CamerasImage_Zho
@@ -189,7 +200,8 @@ Prompt Visualization | Art Gallery<details><summary>Included Nodes (6)</summary>
 **Stars**: `310` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of APISR for ComfyUI<details><summary>Included Nodes (3)</summary>
+Unofficial implementation of APISR for ComfyUI
+<details><summary>Included Nodes (3)</summary>
 
  - APISR_Lterative_Zho, APISR_ModelLoader_Zho, APISR_Zho
 </details>

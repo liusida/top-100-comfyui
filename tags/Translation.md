@@ -11,6 +11,7 @@
 
 
 A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
+
 ## ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
 

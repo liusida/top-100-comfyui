@@ -11,6 +11,7 @@
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
+
 ## LykosAI/StabilityMatrix
 
 
@@ -21,6 +22,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 
 
 Multi-Platform Package Manager for Stable Diffusion
+
 ## mut-ex/gligen-gui
 
 
@@ -31,6 +33,7 @@ Multi-Platform Package Manager for Stable Diffusion
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
+
 ## 6174/comflowyspace
 
 
@@ -41,6 +44,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
+
 ## pydn/ComfyUI-to-Python-Extension
 
 
@@ -51,6 +55,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
+
 ## diStyApps/seait
 
 
@@ -61,6 +66,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
+
 ## BennyKok/comfyui-deploy
 
 
@@ -70,7 +76,8 @@ SEAIT is a user-friendly application that simplifies the installation process of
 **Stars**: `639` | **Created at**: `2024-06-05`
 
 
-An open source `vercel` like deployment platform for Comfy UI<details><summary>Included Nodes (14)</summary>
+An open source `vercel` like deployment platform for Comfy UI
+<details><summary>Included Nodes (14)</summary>
 
  - ComfyDeployWebscoketImageInput, ComfyDeployWebscoketImageOutput, ComfyUIDeployExternalBoolean, ComfyUIDeployExternalCheckpoint, ComfyUIDeployExternalImage, ComfyUIDeployExternalImageAlpha, ComfyUIDeployExternalImageBatch, ComfyUIDeployExternalLora, ComfyUIDeployExternalNumber, ComfyUIDeployExternalNumberInt, ComfyUIDeployExternalNumberSlider, ComfyUIDeployExternalText, ComfyUIDeployExternalVid, ComfyUIDeployExternalVideo
 </details>
@@ -86,6 +93,7 @@ An open source `vercel` like deployment platform for Comfy UI<details><summary>I
 
 
 🛋 The AI and Generative Art platform for everyone
+
 ## space-nuko/ComfyBox
 
 
@@ -96,6 +104,7 @@ An open source `vercel` like deployment platform for Comfy UI<details><summary>I
 
 
 Customizable Stable Diffusion frontend for ComfyUI
+
 ## AIGODLIKE/ComfyUI-BlenderAI-node
 
 
@@ -106,6 +115,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
+
 ## mrhan1993/Fooocus-API
 
 
@@ -116,6 +126,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 
 
 FastAPI powered API for Fooocus
+
 ## AlexanderDzhoganov/ComfyTextures
 
 
@@ -126,6 +137,7 @@ FastAPI powered API for Fooocus
 
 
 Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models 
+
 ## ModelSurge/sd-webui-comfyui
 
 
@@ -136,6 +148,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 
 
 An extension to integrate ComfyUI workflows into the Webui's pipeline
+
 ## xingren23/ComfyFlowApp
 
 
@@ -146,6 +159,7 @@ An extension to integrate ComfyUI workflows into the Webui's pipeline
 
 
 From comfyui workflow to web app, in seconds
+
 ## ai-dock/comfyui
 
 

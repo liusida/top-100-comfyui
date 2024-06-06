@@ -10,7 +10,8 @@
 **Stars**: `573` | **Created at**: `2024-06-06`
 
 
-Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
+Using Gemini in ComfyUI
+<details><summary>Included Nodes (12)</summary>
 
  - ConcatText_Zho
  - DisplayText_Zho
@@ -27,7 +28,8 @@ Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
 **Stars**: `334` | **Created at**: `2024-06-06`
 
 
-A Node for ComfyUI that does what you ask it to do<details><summary>Included Nodes (5)</summary>
+A Node for ComfyUI that does what you ask it to do
+<details><summary>Included Nodes (5)</summary>
 
  - AnyNode, AnyNodeCodeViewer, AnyNodeExport, AnyNodeGemini, AnyNodeLocal
 </details>
@@ -42,7 +44,8 @@ A Node for ComfyUI that does what you ask it to do<details><summary>Included Nod
 **Stars**: `321` | **Created at**: `2024-06-04`
 
 
-ComfyUI Extension Nodes for Automated Text Generation.<details><summary>Included Nodes (36)</summary>
+ComfyUI Extension Nodes for Automated Text Generation.
+<details><summary>Included Nodes (36)</summary>
 
  - AppendAgent, Assistant
  - Chat, ChatGPT, CombineInput, Conditioning, CostumeAgent_1, CostumeAgent_2, CostumeMaster_1, Critic
@@ -69,7 +72,8 @@ ComfyUI Extension Nodes for Automated Text Generation.<details><summary>Included
 **Stars**: `314` | **Created at**: `2024-06-04`
 
 
-ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.<details><summary>Included Nodes (6)</summary>
+ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
+<details><summary>Included Nodes (6)</summary>
 
  - IF_ChatPrompt, IF_DisplayText, IF_ImagePrompt, IF_PromptMkr, IF_SaveText, IF_saveText
 </details>

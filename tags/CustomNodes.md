@@ -10,7 +10,8 @@
 **Stars**: `2.9k` | **Created at**: `2024-06-06`
 
 
-None<details><summary>Included Nodes (30)</summary>
+None
+<details><summary>Included Nodes (30)</summary>
 
  - IPAAdapterFaceIDBatch, IPAdapter, IPAdapterAdvanced, IPAdapterBatch, IPAdapterCombineEmbeds, IPAdapterCombineParams, IPAdapterCombineWeights, IPAdapterEmbeds, IPAdapterEmbedsBatch, IPAdapterEncoder, IPAdapterFaceID, IPAdapterFromParams, IPAdapterInsightFaceLoader, IPAdapterLoadEmbeds, IPAdapterModelLoader, IPAdapterMS, IPAdapterNoise, IPAdapterPromptScheduleFromWeightsStrategy, IPAdapterRegionalConditioning, IPAdapterSaveEmbeds, IPAdapterStyleComposition, IPAdapterStyleCompositionBatch, IPAdapterTiled, IPAdapterTiledBatch, IPAdapterUnifiedLoader, IPAdapterUnifiedLoaderCommunity, IPAdapterUnifiedLoaderFaceID, IPAdapterWeights, IPAdapterWeightsFromStrategy
  - PrepImageForClipVision
@@ -26,7 +27,8 @@ None<details><summary>Included Nodes (30)</summary>
 **Stars**: `2.2k` | **Created at**: `2024-06-06`
 
 
-Improved AnimateDiff for ComfyUI and Advanced Sampling Support<details><summary>Included Nodes (87)</summary>
+Improved AnimateDiff for ComfyUI and Advanced Sampling Support
+<details><summary>Included Nodes (87)</summary>
 
  - ADE_AdjustPEFullStretch, ADE_AdjustPEManual, ADE_AdjustPESweetspotStretch, ADE_AdjustWeightAllAdd, ADE_AdjustWeightAllMult, ADE_AdjustWeightIndivAdd, ADE_AdjustWeightIndivAttnAdd, ADE_AdjustWeightIndivAttnMult, ADE_AdjustWeightIndivMult, ADE_AnimateDiffCombine, ADE_AnimateDiffKeyframe, ADE_AnimateDiffLoaderGen1, ADE_AnimateDiffLoaderV1Advanced, ADE_AnimateDiffLoaderWithContext, ADE_AnimateDiffLoRALoader, ADE_AnimateDiffModelSettings, ADE_AnimateDiffModelSettings_Release, ADE_AnimateDiffModelSettingsAdvancedAttnStrengths, ADE_AnimateDiffModelSettingsSimple, ADE_AnimateDiffSamplingSettings, ADE_AnimateDiffSettings, ADE_AnimateDiffUniformContextOptions, ADE_AnimateDiffUnload, ADE_ApplyAnimateDiffModel, ADE_ApplyAnimateDiffModelSimple, ADE_ApplyAnimateDiffModelWithCameraCtrl, ADE_ApplyAnimateLCMI2VModel, ADE_AttachLoraHookToCLIP, ADE_AttachLoraHookToConditioning, ADE_BatchedContextOptions, ADE_CameraCtrlAnimateDiffKeyframe, ADE_CameraManualPoseAppend, ADE_CameraPoseAdvanced, ADE_CameraPoseBasic, ADE_CameraPoseCombo, ADE_CombineLoraHooks, ADE_CombineLoraHooksEight, ADE_CombineLoraHooksFour, ADE_ConditioningSetMask, ADE_ConditioningSetMaskAndCombine, ADE_ConditioningSetUnmaskedAndCombine, ADE_CustomCFG, ADE_CustomCFGKeyframe, ADE_EmptyLatentImageLarge, ADE_InjectI2VIntoAnimateDiffModel, ADE_IterationOptsDefault, ADE_IterationOptsFreeInit, ADE_LoadAnimateDiffModel, ADE_LoadAnimateDiffModelWithCameraCtrl, ADE_LoadAnimateLCMI2VModel, ADE_LoadCameraPoses, ADE_LoopedUniformContextOptions, ADE_LoopedUniformViewOptions, ADE_LoraHookKeyframe, ADE_LoraHookKeyframeFromStrengthList, ADE_LoraHookKeyframeInterpolation, ADE_MaskedLoadLora, ADE_MultivalDynamic, ADE_MultivalScaledMask, ADE_NoiseLayerAdd, ADE_NoiseLayerAddWeighted, ADE_NoiseLayerReplace, ADE_PairedConditioningSetMask, ADE_PairedConditioningSetMaskAndCombine, ADE_PairedConditioningSetUnmaskedAndCombine, ADE_RawSigmaSchedule, ADE_RegisterLoraHook, ADE_RegisterLoraHookModelOnly, ADE_RegisterModelAsLoraHook, ADE_RegisterModelAsLoraHookModelOnly, ADE_ReplaceCameraParameters, ADE_ReplaceOriginalPoseAspectRatio, ADE_SetLoraHookKeyframe, ADE_SigmaSchedule, ADE_SigmaScheduleSplitAndCombine, ADE_SigmaScheduleWeightedAverage, ADE_SigmaScheduleWeightedAverageInterp, ADE_StandardStaticContextOptions, ADE_StandardStaticViewOptions, ADE_StandardUniformContextOptions, ADE_StandardUniformViewOptions, ADE_TimestepsConditioning, ADE_UpscaleAndVAEEncode, ADE_UseEvolvedSampling, ADE_ViewsOnlyContextOptions, AnimateDiffLoaderV1
  - CheckpointLoaderSimpleWithNoiseSelect
@@ -42,7 +44,8 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support<details><summary>
 **Stars**: `1.6k` | **Created at**: `2024-06-06`
 
 
-An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)<details><summary>Included Nodes (0)?</summary>
+An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -56,7 +59,8 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 **Stars**: `1.5k` | **Created at**: `2024-06-06`
 
 
-ComfyUI's ControlNet Auxiliary Preprocessors<details><summary>Included Nodes (58)</summary>
+ComfyUI's ControlNet Auxiliary Preprocessors
+<details><summary>Included Nodes (58)</summary>
 
  - AIO_Preprocessor, AnimalPosePreprocessor, AnimeFace_SemSegPreprocessor, AnimeLineArtPreprocessor, AnyLineArtPreprocessor_aux
  - BAE-NormalMapPreprocessor, BinaryPreprocessor
@@ -85,7 +89,8 @@ ComfyUI's ControlNet Auxiliary Preprocessors<details><summary>Included Nodes (58
 **Stars**: `1.3k` | **Created at**: `2024-06-06`
 
 
-Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.<details><summary>Included Nodes (187)</summary>
+Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
+<details><summary>Included Nodes (187)</summary>
 
  - AddMask
  - BasicPipeToDetailerPipe, BasicPipeToDetailerPipeSDXL, BboxDetectorCombined, BboxDetectorCombined_v2, BboxDetectorForEach, BboxDetectorSEGS, BitwiseAndMask, BitwiseAndMaskForEach
@@ -118,7 +123,8 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 **Stars**: `1.2k` | **Created at**: `2024-06-06`
 
 
-Layer Diffuse custom nodes<details><summary>Included Nodes (8)</summary>
+Layer Diffuse custom nodes
+<details><summary>Included Nodes (8)</summary>
 
  - LayeredDiffusionApply, LayeredDiffusionCondApply, LayeredDiffusionCondJointApply, LayeredDiffusionDecode, LayeredDiffusionDecodeRGBA, LayeredDiffusionDecodeSplit, LayeredDiffusionDiffApply, LayeredDiffusionJointApply
 </details>
@@ -133,7 +139,8 @@ Layer Diffuse custom nodes<details><summary>Included Nodes (8)</summary>
 **Stars**: `1.2k` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of InstantID for ComfyUI<details><summary>Included Nodes (7)</summary>
+Unofficial implementation of InstantID for ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
  - ID_Prompt_Styler, IDBaseModelLoader_fromhub, IDBaseModelLoader_local, IDControlNetLoader, IDGenerationNode, InsightFaceLoader_Zho, Ipadapter_instantidLoader
 </details>
@@ -148,7 +155,8 @@ Unofficial implementation of InstantID for ComfyUI<details><summary>Included Nod
 **Stars**: `1.1k` | **Created at**: `2024-06-06`
 
 
-SUPIR upscaling wrapper for ComfyUI<details><summary>Included Nodes (10)</summary>
+SUPIR upscaling wrapper for ComfyUI
+<details><summary>Included Nodes (10)</summary>
 
  - SUPIR_conditioner, SUPIR_decode, SUPIR_encode, SUPIR_first_stage, SUPIR_model_loader, SUPIR_model_loader_v2, SUPIR_model_loader_v2_clip, SUPIR_sample, SUPIR_tiles, SUPIR_Upscale
 </details>
@@ -163,7 +171,8 @@ SUPIR upscaling wrapper for ComfyUI<details><summary>Included Nodes (10)</summar
 **Stars**: `1.0k` | **Created at**: `2024-06-05`
 
 
-Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyUI, and Auto WebUI)<details><summary>Included Nodes (2)</summary>
+Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyUI, and Auto WebUI)
+<details><summary>Included Nodes (2)</summary>
 
  - DynamicThresholdingFull, DynamicThresholdingSimple
 </details>
@@ -178,7 +187,8 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyU
 **Stars**: `990` | **Created at**: `2024-06-05`
 
 
-Fast and Simple Face Swap Extension Node for ComfyUI<details><summary>Included Nodes (11)</summary>
+Fast and Simple Face Swap Extension Node for ComfyUI
+<details><summary>Included Nodes (11)</summary>
 
  - ImageRGBA2RGB
  - ReActorBuildFaceModel, ReActorFaceSwap, ReActorFaceSwapOpt, ReActorImageDublicator, ReActorLoadFaceModel, ReActorMakeFaceModelBatch, ReActorMaskHelper, ReActorOptions, ReActorRestoreFace, ReActorSaveFaceModel
@@ -194,7 +204,8 @@ Fast and Simple Face Swap Extension Node for ComfyUI<details><summary>Included N
 **Stars**: `898` | **Created at**: `2024-06-05`
 
 
-An extensive node suite for ComfyUI with over 210 new nodes<details><summary>Included Nodes (214)</summary>
+An extensive node suite for ComfyUI with over 210 new nodes
+<details><summary>Included Nodes (214)</summary>
 
  - Blend Latents, BLIP Analyze Image, BLIP Model Loader, Boolean To Text, Bounded Image Blend, Bounded Image Blend with Mask, Bounded Image Crop, Bounded Image Crop with Mask, Bus Node
  - Cache Node, Checkpoint Loader, Checkpoint Loader (Simple), CLIP Input Switch, CLIP Vision Input Switch, CLIPSeg Batch Masking, CLIPSeg Masking, CLIPSeg Model Loader, CLIPTextEncode (BlenderNeko Advanced + NSP), CLIPTextEncode (NSP), Conditioning Input Switch, Constant Number, Control Net Model Input Switch, Convert Masks to Images, Create Grid Image, Create Grid Image from Batch, Create Morph Image, Create Morph Image from Path, Create Video from Path
@@ -224,7 +235,8 @@ An extensive node suite for ComfyUI with over 210 new nodes<details><summary>Inc
 **Stars**: `858` | **Created at**: `2024-06-06`
 
 
-None<details><summary>Included Nodes (7)</summary>
+None
+<details><summary>Included Nodes (7)</summary>
 
  - ApplyInstantID, ApplyInstantIDAdvanced, ApplyInstantIDControlNet
  - FaceKeypointsPreprocessor
@@ -241,7 +253,8 @@ None<details><summary>Included Nodes (7)</summary>
 **Stars**: `837` | **Created at**: `2024-06-06`
 
 
-Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS<details><summary>Included Nodes (86)</summary>
+Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+<details><summary>Included Nodes (86)</summary>
 
  - 3DImage
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
@@ -273,7 +286,8 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS<d
 **Stars**: `741` | **Created at**: `2024-06-05`
 
 
-Unofficial implementation of PhotoMaker for ComfyUI<details><summary>Included Nodes (9)</summary>
+Unofficial implementation of PhotoMaker for ComfyUI
+<details><summary>Included Nodes (9)</summary>
 
  - BaseModel_Loader_fromhub, BaseModel_Loader_local
  - LoRALoader
@@ -292,7 +306,8 @@ Unofficial implementation of PhotoMaker for ComfyUI<details><summary>Included No
 **Stars**: `730` | **Created at**: `2024-06-06`
 
 
-Custom nodes and workflows for SDXL in ComfyUI<details><summary>Included Nodes (73)</summary>
+Custom nodes and workflows for SDXL in ComfyUI
+<details><summary>Included Nodes (73)</summary>
 
  - SeargeAdvancedParameters, SeargeCheckpointLoader, SeargeConditioningMuxer2, SeargeConditioningMuxer5, SeargeConditioningParameters, SeargeConditionMixing, SeargeControlnetAdapterV2, SeargeControlnetModels, SeargeCustomAfterUpscaling, SeargeCustomAfterVaeDecode, SeargeCustomPromptMode, SeargeDebugPrinter, SeargeEnablerInputs, SeargeFloatConstant, SeargeFloatMath, SeargeFloatPair, SeargeFreeU, SeargeGenerated1, SeargeGenerationParameters, SeargeHighResolution, SeargeImage2ImageAndInpainting, SeargeImageAdapterV2, SeargeImageSave, SeargeImageSaving, SeargeInput1, SeargeInput2, SeargeInput3, SeargeInput4, SeargeInput5, SeargeInput6, SeargeInput7, SeargeIntegerConstant, SeargeIntegerMath, SeargeIntegerPair, SeargeIntegerScaler, SeargeLatentMuxer3, SeargeLoraLoader, SeargeLoras, SeargeMagicBox, SeargeModelSelector, SeargeOperatingMode, SeargeOutput1, SeargeOutput2, SeargeOutput3, SeargeOutput4, SeargeOutput5, SeargeOutput6, SeargeOutput7, SeargeParameterProcessor, SeargePipelineStart, SeargePipelineTerminator, SeargePreviewImage, SeargePromptAdapterV2, SeargePromptCombiner, SeargePromptStyles, SeargePromptText, SeargeSamplerAdvanced, SeargeSamplerInputs, SeargeSaveFolderInputs, SeargeSDXLBasePromptEncoder, SeargeSDXLImage2ImageSampler, SeargeSDXLImage2ImageSampler2, SeargeSDXLPromptEncoder, SeargeSDXLRefinerPromptEncoder, SeargeSDXLSampler, SeargeSDXLSampler2, SeargeSDXLSamplerV3, SeargeSeparator, SeargeStylePreprocessor, SeargeTextInputV2, SeargeUpscaleModelLoader, SeargeUpscaleModels, SeargeVAELoader
 </details>
@@ -307,7 +322,8 @@ Custom nodes and workflows for SDXL in ComfyUI<details><summary>Included Nodes (
 **Stars**: `727` | **Created at**: `2024-06-05`
 
 
-This node was designed to help AI image creators to generate prompts for human portraits.<details><summary>Included Nodes (1)</summary>
+This node was designed to help AI image creators to generate prompts for human portraits.
+<details><summary>Included Nodes (1)</summary>
 
  - PortraitMaster
 </details>
@@ -323,6 +339,7 @@ This node was designed to help AI image creators to generate prompts for human p
 
 
 A ComfyUI node for driving videos using batches of images.
+
 ## rgthree/rgthree-comfy
 
 
@@ -332,7 +349,8 @@ A ComfyUI node for driving videos using batches of images.
 **Stars**: `650` | **Created at**: `2024-06-06`
 
 
-Making ComfyUI more comfortable!<details><summary>Included Nodes (0)?</summary>
+Making ComfyUI more comfortable!
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -346,7 +364,8 @@ Making ComfyUI more comfortable!<details><summary>Included Nodes (0)?</summary>
 **Stars**: `644` | **Created at**: `2024-06-06`
 
 
-A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!<details><summary>Included Nodes (39)</summary>
+A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
+<details><summary>Included Nodes (39)</summary>
 
  - AnimateDiff Script, Apply ControlNet Stack
  - Control Net Stacker
@@ -374,7 +393,8 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!<det
 **Stars**: `626` | **Created at**: `2024-06-06`
 
 
-Custom nodes that extend the capabilities of Comfyui<details><summary>Included Nodes (9)</summary>
+Custom nodes that extend the capabilities of Comfyui
+<details><summary>Included Nodes (9)</summary>
 
  - ArgosTranslateCLIPTextEncodeNode, ArgosTranslateTextNode
  - DeepTranslatorCLIPTextEncodeNode, DeepTranslatorTextNode
@@ -392,7 +412,8 @@ Custom nodes that extend the capabilities of Comfyui<details><summary>Included N
 **Stars**: `622` | **Created at**: `2024-06-05`
 
 
-AnimateDiff for ComfyUI<details><summary>Included Nodes (7)</summary>
+AnimateDiff for ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
  - AnimateDiffCombine, AnimateDiffLoraLoader, AnimateDiffModuleLoader, AnimateDiffSampler, AnimateDiffSlidingWindowOptions
  - ImageSizeAndBatchSize
@@ -409,7 +430,8 @@ AnimateDiff for ComfyUI<details><summary>Included Nodes (7)</summary>
 **Stars**: `595` | **Created at**: `2024-06-06`
 
 
-ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.<details><summary>Included Nodes (2)</summary>
+ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
+<details><summary>Included Nodes (2)</summary>
 
  - UltimateSDUpscale, UltimateSDUpscaleNoUpscale
 </details>
@@ -424,7 +446,8 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.<deta
 **Stars**: `592` | **Created at**: `2024-06-05`
 
 
-Custom prompt styler node for SDXL in ComfyUI<details><summary>Included Nodes (2)</summary>
+Custom prompt styler node for SDXL in ComfyUI
+<details><summary>Included Nodes (2)</summary>
 
  - SDXLPromptStyler, SDXLPromptStylerAdvanced
 </details>
@@ -440,6 +463,7 @@ Custom prompt styler node for SDXL in ComfyUI<details><summary>Included Nodes (2
 
 
 A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer maintained.
+
 ## ZHO-ZHO-ZHO/ComfyUI-Gemini
 
 
@@ -449,7 +473,8 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 **Stars**: `573` | **Created at**: `2024-06-06`
 
 
-Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
+Using Gemini in ComfyUI
+<details><summary>Included Nodes (12)</summary>
 
  - ConcatText_Zho
  - DisplayText_Zho
@@ -466,7 +491,8 @@ Using Gemini in ComfyUI<details><summary>Included Nodes (12)</summary>
 **Stars**: `566` | **Created at**: `2024-06-05`
 
 
-A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.<details><summary>Included Nodes (124)</summary>
+A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
+<details><summary>Included Nodes (124)</summary>
 
  - LayerColor: AutoAdjust, LayerColor: AutoBrightness, LayerColor: Brightness & Contrast, LayerColor: Color of Shadow & Highlight, LayerColor: ColorAdapter, LayerColor: ColorBalance, LayerColor: ColorTemperature, LayerColor: Exposure, LayerColor: Gamma, LayerColor: HSV, LayerColor: LAB, LayerColor: Levels, LayerColor: LUT Apply, LayerColor: RGB, LayerColor: YUV, LayerFilter: ChannelShake, LayerFilter: ColorMap, LayerFilter: Film, LayerFilter: GaussianBlur, LayerFilter: HDREffects, LayerFilter: LightLeak, LayerFilter: MotionBlur, LayerFilter: Sharp & Soft, LayerFilter: SkinBeauty, LayerFilter: SoftLight, LayerFilter: WaterColor, LayerMask: BiRefNetUltra, LayerMask: BlendIf Mask, LayerMask: CreateGradientMask, LayerMask: MaskBoxDetect, LayerMask: MaskByColor, LayerMask: MaskByDifferent, LayerMask: MaskEdgeShrink, LayerMask: MaskEdgeUltraDetail, LayerMask: MaskEdgeUltraDetail V2, LayerMask: MaskGradient, LayerMask: MaskGrow, LayerMask: MaskInvert, LayerMask: MaskMotionBlur, LayerMask: MaskPreview, LayerMask: MaskStroke, LayerMask: PersonMaskUltra, LayerMask: PersonMaskUltra V2, LayerMask: PixelSpread, LayerMask: RemBgUltra, LayerMask: RmBgUltra V2, LayerMask: SegformerB2ClothesUltra, LayerMask: SegmentAnythingUltra, LayerMask: SegmentAnythingUltra V2, LayerMask: Shadow & Highlight Mask, LayerMask: YoloV8Detect, LayerStyle: ColorOverlay, LayerStyle: ColorOverlay V2, LayerStyle: DropShadow, LayerStyle: DropShadow V2, LayerStyle: GradientOverlay, LayerStyle: GradientOverlay V2, LayerStyle: InnerGlow, LayerStyle: InnerGlow V2, LayerStyle: InnerShadow, LayerStyle: InnerShadow V2, LayerStyle: OuterGlow, LayerStyle: OuterGlow V2, LayerStyle: Stroke, LayerStyle: Stroke V2, LayerUtility: AddBlindWaterMark, LayerUtility: Boolean, LayerUtility: BooleanOperator, LayerUtility: ColorImage, LayerUtility: ColorImage V2, LayerUtility: ColorPicker, LayerUtility: CreateQRCode, LayerUtility: CropBoxResolve, LayerUtility: CropByMask, LayerUtility: CropByMask V2, LayerUtility: DecodeQRCode, LayerUtility: ExtendCanvas, LayerUtility: ExtendCanvasV2, LayerUtility: Float, LayerUtility: GetColorTone, LayerUtility: GetColorToneV2, LayerUtility: GetImageSize, LayerUtility: GradientImage, LayerUtility: GradientImage V2, LayerUtility: ImageAutoCrop, LayerUtility: ImageAutoCrop V2, LayerUtility: ImageBlend, LayerUtility: ImageBlend V2, LayerUtility: ImageBlendAdvance, LayerUtility: ImageBlendAdvance V2, LayerUtility: ImageChannelMerge, LayerUtility: ImageChannelSplit, LayerUtility: ImageCombineAlpha, LayerUtility: ImageHub, LayerUtility: ImageMaskScaleAs, LayerUtility: ImageOpacity, LayerUtility: ImageRemoveAlpha, LayerUtility: ImageRewardFilter, LayerUtility: ImageScaleByAspectRatio, LayerUtility: ImageScaleByAspectRatio V2, LayerUtility: ImageScaleRestore, LayerUtility: ImageScaleRestore V2, LayerUtility: ImageShift, LayerUtility: Integer, LayerUtility: LaMa, LayerUtility: LayerImageTransform, LayerUtility: LayerMaskTransform, LayerUtility: LoadPSD, LayerUtility: NumberCalculator, LayerUtility: PrintInfo, LayerUtility: PromptEmbellish, LayerUtility: PromptTagger, LayerUtility: PurgeVRAM, LayerUtility: QWenImage2Prompt, LayerUtility: RestoreCropBox, LayerUtility: RGB Value, LayerUtility: SaveImagePlus, LayerUtility: Seed, LayerUtility: ShowBlindWaterMark, LayerUtility: SimpleTextImage, LayerUtility: TextBox, LayerUtility: TextImage, LayerUtility: TextJoin, LayerUtility: XY to Percent
 </details>
@@ -481,7 +507,8 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 **Stars**: `538` | **Created at**: `2024-06-05`
 
 
-Unofficial implementation of BRIA RMBG Model for ComfyUI<details><summary>Included Nodes (2)</summary>
+Unofficial implementation of BRIA RMBG Model for ComfyUI
+<details><summary>Included Nodes (2)</summary>
 
  - BRIA_RMBG_ModelLoader_Zho, BRIA_RMBG_Zho
 </details>
@@ -496,7 +523,8 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI<details><summary>Includ
 **Stars**: `485` | **Created at**: `2024-06-05`
 
 
-Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.<details><summary>Included Nodes (5)</summary>
+Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
+<details><summary>Included Nodes (5)</summary>
 
  - GroundingDinoModelLoader (segment anything), GroundingDinoSAMSegment (segment anything)
  - InvertMask (segment anything), IsMaskEmpty
@@ -513,7 +541,8 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 **Stars**: `450` | **Created at**: `2024-06-05`
 
 
-Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.<details><summary>Included Nodes (208)</summary>
+Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
+<details><summary>Included Nodes (208)</summary>
 
  - CR 8 Channel In, CR 8 Channel Out, CR Apply ControlNet, CR Apply LoRA Stack, CR Apply Model Merge, CR Apply Multi Upscale, CR Apply Multi-ControlNet, CR Arabic Text RTL, CR Aspect Ratio, CR Aspect Ratio Banners, CR Aspect Ratio SDXL, CR Aspect Ratio Social Media, CR Batch Images From List, CR Batch Process Switch, CR Binary Pattern, CR Binary To Bit List, CR Bit Schedule, CR Central Schedule, CR Checker Pattern, CR Clamp Value, CR Clip Input Switch, CR Color Bars, CR Color Gradient, CR Color Panel, CR Color Tint, CR Combine Prompt, CR Combine Schedules, CR Comic Panel Templates, CR Composite Text, CR Conditioning Input Switch, CR Conditioning Mixer, CR ControlNet Input Switch, CR Current Frame, CR Cycle Images, CR Cycle Images Simple, CR Cycle LoRAs, CR Cycle Models, CR Cycle Text, CR Cycle Text Simple, CR Data Bus In, CR Data Bus Out, CR Debatch Frames, CR Diamond Panel, CR Draw Perspective Text, CR Draw Pie, CR Draw Shape, CR Draw Text, CR Encode Scheduled Prompts, CR Feathered Border, CR Float Range List, CR Float To Integer, CR Float To String, CR Font File List, CR Get Parameter From Prompt, CR Gradient Float, CR Gradient Integer, CR Half Drop Panel, CR Halftone Filter, CR Halftone Grid, CR Hires Fix Process Switch, CR Image Border, CR Image Grid Panel, CR Image Input Switch, CR Image Input Switch (4 way), CR Image List, CR Image List Simple, CR Image Output, CR Image Panel, CR Image Pipe Edit, CR Image Pipe In, CR Image Pipe Out, CR Image Size, CR Img2Img Process Switch, CR Increment Float, CR Increment Integer, CR Index, CR Index Increment, CR Index Multiply, CR Index Reset, CR Input Text List, CR Integer Multiple, CR Integer Range List, CR Integer To String, CR Interpolate Latents, CR Intertwine Lists, CR Keyframe List, CR Latent Batch Size, CR Latent Input Switch, CR Load Animation Frames, CR Load Flow Frames, CR Load GIF As List, CR Load Image List, CR Load Image List Plus, CR Load LoRA, CR Load Prompt Style, CR Load Schedule From File, CR Load Scheduled ControlNets, CR Load Scheduled LoRAs, CR Load Scheduled Models, CR Load Text List, CR LoRA List, CR LoRA Stack, CR Mask Text, CR Math Operation, CR Model Input Switch, CR Model List, CR Model Merge Stack, CR Module Input, CR Module Output, CR Module Pipe Loader, CR Multi Upscale Stack, CR Multi-ControlNet Stack, CR Multiline Text, CR Output Flow Frames, CR Output Schedule To File, CR Overlay Text, CR Overlay Transparent Image, CR Page Layout, CR Pipe Switch, CR Polygons, CR Prompt List, CR Prompt List Keyframes, CR Prompt Scheduler, CR Prompt Text, CR Radial Gradient, CR Random Hex Color, CR Random LoRA Stack, CR Random Multiline Colors, CR Random Multiline Values, CR Random Panel Codes, CR Random RGB, CR Random RGB Gradient, CR Random Shape Pattern, CR Random Weight LoRA, CR Repeater, CR Save Text To File, CR Schedule Input Switch, CR Schedule To ScheduleList, CR SD1.5 Aspect Ratio, CR SDXL Aspect Ratio, CR SDXL Base Prompt Encoder, CR SDXL Prompt Mix Presets, CR SDXL Prompt Mixer, CR SDXL Style Text, CR Seamless Checker, CR Seed, CR Seed to Int, CR Select Font, CR Select ISO Size, CR Select Model, CR Select Resize Method, CR Set Switch From String, CR Set Value On Binary, CR Set Value On Boolean, CR Set Value on String, CR Simple Banner, CR Simple Binary Pattern, CR Simple Binary Pattern Simple, CR Simple Image Compare, CR Simple List, CR Simple Meme Template, CR Simple Prompt List, CR Simple Prompt List Keyframes, CR Simple Prompt Scheduler, CR Simple Schedule, CR Simple Text Panel, CR Simple Text Scheduler, CR Simple Text Watermark, CR Simple Titles, CR Simple Value Scheduler, CR Split String, CR Starburst Colors, CR Starburst Lines, CR String To Boolean, CR String To Combo, CR String To Number, CR Style Bars, CR Switch Model and CLIP, CR Text, CR Text Blacklist, CR Text Concatenate, CR Text Cycler, CR Text Input Switch, CR Text Input Switch (4 way), CR Text Length, CR Text List, CR Text List Simple, CR Text List To String, CR Text Operation, CR Text Replace, CR Text Scheduler, CR Thumbnail Preview, CR Trigger, CR Upscale Image, CR VAE Decode, CR VAE Input Switch, CR Value, CR Value Cycler, CR Value Scheduler, CR Vignette Filter, CR XY From Folder, CR XY Index, CR XY Interpolate, CR XY List, CR XY Product, CR XY Save Grid Image, CR XYZ Index, CR_Aspect Ratio For Print
 </details>
@@ -528,7 +557,8 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 **Stars**: `449` | **Created at**: `2024-06-06`
 
 
-In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.<details><summary>Included Nodes (142)</summary>
+In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
+<details><summary>Included Nodes (142)</summary>
 
  - dynamicThresholdingFull
  - easy a1111Loader, easy applyBrushNet, easy applyFooocusInpaint, easy applyInpaint, easy applyPowerPaint, easy boolean, easy cascadeKSampler, easy cascadeLoader, easy ckptNames, easy cleanGpuUsed, easy clearCacheAll, easy clearCacheKey, easy comfyLoader, easy compare, easy controlnetLoader, easy controlnetLoaderADV, easy controlnetNames, easy controlnetStack, easy convertAnything, easy detailerFix, easy dynamiCrafterLoader, easy float, easy fullCascadeKSampler, easy fullkSampler, easy fullLoader, easy globalSeed, easy hiresFix, easy humanSegmentation, easy icLightApply, easy if, easy imageChooser, easy imageColorMatch, easy imageConcat, easy imageCount, easy imageCropFromMask, easy imageDetailTransfer, easy imageInsetCrop, easy imageInterrogator, easy imagePixelPerfect, easy imageRatio, easy imageRemBg, easy imageSave, easy imageScaleDown, easy imageScaleDownBy, easy imageScaleDownToSize, easy imageSize, easy imageSizeByLongerSide, easy imageSizeBySide, easy imageSplitGrid, easy imageSplitList, easy imagesSplitImage, easy imageSwitch, easy imageToBase64, easy imageToMask, easy imageUncropFromBBOX, easy injectNoiseToLatent, easy instantIDApply, easy instantIDApplyADV, easy int, easy ipadapterApply, easy ipadapterApplyADV, easy ipadapterApplyEmbeds, easy ipadapterApplyEncoder, easy ipadapterApplyFromParams, easy ipadapterApplyRegional, easy ipadapterStyleComposition, easy isSDXL, easy joinImageBatch, easy kSampler, easy kSamplerDownscaleUnet, easy kSamplerInpainting, easy kSamplerLayerDiffusion, easy kSamplerSDTurbo, easy kSamplerTiled, easy latentCompositeMaskedWithCond, easy latentNoisy, easy LLLiteLoader, easy loadImageBase64, easy loraStack, easy negative, easy pipeBatchIndex, easy pipeEdit, easy pipeIn, easy pipeOut, easy pipeToBasicPipe, easy portraitMaster, easy poseEditor, easy positive, easy preDetailerFix, easy preMaskDetailerFix, easy preSampling, easy preSamplingAdvanced, easy preSamplingCascade, easy preSamplingCustom, easy preSamplingDynamicCFG, easy preSamplingLayerDiffusion, easy preSamplingLayerDiffusionADDTL, easy preSamplingNoiseIn, easy preSamplingSdTurbo, easy prompt, easy promptConcat, easy promptLine, easy promptList, easy promptReplace, easy rangeFloat, easy rangeInt, easy removeLocalImage, easy samLoaderPipe, easy seed, easy showAnything, easy showLoaderSettingsNames, easy showSpentTime, easy showTensorShape, easy stableDiffusion3API, easy string, easy styleAlignedBatchAlign, easy stylesSelector, easy sv3dLoader, easy svdLoader, easy textSwitch, easy ultralyticsDetectorPipe, easy unSampler, easy wildcards, easy xyAny, easy XYInputs: CFG Scale, easy XYInputs: Checkpoint, easy XYInputs: ControlNet, easy XYInputs: Denoise, easy XYInputs: Lora, easy XYInputs: ModelMergeBlocks, easy XYInputs: NegativeCond, easy XYInputs: NegativeCondList, easy XYInputs: PositiveCond, easy XYInputs: PositiveCondList, easy XYInputs: PromptSR, easy XYInputs: Sampler/Scheduler, easy XYInputs: Seeds++ Batch, easy XYInputs: Steps, easy XYPlot, easy XYPlotAdvanced, easy zero123Loader
@@ -544,7 +574,8 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 **Stars**: `431` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI<details><summary>Included Nodes (4)</summary>
+Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
+<details><summary>Included Nodes (4)</summary>
 
  - ESAM_ModelLoader_Zho
  - Yoloworld_ESAM_DetectorProvider_Zho, Yoloworld_ESAM_Zho, Yoloworld_ModelLoader_Zho
@@ -560,7 +591,8 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI<details><sum
 **Stars**: `428` | **Created at**: `2024-06-06`
 
 
-Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video <details><summary>Included Nodes (0)?</summary>
+Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
+<details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
@@ -574,7 +606,8 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 **Stars**: `426` | **Created at**: `2024-06-06`
 
 
-Custom node and script for sending webcam to ComfyUI<details><summary>Included Nodes (5)</summary>
+Custom node and script for sending webcam to ComfyUI
+<details><summary>Included Nodes (5)</summary>
 
  - CaptureWebcam
  - ImageResize_Padding
@@ -592,7 +625,8 @@ Custom node and script for sending webcam to ComfyUI<details><summary>Included N
 **Stars**: `413` | **Created at**: `2024-06-06`
 
 
-Wrapper to use DynamiCrafter models in ComfyUI<details><summary>Included Nodes (8)</summary>
+Wrapper to use DynamiCrafter models in ComfyUI
+<details><summary>Included Nodes (8)</summary>
 
  - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
  - ToonCrafterDecode, ToonCrafterInterpolation
@@ -608,7 +642,8 @@ Wrapper to use DynamiCrafter models in ComfyUI<details><summary>Included Nodes (
 **Stars**: `395` | **Created at**: `2024-06-06`
 
 
-ControlNet scheduling and masking nodes with sliding context support<details><summary>Included Nodes (28)</summary>
+ControlNet scheduling and masking nodes with sliding context support
+<details><summary>Included Nodes (28)</summary>
 
  - ACN_AdvancedControlNetApply, ACN_ControlNetLoaderWithLoraAdvanced, ACN_DefaultUniversalWeights, ACN_ReferenceControlNet, ACN_ReferenceControlNetFinetune, ACN_ReferencePreprocessor, ACN_SparseCtrlIndexMethodNode, ACN_SparseCtrlLoaderAdvanced, ACN_SparseCtrlMergedLoaderAdvanced, ACN_SparseCtrlRGBPreprocessor, ACN_SparseCtrlSpreadMethodNode, ACN_SparseCtrlWeightExtras, ACN_TimestepKeyframeFromStrengthList, ACN_TimestepKeyframeInterpolation
  - ControlNetLoaderAdvanced, CustomControlNetWeights, CustomT2IAdapterWeights
@@ -628,7 +663,8 @@ ControlNet scheduling and masking nodes with sliding context support<details><su
 **Stars**: `394` | **Created at**: `2024-06-06`
 
 
-A ComfyUI extension allowing for the interrogation of booru tags from images.<details><summary>Included Nodes (1)</summary>
+A ComfyUI extension allowing for the interrogation of booru tags from images.
+<details><summary>Included Nodes (1)</summary>
 
  - WD14Tagger|pysssss
 </details>
@@ -643,7 +679,8 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.<de
 **Stars**: `393` | **Created at**: `2024-06-06`
 
 
-unofficial implementation of Comfyui magic clothing<details><summary>Included Nodes (3)</summary>
+unofficial implementation of Comfyui magic clothing
+<details><summary>Included Nodes (3)</summary>
 
  - MagicClothing_Animatediff, MagicClothing_Generate, MagicClothing_Inpainting
 </details>
@@ -658,7 +695,8 @@ unofficial implementation of Comfyui magic clothing<details><summary>Included No
 **Stars**: `383` | **Created at**: `2024-06-06`
 
 
-Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.<details><summary>Included Nodes (8)</summary>
+Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
+<details><summary>Included Nodes (8)</summary>
 
  - INPAINT_ApplyFooocusInpaint, INPAINT_DenoiseToCompositingMask, INPAINT_InpaintWithModel, INPAINT_LoadFooocusInpaint, INPAINT_LoadInpaintModel, INPAINT_MaskedBlur, INPAINT_MaskedFill, INPAINT_VAEEncodeInpaintConditioning
 </details>
@@ -673,7 +711,8 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 **Stars**: `378` | **Created at**: `2024-06-06`
 
 
-PuLID native implementation for ComfyUI<details><summary>Included Nodes (5)</summary>
+PuLID native implementation for ComfyUI
+<details><summary>Included Nodes (5)</summary>
 
  - ApplyPulid, ApplyPulidAdvanced
  - PulidEvaClipLoader, PulidInsightFaceLoader, PulidModelLoader
@@ -689,7 +728,8 @@ PuLID native implementation for ComfyUI<details><summary>Included Nodes (5)</sum
 **Stars**: `376` | **Created at**: `2024-06-06`
 
 
-Nodes related to video workflows<details><summary>Included Nodes (29)</summary>
+Nodes related to video workflows
+<details><summary>Included Nodes (29)</summary>
 
  - VHS_BatchManager, VHS_DuplicateImages, VHS_DuplicateLatents, VHS_DuplicateMasks, VHS_GetImageCount, VHS_GetLatentCount, VHS_GetMaskCount, VHS_LoadAudio, VHS_LoadAudioUpload, VHS_LoadImages, VHS_LoadImagesPath, VHS_LoadVideo, VHS_LoadVideoPath, VHS_MergeImages, VHS_MergeLatents, VHS_MergeMasks, VHS_PruneOutputs, VHS_SelectEveryNthImage, VHS_SelectEveryNthLatent, VHS_SelectEveryNthMask, VHS_SplitImages, VHS_SplitLatents, VHS_SplitMasks, VHS_VAEDecodeBatched, VHS_VAEEncodeBatched, VHS_VideoCombine, VHS_VideoInfo, VHS_VideoInfoLoaded, VHS_VideoInfoSource
 </details>
@@ -704,7 +744,8 @@ Nodes related to video workflows<details><summary>Included Nodes (29)</summary>
 **Stars**: `366` | **Created at**: `2024-06-04`
 
 
-Marigold depth estimation in ComfyUI<details><summary>Included Nodes (8)</summary>
+Marigold depth estimation in ComfyUI
+<details><summary>Included Nodes (8)</summary>
 
  - ColorizeDepthmap
  - MarigoldDepthEstimation, MarigoldDepthEstimation_v2, MarigoldDepthEstimation_v2_video, MarigoldDepthEstimationVideo, MarigoldModelLoader
@@ -722,7 +763,8 @@ Marigold depth estimation in ComfyUI<details><summary>Included Nodes (8)</summar
 **Stars**: `353` | **Created at**: `2024-06-02`
 
 
-None<details><summary>Included Nodes (20)</summary>
+None
+<details><summary>Included Nodes (20)</summary>
 
  - BrushMotion
  - CompositeMotionBrush, CompositeMotionBrushWithoutModel
@@ -743,7 +785,8 @@ None<details><summary>Included Nodes (20)</summary>
 **Stars**: `347` | **Created at**: `2024-06-03`
 
 
-TripoSR custom node for comfyui<details><summary>Included Nodes (3)</summary>
+TripoSR custom node for comfyui
+<details><summary>Included Nodes (3)</summary>
 
  - TripoSRModelLoader, TripoSRSampler, TripoSRViewer
 </details>
@@ -758,7 +801,8 @@ TripoSR custom node for comfyui<details><summary>Included Nodes (3)</summary>
 **Stars**: `347` | **Created at**: `2024-06-06`
 
 
-Using IC-LIght models in ComfyUI<details><summary>Included Nodes (7)</summary>
+Using IC-LIght models in ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
  - BackgroundScaler
  - CalculateNormalsFromImages
@@ -777,7 +821,8 @@ Using IC-LIght models in ComfyUI<details><summary>Included Nodes (7)</summary>
 **Stars**: `346` | **Created at**: `2024-06-06`
 
 
-ComfyUI native implementation of IC-Light<details><summary>Included Nodes (3)</summary>
+ComfyUI native implementation of IC-Light
+<details><summary>Included Nodes (3)</summary>
 
  - ICLightApplyMaskGrey, ICLightAppply
  - VAEEncodeArgMax
@@ -793,7 +838,8 @@ ComfyUI native implementation of IC-Light<details><summary>Included Nodes (3)</s
 **Stars**: `334` | **Created at**: `2024-06-06`
 
 
-A Node for ComfyUI that does what you ask it to do<details><summary>Included Nodes (5)</summary>
+A Node for ComfyUI that does what you ask it to do
+<details><summary>Included Nodes (5)</summary>
 
  - AnyNode, AnyNodeCodeViewer, AnyNodeExport, AnyNodeGemini, AnyNodeLocal
 </details>
@@ -808,7 +854,8 @@ A Node for ComfyUI that does what you ask it to do<details><summary>Included Nod
 **Stars**: `327` | **Created at**: `2024-06-05`
 
 
-cutoff implementation for ComfyUI<details><summary>Included Nodes (4)</summary>
+cutoff implementation for ComfyUI
+<details><summary>Included Nodes (4)</summary>
 
  - BNK_CutoffBasePrompt, BNK_CutoffRegionsToConditioning, BNK_CutoffRegionsToConditioning_ADV, BNK_CutoffSetRegions
 </details>
@@ -823,7 +870,8 @@ cutoff implementation for ComfyUI<details><summary>Included Nodes (4)</summary>
 **Stars**: `325` | **Created at**: `2024-06-06`
 
 
-Animation oriented nodes pack for ComfyUI<details><summary>Included Nodes (60)</summary>
+Animation oriented nodes pack for ComfyUI
+<details><summary>Included Nodes (60)</summary>
 
  - Animation Builder (mtb), Any To String (mtb)
  - Batch Float (mtb), Batch Float Assemble (mtb), Batch Float Fill (mtb), Batch Make (mtb), Batch Merge (mtb), Batch Shake (mtb), Batch Shape (mtb), Batch Transform (mtb), Bbox (mtb), Bbox From Mask (mtb), Blur (mtb)
@@ -855,6 +903,7 @@ Animation oriented nodes pack for ComfyUI<details><summary>Included Nodes (60)</
 
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
+
 ## Fannovel16/ComfyUI-Frame-Interpolation
 
 
@@ -864,7 +913,8 @@ ComfyUI custom node that simply integrates the OOTDiffusion.
 **Stars**: `324` | **Created at**: `2024-06-06`
 
 
-A custom node set for Video Frame Interpolation in ComfyUI.<details><summary>Included Nodes (14)</summary>
+A custom node set for Video Frame Interpolation in ComfyUI.
+<details><summary>Included Nodes (14)</summary>
 
  - AMT VFI
  - CAIN VFI
@@ -888,7 +938,8 @@ A custom node set for Video Frame Interpolation in ComfyUI.<details><summary>Inc
 **Stars**: `321` | **Created at**: `2024-06-04`
 
 
-ComfyUI Extension Nodes for Automated Text Generation.<details><summary>Included Nodes (36)</summary>
+ComfyUI Extension Nodes for Automated Text Generation.
+<details><summary>Included Nodes (36)</summary>
 
  - AppendAgent, Assistant
  - Chat, ChatGPT, CombineInput, Conditioning, CostumeAgent_1, CostumeAgent_2, CostumeMaster_1, Critic
@@ -915,7 +966,8 @@ ComfyUI Extension Nodes for Automated Text Generation.<details><summary>Included
 **Stars**: `320` | **Created at**: `2024-06-06`
 
 
-Prompt Visualization | Art Gallery<details><summary>Included Nodes (6)</summary>
+Prompt Visualization | Art Gallery
+<details><summary>Included Nodes (6)</summary>
 
  - ArtGallery_Zho, ArtistsImage_Zho
  - CamerasImage_Zho
@@ -934,7 +986,8 @@ Prompt Visualization | Art Gallery<details><summary>Included Nodes (6)</summary>
 **Stars**: `314` | **Created at**: `2024-06-04`
 
 
-ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.<details><summary>Included Nodes (6)</summary>
+ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
+<details><summary>Included Nodes (6)</summary>
 
  - IF_ChatPrompt, IF_DisplayText, IF_ImagePrompt, IF_PromptMkr, IF_SaveText, IF_saveText
 </details>
@@ -950,6 +1003,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 
 
 Wraps the IC-Light Diffuser demo to a ComfyUI node
+
 ## ZHO-ZHO-ZHO/ComfyUI-APISR
 
 
@@ -959,7 +1013,8 @@ Wraps the IC-Light Diffuser demo to a ComfyUI node
 **Stars**: `310` | **Created at**: `2024-06-06`
 
 
-Unofficial implementation of APISR for ComfyUI<details><summary>Included Nodes (3)</summary>
+Unofficial implementation of APISR for ComfyUI
+<details><summary>Included Nodes (3)</summary>
 
  - APISR_Lterative_Zho, APISR_ModelLoader_Zho, APISR_Zho
 </details>
@@ -974,7 +1029,8 @@ Unofficial implementation of APISR for ComfyUI<details><summary>Included Nodes (
 **Stars**: `307` | **Created at**: `2024-06-05`
 
 
-A selection of nodes for Stable Diffusion ComfyUI<details><summary>Included Nodes (38)</summary>
+A selection of nodes for Stable Diffusion ComfyUI
+<details><summary>Included Nodes (38)</summary>
 
  - ttN advanced xyPlot, ttN advPlot range, ttN compareInput, ttN concat, ttN conditioning, ttN debugInput, ttN float, ttN hiresfixScale, ttN imageOutput, ttN imageREMBG, ttN int, ttN KSampler_v2, ttN multiModelMerge, ttN pipe2BASIC, ttN pipe2DETAILER, ttN pipeEDIT, ttN pipeEncodeConcat, ttN pipeIN, ttN pipeKSampler, ttN pipeKSampler_v2, ttN pipeKSamplerAdvanced, ttN pipeKSamplerAdvanced_v2, ttN pipeKSamplerSDXL, ttN pipeKSamplerSDXL_v2, ttN pipeLoader, ttN pipeLoader_v2, ttN pipeLoaderSDXL, ttN pipeLoaderSDXL_v2, ttN pipeLoraStack, ttN pipeOUT, ttN seed, ttN text, ttN text3BOX_3WAYconcat, ttN text7BOX_concat, ttN textCycleLine, ttN textDebug, ttN tinyLoader, ttN xyPlot
 </details>
@@ -989,7 +1045,8 @@ A selection of nodes for Stable Diffusion ComfyUI<details><summary>Included Node
 **Stars**: `305` | **Created at**: `2024-06-06`
 
 
-ComfyUI BrushNet nodes<details><summary>Included Nodes (8)</summary>
+ComfyUI BrushNet nodes
+<details><summary>Included Nodes (8)</summary>
 
  - BlendInpaint, BrushNet, BrushNetLoader
  - CutForInpaint
@@ -1008,7 +1065,8 @@ ComfyUI BrushNet nodes<details><summary>Included Nodes (8)</summary>
 **Stars**: `304` | **Created at**: `2024-06-06`
 
 
-Various custom nodes for ComfyUI<details><summary>Included Nodes (112)</summary>
+Various custom nodes for ComfyUI
+<details><summary>Included Nodes (112)</summary>
 
  - AddLabel, AppendInstanceDiffusionTracking
  - BatchCLIPSeg, BatchCropFromMask, BatchCropFromMaskAdvanced, BatchUncrop, BatchUncropAdvanced, BboxToInt, BboxVisualize
