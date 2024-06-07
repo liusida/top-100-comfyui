@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `25.9k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-06`
+**Stars**: `25.9k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-07`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -106,7 +106,7 @@ Easy Docker setup for Stable Diffusion with user-friendly UI
 <a href='https://github.com/jagenjo/litegraph.js'>
 <img src="https://avatars.githubusercontent.com/u/393515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jagenjo/litegraph.js
 
-**Stars**: `5.4k` | **Created at**: `2013-09-26` | **Last updated**: `2024-06-06`
+**Stars**: `5.5k` | **Created at**: `2013-09-26` | **Last updated**: `2024-06-06`
 
 
 A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
@@ -161,7 +161,7 @@ Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inf
 <a href='https://github.com/ParisNeo/lollms-webui'>
 <img src="https://avatars.githubusercontent.com/u/827993?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ParisNeo/lollms-webui
 
-**Stars**: `4.0k` | **Created at**: `2023-04-06` | **Last updated**: `2024-06-06`
+**Stars**: `4.0k` | **Created at**: `2023-04-06` | **Last updated**: `2024-06-07`
 
 
 Lord of Large Language Models Web User Interface
@@ -183,7 +183,7 @@ Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guid
 <a href='https://github.com/philz1337x/clarity-upscaler'>
 <img src="https://avatars.githubusercontent.com/u/112502636?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/philz1337x/clarity-upscaler
 
-**Stars**: `3.0k` | **Created at**: `2024-03-15` | **Last updated**: `2024-06-06`
+**Stars**: `3.1k` | **Created at**: `2024-03-15` | **Last updated**: `2024-06-06`
 
 
 Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -293,7 +293,7 @@ Lora beYond Conventional methods, Other Rank adaptation Implementations for Stab
 <a href='https://github.com/xyflow/awesome-node-based-uis'>
 <img src="https://avatars.githubusercontent.com/u/7106853?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xyflow/awesome-node-based-uis
 
-**Stars**: `2.0k` | **Created at**: `2022-11-14` | **Last updated**: `2024-06-05`
+**Stars**: `2.0k` | **Created at**: `2022-11-14` | **Last updated**: `2024-06-06`
 
 
 A curated list with resources about node-based UIs
@@ -315,7 +315,7 @@ MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Vis
 <a href='https://github.com/adieyal/sd-dynamic-prompts'>
 <img src="https://avatars.githubusercontent.com/u/420786?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/adieyal/sd-dynamic-prompts
 
-**Stars**: `1.9k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-05`
+**Stars**: `1.9k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-06`
 
 
 A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
@@ -359,7 +359,7 @@ Let us democratise high-resolution generation! (CVPR 2024)
 <a href='https://github.com/layerdiffusion/LayerDiffuse'>
 <img src="https://avatars.githubusercontent.com/u/161511761?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/layerdiffusion/LayerDiffuse
 
-**Stars**: `1.8k` | **Created at**: `2024-02-27` | **Last updated**: `2024-06-05`
+**Stars**: `1.8k` | **Created at**: `2024-02-27` | **Last updated**: `2024-06-06`
 
 
 Transparent Image Layer Diffusion using Latent Transparency
@@ -408,6 +408,17 @@ V-Express aims to generate a talking head video under the control of a reference
 
 sd-webui中文提示词插件、老手新手炼丹必备
 
+## Coyote-A/ultimate-upscale-for-automatic1111
+
+
+<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
+<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+
+**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-06`
+
+
+None
+
 ## ChenyangSi/FreeU
 
 
@@ -418,17 +429,6 @@ sd-webui中文提示词插件、老手新手炼丹必备
 
 
 FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
-
-## Coyote-A/ultimate-upscale-for-automatic1111
-
-
-<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
-<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
-
-**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-05`
-
-
-None
 
 ## TMElyralab/MuseTalk
 
@@ -524,7 +524,7 @@ PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image
 <a href='https://github.com/numz/sd-wav2lip-uhq'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/sd-wav2lip-uhq
 
-**Stars**: `1.1k` | **Created at**: `2023-08-03` | **Last updated**: `2024-06-05`
+**Stars**: `1.1k` | **Created at**: `2023-08-03` | **Last updated**: `2024-06-06`
 
 
 Wav2Lip UHQ extension for Automatic1111
@@ -557,7 +557,7 @@ Best inference performance optimization framework for HuggingFace Diffusers on N
 <a href='https://github.com/janhq/awesome-local-ai'>
 <img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/janhq/awesome-local-ai
 
-**Stars**: `969` | **Created at**: `2023-09-06` | **Last updated**: `2024-06-06`
+**Stars**: `970` | **Created at**: `2023-09-06` | **Last updated**: `2024-06-06`
 
 
 An awesome repository of local AI tools
@@ -579,7 +579,7 @@ An awesome repository of local AI tools
 <a href='https://github.com/receyuki/stable-diffusion-prompt-reader'>
 <img src="https://avatars.githubusercontent.com/u/28808141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/receyuki/stable-diffusion-prompt-reader
 
-**Stars**: `945` | **Created at**: `2023-03-24` | **Last updated**: `2024-06-04`
+**Stars**: `950` | **Created at**: `2023-03-24` | **Last updated**: `2024-06-06`
 
 
 A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
@@ -601,7 +601,7 @@ WarpFusion
 <a href='https://github.com/MoonRide303/Fooocus-MRE'>
 <img src="https://avatars.githubusercontent.com/u/130458190?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MoonRide303/Fooocus-MRE
 
-**Stars**: `925` | **Created at**: `2023-08-12` | **Last updated**: `2024-06-05`
+**Stars**: `926` | **Created at**: `2023-08-12` | **Last updated**: `2024-06-06`
 
 
 Focus on prompting and generating
@@ -612,7 +612,7 @@ Focus on prompting and generating
 <a href='https://github.com/TencentQQGYLab/ELLA'>
 <img src="https://avatars.githubusercontent.com/u/163842438?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentQQGYLab/ELLA
 
-**Stars**: `894` | **Created at**: `2024-03-07` | **Last updated**: `2024-06-06`
+**Stars**: `895` | **Created at**: `2024-03-07` | **Last updated**: `2024-06-06`
 
 
 ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
@@ -623,7 +623,7 @@ ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
 <a href='https://github.com/ToTheBeginning/PuLID'>
 <img src="https://avatars.githubusercontent.com/u/11482921?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ToTheBeginning/PuLID
 
-**Stars**: `863` | **Created at**: `2024-04-17` | **Last updated**: `2024-06-06`
+**Stars**: `866` | **Created at**: `2024-04-17` | **Last updated**: `2024-06-06`
 
 
 Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment

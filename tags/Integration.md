@@ -51,7 +51,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `786` | **Created at**: `2024-06-06`
+**Stars**: `787` | **Created at**: `2024-06-06`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -62,7 +62,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/diStyApps/seait'>
 <img src="https://avatars.githubusercontent.com/u/3084832?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diStyApps/seait
 
-**Stars**: `686` | **Created at**: `2024-05-30`
+**Stars**: `685` | **Created at**: `2024-06-06`
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -73,7 +73,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `639` | **Created at**: `2024-06-05`
+**Stars**: `641` | **Created at**: `2024-06-06`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -122,7 +122,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `472` | **Created at**: `2024-06-05`
+**Stars**: `475` | **Created at**: `2024-06-06`
 
 
 FastAPI powered API for Fooocus

@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `695` | **Created at**: `2024-06-05`
+**Stars**: `696` | **Created at**: `2024-06-06`
 
 
 some wyrde workflows for comfyUI
@@ -89,7 +89,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `377` | **Created at**: `2024-06-06`
+**Stars**: `380` | **Created at**: `2024-06-06`
 
 
 Create images of a given character in different poses

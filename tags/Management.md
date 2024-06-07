@@ -7,7 +7,7 @@
 <a href='https://github.com/ltdrdata/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
 
-**Stars**: `4.1k` | **Created at**: `2024-06-06`
+**Stars**: `4.1k` | **Created at**: `2024-06-07`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -61,7 +61,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `440` | **Created at**: `2024-06-06`
+**Stars**: `441` | **Created at**: `2024-06-06`
 
 
 A powerful set of tools for ComfyUI
@@ -96,7 +96,7 @@ An image/video/workflow browser and manager for ComfyUI.
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `370` | **Created at**: `2024-06-06`
+**Stars**: `372` | **Created at**: `2024-06-06`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -107,7 +107,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `344` | **Created at**: `2024-06-05`
+**Stars**: `344` | **Created at**: `2024-06-06`
 
 
 A simple sidebar for your ConfyUI!

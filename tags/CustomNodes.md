@@ -221,7 +221,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyU
 <a href='https://github.com/Gourieff/comfyui-reactor-node'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/comfyui-reactor-node
 
-**Stars**: `990` | **Created at**: `2024-06-05`
+**Stars**: `992` | **Created at**: `2024-06-06`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI
@@ -269,7 +269,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `859` | **Created at**: `2024-06-06`
+**Stars**: `861` | **Created at**: `2024-06-06`
 
 
 None
@@ -356,7 +356,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'>
 <img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: `727` | **Created at**: `2024-06-05`
+**Stars**: `728` | **Created at**: `2024-06-06`
 
 
 This node was designed to help AI image creators to generate prompts for human portraits.
@@ -372,7 +372,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `720` | **Created at**: `2024-06-06`
+**Stars**: `721` | **Created at**: `2024-06-06`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -383,7 +383,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `650` | **Created at**: `2024-06-06`
+**Stars**: `651` | **Created at**: `2024-06-06`
 
 
 Making ComfyUI more comfortable!
@@ -398,7 +398,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `645` | **Created at**: `2024-06-06`
+**Stars**: `646` | **Created at**: `2024-06-06`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -427,7 +427,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `639` | **Created at**: `2024-06-05`
+**Stars**: `641` | **Created at**: `2024-06-06`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -480,7 +480,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `595` | **Created at**: `2024-06-06`
+**Stars**: `596` | **Created at**: `2024-06-06`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -541,7 +541,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `566` | **Created at**: `2024-06-05`
+**Stars**: `567` | **Created at**: `2024-06-06`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -573,7 +573,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `485` | **Created at**: `2024-06-05`
+**Stars**: `486` | **Created at**: `2024-06-06`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -591,7 +591,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `450` | **Created at**: `2024-06-05`
+**Stars**: `451` | **Created at**: `2024-06-07`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -607,7 +607,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `449` | **Created at**: `2024-06-06`
+**Stars**: `451` | **Created at**: `2024-06-06`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -675,7 +675,7 @@ Custom node and script for sending webcam to ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `413` | **Created at**: `2024-06-06`
+**Stars**: `415` | **Created at**: `2024-06-06`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -765,7 +765,7 @@ unofficial implementation of Comfyui magic clothing
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `383` | **Created at**: `2024-06-06`
+**Stars**: `385` | **Created at**: `2024-06-06`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -798,7 +798,7 @@ PuLID native implementation for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `376` | **Created at**: `2024-06-06`
+**Stars**: `377` | **Created at**: `2024-06-06`
 
 
 Nodes related to video workflows
@@ -849,6 +849,23 @@ None
 </details>
 
 
+## huchenlei/ComfyUI-IC-Light-Native
+
+
+<a href='https://github.com/huchenlei/ComfyUI-IC-Light-Native'>
+<img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-IC-Light-Native
+
+**Stars**: `352` | **Created at**: `2024-06-06`
+
+
+ComfyUI native implementation of IC-Light
+<details><summary>Included Nodes (3)</summary>
+
+ - ICLightApplyMaskGrey, ICLightAppply
+ - VAEEncodeArgMax
+</details>
+
+
 ## flowtyone/ComfyUI-Flowty-TripoSR
 
 
@@ -885,30 +902,13 @@ Using IC-LIght models in ComfyUI
 </details>
 
 
-## huchenlei/ComfyUI-IC-Light-Native
-
-
-<a href='https://github.com/huchenlei/ComfyUI-IC-Light-Native'>
-<img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-IC-Light-Native
-
-**Stars**: `346` | **Created at**: `2024-06-06`
-
-
-ComfyUI native implementation of IC-Light
-<details><summary>Included Nodes (3)</summary>
-
- - ICLightApplyMaskGrey, ICLightAppply
- - VAEEncodeArgMax
-</details>
-
-
 ## lks-ai/anynode
 
 
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `335` | **Created at**: `2024-06-06`
+**Stars**: `340` | **Created at**: `2024-06-06`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -972,7 +972,7 @@ Animation oriented nodes pack for ComfyUI
 <a href='https://github.com/AuroBit/ComfyUI-OOTDiffusion'>
 <img src="https://avatars.githubusercontent.com/u/135130495?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AuroBit/ComfyUI-OOTDiffusion
 
-**Stars**: `324` | **Created at**: `2024-06-04`
+**Stars**: `325` | **Created at**: `2024-06-06`
 
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
@@ -1056,7 +1056,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `315` | **Created at**: `2024-06-06`
+**Stars**: `316` | **Created at**: `2024-06-06`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -1115,7 +1115,7 @@ A selection of nodes for Stable Diffusion ComfyUI
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `305` | **Created at**: `2024-06-06`
+**Stars**: `306` | **Created at**: `2024-06-06`
 
 
 ComfyUI BrushNet nodes
