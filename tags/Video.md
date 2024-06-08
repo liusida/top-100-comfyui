@@ -51,7 +51,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `423` | **Created at**: `2024-06-07`
+**Stars**: `424` | **Created at**: `2024-06-08`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -116,7 +116,7 @@ Animation oriented nodes pack for ComfyUI
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `325` | **Created at**: `2024-06-07`
+**Stars**: `326` | **Created at**: `2024-06-08`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
