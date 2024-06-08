@@ -8,11 +8,15 @@ from utils.github import GITHUB_TOKEN, fetch_repositories, fetch_broader_reposit
 from utils.extension_node_map import extension_map, EXTENSION_NODE_MAP_URL
 from utils.common import format_updated_at_date, load_template, get_human_readable_star_count
 
+all_nodes = []
+
 def get_extension_nodes(repo_url):
+    global all_nodes
     ret = ""
     nodes = extension_map.get(repo_url, [])
     if nodes:
         nodes_sorted = sorted(nodes[0], key=str.casefold)
+        all_nodes.extend(nodes_sorted)
         grouped_nodes = itertools.groupby(nodes_sorted, key=lambda x: x[0].upper())
         ret += f"<details><summary>Included Nodes ({len(nodes[0])}){'?' if len(nodes[0]) == 0 else ''}</summary>\n\n"
         if (len(nodes[0])):
@@ -234,6 +238,9 @@ def main():
     write_by_date_file(repositories, tags)
 
     write_broader_collection_file()
+
+    with open('all_nodes.yml', 'w') as file:
+        yaml.dump(all_nodes, file, default_flow_style=False)
 
 if __name__ == "__main__":
     main()

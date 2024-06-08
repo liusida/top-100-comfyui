@@ -28,8 +28,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run script
+    - name: Run main
       run: python main.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
+    - name: Run search for workflow
+      run: python search_for_workflow.py
       env:
         GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
@@ -37,7 +42,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add *.md tags/*.md
+        git add *.md tags/*.md node_examples/*.md
         git commit -m "Update generated markdown files"
         git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
