@@ -56,7 +56,7 @@ Unofficial implementation of InstantID for ComfyUI
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <details><summary>Included Nodes (86)</summary>
 
- - [3DImage](node_examples/3DImage.md) (4)
+ - [3DImage](node_examples/3DImage.md)
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
  - CenterImage, CharacterInText, ChatGPTOpenAI, CkptNames_, Color, ComparingTwoFrames_, CompositeImages_
  - DynamicDelayProcessor
