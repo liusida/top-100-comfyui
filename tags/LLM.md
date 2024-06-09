@@ -25,7 +25,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `353` | **Created at**: `2024-06-08`
+**Stars**: `355` | **Created at**: `2024-06-08`
 
 
 A Node for ComfyUI that does what you ask it to do

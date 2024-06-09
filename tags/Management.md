@@ -96,7 +96,7 @@ An image/video/workflow browser and manager for ComfyUI.
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `373` | **Created at**: `2024-06-08`
+**Stars**: `374` | **Created at**: `2024-06-08`
 
 
 Run any ComfyUI workflow w/ ZERO setup.

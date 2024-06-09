@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `26.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-08`
+**Stars**: `26.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-09`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -29,7 +29,7 @@ User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 <a href='https://github.com/hua1995116/awesome-ai-painting'>
 <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hua1995116/awesome-ai-painting
 
-**Stars**: `10.8k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-07`
+**Stars**: `10.8k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-09`
 
 
 AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -73,7 +73,7 @@ PhotoMaker
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-07`
+**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-08`
 
 
 fast-stable-diffusion + DreamBooth
@@ -106,7 +106,7 @@ Easy Docker setup for Stable Diffusion with user-friendly UI
 <a href='https://github.com/jagenjo/litegraph.js'>
 <img src="https://avatars.githubusercontent.com/u/393515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jagenjo/litegraph.js
 
-**Stars**: `5.5k` | **Created at**: `2013-09-26` | **Last updated**: `2024-06-08`
+**Stars**: `5.5k` | **Created at**: `2013-09-26` | **Last updated**: `2024-06-09`
 
 
 A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
@@ -216,7 +216,7 @@ Stable Diffusion in pure C/C++
 <a href='https://github.com/Stability-AI/StableSwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/100950301?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Stability-AI/StableSwarmUI
 
-**Stars**: `2.7k` | **Created at**: `2023-05-12` | **Last updated**: `2024-06-07`
+**Stars**: `2.7k` | **Created at**: `2023-05-12` | **Last updated**: `2024-06-08`
 
 
 StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -249,7 +249,7 @@ PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Ima
 <a href='https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper'>
 <img src="https://avatars.githubusercontent.com/u/5558722?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
 
-**Stars**: `2.3k` | **Created at**: `2023-03-07` | **Last updated**: `2024-06-07`
+**Stars**: `2.3k` | **Created at**: `2023-03-07` | **Last updated**: `2024-06-08`
 
 
 Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
@@ -337,7 +337,7 @@ Exploiting Diffusion Prior for Real-World Image Super-Resolution
 <a href='https://github.com/Doubiiu/DynamiCrafter'>
 <img src="https://avatars.githubusercontent.com/u/43002743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Doubiiu/DynamiCrafter
 
-**Stars**: `1.9k` | **Created at**: `2023-11-27` | **Last updated**: `2024-06-07`
+**Stars**: `1.9k` | **Created at**: `2023-11-27` | **Last updated**: `2024-06-08`
 
 
 DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
@@ -370,7 +370,7 @@ Transparent Image Layer Diffusion using Latent Transparency
 <a href='https://github.com/taishi-i/awesome-ChatGPT-repositories'>
 <img src="https://avatars.githubusercontent.com/u/12726223?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/taishi-i/awesome-ChatGPT-repositories
 
-**Stars**: `1.8k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-07`
+**Stars**: `1.8k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-08`
 
 
 A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
@@ -392,7 +392,7 @@ A curated list of awesome C frameworks, libraries and software.
 <a href='https://github.com/tencent-ailab/V-Express'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/V-Express
 
-**Stars**: `1.8k` | **Created at**: `2024-05-21` | **Last updated**: `2024-06-08`
+**Stars**: `1.8k` | **Created at**: `2024-05-21` | **Last updated**: `2024-06-09`
 
 
 V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
@@ -408,6 +408,17 @@ V-Express aims to generate a talking head video under the control of a reference
 
 sd-webui中文提示词插件、老手新手炼丹必备
 
+## Coyote-A/ultimate-upscale-for-automatic1111
+
+
+<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
+<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+
+**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-09`
+
+
+None
+
 ## ChenyangSi/FreeU
 
 
@@ -418,17 +429,6 @@ sd-webui中文提示词插件、老手新手炼丹必备
 
 
 FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
-
-## Coyote-A/ultimate-upscale-for-automatic1111
-
-
-<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
-<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
-
-**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-08`
-
-
-None
 
 ## TMElyralab/MusePose
 
@@ -502,7 +502,7 @@ MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 <a href='https://github.com/bianchenglequ/NetCodeTop'>
 <img src="https://avatars.githubusercontent.com/u/108387401?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/bianchenglequ/NetCodeTop
 
-**Stars**: `1.1k` | **Created at**: `2023-01-01` | **Last updated**: `2024-06-08`
+**Stars**: `1.2k` | **Created at**: `2023-01-01` | **Last updated**: `2024-06-08`
 
 
 收集GitHub上有关.Net、.NetCore有趣、有用、热门的开源项目。
@@ -546,7 +546,7 @@ The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting
 <a href='https://github.com/chengzeyi/stable-fast'>
 <img src="https://avatars.githubusercontent.com/u/23494160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chengzeyi/stable-fast
 
-**Stars**: `1.0k` | **Created at**: `2023-10-17` | **Last updated**: `2024-06-07`
+**Stars**: `1.0k` | **Created at**: `2023-10-17` | **Last updated**: `2024-06-08`
 
 
 Best inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs.

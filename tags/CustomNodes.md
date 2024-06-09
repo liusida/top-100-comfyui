@@ -221,7 +221,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyU
 <a href='https://github.com/Gourieff/comfyui-reactor-node'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/comfyui-reactor-node
 
-**Stars**: `998` | **Created at**: `2024-06-08`
+**Stars**: `1.0k` | **Created at**: `2024-06-08`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI
@@ -320,7 +320,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `741` | **Created at**: `2024-06-07`
+**Stars**: `740` | **Created at**: `2024-06-08`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -372,7 +372,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `725` | **Created at**: `2024-06-07`
+**Stars**: `727` | **Created at**: `2024-06-08`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -398,7 +398,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `648` | **Created at**: `2024-06-08`
+**Stars**: `649` | **Created at**: `2024-06-08`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -443,7 +443,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `629` | **Created at**: `2024-06-08`
+**Stars**: `630` | **Created at**: `2024-06-08`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -462,7 +462,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `624` | **Created at**: `2024-06-07`
+**Stars**: `625` | **Created at**: `2024-06-08`
 
 
 AnimateDiff for ComfyUI
@@ -496,7 +496,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `591` | **Created at**: `2024-06-07`
+**Stars**: `592` | **Created at**: `2024-06-08`
 
 
 Custom prompt styler node for SDXL in ComfyUI
@@ -541,7 +541,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `571` | **Created at**: `2024-06-08`
+**Stars**: `573` | **Created at**: `2024-06-08`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -573,7 +573,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `488` | **Created at**: `2024-06-08`
+**Stars**: `489` | **Created at**: `2024-06-08`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -675,7 +675,7 @@ Custom node and script for sending webcam to ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `424` | **Created at**: `2024-06-08`
+**Stars**: `426` | **Created at**: `2024-06-08`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -765,7 +765,7 @@ unofficial implementation of Comfyui magic clothing
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `389` | **Created at**: `2024-06-08`
+**Stars**: `391` | **Created at**: `2024-06-08`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -814,7 +814,7 @@ Nodes related to video workflows
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `366` | **Created at**: `2024-06-04`
+**Stars**: `367` | **Created at**: `2024-06-08`
 
 
 Marigold depth estimation in ComfyUI
@@ -892,7 +892,7 @@ None
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `353` | **Created at**: `2024-06-08`
+**Stars**: `355` | **Created at**: `2024-06-08`
 
 
 A Node for ComfyUI that does what you ask it to do
