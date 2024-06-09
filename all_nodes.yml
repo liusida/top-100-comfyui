@@ -113,11 +113,11 @@ AnimateDiffCombine: 21
 AnimateDiffLoaderV1: 2
 AnimateDiffLoraLoader: 5
 AnimateDiffModuleLoader: 18
-AnimateDiffSampler: -1
-AnimateDiffSlidingWindowOptions: -1
+AnimateDiffSampler: 17
+AnimateDiffSlidingWindowOptions: 2
 Animation Builder (mtb): -1
-AnimeFace_SemSegPreprocessor: -1
-AnimeLineArtPreprocessor: -1
+AnimeFace_SemSegPreprocessor: 1
+AnimeLineArtPreprocessor: 15
 Any To String (mtb): -1
 AnyLineArtPreprocessor_aux: -1
 AnyNode: -1
