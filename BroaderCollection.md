@@ -117,7 +117,7 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/Acly/krita-ai-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/krita-ai-diffusion
 
-**Stars**: `5.2k` | **Created at**: `2023-09-01` | **Last updated**: `2024-06-08`
+**Stars**: `5.2k` | **Created at**: `2023-09-01` | **Last updated**: `2024-06-09`
 
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -227,7 +227,7 @@ StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis o
 <a href='https://github.com/TencentARC/InstantMesh'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/InstantMesh
 
-**Stars**: `2.4k` | **Created at**: `2024-04-10` | **Last updated**: `2024-06-08`
+**Stars**: `2.4k` | **Created at**: `2024-04-10` | **Last updated**: `2024-06-09`
 
 
 InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
