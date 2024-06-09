@@ -78,11 +78,11 @@ ADE_NoiseLayerReplace: 0
 ADE_PairedConditioningSetMask: 0
 ADE_PairedConditioningSetMaskAndCombine: 0
 ADE_PairedConditioningSetUnmaskedAndCombine: 0
-ADE_RawSigmaSchedule: -1
-ADE_RegisterLoraHook: -1
-ADE_RegisterLoraHookModelOnly: -1
-ADE_RegisterModelAsLoraHook: -1
-ADE_RegisterModelAsLoraHookModelOnly: -1
+ADE_RawSigmaSchedule: 0
+ADE_RegisterLoraHook: 0
+ADE_RegisterLoraHookModelOnly: 0
+ADE_RegisterModelAsLoraHook: 0
+ADE_RegisterModelAsLoraHookModelOnly: 0
 ADE_ReplaceCameraParameters: -1
 ADE_ReplaceOriginalPoseAspectRatio: -1
 ADE_SetLoraHookKeyframe: -1
