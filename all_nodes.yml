@@ -93,11 +93,11 @@ ADE_SigmaScheduleWeightedAverageInterp: 0
 ADE_StandardStaticContextOptions: 18
 ADE_StandardStaticViewOptions: 1
 ADE_StandardUniformContextOptions: 48
-ADE_StandardUniformViewOptions: -1
-ADE_TimestepsConditioning: -1
-ADE_UpscaleAndVAEEncode: -1
-ADE_UseEvolvedSampling: -1
-ADE_ViewsOnlyContextOptions: -1
+ADE_StandardUniformViewOptions: 0
+ADE_TimestepsConditioning: 0
+ADE_UpscaleAndVAEEncode: 0
+ADE_UseEvolvedSampling: 75
+ADE_ViewsOnlyContextOptions: 0
 AIO_Preprocessor: -1
 AMT VFI: -1
 APISR_Lterative_Zho: -1
