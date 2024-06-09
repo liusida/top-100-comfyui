@@ -68,11 +68,11 @@ ADE_LoopedUniformContextOptions: 16
 ADE_LoopedUniformViewOptions: 0
 ADE_LoraHookKeyframe: 0
 ADE_LoraHookKeyframeFromStrengthList: 0
-ADE_LoraHookKeyframeInterpolation: -1
-ADE_MaskedLoadLora: -1
-ADE_MultivalDynamic: -1
-ADE_MultivalScaledMask: -1
-ADE_NoiseLayerAdd: -1
+ADE_LoraHookKeyframeInterpolation: 0
+ADE_MaskedLoadLora: 0
+ADE_MultivalDynamic: 24
+ADE_MultivalScaledMask: 2
+ADE_NoiseLayerAdd: 0
 ADE_NoiseLayerAddWeighted: -1
 ADE_NoiseLayerReplace: -1
 ADE_PairedConditioningSetMask: -1
