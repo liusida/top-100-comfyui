@@ -53,11 +53,11 @@ ADE_CombineLoraHooksEight: 0
 ADE_CombineLoraHooksFour: 0
 ADE_ConditioningSetMask: 0
 ADE_ConditioningSetMaskAndCombine: 0
-ADE_ConditioningSetUnmaskedAndCombine: -1
-ADE_CustomCFG: -1
-ADE_CustomCFGKeyframe: -1
-ADE_EmptyLatentImageLarge: -1
-ADE_InjectI2VIntoAnimateDiffModel: -1
+ADE_ConditioningSetUnmaskedAndCombine: 0
+ADE_CustomCFG: 0
+ADE_CustomCFGKeyframe: 0
+ADE_EmptyLatentImageLarge: 41
+ADE_InjectI2VIntoAnimateDiffModel: 0
 ADE_IterationOptsDefault: -1
 ADE_IterationOptsFreeInit: -1
 ADE_LoadAnimateDiffModel: -1
