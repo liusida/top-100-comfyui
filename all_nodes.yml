@@ -1,9 +1,9 @@
-3DImage: -1
-ACN_AdvancedControlNetApply: -1
-ACN_ControlNetLoaderWithLoraAdvanced: -1
-ACN_DefaultUniversalWeights: -1
-ACN_ReferenceControlNet: -1
-ACN_ReferenceControlNetFinetune: -1
+3DImage: 4
+ACN_AdvancedControlNetApply: 100
+ACN_ControlNetLoaderWithLoraAdvanced: 0
+ACN_DefaultUniversalWeights: 0
+ACN_ReferenceControlNet: 1
+ACN_ReferenceControlNetFinetune: 0
 ACN_ReferencePreprocessor: -1
 ACN_SparseCtrlIndexMethodNode: -1
 ACN_SparseCtrlLoaderAdvanced: -1
