@@ -140,9 +140,9 @@ ArgosTranslateCLIPTextEncodeNode: 0
 ArgosTranslateTextNode: 0
 ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
-Assistant: -1
-AutoNegativePrompt: -1
-BAE-NormalMapPreprocessor: -1
+Assistant: 2
+AutoNegativePrompt: 3
+BAE-NormalMapPreprocessor: 23
 BLIP Analyze Image: -1
 BLIP Model Loader: -1
 BNK_CutoffBasePrompt: -1
