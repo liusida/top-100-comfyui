@@ -8,11 +8,11 @@ ACN_ReferencePreprocessor: 0
 ACN_SparseCtrlIndexMethodNode: 8
 ACN_SparseCtrlLoaderAdvanced: 25
 ACN_SparseCtrlMergedLoaderAdvanced: 0
-ACN_SparseCtrlRGBPreprocessor: -1
-ACN_SparseCtrlSpreadMethodNode: -1
-ACN_SparseCtrlWeightExtras: -1
-ACN_TimestepKeyframeFromStrengthList: -1
-ACN_TimestepKeyframeInterpolation: -1
+ACN_SparseCtrlRGBPreprocessor: 24
+ACN_SparseCtrlSpreadMethodNode: 9
+ACN_SparseCtrlWeightExtras: 0
+ACN_TimestepKeyframeFromStrengthList: 0
+ACN_TimestepKeyframeInterpolation: 0
 ADE_AdjustPEFullStretch: -1
 ADE_AdjustPEManual: -1
 ADE_AdjustPESweetspotStretch: -1
