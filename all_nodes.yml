@@ -134,9 +134,9 @@ ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: 0
 ApplyPulid: 11
 ApplyPulidAdvanced: 0
-ApplyVisualStylePrompting_: -1
-AreaToMask: -1
-ArgosTranslateCLIPTextEncodeNode: -1
+ApplyVisualStylePrompting_: 0
+AreaToMask: 0
+ArgosTranslateCLIPTextEncodeNode: 0
 ArgosTranslateTextNode: -1
 ArtGallery_Zho: -1
 ArtistsImage_Zho: -1
