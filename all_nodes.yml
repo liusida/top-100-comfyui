@@ -63,11 +63,11 @@ ADE_IterationOptsFreeInit: 14
 ADE_LoadAnimateDiffModel: 73
 ADE_LoadAnimateDiffModelWithCameraCtrl: 0
 ADE_LoadAnimateLCMI2VModel: 0
-ADE_LoadCameraPoses: -1
-ADE_LoopedUniformContextOptions: -1
-ADE_LoopedUniformViewOptions: -1
-ADE_LoraHookKeyframe: -1
-ADE_LoraHookKeyframeFromStrengthList: -1
+ADE_LoadCameraPoses: 0
+ADE_LoopedUniformContextOptions: 16
+ADE_LoopedUniformViewOptions: 0
+ADE_LoraHookKeyframe: 0
+ADE_LoraHookKeyframeFromStrengthList: 0
 ADE_LoraHookKeyframeInterpolation: -1
 ADE_MaskedLoadLora: -1
 ADE_MultivalDynamic: -1
