@@ -408,17 +408,6 @@ V-Express aims to generate a talking head video under the control of a reference
 
 sd-webui中文提示词插件、老手新手炼丹必备
 
-## Coyote-A/ultimate-upscale-for-automatic1111
-
-
-<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
-<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
-
-**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-09`
-
-
-None
-
 ## TMElyralab/MusePose
 
 
@@ -429,6 +418,17 @@ None
 
 
 MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
+
+## Coyote-A/ultimate-upscale-for-automatic1111
+
+
+<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
+<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+
+**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-09`
+
+
+None
 
 ## ChenyangSi/FreeU
 
