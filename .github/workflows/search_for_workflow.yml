@@ -3,7 +3,7 @@ name: Search for Workflows
 on:
   schedule:
     # Runs at 00:00 UTC every day
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
