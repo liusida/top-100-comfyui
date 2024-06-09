@@ -146,9 +146,9 @@ BAE-NormalMapPreprocessor: 23
 BLIP Analyze Image: 10
 BLIP Model Loader: 9
 BNK_CutoffBasePrompt: 8
-BNK_CutoffRegionsToConditioning: -1
-BNK_CutoffRegionsToConditioning_ADV: -1
-BNK_CutoffSetRegions: -1
+BNK_CutoffRegionsToConditioning: 8
+BNK_CutoffRegionsToConditioning_ADV: 0
+BNK_CutoffSetRegions: 8
 BRIA_RMBG_ModelLoader_Zho: -1
 BRIA_RMBG_Zho: -1
 BackgroundScaler: -1
