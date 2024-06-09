@@ -155,9 +155,9 @@ BackgroundScaler: 0
 BaseModel_Loader_fromhub: 7
 BaseModel_Loader_local: 2
 BasicGuider: 0
-BasicPipeToDetailerPipe: -1
-BasicPipeToDetailerPipeSDXL: -1
-BasicScheduler: -1
+BasicPipeToDetailerPipe: 20
+BasicPipeToDetailerPipeSDXL: 13
+BasicScheduler: 48
 Batch Float (mtb): -1
 Batch Float Assemble (mtb): -1
 Batch Float Fill (mtb): -1
