@@ -83,11 +83,11 @@ ADE_RegisterLoraHook: 0
 ADE_RegisterLoraHookModelOnly: 0
 ADE_RegisterModelAsLoraHook: 0
 ADE_RegisterModelAsLoraHookModelOnly: 0
-ADE_ReplaceCameraParameters: -1
-ADE_ReplaceOriginalPoseAspectRatio: -1
-ADE_SetLoraHookKeyframe: -1
-ADE_SigmaSchedule: -1
-ADE_SigmaScheduleSplitAndCombine: -1
+ADE_ReplaceCameraParameters: 0
+ADE_ReplaceOriginalPoseAspectRatio: 0
+ADE_SetLoraHookKeyframe: 0
+ADE_SigmaSchedule: 0
+ADE_SigmaScheduleSplitAndCombine: 0
 ADE_SigmaScheduleWeightedAverage: -1
 ADE_SigmaScheduleWeightedAverageInterp: -1
 ADE_StandardStaticContextOptions: -1
