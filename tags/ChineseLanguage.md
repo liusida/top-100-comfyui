@@ -34,7 +34,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Created at**: `2024-06-08`
+**Stars**: `1.2k` | **Created at**: `2024-06-09`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -56,7 +56,7 @@ Unofficial implementation of InstantID for ComfyUI
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <details><summary>Included Nodes (86)</summary>
 
- - 3DImage
+ - [3DImage](node_examples/3DImage.md) (4)
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
  - CenterImage, CharacterInText, ChatGPTOpenAI, CkptNames_, Color, ComparingTwoFrames_, CompositeImages_
  - DynamicDelayProcessor
@@ -103,7 +103,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `576` | **Created at**: `2024-06-08`
+**Stars**: `577` | **Created at**: `2024-06-09`
 
 
 Using Gemini in ComfyUI

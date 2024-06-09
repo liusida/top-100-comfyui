@@ -656,7 +656,7 @@ Enjoy the magic of Diffusion models!
 <a href='https://github.com/AIrjen/OneButtonPrompt'>
 <img src="https://avatars.githubusercontent.com/u/130234949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIrjen/OneButtonPrompt
 
-**Stars**: `721` | **Created at**: `2023-04-08` | **Last updated**: `2024-06-09`
+**Stars**: `722` | **Created at**: `2023-04-08` | **Last updated**: `2024-06-09`
 
 
 One Button Prompt

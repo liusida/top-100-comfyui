@@ -41,7 +41,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `1.6k` | **Created at**: `2024-06-08`
+**Stars**: `1.6k` | **Created at**: `2024-06-09`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -173,7 +173,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Created at**: `2024-06-08`
+**Stars**: `1.2k` | **Created at**: `2024-06-09`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -293,7 +293,7 @@ None
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <details><summary>Included Nodes (86)</summary>
 
- - 3DImage
+ - [3DImage](node_examples/3DImage.md) (4)
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
  - CenterImage, CharacterInText, ChatGPTOpenAI, CkptNames_, Color, ComparingTwoFrames_, CompositeImages_
  - DynamicDelayProcessor
@@ -523,7 +523,7 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `576` | **Created at**: `2024-06-08`
+**Stars**: `577` | **Created at**: `2024-06-09`
 
 
 Using Gemini in ComfyUI
@@ -734,7 +734,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 ControlNet scheduling and masking nodes with sliding context support
 <details><summary>Included Nodes (28)</summary>
 
- - ACN_AdvancedControlNetApply, ACN_ControlNetLoaderWithLoraAdvanced, ACN_DefaultUniversalWeights, ACN_ReferenceControlNet, ACN_ReferenceControlNetFinetune, ACN_ReferencePreprocessor, ACN_SparseCtrlIndexMethodNode, ACN_SparseCtrlLoaderAdvanced, ACN_SparseCtrlMergedLoaderAdvanced, ACN_SparseCtrlRGBPreprocessor, ACN_SparseCtrlSpreadMethodNode, ACN_SparseCtrlWeightExtras, ACN_TimestepKeyframeFromStrengthList, ACN_TimestepKeyframeInterpolation
+ - [ACN_AdvancedControlNetApply](node_examples/ACN_AdvancedControlNetApply.md) (100), ACN_ControlNetLoaderWithLoraAdvanced, ACN_DefaultUniversalWeights, [ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md) (1), ACN_ReferenceControlNetFinetune, ACN_ReferencePreprocessor, [ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md) (8), [ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md) (25), ACN_SparseCtrlMergedLoaderAdvanced, [ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md) (24), [ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md) (9), ACN_SparseCtrlWeightExtras, ACN_TimestepKeyframeFromStrengthList, ACN_TimestepKeyframeInterpolation
  - ControlNetLoaderAdvanced, CustomControlNetWeights, CustomT2IAdapterWeights
  - DiffControlNetLoaderAdvanced
  - LatentKeyframe, LatentKeyframeBatchedGroup, LatentKeyframeGroup, LatentKeyframeTiming, LoadImagesFromDirectory
@@ -1072,7 +1072,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `314` | **Created at**: `2024-06-09`
+**Stars**: `315` | **Created at**: `2024-06-09`
 
 
 ComfyUI BrushNet nodes

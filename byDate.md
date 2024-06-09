@@ -593,7 +593,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 ControlNet scheduling and masking nodes with sliding context support
 <details><summary>Included Nodes (28)</summary>
 
- - ACN_AdvancedControlNetApply, ACN_ControlNetLoaderWithLoraAdvanced, ACN_DefaultUniversalWeights, ACN_ReferenceControlNet, ACN_ReferenceControlNetFinetune, ACN_ReferencePreprocessor, ACN_SparseCtrlIndexMethodNode, ACN_SparseCtrlLoaderAdvanced, ACN_SparseCtrlMergedLoaderAdvanced, ACN_SparseCtrlRGBPreprocessor, ACN_SparseCtrlSpreadMethodNode, ACN_SparseCtrlWeightExtras, ACN_TimestepKeyframeFromStrengthList, ACN_TimestepKeyframeInterpolation
+ - [ACN_AdvancedControlNetApply](node_examples/ACN_AdvancedControlNetApply.md) (100), ACN_ControlNetLoaderWithLoraAdvanced, ACN_DefaultUniversalWeights, [ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md) (1), ACN_ReferenceControlNetFinetune, ACN_ReferencePreprocessor, [ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md) (8), [ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md) (25), ACN_SparseCtrlMergedLoaderAdvanced, [ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md) (24), [ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md) (9), ACN_SparseCtrlWeightExtras, ACN_TimestepKeyframeFromStrengthList, ACN_TimestepKeyframeInterpolation
  - ControlNetLoaderAdvanced, CustomControlNetWeights, CustomT2IAdapterWeights
  - DiffControlNetLoaderAdvanced
  - LatentKeyframe, LatentKeyframeBatchedGroup, LatentKeyframeGroup, LatentKeyframeTiming, LoadImagesFromDirectory
@@ -872,7 +872,7 @@ From comfyui workflow to web app, in seconds
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <details><summary>Included Nodes (86)</summary>
 
- - 3DImage
+ - [3DImage](node_examples/3DImage.md) (4)
  - AppInfo, ApplyVisualStylePrompting_, AreaToMask
  - CenterImage, CharacterInText, ChatGPTOpenAI, CkptNames_, Color, ComparingTwoFrames_, CompositeImages_
  - DynamicDelayProcessor
@@ -1066,7 +1066,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `576` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
+**Stars**: `577` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
 
 
 Using Gemini in ComfyUI
@@ -1486,7 +1486,7 @@ A simple sidebar for your ConfyUI!
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `314` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `315` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1603,7 +1603,7 @@ A Node for ComfyUI that does what you ask it to do
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `398` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
+**Stars**: `399` | **Created at**: `2024-05-30` | **Tags**: `Workflow Examples`
 
 
 Create images of a given character in different poses
