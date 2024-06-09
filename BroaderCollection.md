@@ -458,7 +458,7 @@ MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 <a href='https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN'>
 <img src="https://avatars.githubusercontent.com/u/21131439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 
-**Stars**: `1.4k` | **Created at**: `2022-11-06` | **Last updated**: `2024-06-08`
+**Stars**: `1.4k` | **Created at**: `2022-11-06` | **Last updated**: `2024-06-09`
 
 
 Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
