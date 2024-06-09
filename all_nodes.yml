@@ -125,9 +125,9 @@ AnyNodeCodeViewer: 0
 AnyNodeExport: 0
 AnyNodeGemini: 0
 AnyNodeLocal: 1
-AppInfo: -1
-AppendAgent: -1
-AppendInstanceDiffusionTracking: -1
+AppInfo: 11
+AppendAgent: 0
+AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: -1
 ApplyInstantID: -1
 ApplyInstantIDAdvanced: -1
