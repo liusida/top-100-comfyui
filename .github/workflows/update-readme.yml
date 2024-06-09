@@ -4,9 +4,6 @@ on:
   schedule:
     # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
