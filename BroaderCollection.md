@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `26.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-09`
+**Stars**: `26.3k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-09`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
