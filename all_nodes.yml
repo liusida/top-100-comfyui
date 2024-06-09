@@ -108,11 +108,11 @@ AddMask: 4
 AddNoise: 0
 AlignYourStepsScheduler: 2
 AnimalPosePreprocessor: 0
-AnimateDiff Script: -1
-AnimateDiffCombine: -1
-AnimateDiffLoaderV1: -1
-AnimateDiffLoraLoader: -1
-AnimateDiffModuleLoader: -1
+AnimateDiff Script: 0
+AnimateDiffCombine: 21
+AnimateDiffLoaderV1: 2
+AnimateDiffLoraLoader: 5
+AnimateDiffModuleLoader: 18
 AnimateDiffSampler: -1
 AnimateDiffSlidingWindowOptions: -1
 Animation Builder (mtb): -1
