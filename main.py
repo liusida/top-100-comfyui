@@ -239,8 +239,10 @@ def main():
 
     write_broader_collection_file()
 
+    nodes_dict = {node: -1 for node in all_nodes}
+
     with open('all_nodes.yml', 'w') as file:
-        yaml.dump(all_nodes, file, default_flow_style=False)
+        yaml.dump(nodes_dict, file, default_flow_style=False)
 
 if __name__ == "__main__":
     main()
