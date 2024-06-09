@@ -98,11 +98,11 @@ ADE_TimestepsConditioning: 0
 ADE_UpscaleAndVAEEncode: 0
 ADE_UseEvolvedSampling: 75
 ADE_ViewsOnlyContextOptions: 0
-AIO_Preprocessor: -1
-AMT VFI: -1
-APISR_Lterative_Zho: -1
-APISR_ModelLoader_Zho: -1
-APISR_Zho: -1
+AIO_Preprocessor: 54
+AMT VFI: 2
+APISR_Lterative_Zho: 2
+APISR_ModelLoader_Zho: 3
+APISR_Zho: 1
 AddLabel: -1
 AddMask: -1
 AddNoise: -1
