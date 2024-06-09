@@ -149,9 +149,9 @@ BNK_CutoffBasePrompt: 8
 BNK_CutoffRegionsToConditioning: 8
 BNK_CutoffRegionsToConditioning_ADV: 0
 BNK_CutoffSetRegions: 8
-BRIA_RMBG_ModelLoader_Zho: -1
-BRIA_RMBG_Zho: -1
-BackgroundScaler: -1
+BRIA_RMBG_ModelLoader_Zho: 11
+BRIA_RMBG_Zho: 11
+BackgroundScaler: 0
 BaseModel_Loader_fromhub: -1
 BaseModel_Loader_local: -1
 BasicGuider: -1
