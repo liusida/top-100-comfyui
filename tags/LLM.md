@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `574` | **Created at**: `2024-06-07`
+**Stars**: `576` | **Created at**: `2024-06-08`
 
 
 Using Gemini in ComfyUI
@@ -25,7 +25,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `348` | **Created at**: `2024-06-07`
+**Stars**: `355` | **Created at**: `2024-06-08`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -69,7 +69,7 @@ ComfyUI Extension Nodes for Automated Text Generation.
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `317` | **Created at**: `2024-06-07`
+**Stars**: `319` | **Created at**: `2024-06-08`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
