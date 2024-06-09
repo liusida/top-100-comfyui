@@ -88,11 +88,11 @@ ADE_ReplaceOriginalPoseAspectRatio: 0
 ADE_SetLoraHookKeyframe: 0
 ADE_SigmaSchedule: 0
 ADE_SigmaScheduleSplitAndCombine: 0
-ADE_SigmaScheduleWeightedAverage: -1
-ADE_SigmaScheduleWeightedAverageInterp: -1
-ADE_StandardStaticContextOptions: -1
-ADE_StandardStaticViewOptions: -1
-ADE_StandardUniformContextOptions: -1
+ADE_SigmaScheduleWeightedAverage: 0
+ADE_SigmaScheduleWeightedAverageInterp: 0
+ADE_StandardStaticContextOptions: 18
+ADE_StandardStaticViewOptions: 1
+ADE_StandardUniformContextOptions: 48
 ADE_StandardUniformViewOptions: -1
 ADE_TimestepsConditioning: -1
 ADE_UpscaleAndVAEEncode: -1
