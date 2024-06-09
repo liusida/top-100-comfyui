@@ -30,9 +30,10 @@ def handle_api_rate_limit(response):
 
 headers = {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 
-for epoch in range(400):
+epoch = 0
+if True:
     print(f"== Epoch {epoch+1} == \n\n")
-    
+
     node_number_processed_each_time = 5 #
 
     for node in all_nodes:
