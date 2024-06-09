@@ -358,7 +358,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.1k` | **Created at**: `2023-01-30` | **Last updated**: `2024-06-08` | **Tags**: `Workflow Examples`
+**Stars**: `1.1k` | **Created at**: `2023-01-30` | **Last updated**: `2024-06-09` | **Tags**: `Workflow Examples`
 
 
 Examples of ComfyUI workflows
@@ -497,7 +497,7 @@ None
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `841` | **Created at**: `2023-10-18` | **Last updated**: `2024-06-08` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `842` | **Created at**: `2023-10-18` | **Last updated**: `2024-06-09` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -1728,4 +1728,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-09 00:54:03 UTC
+### Automatically updated on: 2024-06-09 01:12:42 UTC
