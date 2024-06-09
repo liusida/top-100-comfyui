@@ -38,11 +38,11 @@ ADE_AnimateDiffUniformContextOptions: 100
 ADE_AnimateDiffUnload: 5
 ADE_ApplyAnimateDiffModel: 65
 ADE_ApplyAnimateDiffModelSimple: 8
-ADE_ApplyAnimateDiffModelWithCameraCtrl: -1
-ADE_ApplyAnimateLCMI2VModel: -1
-ADE_AttachLoraHookToCLIP: -1
-ADE_AttachLoraHookToConditioning: -1
-ADE_BatchedContextOptions: -1
+ADE_ApplyAnimateDiffModelWithCameraCtrl: 0
+ADE_ApplyAnimateLCMI2VModel: 0
+ADE_AttachLoraHookToCLIP: 0
+ADE_AttachLoraHookToConditioning: 0
+ADE_BatchedContextOptions: 1
 ADE_CameraCtrlAnimateDiffKeyframe: -1
 ADE_CameraManualPoseAppend: -1
 ADE_CameraPoseAdvanced: -1
