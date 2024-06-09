@@ -48,11 +48,11 @@ ADE_CameraManualPoseAppend: 0
 ADE_CameraPoseAdvanced: 0
 ADE_CameraPoseBasic: 0
 ADE_CameraPoseCombo: 0
-ADE_CombineLoraHooks: -1
-ADE_CombineLoraHooksEight: -1
-ADE_CombineLoraHooksFour: -1
-ADE_ConditioningSetMask: -1
-ADE_ConditioningSetMaskAndCombine: -1
+ADE_CombineLoraHooks: 0
+ADE_CombineLoraHooksEight: 0
+ADE_CombineLoraHooksFour: 0
+ADE_ConditioningSetMask: 0
+ADE_ConditioningSetMaskAndCombine: 0
 ADE_ConditioningSetUnmaskedAndCombine: -1
 ADE_CustomCFG: -1
 ADE_CustomCFGKeyframe: -1
