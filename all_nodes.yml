@@ -137,9 +137,9 @@ ApplyPulidAdvanced: 0
 ApplyVisualStylePrompting_: 0
 AreaToMask: 0
 ArgosTranslateCLIPTextEncodeNode: 0
-ArgosTranslateTextNode: -1
-ArtGallery_Zho: -1
-ArtistsImage_Zho: -1
+ArgosTranslateTextNode: 0
+ArtGallery_Zho: 0
+ArtistsImage_Zho: 8
 Assistant: -1
 AutoNegativePrompt: -1
 BAE-NormalMapPreprocessor: -1
