@@ -13,11 +13,11 @@ ACN_SparseCtrlSpreadMethodNode: 9
 ACN_SparseCtrlWeightExtras: 0
 ACN_TimestepKeyframeFromStrengthList: 0
 ACN_TimestepKeyframeInterpolation: 0
-ADE_AdjustPEFullStretch: -1
-ADE_AdjustPEManual: -1
-ADE_AdjustPESweetspotStretch: -1
-ADE_AdjustWeightAllAdd: -1
-ADE_AdjustWeightAllMult: -1
+ADE_AdjustPEFullStretch: 0
+ADE_AdjustPEManual: 0
+ADE_AdjustPESweetspotStretch: 0
+ADE_AdjustWeightAllAdd: 0
+ADE_AdjustWeightAllMult: 0
 ADE_AdjustWeightIndivAdd: -1
 ADE_AdjustWeightIndivAttnAdd: -1
 ADE_AdjustWeightIndivAttnMult: -1
