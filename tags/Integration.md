@@ -7,7 +7,7 @@
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `6.4k` | **Created at**: `2024-06-08`
+**Stars**: `6.4k` | **Created at**: `2024-06-09`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -18,7 +18,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.1k` | **Created at**: `2024-06-08`
+**Stars**: `3.1k` | **Created at**: `2024-06-09`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -29,7 +29,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `1.9k` | **Created at**: `2024-06-08`
+**Stars**: `1.9k` | **Created at**: `2024-06-09`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -89,7 +89,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `601` | **Created at**: `2024-06-08`
+**Stars**: `601` | **Created at**: `2024-06-09`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -111,7 +111,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `539` | **Created at**: `2024-06-08`
+**Stars**: `542` | **Created at**: `2024-06-09`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -122,7 +122,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `475` | **Created at**: `2024-06-06`
+**Stars**: `476` | **Created at**: `2024-06-09`
 
 
 FastAPI powered API for Fooocus

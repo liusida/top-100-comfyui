@@ -29,7 +29,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.1k` | **Created at**: `2024-06-09`
+**Stars**: `1.2k` | **Created at**: `2024-06-09`
 
 
 Examples of ComfyUI workflows
@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `698` | **Created at**: `2024-06-07`
+**Stars**: `699` | **Created at**: `2024-06-09`
 
 
 some wyrde workflows for comfyUI
@@ -89,7 +89,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `397` | **Created at**: `2024-06-08`
+**Stars**: `398` | **Created at**: `2024-06-09`
 
 
 Create images of a given character in different poses
@@ -100,7 +100,7 @@ Create images of a given character in different poses
 <a href='https://github.com/atlasunified/Templates-ComfyUI-'>
 <img src="https://avatars.githubusercontent.com/u/113645143?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/atlasunified/Templates-ComfyUI-
 
-**Stars**: `316` | **Created at**: `2024-06-07`
+**Stars**: `317` | **Created at**: `2024-06-09`
 
 
 Templates to view the variety of a prompt based on the samplers available in ComfyUI. Variety of sizes and singlular seed and random seed templates.
