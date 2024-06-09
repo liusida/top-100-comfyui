@@ -58,11 +58,11 @@ ADE_CustomCFG: 0
 ADE_CustomCFGKeyframe: 0
 ADE_EmptyLatentImageLarge: 41
 ADE_InjectI2VIntoAnimateDiffModel: 0
-ADE_IterationOptsDefault: -1
-ADE_IterationOptsFreeInit: -1
-ADE_LoadAnimateDiffModel: -1
-ADE_LoadAnimateDiffModelWithCameraCtrl: -1
-ADE_LoadAnimateLCMI2VModel: -1
+ADE_IterationOptsDefault: 0
+ADE_IterationOptsFreeInit: 14
+ADE_LoadAnimateDiffModel: 73
+ADE_LoadAnimateDiffModelWithCameraCtrl: 0
+ADE_LoadAnimateLCMI2VModel: 0
 ADE_LoadCameraPoses: -1
 ADE_LoopedUniformContextOptions: -1
 ADE_LoopedUniformViewOptions: -1
