@@ -1,6 +1,9 @@
 name: Search for Workflows
 
 on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
@@ -31,7 +34,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add node_examples/*.md
+        git add all_nodes.yml node_examples/*.md
         git commit -m "Update generated markdown files"
         git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
