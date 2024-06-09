@@ -131,9 +131,9 @@ AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
 ApplyInstantID: 56
 ApplyInstantIDAdvanced: 2
-ApplyInstantIDControlNet: -1
-ApplyPulid: -1
-ApplyPulidAdvanced: -1
+ApplyInstantIDControlNet: 0
+ApplyPulid: 11
+ApplyPulidAdvanced: 0
 ApplyVisualStylePrompting_: -1
 AreaToMask: -1
 ArgosTranslateCLIPTextEncodeNode: -1
