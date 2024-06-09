@@ -128,9 +128,9 @@ AnyNodeLocal: 1
 AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
-Apply ControlNet Stack: -1
-ApplyInstantID: -1
-ApplyInstantIDAdvanced: -1
+Apply ControlNet Stack: 0
+ApplyInstantID: 56
+ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: -1
 ApplyPulid: -1
 ApplyPulidAdvanced: -1
