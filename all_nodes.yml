@@ -4,10 +4,10 @@ ACN_ControlNetLoaderWithLoraAdvanced: 0
 ACN_DefaultUniversalWeights: 0
 ACN_ReferenceControlNet: 1
 ACN_ReferenceControlNetFinetune: 0
-ACN_ReferencePreprocessor: -1
-ACN_SparseCtrlIndexMethodNode: -1
-ACN_SparseCtrlLoaderAdvanced: -1
-ACN_SparseCtrlMergedLoaderAdvanced: -1
+ACN_ReferencePreprocessor: 0
+ACN_SparseCtrlIndexMethodNode: 8
+ACN_SparseCtrlLoaderAdvanced: 25
+ACN_SparseCtrlMergedLoaderAdvanced: 0
 ACN_SparseCtrlRGBPreprocessor: -1
 ACN_SparseCtrlSpreadMethodNode: -1
 ACN_SparseCtrlWeightExtras: -1
