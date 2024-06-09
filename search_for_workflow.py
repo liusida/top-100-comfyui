@@ -3,8 +3,9 @@ import base64
 import requests
 import yaml
 import time
-import re
 from dotenv import load_dotenv
+
+from utils.common import valid_filename
 
 # Load the GitHub token from the .env file
 load_dotenv()
@@ -26,19 +27,6 @@ def handle_api_rate_limit(response):
         time.sleep(60)  # Sleep for 60 seconds
         return True
     return False
-
-def valid_filename(filename):
-    # Remove invalid file name characters
-    filename = re.sub(r'[\\/*?:"<>|]', "", filename)
-    # Replace other potentially problematic characters with underscore
-    filename = re.sub(r'[\s]', "_", filename)
-    # Avoid names typical for system devices like 'CON', 'PRN', etc.
-    reserved_names = {"CON", "PRN", "AUX", "NUL", "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9", "LPT1", "LPT2", "LPT3", "LPT4", "LPT5", "LPT6", "LPT7", "LPT8", "LPT9"}
-    if filename.upper() in reserved_names:
-        filename = "_" + filename
-    # Ensure the filename length is not too long
-    filename = filename[:255]
-    return filename
 
 headers = {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 

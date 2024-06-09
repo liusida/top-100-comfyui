@@ -6,9 +6,10 @@ from datetime import datetime, timedelta, timezone
 
 from utils.github import GITHUB_TOKEN, fetch_repositories, fetch_broader_repositories, is_cache_valid, load_cache, save_cache
 from utils.extension_node_map import extension_map, EXTENSION_NODE_MAP_URL
-from utils.common import format_updated_at_date, load_template, get_human_readable_star_count
+from utils.common import format_updated_at_date, load_template, get_human_readable_star_count, valid_filename
 
 all_nodes = []
+all_nodes_dict = {}
 
 def get_extension_nodes(repo_url):
     global all_nodes
@@ -21,7 +22,14 @@ def get_extension_nodes(repo_url):
         ret += f"<details><summary>Included Nodes ({len(nodes[0])}){'?' if len(nodes[0]) == 0 else ''}</summary>\n\n"
         if (len(nodes[0])):
             for key, group in grouped_nodes:
-                ret += " - " + ", ".join(group) + "\n"
+                ret += " - "
+                for node in group:
+                    if node in all_nodes_dict and all_nodes_dict[node]>0:
+                        ret += f"[{node}](node_examples/{valid_filename(node)}.md) ({all_nodes_dict[node]}), "
+                    else:
+                        ret += node + ", "
+                # Remove the last comma and space from the end of the string
+                ret = ret.rstrip(", ") + "\n"
         else:
             ret += " - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)"
         ret += "</details>\n\n"
@@ -214,28 +222,32 @@ def write_broader_collection_file():
             extension_nodes = get_extension_nodes(repo_url)
             f.write(extension_nodes)
 
-def write_all_nodes_file():
+def read_all_nodes_dict():
+    global all_nodes_dict
     # Load the existing data from the YAML file
     try:
         with open('all_nodes.yml', 'r') as file:
-            data = yaml.safe_load(file) or {}
+            all_nodes_dict = yaml.safe_load(file) or {}
     except FileNotFoundError:
-        data = {}
+        all_nodes_dict = {}
 
+def write_all_nodes_file():
     # Check and add missing nodes with a default value of -1
     updated = False
     for node in all_nodes:
-        if node not in data:
-            data[node] = -1
+        if node not in all_nodes_dict:
+            all_nodes_dict[node] = -1
             updated = True
 
     # Save the updated dictionary back to the YAML file if new nodes were added
     if updated:
         with open('all_nodes.yml', 'w') as file:
-            yaml.dump(data, file, default_flow_style=False)
+            yaml.dump(all_nodes_dict, file, default_flow_style=False)
             
 
 def main():
+    read_all_nodes_dict()
+
     repositories = fetch_repositories()
 
     tags = load_tags().get('tags', {})
