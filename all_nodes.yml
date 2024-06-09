@@ -143,9 +143,9 @@ ArtistsImage_Zho: 8
 Assistant: 2
 AutoNegativePrompt: 3
 BAE-NormalMapPreprocessor: 23
-BLIP Analyze Image: -1
-BLIP Model Loader: -1
-BNK_CutoffBasePrompt: -1
+BLIP Analyze Image: 10
+BLIP Model Loader: 9
+BNK_CutoffBasePrompt: 8
 BNK_CutoffRegionsToConditioning: -1
 BNK_CutoffRegionsToConditioning_ADV: -1
 BNK_CutoffSetRegions: -1
