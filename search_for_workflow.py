@@ -30,7 +30,7 @@ def handle_api_rate_limit(response):
 
 headers = {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 
-node_number_processed_each_time = 5 #
+node_number_processed_each_time = 20 #
 
 for node in all_nodes:
     if os.path.exists(f'node_examples/{valid_filename(node)}.md'):
