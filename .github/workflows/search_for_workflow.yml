@@ -1,9 +1,6 @@
 name: Search for Workflows
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
