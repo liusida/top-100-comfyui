@@ -73,13 +73,13 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `649` | **Created at**: `2024-06-08`
+**Stars**: `651` | **Created at**: `2024-06-09`
 
 
 An open source `vercel` like deployment platform for Comfy UI
 <details><summary>Included Nodes (14)</summary>
 
- - ComfyDeployWebscoketImageInput, ComfyDeployWebscoketImageOutput, ComfyUIDeployExternalBoolean, ComfyUIDeployExternalCheckpoint, ComfyUIDeployExternalImage, ComfyUIDeployExternalImageAlpha, ComfyUIDeployExternalImageBatch, ComfyUIDeployExternalLora, ComfyUIDeployExternalNumber, ComfyUIDeployExternalNumberInt, ComfyUIDeployExternalNumberSlider, ComfyUIDeployExternalText, ComfyUIDeployExternalVid, ComfyUIDeployExternalVideo
+ - <sub>ComfyDeployWebscoketImageInput</sub>, <sub>ComfyDeployWebscoketImageOutput</sub>, <sub>ComfyUIDeployExternalBoolean</sub>, <sub>ComfyUIDeployExternalCheckpoint</sub>, <sub>ComfyUIDeployExternalImage</sub>, <sub>ComfyUIDeployExternalImageAlpha</sub>, <sub>ComfyUIDeployExternalImageBatch</sub>, <sub>ComfyUIDeployExternalLora</sub>, <sub>ComfyUIDeployExternalNumber</sub>, <sub>ComfyUIDeployExternalNumberInt</sub>, <sub>ComfyUIDeployExternalNumberSlider</sub>, <sub>ComfyUIDeployExternalText</sub>, <sub>ComfyUIDeployExternalVid</sub>, <sub>ComfyUIDeployExternalVideo</sub>
 </details>
 
 

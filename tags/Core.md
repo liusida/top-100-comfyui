@@ -13,25 +13,25 @@
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 <details><summary>Included Nodes (179)</summary>
 
- - AddNoise, AlignYourStepsScheduler
- - BasicGuider, BasicScheduler
- - Canny, CFGGuider, CheckpointLoader, CheckpointLoaderSimple, CheckpointSave, CLIPAttentionMultiply, CLIPLoader, CLIPMergeAdd, CLIPMergeSimple, CLIPMergeSubtract, CLIPSave, CLIPSetLastLayer, CLIPTextEncode, CLIPTextEncodeControlnet, CLIPTextEncodeSDXL, CLIPTextEncodeSDXLRefiner, CLIPVisionEncode, CLIPVisionLoader, ConditioningAverage, ConditioningCombine, ConditioningConcat, ConditioningSetArea, ConditioningSetAreaPercentage, ConditioningSetAreaStrength, ConditioningSetMask, ConditioningSetTimestepRange, ConditioningZeroOut, ControlNetApply, ControlNetApplyAdvanced, ControlNetLoader, CropMask
- - DiffControlNetLoader, DifferentialDiffusion, DiffusersLoader, DisableNoise, DualCFGGuider, DualCLIPLoader
- - EmptyImage, EmptyLatentImage, ExponentialScheduler
- - FeatherMask, FlipSigmas, FreeU, FreeU_V2
- - GLIGENLoader, GLIGENTextBoxApply, GrowMask
- - HypernetworkLoader, HyperTile
- - ImageBatch, ImageBlend, ImageBlur, ImageColorToMask, ImageCompositeMasked, ImageCrop, ImageFromBatch, ImageInvert, ImageOnlyCheckpointLoader, ImageOnlyCheckpointSave, ImagePadForOutpaint, ImageQuantize, ImageScale, ImageScaleBy, ImageScaleToTotalPixels, ImageSharpen, ImageToMask, ImageUpscaleWithModel, InpaintModelConditioning, InstructPixToPixConditioning, InvertMask
- - JoinImageWithAlpha
- - KarrasScheduler, KSampler, KSamplerAdvanced, KSamplerSelect
- - LatentAdd, LatentBatch, LatentBatchSeedBehavior, LatentBlend, LatentComposite, LatentCompositeMasked, LatentCrop, LatentFlip, LatentFromBatch, LatentInterpolate, LatentMultiply, LatentRotate, LatentSubtract, LatentUpscale, LatentUpscaleBy, LoadImage, LoadImageMask, LoadLatent, LoraLoader, LoraLoaderModelOnly
- - MaskComposite, MaskToImage, ModelMergeAdd, ModelMergeBlocks, ModelMergeSD1, ModelMergeSD2, ModelMergeSDXL, ModelMergeSimple, ModelMergeSubtract, ModelSamplingContinuousEDM, ModelSamplingDiscrete, ModelSamplingStableCascade, Morphology
- - PatchModelAddDownscale, PerpNeg, PerpNegGuider, PerturbedAttentionGuidance, PhotoMakerEncode, PhotoMakerLoader, PolyexponentialScheduler, PorterDuffImageComposite, PreviewImage
- - RandomNoise, RebatchImages, RebatchLatents, RepeatImageBatch, RepeatLatentBatch, RescaleCFG
- - SamplerCustom, SamplerCustomAdvanced, SamplerDPMAdaptative, SamplerDPMPP_2M_SDE, SamplerDPMPP_3M_SDE, SamplerDPMPP_SDE, SamplerEulerAncestral, SamplerLCMUpscale, SamplerLMS, SaveAnimatedPNG, SaveAnimatedWEBP, SaveImage, SaveImageWebsocket, SaveLatent, SD_4XUpscale_Conditioning, SDTurboScheduler, SelfAttentionGuidance, SetLatentNoiseMask, SolidMask, SplitImageWithAlpha, SplitSigmas, SplitSigmasDenoise, StableCascade_EmptyLatentImage, StableCascade_StageB_Conditioning, StableCascade_StageC_VAEEncode, StableCascade_SuperResolutionControlnet, StableZero123_Conditioning, StableZero123_Conditioning_Batched, StyleModelApply, StyleModelLoader, SV3D_Conditioning, SVD_img2vid_Conditioning
- - ThresholdMask, TomePatchModel
- - unCLIPCheckpointLoader, unCLIPConditioning, UNetCrossAttentionMultiply, UNETLoader, UNetSelfAttentionMultiply, UNetTemporalAttentionMultiply, UpscaleModelLoader
- - VAEDecode, VAEDecodeTiled, VAEEncode, VAEEncodeForInpaint, VAEEncodeTiled, VAELoader, VAESave, VideoLinearCFGGuidance, VideoTriangleCFGGuidance, VPScheduler
- - WebcamCapture
+ - <sub>AddNoise</sub>, <sub>AlignYourStepsScheduler</sub>
+ - <sub>BasicGuider</sub>, <sub>BasicScheduler</sub>
+ - <sub>Canny</sub>, <sub>CFGGuider</sub>, <sub>CheckpointLoader</sub>, <sub>CheckpointLoaderSimple</sub>, <sub>CheckpointSave</sub>, <sub>CLIPAttentionMultiply</sub>, <sub>CLIPLoader</sub>, <sub>CLIPMergeAdd</sub>, <sub>CLIPMergeSimple</sub>, <sub>CLIPMergeSubtract</sub>, <sub>CLIPSave</sub>, <sub>CLIPSetLastLayer</sub>, <sub>CLIPTextEncode</sub>, <sub>CLIPTextEncodeControlnet</sub>, <sub>CLIPTextEncodeSDXL</sub>, <sub>CLIPTextEncodeSDXLRefiner</sub>, <sub>CLIPVisionEncode</sub>, <sub>CLIPVisionLoader</sub>, <sub>ConditioningAverage</sub>, <sub>ConditioningCombine</sub>, <sub>ConditioningConcat</sub>, <sub>ConditioningSetArea</sub>, <sub>ConditioningSetAreaPercentage</sub>, <sub>ConditioningSetAreaStrength</sub>, <sub>ConditioningSetMask</sub>, <sub>ConditioningSetTimestepRange</sub>, <sub>ConditioningZeroOut</sub>, <sub>ControlNetApply</sub>, <sub>ControlNetApplyAdvanced</sub>, <sub>ControlNetLoader</sub>, <sub>CropMask</sub>
+ - <sub>DiffControlNetLoader</sub>, <sub>DifferentialDiffusion</sub>, <sub>DiffusersLoader</sub>, <sub>DisableNoise</sub>, <sub>DualCFGGuider</sub>, <sub>DualCLIPLoader</sub>
+ - <sub>EmptyImage</sub>, <sub>EmptyLatentImage</sub>, <sub>ExponentialScheduler</sub>
+ - <sub>FeatherMask</sub>, <sub>FlipSigmas</sub>, <sub>FreeU</sub>, <sub>FreeU_V2</sub>
+ - <sub>GLIGENLoader</sub>, <sub>GLIGENTextBoxApply</sub>, <sub>GrowMask</sub>
+ - <sub>HypernetworkLoader</sub>, <sub>HyperTile</sub>
+ - <sub>ImageBatch</sub>, <sub>ImageBlend</sub>, <sub>ImageBlur</sub>, <sub>ImageColorToMask</sub>, <sub>ImageCompositeMasked</sub>, <sub>ImageCrop</sub>, <sub>ImageFromBatch</sub>, <sub>ImageInvert</sub>, <sub>ImageOnlyCheckpointLoader</sub>, <sub>ImageOnlyCheckpointSave</sub>, <sub>ImagePadForOutpaint</sub>, <sub>ImageQuantize</sub>, <sub>ImageScale</sub>, <sub>ImageScaleBy</sub>, <sub>ImageScaleToTotalPixels</sub>, <sub>ImageSharpen</sub>, <sub>ImageToMask</sub>, <sub>ImageUpscaleWithModel</sub>, <sub>InpaintModelConditioning</sub>, <sub>InstructPixToPixConditioning</sub>, <sub>InvertMask</sub>
+ - <sub>JoinImageWithAlpha</sub>
+ - <sub>KarrasScheduler</sub>, <sub>KSampler</sub>, <sub>KSamplerAdvanced</sub>, <sub>KSamplerSelect</sub>
+ - <sub>LatentAdd</sub>, <sub>LatentBatch</sub>, <sub>LatentBatchSeedBehavior</sub>, <sub>LatentBlend</sub>, <sub>LatentComposite</sub>, <sub>LatentCompositeMasked</sub>, <sub>LatentCrop</sub>, <sub>LatentFlip</sub>, <sub>LatentFromBatch</sub>, <sub>LatentInterpolate</sub>, <sub>LatentMultiply</sub>, <sub>LatentRotate</sub>, <sub>LatentSubtract</sub>, <sub>LatentUpscale</sub>, <sub>LatentUpscaleBy</sub>, <sub>LoadImage</sub>, <sub>LoadImageMask</sub>, <sub>LoadLatent</sub>, <sub>LoraLoader</sub>, <sub>LoraLoaderModelOnly</sub>
+ - <sub>MaskComposite</sub>, <sub>MaskToImage</sub>, <sub>ModelMergeAdd</sub>, <sub>ModelMergeBlocks</sub>, <sub>ModelMergeSD1</sub>, <sub>ModelMergeSD2</sub>, <sub>ModelMergeSDXL</sub>, <sub>ModelMergeSimple</sub>, <sub>ModelMergeSubtract</sub>, <sub>ModelSamplingContinuousEDM</sub>, <sub>ModelSamplingDiscrete</sub>, <sub>ModelSamplingStableCascade</sub>, <sub>Morphology</sub>
+ - <sub>PatchModelAddDownscale</sub>, <sub>PerpNeg</sub>, <sub>PerpNegGuider</sub>, <sub>PerturbedAttentionGuidance</sub>, <sub>PhotoMakerEncode</sub>, <sub>PhotoMakerLoader</sub>, <sub>PolyexponentialScheduler</sub>, <sub>PorterDuffImageComposite</sub>, <sub>PreviewImage</sub>
+ - <sub>RandomNoise</sub>, <sub>RebatchImages</sub>, <sub>RebatchLatents</sub>, <sub>RepeatImageBatch</sub>, <sub>RepeatLatentBatch</sub>, <sub>RescaleCFG</sub>
+ - <sub>SamplerCustom</sub>, <sub>SamplerCustomAdvanced</sub>, <sub>SamplerDPMAdaptative</sub>, <sub>SamplerDPMPP_2M_SDE</sub>, <sub>SamplerDPMPP_3M_SDE</sub>, <sub>SamplerDPMPP_SDE</sub>, <sub>SamplerEulerAncestral</sub>, <sub>SamplerLCMUpscale</sub>, <sub>SamplerLMS</sub>, <sub>SaveAnimatedPNG</sub>, <sub>SaveAnimatedWEBP</sub>, <sub>SaveImage</sub>, <sub>SaveImageWebsocket</sub>, <sub>SaveLatent</sub>, <sub>SD_4XUpscale_Conditioning</sub>, <sub>SDTurboScheduler</sub>, <sub>SelfAttentionGuidance</sub>, <sub>SetLatentNoiseMask</sub>, <sub>SolidMask</sub>, <sub>SplitImageWithAlpha</sub>, <sub>SplitSigmas</sub>, <sub>SplitSigmasDenoise</sub>, <sub>StableCascade_EmptyLatentImage</sub>, <sub>StableCascade_StageB_Conditioning</sub>, <sub>StableCascade_StageC_VAEEncode</sub>, <sub>StableCascade_SuperResolutionControlnet</sub>, <sub>StableZero123_Conditioning</sub>, <sub>StableZero123_Conditioning_Batched</sub>, <sub>StyleModelApply</sub>, <sub>StyleModelLoader</sub>, <sub>SV3D_Conditioning</sub>, <sub>SVD_img2vid_Conditioning</sub>
+ - <sub>ThresholdMask</sub>, <sub>TomePatchModel</sub>
+ - <sub>unCLIPCheckpointLoader</sub>, <sub>unCLIPConditioning</sub>, <sub>UNetCrossAttentionMultiply</sub>, <sub>UNETLoader</sub>, <sub>UNetSelfAttentionMultiply</sub>, <sub>UNetTemporalAttentionMultiply</sub>, <sub>UpscaleModelLoader</sub>
+ - <sub>VAEDecode</sub>, <sub>VAEDecodeTiled</sub>, <sub>VAEEncode</sub>, <sub>VAEEncodeForInpaint</sub>, <sub>VAEEncodeTiled</sub>, <sub>VAELoader</sub>, <sub>VAESave</sub>, <sub>VideoLinearCFGGuidance</sub>, <sub>VideoTriangleCFGGuidance</sub>, <sub>VPScheduler</sub>
+ - <sub>WebcamCapture</sub>
 </details>
 

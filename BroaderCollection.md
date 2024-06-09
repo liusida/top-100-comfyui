@@ -51,7 +51,7 @@ InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 <a href='https://github.com/guoyww/AnimateDiff'>
 <img src="https://avatars.githubusercontent.com/u/93254373?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/guoyww/AnimateDiff
 
-**Stars**: `9.5k` | **Created at**: `2023-06-17` | **Last updated**: `2024-06-08`
+**Stars**: `9.5k` | **Created at**: `2023-06-17` | **Last updated**: `2024-06-09`
 
 
 Official implementation of AnimateDiff.
@@ -469,7 +469,7 @@ Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion we
 <a href='https://github.com/InstantStyle/InstantStyle'>
 <img src="https://avatars.githubusercontent.com/u/154572977?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/InstantStyle/InstantStyle
 
-**Stars**: `1.4k` | **Created at**: `2023-12-22` | **Last updated**: `2024-06-08`
+**Stars**: `1.4k` | **Created at**: `2023-12-22` | **Last updated**: `2024-06-09`
 
 
 InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
@@ -662,10 +662,10 @@ Enjoy the magic of Diffusion models!
 One Button Prompt
 <details><summary>Included Nodes (8)</summary>
 
- - AutoNegativePrompt
- - CreatePromptVariant
- - OneButtonArtify, OneButtonFlufferize, OneButtonPreset, OneButtonPrompt, OneButtonSuperPrompt
- - SavePromptToFile
+ - <sub>AutoNegativePrompt</sub>
+ - <sub>CreatePromptVariant</sub>
+ - <sub>OneButtonArtify</sub>, <sub>OneButtonFlufferize</sub>, <sub>OneButtonPreset</sub>, <sub>OneButtonPrompt</sub>, <sub>OneButtonSuperPrompt</sub>
+ - <sub>SavePromptToFile</sub>
 </details>
 
 

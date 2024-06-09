@@ -24,9 +24,9 @@ A ComfyUI node for driving videos using batches of images.
 AnimateDiff for ComfyUI
 <details><summary>Included Nodes (7)</summary>
 
- - AnimateDiffCombine, AnimateDiffLoraLoader, AnimateDiffModuleLoader, AnimateDiffSampler, AnimateDiffSlidingWindowOptions
- - ImageSizeAndBatchSize
- - LoadVideo
+ - <sub>AnimateDiffCombine</sub>, <sub>AnimateDiffLoraLoader</sub>, <sub>AnimateDiffModuleLoader</sub>, <sub>AnimateDiffSampler</sub>, <sub>AnimateDiffSlidingWindowOptions</sub>
+ - <sub>ImageSizeAndBatchSize</sub>
+ - <sub>LoadVideo</sub>
 </details>
 
 
@@ -57,8 +57,8 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 Wrapper to use DynamiCrafter models in ComfyUI
 <details><summary>Included Nodes (8)</summary>
 
- - DownloadAndLoadCLIPModel, DownloadAndLoadCLIPVisionModel, DownloadAndLoadDynamiCrafterModel, DynamiCrafterBatchInterpolation, DynamiCrafterI2V, DynamiCrafterModelLoader
- - ToonCrafterDecode, ToonCrafterInterpolation
+ - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
+ - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
 </details>
 
 
@@ -74,7 +74,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 Nodes related to video workflows
 <details><summary>Included Nodes (29)</summary>
 
- - VHS_BatchManager, VHS_DuplicateImages, VHS_DuplicateLatents, VHS_DuplicateMasks, VHS_GetImageCount, VHS_GetLatentCount, VHS_GetMaskCount, VHS_LoadAudio, VHS_LoadAudioUpload, VHS_LoadImages, VHS_LoadImagesPath, VHS_LoadVideo, VHS_LoadVideoPath, VHS_MergeImages, VHS_MergeLatents, VHS_MergeMasks, VHS_PruneOutputs, VHS_SelectEveryNthImage, VHS_SelectEveryNthLatent, VHS_SelectEveryNthMask, VHS_SplitImages, VHS_SplitLatents, VHS_SplitMasks, VHS_VAEDecodeBatched, VHS_VAEEncodeBatched, VHS_VideoCombine, VHS_VideoInfo, VHS_VideoInfoLoaded, VHS_VideoInfoSource
+ - <sub>VHS_BatchManager</sub>, <sub>VHS_DuplicateImages</sub>, <sub>VHS_DuplicateLatents</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>VHS_GetImageCount</sub>, <sub>VHS_GetLatentCount</sub>, <sub>VHS_GetMaskCount</sub>, <sub>VHS_LoadAudio</sub>, <sub>VHS_LoadAudioUpload</sub>, <sub>VHS_LoadImages</sub>, <sub>VHS_LoadImagesPath</sub>, <sub>VHS_LoadVideo</sub>, <sub>VHS_LoadVideoPath</sub>, <sub>VHS_MergeImages</sub>, <sub>VHS_MergeLatents</sub>, <sub>VHS_MergeMasks</sub>, <sub>VHS_PruneOutputs</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>VHS_SelectEveryNthMask</sub>, <sub>VHS_SplitImages</sub>, <sub>VHS_SplitLatents</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_VAEDecodeBatched</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VideoCombine</sub>, <sub>VHS_VideoInfo</sub>, <sub>VHS_VideoInfoLoaded</sub>, <sub>VHS_VideoInfoSource</sub>
 </details>
 
 
@@ -90,23 +90,23 @@ Nodes related to video workflows
 Animation oriented nodes pack for ComfyUI
 <details><summary>Included Nodes (60)</summary>
 
- - Animation Builder (mtb), Any To String (mtb)
- - Batch Float (mtb), Batch Float Assemble (mtb), Batch Float Fill (mtb), Batch Make (mtb), Batch Merge (mtb), Batch Shake (mtb), Batch Shape (mtb), Batch Transform (mtb), Bbox (mtb), Bbox From Mask (mtb), Blur (mtb)
- - Color Correct (mtb), Colored Image (mtb), Concat Images (mtb), Crop (mtb)
- - Debug (mtb), Deep Bump (mtb)
- - Export With Ffmpeg (mtb)
- - Face Swap (mtb), Film Interpolation (mtb), Fit Number (mtb), Float To Number (mtb)
- - Get Batch From History (mtb)
- - Image Compare (mtb), Image Premultiply (mtb), Image Remove Background Rembg (mtb), Image Resize Factor (mtb), Image Tile Offset (mtb), Int To Bool (mtb), Int To Number (mtb), Interpolate Clip Sequential (mtb)
- - Latent Lerp (mtb), Load Face Analysis Model (mtb), Load Face Enhance Model (mtb), Load Face Swap Model (mtb), Load Film Model (mtb), Load Image From Url (mtb), Load Image Sequence (mtb)
- - Mask To Image (mtb), Math Expression (mtb), Model Patch Seamless (mtb)
- - Pick From Batch (mtb)
- - Qr Code (mtb)
- - Restore Face (mtb)
- - Save Gif (mtb), Save Image Grid (mtb), Save Image Sequence (mtb), Save Tensors (mtb), Sharpen (mtb), Smart Step (mtb), Stack Images (mtb), String Replace (mtb), Styles Loader (mtb)
- - Text To Image (mtb), Transform Image (mtb)
- - Uncrop (mtb), Unsplash Image (mtb)
- - Vae Decode (mtb)
+ - <sub>Animation Builder (mtb)</sub>, <sub>Any To String (mtb)</sub>
+ - <sub>Batch Float (mtb)</sub>, <sub>Batch Float Assemble (mtb)</sub>, <sub>Batch Float Fill (mtb)</sub>, <sub>Batch Make (mtb)</sub>, <sub>Batch Merge (mtb)</sub>, <sub>Batch Shake (mtb)</sub>, <sub>Batch Shape (mtb)</sub>, <sub>Batch Transform (mtb)</sub>, <sub>Bbox (mtb)</sub>, <sub>Bbox From Mask (mtb)</sub>, <sub>Blur (mtb)</sub>
+ - <sub>Color Correct (mtb)</sub>, <sub>Colored Image (mtb)</sub>, <sub>Concat Images (mtb)</sub>, <sub>Crop (mtb)</sub>
+ - <sub>Debug (mtb)</sub>, <sub>Deep Bump (mtb)</sub>
+ - <sub>Export With Ffmpeg (mtb)</sub>
+ - <sub>Face Swap (mtb)</sub>, <sub>Film Interpolation (mtb)</sub>, <sub>Fit Number (mtb)</sub>, <sub>Float To Number (mtb)</sub>
+ - <sub>Get Batch From History (mtb)</sub>
+ - <sub>Image Compare (mtb)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>Image Remove Background Rembg (mtb)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>Image Tile Offset (mtb)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>Int To Number (mtb)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
+ - <sub>Latent Lerp (mtb)</sub>, <sub>Load Face Analysis Model (mtb)</sub>, <sub>Load Face Enhance Model (mtb)</sub>, <sub>Load Face Swap Model (mtb)</sub>, <sub>Load Film Model (mtb)</sub>, <sub>Load Image From Url (mtb)</sub>, <sub>Load Image Sequence (mtb)</sub>
+ - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>Model Patch Seamless (mtb)</sub>
+ - <sub>Pick From Batch (mtb)</sub>
+ - <sub>Qr Code (mtb)</sub>
+ - <sub>Restore Face (mtb)</sub>
+ - <sub>Save Gif (mtb)</sub>, <sub>Save Image Grid (mtb)</sub>, <sub>Save Image Sequence (mtb)</sub>, <sub>Save Tensors (mtb)</sub>, <sub>Sharpen (mtb)</sub>, <sub>Smart Step (mtb)</sub>, <sub>Stack Images (mtb)</sub>, <sub>String Replace (mtb)</sub>, <sub>Styles Loader (mtb)</sub>
+ - <sub>Text To Image (mtb)</sub>, <sub>Transform Image (mtb)</sub>
+ - <sub>Uncrop (mtb)</sub>, <sub>Unsplash Image (mtb)</sub>
+ - <sub>Vae Decode (mtb)</sub>
 </details>
 
 
@@ -122,15 +122,15 @@ Animation oriented nodes pack for ComfyUI
 A custom node set for Video Frame Interpolation in ComfyUI.
 <details><summary>Included Nodes (14)</summary>
 
- - AMT VFI
- - CAIN VFI
- - FILM VFI, FLAVR VFI
- - GMFSS Fortuna VFI
- - IFRNet VFI, IFUnet VFI
- - KSampler Gradually Adding More Denoise (efficient)
- - M2M VFI, Make Interpolation State List
- - RIFE VFI
- - Sepconv VFI, STMFNet VFI
- - VFI FloatToInt
+ - <sub>AMT VFI</sub>
+ - <sub>CAIN VFI</sub>
+ - <sub>FILM VFI</sub>, <sub>FLAVR VFI</sub>
+ - <sub>GMFSS Fortuna VFI</sub>
+ - <sub>IFRNet VFI</sub>, <sub>IFUnet VFI</sub>
+ - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
+ - <sub>M2M VFI</sub>, <sub>Make Interpolation State List</sub>
+ - <sub>RIFE VFI</sub>
+ - <sub>Sepconv VFI</sub>, <sub>STMFNet VFI</sub>
+ - <sub>VFI FloatToInt</sub>
 </details>
 

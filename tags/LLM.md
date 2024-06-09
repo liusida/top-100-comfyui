@@ -13,9 +13,9 @@
 Using Gemini in ComfyUI
 <details><summary>Included Nodes (12)</summary>
 
- - ConcatText_Zho
- - DisplayText_Zho
- - Gemini_15P_API_S_Advance_Zho, Gemini_15P_API_S_Chat_Advance_Zho, Gemini_API_Chat_Zho, Gemini_API_S_Chat_Zho, Gemini_API_S_Vsion_ImgURL_Zho, Gemini_API_S_Zho, Gemini_API_Vsion_ImgURL_Zho, Gemini_API_Zho, Gemini_File_API_S_Zho, Gemini_FileUpload_API_S_Zho
+ - <sub>ConcatText_Zho</sub>
+ - <sub>DisplayText_Zho</sub>
+ - <sub>Gemini_15P_API_S_Advance_Zho</sub>, <sub>Gemini_15P_API_S_Chat_Advance_Zho</sub>, <sub>Gemini_API_Chat_Zho</sub>, <sub>Gemini_API_S_Chat_Zho</sub>, <sub>Gemini_API_S_Vsion_ImgURL_Zho</sub>, <sub>Gemini_API_S_Zho</sub>, <sub>Gemini_API_Vsion_ImgURL_Zho</sub>, <sub>Gemini_API_Zho</sub>, <sub>Gemini_File_API_S_Zho</sub>, <sub>Gemini_FileUpload_API_S_Zho</sub>
 </details>
 
 
@@ -31,7 +31,7 @@ Using Gemini in ComfyUI
 A Node for ComfyUI that does what you ask it to do
 <details><summary>Included Nodes (5)</summary>
 
- - AnyNode, AnyNodeCodeViewer, AnyNodeExport, AnyNodeGemini, AnyNodeLocal
+ - <sub>AnyNode</sub>, <sub>AnyNodeCodeViewer</sub>, <sub>AnyNodeExport</sub>, <sub>AnyNodeGemini</sub>, <sub>AnyNodeLocal</sub>
 </details>
 
 
@@ -47,19 +47,19 @@ A Node for ComfyUI that does what you ask it to do
 ComfyUI Extension Nodes for Automated Text Generation.
 <details><summary>Included Nodes (36)</summary>
 
- - AppendAgent, Assistant
- - Chat, ChatGPT, CombineInput, Conditioning, CostumeAgent_1, CostumeAgent_2, CostumeMaster_1, Critic
- - DisplayString, DisplayTextAsImage
- - Engineer, EVAL, Executor
- - GroupChat
- - Image_generation_Conditioning
- - llama-cpp, llava, LM_Studio, LoadAPIconfig, LoadTXT
- - MemGPT, Memory_Excel, Model_1
- - Ollama, oobaboogaOpenAI, Output2String
- - Planner
- - Scientist
- - TextCombine, TextGeneration, TextGenerator, TextInput, TextOutput
- - UserProxy
+ - <sub>AppendAgent</sub>, <sub>Assistant</sub>
+ - <sub>Chat</sub>, <sub>ChatGPT</sub>, <sub>CombineInput</sub>, <sub>Conditioning</sub>, <sub>CostumeAgent_1</sub>, <sub>CostumeAgent_2</sub>, <sub>CostumeMaster_1</sub>, <sub>Critic</sub>
+ - <sub>DisplayString</sub>, <sub>DisplayTextAsImage</sub>
+ - <sub>Engineer</sub>, <sub>EVAL</sub>, <sub>Executor</sub>
+ - <sub>GroupChat</sub>
+ - <sub>Image_generation_Conditioning</sub>
+ - <sub>llama-cpp</sub>, <sub>llava</sub>, <sub>LM_Studio</sub>, <sub>LoadAPIconfig</sub>, <sub>LoadTXT</sub>
+ - <sub>MemGPT</sub>, <sub>Memory_Excel</sub>, <sub>Model_1</sub>
+ - <sub>Ollama</sub>, <sub>oobaboogaOpenAI</sub>, <sub>Output2String</sub>
+ - <sub>Planner</sub>
+ - <sub>Scientist</sub>
+ - <sub>TextCombine</sub>, <sub>TextGeneration</sub>, <sub>TextGenerator</sub>, <sub>TextInput</sub>, <sub>TextOutput</sub>
+ - <sub>UserProxy</sub>
 </details>
 
 
@@ -75,6 +75,6 @@ ComfyUI Extension Nodes for Automated Text Generation.
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
 <details><summary>Included Nodes (6)</summary>
 
- - IF_ChatPrompt, IF_DisplayText, IF_ImagePrompt, IF_PromptMkr, IF_SaveText, IF_saveText
+ - <sub>IF_ChatPrompt</sub>, <sub>IF_DisplayText</sub>, <sub>IF_ImagePrompt</sub>, <sub>IF_PromptMkr</sub>, <sub>IF_SaveText</sub>, <sub>IF_saveText</sub>
 </details>
 

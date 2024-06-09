@@ -18,18 +18,18 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.3k` | **Created at**: `2024-06-08`
+**Stars**: `1.3k` | **Created at**: `2024-06-09`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <details><summary>Included Nodes (14)</summary>
 
- - CheckpointLoader|pysssss, ConstrainImageforVideo|pysssss, ConstrainImage|pysssss
- - LoadText|pysssss, LoraLoader|pysssss
- - MathExpression|pysssss, MultiPrimitive|pysssss
- - PlaySound|pysssss
- - Repeater|pysssss, ReroutePrimitive|pysssss
- - SaveText|pysssss, ShowText|pysssss, StringFunction|pysssss, SystemNotification|pysssss
+ - <sub>CheckpointLoader|pysssss</sub>, <sub>ConstrainImageforVideo|pysssss</sub>, <sub>ConstrainImage|pysssss</sub>
+ - <sub>LoadText|pysssss</sub>, <sub>LoraLoader|pysssss</sub>
+ - <sub>MathExpression|pysssss</sub>, <sub>MultiPrimitive|pysssss</sub>
+ - <sub>PlaySound|pysssss</sub>
+ - <sub>Repeater|pysssss</sub>, <sub>ReroutePrimitive|pysssss</sub>
+ - <sub>SaveText|pysssss</sub>, <sub>ShowText|pysssss</sub>, <sub>StringFunction|pysssss</sub>, <sub>SystemNotification|pysssss</sub>
 </details>
 
 
@@ -82,11 +82,11 @@ A powerful set of tools for ComfyUI
 An image/video/workflow browser and manager for ComfyUI.
 <details><summary>Included Nodes (5)</summary>
 
- - DifyTextGenerator //Browser
- - LoadImageByUrl //Browser
- - SelectInputs //Browser
- - UploadToRemote //Browser
- - XyzPlot //Browser
+ - <sub>DifyTextGenerator //Browser</sub>
+ - <sub>LoadImageByUrl //Browser</sub>
+ - <sub>SelectInputs //Browser</sub>
+ - <sub>UploadToRemote //Browser</sub>
+ - <sub>XyzPlot //Browser</sub>
 </details>
 
 
