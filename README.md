@@ -113,7 +113,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `2.9k` | **Created at**: `2023-08-30` | **Last updated**: `2024-06-08` | **Tags**: `Custom Nodes`
+**Stars**: `2.9k` | **Created at**: `2023-08-30` | **Last updated**: `2024-06-09` | **Tags**: `Custom Nodes`
 
 
 None
@@ -530,7 +530,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation
 
-**Stars**: `819` | **Created at**: `2023-08-15` | **Last updated**: `2024-06-08` | **Tags**: `Translation`
+**Stars**: `820` | **Created at**: `2023-08-15` | **Last updated**: `2024-06-09` | **Tags**: `Translation`
 
 
 A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
@@ -667,7 +667,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `657` | **Created at**: `2023-08-14` | **Last updated**: `2024-06-08` | **Tags**: `Custom Nodes`
+**Stars**: `657` | **Created at**: `2023-08-14` | **Last updated**: `2024-06-09` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -1728,4 +1728,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-09 00:21:54 UTC
+### Automatically updated on: 2024-06-09 00:36:29 UTC
