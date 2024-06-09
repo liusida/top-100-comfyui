@@ -25,7 +25,10 @@ def get_extension_nodes(repo_url):
                 ret += " - "
                 for node in group:
                     if node in all_nodes_dict and all_nodes_dict[node]>0:
-                        ret += f"[{node}](node_examples/{valid_filename(node)}.md) ({all_nodes_dict[node]}), "
+                        if all_nodes_dict[node]>50:
+                            ret += f"🌟[{node}](node_examples/{valid_filename(node)}.md) ({all_nodes_dict[node]})🌟, "
+                        else:
+                            ret += f"[{node}](node_examples/{valid_filename(node)}.md) ({all_nodes_dict[node]}), "
                     else:
                         ret += node + ", "
                 # Remove the last comma and space from the end of the string
