@@ -73,11 +73,11 @@ ADE_MaskedLoadLora: 0
 ADE_MultivalDynamic: 24
 ADE_MultivalScaledMask: 2
 ADE_NoiseLayerAdd: 0
-ADE_NoiseLayerAddWeighted: -1
-ADE_NoiseLayerReplace: -1
-ADE_PairedConditioningSetMask: -1
-ADE_PairedConditioningSetMaskAndCombine: -1
-ADE_PairedConditioningSetUnmaskedAndCombine: -1
+ADE_NoiseLayerAddWeighted: 0
+ADE_NoiseLayerReplace: 0
+ADE_PairedConditioningSetMask: 0
+ADE_PairedConditioningSetMaskAndCombine: 0
+ADE_PairedConditioningSetUnmaskedAndCombine: 0
 ADE_RawSigmaSchedule: -1
 ADE_RegisterLoraHook: -1
 ADE_RegisterLoraHookModelOnly: -1
