@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
-  update-readme:
+  search-for-workflows:
     runs-on: ubuntu-latest
 
     steps:
