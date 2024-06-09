@@ -152,9 +152,9 @@ BNK_CutoffSetRegions: 8
 BRIA_RMBG_ModelLoader_Zho: 11
 BRIA_RMBG_Zho: 11
 BackgroundScaler: 0
-BaseModel_Loader_fromhub: -1
-BaseModel_Loader_local: -1
-BasicGuider: -1
+BaseModel_Loader_fromhub: 7
+BaseModel_Loader_local: 2
+BasicGuider: 0
 BasicPipeToDetailerPipe: -1
 BasicPipeToDetailerPipeSDXL: -1
 BasicScheduler: -1
