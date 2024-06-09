@@ -139,7 +139,7 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 <a href='https://github.com/tencent-ailab/IP-Adapter'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/IP-Adapter
 
-**Stars**: `4.3k` | **Created at**: `2023-08-16` | **Last updated**: `2024-06-08`
+**Stars**: `4.3k` | **Created at**: `2023-08-16` | **Last updated**: `2024-06-09`
 
 
 The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
@@ -447,7 +447,7 @@ MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
 <a href='https://github.com/TMElyralab/MuseTalk'>
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TMElyralab/MuseTalk
 
-**Stars**: `1.5k` | **Created at**: `2024-03-26` | **Last updated**: `2024-06-08`
+**Stars**: `1.5k` | **Created at**: `2024-03-26` | **Last updated**: `2024-06-09`
 
 
 MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting

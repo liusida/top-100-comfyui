@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `2.9k` | **Created at**: `2024-06-08`
+**Stars**: `2.9k` | **Created at**: `2024-06-09`
 
 
 None
@@ -383,7 +383,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `657` | **Created at**: `2024-06-08`
+**Stars**: `657` | **Created at**: `2024-06-09`
 
 
 Making ComfyUI more comfortable!
