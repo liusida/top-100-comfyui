@@ -271,7 +271,7 @@ Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111 SD WebUI, S
 <a href='https://github.com/Tencent/HunyuanDiT'>
 <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent/HunyuanDiT
 
-**Stars**: `2.2k` | **Created at**: `2024-05-10` | **Last updated**: `2024-06-08`
+**Stars**: `2.2k` | **Created at**: `2024-05-10` | **Last updated**: `2024-06-09`
 
 
 Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding

@@ -189,7 +189,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `1.1k` | **Created at**: `2024-06-08`
+**Stars**: `1.1k` | **Created at**: `2024-06-09`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -814,7 +814,7 @@ Nodes related to video workflows
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `367` | **Created at**: `2024-06-08`
+**Stars**: `368` | **Created at**: `2024-06-09`
 
 
 Marigold depth estimation in ComfyUI

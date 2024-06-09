@@ -30,7 +30,7 @@ This repository automatically updates a list of the top 100 repositories related
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `37.1k` | **Created at**: `2023-01-17` | **Last updated**: `2024-06-08` | **Tags**: `Core`
+**Stars**: `37.1k` | **Created at**: `2023-01-17` | **Last updated**: `2024-06-09` | **Tags**: `Core`
 
 
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
@@ -279,7 +279,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/siliconflow/onediff'>
 <img src="https://avatars.githubusercontent.com/u/143005960?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/siliconflow/onediff
 
-**Stars**: `1.3k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-08` | **Tags**: `Acceleration`
+**Stars**: `1.3k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-09` | **Tags**: `Acceleration`
 
 
 OneDiff: An out-of-the-box acceleration library for diffusion models.
@@ -373,7 +373,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `1.1k` | **Created at**: `2024-02-28` | **Last updated**: `2024-06-08` | **Tags**: `Custom Nodes`
+**Stars**: `1.1k` | **Created at**: `2024-02-28` | **Last updated**: `2024-06-09` | **Tags**: `Custom Nodes`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -1299,7 +1299,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `367` | **Created at**: `2023-12-12` | **Last updated**: `2024-06-08` | **Tags**: `Custom Nodes`
+**Stars**: `368` | **Created at**: `2023-12-12` | **Last updated**: `2024-06-09` | **Tags**: `Custom Nodes`
 
 
 Marigold depth estimation in ComfyUI
@@ -1728,4 +1728,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-06-09 00:36:29 UTC
+### Automatically updated on: 2024-06-09 00:54:03 UTC

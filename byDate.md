@@ -1015,7 +1015,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `367` | **Created at**: `2023-12-12` | **Tags**: `Custom Nodes`
+**Stars**: `368` | **Created at**: `2023-12-12` | **Tags**: `Custom Nodes`
 
 
 Marigold depth estimation in ComfyUI
