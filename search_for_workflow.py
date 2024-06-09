@@ -3,6 +3,7 @@ import base64
 import requests
 import yaml
 import time
+import re
 from dotenv import load_dotenv
 
 # Load the GitHub token from the .env file
@@ -10,7 +11,7 @@ load_dotenv()
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 with open('all_nodes.yml', 'r') as file:
-    all_nodes = yaml.safe_load(file)
+    all_nodes = yaml.safe_load(file) # TODO: need to adjust based on the changed format
 
 def fetch_github_data(search_query, headers):
     # GitHub API endpoint for code search
@@ -26,8 +27,18 @@ def handle_api_rate_limit(response):
         return True
     return False
 
-def valid_filename(node):
-    return node.replace("|", "_")
+def valid_filename(filename):
+    # Remove invalid file name characters
+    filename = re.sub(r'[\\/*?:"<>|]', "", filename)
+    # Replace other potentially problematic characters with underscore
+    filename = re.sub(r'[\s]', "_", filename)
+    # Avoid names typical for system devices like 'CON', 'PRN', etc.
+    reserved_names = {"CON", "PRN", "AUX", "NUL", "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9", "LPT1", "LPT2", "LPT3", "LPT4", "LPT5", "LPT6", "LPT7", "LPT8", "LPT9"}
+    if filename.upper() in reserved_names:
+        filename = "_" + filename
+    # Ensure the filename length is not too long
+    filename = filename[:255]
+    return filename
 
 headers = {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 
@@ -36,7 +47,7 @@ node_number_processed_each_time = 5 #
 for node in all_nodes:
     if os.path.exists(f'node_examples/{valid_filename(node)}.md'):
         continue
-    if node_number_processed_each_time < 0: # too many requests, so each time we only process this many nodes.
+    if node_number_processed_each_time <= 0: # too many requests, so each time we only process this many nodes.
         break
     node_number_processed_each_time -= 1
 
@@ -79,7 +90,12 @@ for node in all_nodes:
                 f.write(f"## {index+1}. \n\n")
                 f.write(f"Size: {item['size']} bytes\n\n")
                 f.write(f"URL: {item['url']}\n\n")
+            all_nodes[node] = len(matching_items)
     else:
         if not handle_api_rate_limit(response):
             print(f"Failed to retrieve results: {response.status_code}")
             print(response.json())
+
+# Write the updated dictionary back to the YAML file
+with open('all_nodes.yml', 'w') as file:
+    yaml.dump(all_nodes, file, default_flow_style=False)

@@ -214,6 +214,26 @@ def write_broader_collection_file():
             extension_nodes = get_extension_nodes(repo_url)
             f.write(extension_nodes)
 
+def write_all_nodes_file():
+    # Load the existing data from the YAML file
+    try:
+        with open('all_nodes.yml', 'r') as file:
+            data = yaml.safe_load(file) or {}
+    except FileNotFoundError:
+        data = {}
+
+    # Check and add missing nodes with a default value of -1
+    updated = False
+    for node in all_nodes:
+        if node not in data:
+            data[node] = -1
+            updated = True
+
+    # Save the updated dictionary back to the YAML file if new nodes were added
+    if updated:
+        with open('all_nodes.yml', 'w') as file:
+            yaml.dump(data, file, default_flow_style=False)
+            
 
 def main():
     repositories = fetch_repositories()
@@ -239,10 +259,7 @@ def main():
 
     write_broader_collection_file()
 
-    nodes_dict = {node: -1 for node in all_nodes}
-
-    with open('all_nodes.yml', 'w') as file:
-        yaml.dump(nodes_dict, file, default_flow_style=False)
+    write_all_nodes_file()
 
 if __name__ == "__main__":
     main()
