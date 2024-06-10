@@ -487,10 +487,10 @@ ConditioningSetAreaPercentage: 0
 ConditioningSetAreaStrength: 0
 ConditioningSetMask: 32
 ConditioningSetMaskAndCombine: 0
-ConditioningSetMaskAndCombine3: -1
-ConditioningSetMaskAndCombine4: -1
-ConditioningSetMaskAndCombine5: -1
-ConditioningSetTimestepRange: -1
+ConditioningSetMaskAndCombine3: 0
+ConditioningSetMaskAndCombine4: 0
+ConditioningSetMaskAndCombine5: 0
+ConditioningSetTimestepRange: 18
 ConditioningZeroOut: -1
 Constant Number: -1
 ConstrainImageforVideo|pysssss: -1
