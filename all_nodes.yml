@@ -327,10 +327,10 @@ CR Model Merge Stack: 4
 CR Module Input: 2
 CR Module Output: 1
 CR Module Pipe Loader: 2
-CR Multi Upscale Stack: -1
-CR Multi-ControlNet Stack: -1
-CR Multiline Text: -1
-CR Output Flow Frames: -1
+CR Multi Upscale Stack: 1
+CR Multi-ControlNet Stack: 26
+CR Multiline Text: 2
+CR Output Flow Frames: 1
 CR Output Schedule To File: -1
 CR Overlay Text: -1
 CR Overlay Transparent Image: -1
