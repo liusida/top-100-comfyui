@@ -383,10 +383,10 @@ CR Simple Prompt List Keyframes: 2
 CR Simple Prompt Scheduler: 2
 CR Simple Schedule: 0
 CR Simple Text Panel: 0
-CR Simple Text Scheduler: -1
-CR Simple Text Watermark: -1
-CR Simple Titles: -1
-CR Simple Value Scheduler: -1
+CR Simple Text Scheduler: 1
+CR Simple Text Watermark: 1
+CR Simple Titles: 0
+CR Simple Value Scheduler: 1
 CR Split String: -1
 CR Starburst Colors: -1
 CR Starburst Lines: -1
