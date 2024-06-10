@@ -211,10 +211,10 @@ CLIPSegDetectorProvider: 3
 CLIPSetLastLayer: 97
 CLIPTextEncode: 86
 CLIPTextEncode (BlenderNeko Advanced + NSP): -1
-CLIPTextEncode (NSP): -1
-CLIPTextEncodeControlnet: -1
-CLIPTextEncodeSDXL: -1
-CLIPTextEncodeSDXLRefiner: -1
+CLIPTextEncode (NSP): 0
+CLIPTextEncodeControlnet: 0
+CLIPTextEncodeSDXL: 93
+CLIPTextEncodeSDXLRefiner: 95
 CLIPVisionEncode: -1
 CLIPVisionLoader: -1
 CR 8 Channel In: -1
