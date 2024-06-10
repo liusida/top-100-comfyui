@@ -186,11 +186,11 @@ Blend Latents: 0
 BlendInpaint: 3
 Blur (mtb): 0
 Boolean To Text: 1
-Bounded Image Blend: -1
-Bounded Image Blend with Mask: -1
-Bounded Image Crop: -1
-Bounded Image Crop with Mask: -1
-BrushMotion: -1
+Bounded Image Blend: 0
+Bounded Image Blend with Mask: 0
+Bounded Image Crop: 0
+Bounded Image Crop with Mask: 1
+BrushMotion: 1
 BrushNet: -1
 BrushNetLoader: -1
 Bus Node: -1
