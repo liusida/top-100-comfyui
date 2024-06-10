@@ -343,10 +343,10 @@ CR Prompt Scheduler: 3
 CR Prompt Text: 7
 CR Radial Gradient: 1
 CR Random Hex Color: 0
-CR Random LoRA Stack: -1
-CR Random Multiline Colors: -1
-CR Random Multiline Values: -1
-CR Random Panel Codes: -1
+CR Random LoRA Stack: 0
+CR Random Multiline Colors: 3
+CR Random Multiline Values: 3
+CR Random Panel Codes: 1
 CR Random RGB: -1
 CR Random RGB Gradient: -1
 CR Random Shape Pattern: -1
