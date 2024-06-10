@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `26.3k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-09`
+**Stars**: `26.3k` | **Created at**: `2023-10-06` | **Last updated**: `2024-06-10`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -29,7 +29,7 @@ User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 <a href='https://github.com/hua1995116/awesome-ai-painting'>
 <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hua1995116/awesome-ai-painting
 
-**Stars**: `10.8k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-09`
+**Stars**: `10.8k` | **Created at**: `2022-10-08` | **Last updated**: `2024-06-10`
 
 
 AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -62,7 +62,7 @@ Official implementation of AnimateDiff.
 <a href='https://github.com/TencentARC/PhotoMaker'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/PhotoMaker
 
-**Stars**: `8.5k` | **Created at**: `2023-12-06` | **Last updated**: `2024-06-08`
+**Stars**: `8.5k` | **Created at**: `2023-12-06` | **Last updated**: `2024-06-09`
 
 
 PhotoMaker
@@ -73,7 +73,7 @@ PhotoMaker
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-08`
+**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-06-09`
 
 
 fast-stable-diffusion + DreamBooth
@@ -95,7 +95,7 @@ Easy Docker setup for Stable Diffusion with user-friendly UI
 <a href='https://github.com/LiheYoung/Depth-Anything'>
 <img src="https://avatars.githubusercontent.com/u/47178369?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LiheYoung/Depth-Anything
 
-**Stars**: `6.0k` | **Created at**: `2024-01-22` | **Last updated**: `2024-06-08`
+**Stars**: `6.0k` | **Created at**: `2024-01-22` | **Last updated**: `2024-06-09`
 
 
 [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
@@ -128,7 +128,7 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 <a href='https://github.com/aigc-apps/sd-webui-EasyPhoto'>
 <img src="https://avatars.githubusercontent.com/u/141981933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/aigc-apps/sd-webui-EasyPhoto
 
-**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-06-07`
+**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-06-09`
 
 
 📷 EasyPhoto | Your Smart AI Photo Generator.
@@ -260,7 +260,7 @@ Stable Diffusion Webui Extension for Civitai, to manage your model much more eas
 <a href='https://github.com/Gourieff/sd-webui-reactor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/sd-webui-reactor
 
-**Stars**: `2.2k` | **Created at**: `2023-06-18` | **Last updated**: `2024-06-08`
+**Stars**: `2.2k` | **Created at**: `2023-06-18` | **Last updated**: `2024-06-09`
 
 
 Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111 SD WebUI, SD WebUI Forge, SD.Next, Cagliostro)
@@ -282,7 +282,7 @@ Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Graine
 <a href='https://github.com/KohakuBlueleaf/LyCORIS'>
 <img src="https://avatars.githubusercontent.com/u/59680068?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/KohakuBlueleaf/LyCORIS
 
-**Stars**: `2.0k` | **Created at**: `2023-02-27` | **Last updated**: `2024-06-08`
+**Stars**: `2.0k` | **Created at**: `2023-02-27` | **Last updated**: `2024-06-09`
 
 
 Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
@@ -304,7 +304,7 @@ A curated list with resources about node-based UIs
 <a href='https://github.com/TMElyralab/MuseV'>
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TMElyralab/MuseV
 
-**Stars**: `1.9k` | **Created at**: `2024-03-25` | **Last updated**: `2024-06-09`
+**Stars**: `2.0k` | **Created at**: `2024-03-25` | **Last updated**: `2024-06-09`
 
 
 MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
@@ -320,17 +320,6 @@ MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Vis
 
 A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
 
-## IceClear/StableSR
-
-
-<a href='https://github.com/IceClear/StableSR'>
-<img src="https://avatars.githubusercontent.com/u/22350795?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/IceClear/StableSR
-
-**Stars**: `1.9k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-09`
-
-
-Exploiting Diffusion Prior for Real-World Image Super-Resolution
-
 ## Doubiiu/DynamiCrafter
 
 
@@ -341,6 +330,17 @@ Exploiting Diffusion Prior for Real-World Image Super-Resolution
 
 
 DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
+
+## IceClear/StableSR
+
+
+<a href='https://github.com/IceClear/StableSR'>
+<img src="https://avatars.githubusercontent.com/u/22350795?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/IceClear/StableSR
+
+**Stars**: `1.9k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-09`
+
+
+Exploiting Diffusion Prior for Real-World Image Super-Resolution
 
 ## PRIS-CV/DemoFusion
 
@@ -370,7 +370,7 @@ Transparent Image Layer Diffusion using Latent Transparency
 <a href='https://github.com/taishi-i/awesome-ChatGPT-repositories'>
 <img src="https://avatars.githubusercontent.com/u/12726223?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/taishi-i/awesome-ChatGPT-repositories
 
-**Stars**: `1.8k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-08`
+**Stars**: `1.8k` | **Created at**: `2023-04-02` | **Last updated**: `2024-06-09`
 
 
 A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
@@ -392,7 +392,7 @@ A curated list of awesome C frameworks, libraries and software.
 <a href='https://github.com/tencent-ailab/V-Express'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/V-Express
 
-**Stars**: `1.8k` | **Created at**: `2024-05-21` | **Last updated**: `2024-06-09`
+**Stars**: `1.8k` | **Created at**: `2024-05-21` | **Last updated**: `2024-06-10`
 
 
 V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
@@ -419,28 +419,6 @@ sd-webui中文提示词插件、老手新手炼丹必备
 
 MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
 
-## Coyote-A/ultimate-upscale-for-automatic1111
-
-
-<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
-<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
-
-**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-09`
-
-
-None
-
-## ChenyangSi/FreeU
-
-
-<a href='https://github.com/ChenyangSi/FreeU'>
-<img src="https://avatars.githubusercontent.com/u/29878243?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ChenyangSi/FreeU
-
-**Stars**: `1.5k` | **Created at**: `2023-09-14` | **Last updated**: `2024-06-08`
-
-
-FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
-
 ## TMElyralab/MuseTalk
 
 
@@ -451,6 +429,28 @@ FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 
 
 MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
+
+## Coyote-A/ultimate-upscale-for-automatic1111
+
+
+<a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
+<img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+
+**Stars**: `1.5k` | **Created at**: `2023-01-02` | **Last updated**: `2024-06-10`
+
+
+None
+
+## ChenyangSi/FreeU
+
+
+<a href='https://github.com/ChenyangSi/FreeU'>
+<img src="https://avatars.githubusercontent.com/u/29878243?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ChenyangSi/FreeU
+
+**Stars**: `1.5k` | **Created at**: `2023-09-14` | **Last updated**: `2024-06-09`
+
+
+FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 
 ## dtlnor/stable-diffusion-webui-localization-zh_CN
 
@@ -579,7 +579,7 @@ An awesome repository of local AI tools
 <a href='https://github.com/receyuki/stable-diffusion-prompt-reader'>
 <img src="https://avatars.githubusercontent.com/u/28808141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/receyuki/stable-diffusion-prompt-reader
 
-**Stars**: `952` | **Created at**: `2023-03-24` | **Last updated**: `2024-06-07`
+**Stars**: `953` | **Created at**: `2023-03-24` | **Last updated**: `2024-06-09`
 
 
 A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
@@ -612,7 +612,7 @@ Focus on prompting and generating
 <a href='https://github.com/TencentQQGYLab/ELLA'>
 <img src="https://avatars.githubusercontent.com/u/163842438?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentQQGYLab/ELLA
 
-**Stars**: `897` | **Created at**: `2024-03-07` | **Last updated**: `2024-06-07`
+**Stars**: `898` | **Created at**: `2024-03-07` | **Last updated**: `2024-06-09`
 
 
 ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
@@ -662,7 +662,7 @@ Enjoy the magic of Diffusion models!
 One Button Prompt
 <details><summary>Included Nodes (8)</summary>
 
- - <sub>AutoNegativePrompt</sub>
+ - <sub>[AutoNegativePrompt](node_examples/AutoNegativePrompt.md)</sub>
  - <sub>CreatePromptVariant</sub>
  - <sub>OneButtonArtify</sub>, <sub>OneButtonFlufferize</sub>, <sub>OneButtonPreset</sub>, <sub>OneButtonPrompt</sub>, <sub>OneButtonSuperPrompt</sub>
  - <sub>SavePromptToFile</sub>

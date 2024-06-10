@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.6k` | **Created at**: `2024-06-08`
+**Stars**: `3.6k` | **Created at**: `2024-06-09`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Created at**: `2024-06-08`
+**Stars**: `1.2k` | **Created at**: `2024-06-09`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -89,7 +89,7 @@ A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `399` | **Created at**: `2024-06-09`
+**Stars**: `400` | **Created at**: `2024-06-09`
 
 
 Create images of a given character in different poses

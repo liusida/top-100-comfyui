@@ -30,7 +30,7 @@ None
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <details><summary>Included Nodes (87)</summary>
 
- - <sub>ADE_AdjustPEFullStretch</sub>, <sub>ADE_AdjustPEManual</sub>, <sub>ADE_AdjustPESweetspotStretch</sub>, <sub>ADE_AdjustWeightAllAdd</sub>, <sub>ADE_AdjustWeightAllMult</sub>, <sub>ADE_AdjustWeightIndivAdd</sub>, <sub>ADE_AdjustWeightIndivAttnAdd</sub>, <sub>ADE_AdjustWeightIndivAttnMult</sub>, <sub>ADE_AdjustWeightIndivMult</sub>, <sub>[ADE_AnimateDiffCombine](node_examples/ADE_AnimateDiffCombine.md)</sub>, <sub>[ADE_AnimateDiffKeyframe](node_examples/ADE_AnimateDiffKeyframe.md)</sub>, <sub>[ADE_AnimateDiffLoaderGen1](node_examples/ADE_AnimateDiffLoaderGen1.md)</sub>, <sub>[ADE_AnimateDiffLoaderV1Advanced](node_examples/ADE_AnimateDiffLoaderV1Advanced.md)</sub>, [ADE_AnimateDiffLoaderWithContext🌟](node_examples/ADE_AnimateDiffLoaderWithContext.md), [ADE_AnimateDiffLoRALoader🌟](node_examples/ADE_AnimateDiffLoRALoader.md), <sub>ADE_AnimateDiffModelSettings</sub>, <sub>ADE_AnimateDiffModelSettings_Release</sub>, <sub>[ADE_AnimateDiffModelSettingsAdvancedAttnStrengths](node_examples/ADE_AnimateDiffModelSettingsAdvancedAttnStrengths.md)</sub>, <sub>[ADE_AnimateDiffModelSettingsSimple](node_examples/ADE_AnimateDiffModelSettingsSimple.md)</sub>, [ADE_AnimateDiffSamplingSettings🌟](node_examples/ADE_AnimateDiffSamplingSettings.md), <sub>ADE_AnimateDiffSettings</sub>, [ADE_AnimateDiffUniformContextOptions🌟](node_examples/ADE_AnimateDiffUniformContextOptions.md), <sub>[ADE_AnimateDiffUnload](node_examples/ADE_AnimateDiffUnload.md)</sub>, [ADE_ApplyAnimateDiffModel🌟](node_examples/ADE_ApplyAnimateDiffModel.md), <sub>[ADE_ApplyAnimateDiffModelSimple](node_examples/ADE_ApplyAnimateDiffModelSimple.md)</sub>, <sub>ADE_ApplyAnimateDiffModelWithCameraCtrl</sub>, <sub>ADE_ApplyAnimateLCMI2VModel</sub>, <sub>ADE_AttachLoraHookToCLIP</sub>, <sub>ADE_AttachLoraHookToConditioning</sub>, <sub>[ADE_BatchedContextOptions](node_examples/ADE_BatchedContextOptions.md)</sub>, <sub>ADE_CameraCtrlAnimateDiffKeyframe</sub>, <sub>ADE_CameraManualPoseAppend</sub>, <sub>ADE_CameraPoseAdvanced</sub>, <sub>ADE_CameraPoseBasic</sub>, <sub>ADE_CameraPoseCombo</sub>, <sub>ADE_CombineLoraHooks</sub>, <sub>ADE_CombineLoraHooksEight</sub>, <sub>ADE_CombineLoraHooksFour</sub>, <sub>ADE_ConditioningSetMask</sub>, <sub>ADE_ConditioningSetMaskAndCombine</sub>, <sub>ADE_ConditioningSetUnmaskedAndCombine</sub>, <sub>ADE_CustomCFG</sub>, <sub>ADE_CustomCFGKeyframe</sub>, <sub>ADE_EmptyLatentImageLarge</sub>, <sub>ADE_InjectI2VIntoAnimateDiffModel</sub>, <sub>ADE_IterationOptsDefault</sub>, <sub>ADE_IterationOptsFreeInit</sub>, <sub>ADE_LoadAnimateDiffModel</sub>, <sub>ADE_LoadAnimateDiffModelWithCameraCtrl</sub>, <sub>ADE_LoadAnimateLCMI2VModel</sub>, <sub>ADE_LoadCameraPoses</sub>, <sub>ADE_LoopedUniformContextOptions</sub>, <sub>ADE_LoopedUniformViewOptions</sub>, <sub>ADE_LoraHookKeyframe</sub>, <sub>ADE_LoraHookKeyframeFromStrengthList</sub>, <sub>ADE_LoraHookKeyframeInterpolation</sub>, <sub>ADE_MaskedLoadLora</sub>, <sub>ADE_MultivalDynamic</sub>, <sub>ADE_MultivalScaledMask</sub>, <sub>ADE_NoiseLayerAdd</sub>, <sub>ADE_NoiseLayerAddWeighted</sub>, <sub>ADE_NoiseLayerReplace</sub>, <sub>ADE_PairedConditioningSetMask</sub>, <sub>ADE_PairedConditioningSetMaskAndCombine</sub>, <sub>ADE_PairedConditioningSetUnmaskedAndCombine</sub>, <sub>ADE_RawSigmaSchedule</sub>, <sub>ADE_RegisterLoraHook</sub>, <sub>ADE_RegisterLoraHookModelOnly</sub>, <sub>ADE_RegisterModelAsLoraHook</sub>, <sub>ADE_RegisterModelAsLoraHookModelOnly</sub>, <sub>ADE_ReplaceCameraParameters</sub>, <sub>ADE_ReplaceOriginalPoseAspectRatio</sub>, <sub>ADE_SetLoraHookKeyframe</sub>, <sub>ADE_SigmaSchedule</sub>, <sub>ADE_SigmaScheduleSplitAndCombine</sub>, <sub>ADE_SigmaScheduleWeightedAverage</sub>, <sub>ADE_SigmaScheduleWeightedAverageInterp</sub>, <sub>ADE_StandardStaticContextOptions</sub>, <sub>ADE_StandardStaticViewOptions</sub>, <sub>ADE_StandardUniformContextOptions</sub>, <sub>ADE_StandardUniformViewOptions</sub>, <sub>ADE_TimestepsConditioning</sub>, <sub>ADE_UpscaleAndVAEEncode</sub>, <sub>ADE_UseEvolvedSampling</sub>, <sub>ADE_ViewsOnlyContextOptions</sub>, <sub>AnimateDiffLoaderV1</sub>
+ - <sub>ADE_AdjustPEFullStretch</sub>, <sub>ADE_AdjustPEManual</sub>, <sub>ADE_AdjustPESweetspotStretch</sub>, <sub>ADE_AdjustWeightAllAdd</sub>, <sub>ADE_AdjustWeightAllMult</sub>, <sub>ADE_AdjustWeightIndivAdd</sub>, <sub>ADE_AdjustWeightIndivAttnAdd</sub>, <sub>ADE_AdjustWeightIndivAttnMult</sub>, <sub>ADE_AdjustWeightIndivMult</sub>, <sub>[ADE_AnimateDiffCombine](node_examples/ADE_AnimateDiffCombine.md)</sub>, <sub>[ADE_AnimateDiffKeyframe](node_examples/ADE_AnimateDiffKeyframe.md)</sub>, <sub>[ADE_AnimateDiffLoaderGen1](node_examples/ADE_AnimateDiffLoaderGen1.md)</sub>, <sub>[ADE_AnimateDiffLoaderV1Advanced](node_examples/ADE_AnimateDiffLoaderV1Advanced.md)</sub>, [ADE_AnimateDiffLoaderWithContext🌟](node_examples/ADE_AnimateDiffLoaderWithContext.md), [ADE_AnimateDiffLoRALoader🌟](node_examples/ADE_AnimateDiffLoRALoader.md), <sub>ADE_AnimateDiffModelSettings</sub>, <sub>ADE_AnimateDiffModelSettings_Release</sub>, <sub>[ADE_AnimateDiffModelSettingsAdvancedAttnStrengths](node_examples/ADE_AnimateDiffModelSettingsAdvancedAttnStrengths.md)</sub>, <sub>[ADE_AnimateDiffModelSettingsSimple](node_examples/ADE_AnimateDiffModelSettingsSimple.md)</sub>, [ADE_AnimateDiffSamplingSettings🌟](node_examples/ADE_AnimateDiffSamplingSettings.md), <sub>ADE_AnimateDiffSettings</sub>, [ADE_AnimateDiffUniformContextOptions🌟](node_examples/ADE_AnimateDiffUniformContextOptions.md), <sub>[ADE_AnimateDiffUnload](node_examples/ADE_AnimateDiffUnload.md)</sub>, [ADE_ApplyAnimateDiffModel🌟](node_examples/ADE_ApplyAnimateDiffModel.md), <sub>[ADE_ApplyAnimateDiffModelSimple](node_examples/ADE_ApplyAnimateDiffModelSimple.md)</sub>, <sub>ADE_ApplyAnimateDiffModelWithCameraCtrl</sub>, <sub>ADE_ApplyAnimateLCMI2VModel</sub>, <sub>ADE_AttachLoraHookToCLIP</sub>, <sub>ADE_AttachLoraHookToConditioning</sub>, <sub>[ADE_BatchedContextOptions](node_examples/ADE_BatchedContextOptions.md)</sub>, <sub>ADE_CameraCtrlAnimateDiffKeyframe</sub>, <sub>ADE_CameraManualPoseAppend</sub>, <sub>ADE_CameraPoseAdvanced</sub>, <sub>ADE_CameraPoseBasic</sub>, <sub>ADE_CameraPoseCombo</sub>, <sub>ADE_CombineLoraHooks</sub>, <sub>ADE_CombineLoraHooksEight</sub>, <sub>ADE_CombineLoraHooksFour</sub>, <sub>ADE_ConditioningSetMask</sub>, <sub>ADE_ConditioningSetMaskAndCombine</sub>, <sub>ADE_ConditioningSetUnmaskedAndCombine</sub>, <sub>ADE_CustomCFG</sub>, <sub>ADE_CustomCFGKeyframe</sub>, <sub>[ADE_EmptyLatentImageLarge](node_examples/ADE_EmptyLatentImageLarge.md)</sub>, <sub>ADE_InjectI2VIntoAnimateDiffModel</sub>, <sub>ADE_IterationOptsDefault</sub>, <sub>[ADE_IterationOptsFreeInit](node_examples/ADE_IterationOptsFreeInit.md)</sub>, [ADE_LoadAnimateDiffModel🌟](node_examples/ADE_LoadAnimateDiffModel.md), <sub>ADE_LoadAnimateDiffModelWithCameraCtrl</sub>, <sub>ADE_LoadAnimateLCMI2VModel</sub>, <sub>ADE_LoadCameraPoses</sub>, <sub>[ADE_LoopedUniformContextOptions](node_examples/ADE_LoopedUniformContextOptions.md)</sub>, <sub>ADE_LoopedUniformViewOptions</sub>, <sub>ADE_LoraHookKeyframe</sub>, <sub>ADE_LoraHookKeyframeFromStrengthList</sub>, <sub>ADE_LoraHookKeyframeInterpolation</sub>, <sub>ADE_MaskedLoadLora</sub>, <sub>[ADE_MultivalDynamic](node_examples/ADE_MultivalDynamic.md)</sub>, <sub>[ADE_MultivalScaledMask](node_examples/ADE_MultivalScaledMask.md)</sub>, <sub>ADE_NoiseLayerAdd</sub>, <sub>ADE_NoiseLayerAddWeighted</sub>, <sub>ADE_NoiseLayerReplace</sub>, <sub>ADE_PairedConditioningSetMask</sub>, <sub>ADE_PairedConditioningSetMaskAndCombine</sub>, <sub>ADE_PairedConditioningSetUnmaskedAndCombine</sub>, <sub>ADE_RawSigmaSchedule</sub>, <sub>ADE_RegisterLoraHook</sub>, <sub>ADE_RegisterLoraHookModelOnly</sub>, <sub>ADE_RegisterModelAsLoraHook</sub>, <sub>ADE_RegisterModelAsLoraHookModelOnly</sub>, <sub>ADE_ReplaceCameraParameters</sub>, <sub>ADE_ReplaceOriginalPoseAspectRatio</sub>, <sub>ADE_SetLoraHookKeyframe</sub>, <sub>ADE_SigmaSchedule</sub>, <sub>ADE_SigmaScheduleSplitAndCombine</sub>, <sub>ADE_SigmaScheduleWeightedAverage</sub>, <sub>ADE_SigmaScheduleWeightedAverageInterp</sub>, <sub>[ADE_StandardStaticContextOptions](node_examples/ADE_StandardStaticContextOptions.md)</sub>, <sub>[ADE_StandardStaticViewOptions](node_examples/ADE_StandardStaticViewOptions.md)</sub>, <sub>[ADE_StandardUniformContextOptions](node_examples/ADE_StandardUniformContextOptions.md)</sub>, <sub>ADE_StandardUniformViewOptions</sub>, <sub>ADE_TimestepsConditioning</sub>, <sub>ADE_UpscaleAndVAEEncode</sub>, [ADE_UseEvolvedSampling🌟](node_examples/ADE_UseEvolvedSampling.md), <sub>ADE_ViewsOnlyContextOptions</sub>, <sub>[AnimateDiffLoaderV1](node_examples/AnimateDiffLoaderV1.md)</sub>
  - <sub>CheckpointLoaderSimpleWithNoiseSelect</sub>
 </details>
 
@@ -62,8 +62,8 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 ComfyUI's ControlNet Auxiliary Preprocessors
 <details><summary>Included Nodes (58)</summary>
 
- - <sub>AIO_Preprocessor</sub>, <sub>AnimalPosePreprocessor</sub>, <sub>AnimeFace_SemSegPreprocessor</sub>, <sub>AnimeLineArtPreprocessor</sub>, <sub>AnyLineArtPreprocessor_aux</sub>
- - <sub>BAE-NormalMapPreprocessor</sub>, <sub>BinaryPreprocessor</sub>
+ - [AIO_Preprocessor🌟](node_examples/AIO_Preprocessor.md), <sub>AnimalPosePreprocessor</sub>, <sub>[AnimeFace_SemSegPreprocessor](node_examples/AnimeFace_SemSegPreprocessor.md)</sub>, <sub>[AnimeLineArtPreprocessor](node_examples/AnimeLineArtPreprocessor.md)</sub>, <sub>[AnyLineArtPreprocessor_aux](node_examples/AnyLineArtPreprocessor_aux.md)</sub>
+ - <sub>[BAE-NormalMapPreprocessor](node_examples/BAE-NormalMapPreprocessor.md)</sub>, <sub>BinaryPreprocessor</sub>
  - <sub>CannyEdgePreprocessor</sub>, <sub>ColorPreprocessor</sub>, <sub>ControlNetPreprocessorSelector</sub>
  - <sub>DensePosePreprocessor</sub>, <sub>DepthAnythingPreprocessor</sub>, <sub>DiffusionEdge_Preprocessor</sub>, <sub>DSINE-NormalMapPreprocessor</sub>, <sub>DWPreprocessor</sub>
  - <sub>FacialPartColoringFromPoseKps</sub>, <sub>FakeScribblePreprocessor</sub>
@@ -102,14 +102,14 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `1.3k` | **Created at**: `2024-06-08`
+**Stars**: `1.3k` | **Created at**: `2024-06-09`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
 <details><summary>Included Nodes (187)</summary>
 
- - <sub>AddMask</sub>
- - <sub>BasicPipeToDetailerPipe</sub>, <sub>BasicPipeToDetailerPipeSDXL</sub>, <sub>BboxDetectorCombined</sub>, <sub>BboxDetectorCombined_v2</sub>, <sub>BboxDetectorForEach</sub>, <sub>BboxDetectorSEGS</sub>, <sub>BitwiseAndMask</sub>, <sub>BitwiseAndMaskForEach</sub>
+ - <sub>[AddMask](node_examples/AddMask.md)</sub>
+ - <sub>[BasicPipeToDetailerPipe](node_examples/BasicPipeToDetailerPipe.md)</sub>, <sub>[BasicPipeToDetailerPipeSDXL](node_examples/BasicPipeToDetailerPipeSDXL.md)</sub>, <sub>BboxDetectorCombined</sub>, <sub>BboxDetectorCombined_v2</sub>, <sub>BboxDetectorForEach</sub>, <sub>BboxDetectorSEGS</sub>, <sub>BitwiseAndMask</sub>, <sub>BitwiseAndMaskForEach</sub>
  - <sub>CfgScheduleHookProvider</sub>, <sub>CLIPSegDetectorProvider</sub>, <sub>CombineRegionalPrompts</sub>, <sub>CoreMLDetailerHookProvider</sub>, <sub>CustomNoiseDetailerHookProvider</sub>
  - <sub>DenoiseScheduleHookProvider</sub>, <sub>DenoiseSchedulerDetailerHookProvider</sub>, <sub>DetailerForEach</sub>, <sub>DetailerForEachDebug</sub>, <sub>DetailerForEachDebugPipe</sub>, <sub>DetailerForEachPipe</sub>, <sub>DetailerForEachPipeForAnimateDiff</sub>, <sub>DetailerHookCombine</sub>, <sub>DetailerPipeToBasicPipe</sub>
  - <sub>EditBasicPipe</sub>, <sub>EditDetailerPipe</sub>, <sub>EditDetailerPipeSDXL</sub>, <sub>EmptySegs</sub>
@@ -238,13 +238,13 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `900` | **Created at**: `2024-06-08`
+**Stars**: `901` | **Created at**: `2024-06-09`
 
 
 An extensive node suite for ComfyUI with over 210 new nodes
 <details><summary>Included Nodes (214)</summary>
 
- - <sub>Blend Latents</sub>, <sub>BLIP Analyze Image</sub>, <sub>BLIP Model Loader</sub>, <sub>Boolean To Text</sub>, <sub>Bounded Image Blend</sub>, <sub>Bounded Image Blend with Mask</sub>, <sub>Bounded Image Crop</sub>, <sub>Bounded Image Crop with Mask</sub>, <sub>Bus Node</sub>
+ - <sub>Blend Latents</sub>, <sub>[BLIP Analyze Image](node_examples/BLIP_Analyze_Image.md)</sub>, <sub>[BLIP Model Loader](node_examples/BLIP_Model_Loader.md)</sub>, <sub>Boolean To Text</sub>, <sub>Bounded Image Blend</sub>, <sub>Bounded Image Blend with Mask</sub>, <sub>Bounded Image Crop</sub>, <sub>Bounded Image Crop with Mask</sub>, <sub>Bus Node</sub>
  - <sub>Cache Node</sub>, <sub>Checkpoint Loader</sub>, <sub>Checkpoint Loader (Simple)</sub>, <sub>CLIP Input Switch</sub>, <sub>CLIP Vision Input Switch</sub>, <sub>CLIPSeg Batch Masking</sub>, <sub>CLIPSeg Masking</sub>, <sub>CLIPSeg Model Loader</sub>, <sub>CLIPTextEncode (BlenderNeko Advanced + NSP)</sub>, <sub>CLIPTextEncode (NSP)</sub>, <sub>Conditioning Input Switch</sub>, <sub>Constant Number</sub>, <sub>Control Net Model Input Switch</sub>, <sub>Convert Masks to Images</sub>, <sub>Create Grid Image</sub>, <sub>Create Grid Image from Batch</sub>, <sub>Create Morph Image</sub>, <sub>Create Morph Image from Path</sub>, <sub>Create Video from Path</sub>
  - <sub>Debug Number to Console</sub>, <sub>Dictionary to Console</sub>, <sub>Diffusers Hub Model Down-Loader</sub>, <sub>Diffusers Model Loader</sub>
  - <sub>Export API</sub>
@@ -269,13 +269,13 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `863` | **Created at**: `2024-06-07`
+**Stars**: `864` | **Created at**: `2024-06-09`
 
 
 None
 <details><summary>Included Nodes (7)</summary>
 
- - <sub>ApplyInstantID</sub>, <sub>ApplyInstantIDAdvanced</sub>, <sub>ApplyInstantIDControlNet</sub>
+ - [ApplyInstantID🌟](node_examples/ApplyInstantID.md), <sub>[ApplyInstantIDAdvanced](node_examples/ApplyInstantIDAdvanced.md)</sub>, <sub>ApplyInstantIDControlNet</sub>
  - <sub>FaceKeypointsPreprocessor</sub>
  - <sub>InstantIDAttentionPatch</sub>, <sub>InstantIDFaceAnalysis</sub>, <sub>InstantIDModelLoader</sub>
 </details>
@@ -287,14 +287,14 @@ None
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `843` | **Created at**: `2024-06-09`
+**Stars**: `845` | **Created at**: `2024-06-09`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <details><summary>Included Nodes (86)</summary>
 
  - <sub>[3DImage](node_examples/3DImage.md)</sub>
- - <sub>AppInfo</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>
+ - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>
  - <sub>CenterImage</sub>, <sub>CharacterInText</sub>, <sub>ChatGPTOpenAI</sub>, <sub>CkptNames_</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
  - <sub>DynamicDelayProcessor</sub>
  - <sub>EmbeddingPrompt</sub>, <sub>EnhanceImage</sub>
@@ -326,7 +326,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 Unofficial implementation of PhotoMaker for ComfyUI
 <details><summary>Included Nodes (9)</summary>
 
- - <sub>BaseModel_Loader_fromhub</sub>, <sub>BaseModel_Loader_local</sub>
+ - <sub>[BaseModel_Loader_fromhub](node_examples/BaseModel_Loader_fromhub.md)</sub>, <sub>[BaseModel_Loader_local](node_examples/BaseModel_Loader_local.md)</sub>
  - <sub>LoRALoader</sub>
  - <sub>NEW_PhotoMaker_Generation</sub>
  - <sub>PhotoMaker_Generation</sub>, <sub>PhotoMakerAdapter_Loader_fromhub</sub>, <sub>PhotoMakerAdapter_Loader_local</sub>, <sub>Prompt_Styler</sub>
@@ -383,7 +383,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `657` | **Created at**: `2024-06-09`
+**Stars**: `658` | **Created at**: `2024-06-09`
 
 
 Making ComfyUI more comfortable!
@@ -398,7 +398,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `651` | **Created at**: `2024-06-09`
+**Stars**: `657` | **Created at**: `2024-06-10`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -414,7 +414,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `648` | **Created at**: `2024-06-09`
+**Stars**: `649` | **Created at**: `2024-06-09`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -468,7 +468,7 @@ Custom nodes that extend the capabilities of Comfyui
 AnimateDiff for ComfyUI
 <details><summary>Included Nodes (7)</summary>
 
- - <sub>AnimateDiffCombine</sub>, <sub>AnimateDiffLoraLoader</sub>, <sub>AnimateDiffModuleLoader</sub>, <sub>AnimateDiffSampler</sub>, <sub>AnimateDiffSlidingWindowOptions</sub>
+ - <sub>[AnimateDiffCombine](node_examples/AnimateDiffCombine.md)</sub>, <sub>[AnimateDiffLoraLoader](node_examples/AnimateDiffLoraLoader.md)</sub>, <sub>[AnimateDiffModuleLoader](node_examples/AnimateDiffModuleLoader.md)</sub>, <sub>[AnimateDiffSampler](node_examples/AnimateDiffSampler.md)</sub>, <sub>[AnimateDiffSlidingWindowOptions](node_examples/AnimateDiffSlidingWindowOptions.md)</sub>
  - <sub>ImageSizeAndBatchSize</sub>
  - <sub>LoadVideo</sub>
 </details>
@@ -480,7 +480,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `597` | **Created at**: `2024-06-07`
+**Stars**: `599` | **Created at**: `2024-06-09`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -517,6 +517,22 @@ Custom prompt styler node for SDXL in ComfyUI
 
 A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer maintained.
 
+## chflame163/ComfyUI_LayerStyle
+
+
+<a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
+<img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
+
+**Stars**: `578` | **Created at**: `2024-06-09`
+
+
+A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
+<details><summary>Included Nodes (126)</summary>
+
+ - <sub>LayerColor: AutoAdjust</sub>, <sub>LayerColor: AutoBrightness</sub>, <sub>LayerColor: Brightness & Contrast</sub>, <sub>LayerColor: Color of Shadow & Highlight</sub>, <sub>LayerColor: ColorAdapter</sub>, <sub>LayerColor: ColorBalance</sub>, <sub>LayerColor: ColorTemperature</sub>, <sub>LayerColor: Exposure</sub>, <sub>LayerColor: Gamma</sub>, <sub>LayerColor: HSV</sub>, <sub>LayerColor: LAB</sub>, <sub>LayerColor: Levels</sub>, <sub>LayerColor: LUT Apply</sub>, <sub>LayerColor: RGB</sub>, <sub>LayerColor: YUV</sub>, <sub>LayerFilter: ChannelShake</sub>, <sub>LayerFilter: ColorMap</sub>, <sub>LayerFilter: Film</sub>, <sub>LayerFilter: GaussianBlur</sub>, <sub>LayerFilter: HDREffects</sub>, <sub>LayerFilter: LightLeak</sub>, <sub>LayerFilter: MotionBlur</sub>, <sub>LayerFilter: Sharp & Soft</sub>, <sub>LayerFilter: SkinBeauty</sub>, <sub>LayerFilter: SoftLight</sub>, <sub>LayerFilter: WaterColor</sub>, <sub>LayerMask: BiRefNetUltra</sub>, <sub>LayerMask: BlendIf Mask</sub>, <sub>LayerMask: CreateGradientMask</sub>, <sub>LayerMask: MaskBoxDetect</sub>, <sub>LayerMask: MaskByColor</sub>, <sub>LayerMask: MaskByDifferent</sub>, <sub>LayerMask: MaskEdgeShrink</sub>, <sub>LayerMask: MaskEdgeUltraDetail</sub>, <sub>LayerMask: MaskEdgeUltraDetail V2</sub>, <sub>LayerMask: MaskGradient</sub>, <sub>LayerMask: MaskGrow</sub>, <sub>LayerMask: MaskInvert</sub>, <sub>LayerMask: MaskMotionBlur</sub>, <sub>LayerMask: MaskPreview</sub>, <sub>LayerMask: MaskStroke</sub>, <sub>LayerMask: MediapipeFacialSegment</sub>, <sub>LayerMask: PersonMaskUltra</sub>, <sub>LayerMask: PersonMaskUltra V2</sub>, <sub>LayerMask: PixelSpread</sub>, <sub>LayerMask: RemBgUltra</sub>, <sub>LayerMask: RmBgUltra V2</sub>, <sub>LayerMask: SegformerB2ClothesUltra</sub>, <sub>LayerMask: SegmentAnythingUltra</sub>, <sub>LayerMask: SegmentAnythingUltra V2</sub>, <sub>LayerMask: Shadow & Highlight Mask</sub>, <sub>LayerMask: YoloV8Detect</sub>, <sub>LayerStyle: ColorOverlay</sub>, <sub>LayerStyle: ColorOverlay V2</sub>, <sub>LayerStyle: DropShadow</sub>, <sub>LayerStyle: DropShadow V2</sub>, <sub>LayerStyle: GradientOverlay</sub>, <sub>LayerStyle: GradientOverlay V2</sub>, <sub>LayerStyle: InnerGlow</sub>, <sub>LayerStyle: InnerGlow V2</sub>, <sub>LayerStyle: InnerShadow</sub>, <sub>LayerStyle: InnerShadow V2</sub>, <sub>LayerStyle: OuterGlow</sub>, <sub>LayerStyle: OuterGlow V2</sub>, <sub>LayerStyle: Stroke</sub>, <sub>LayerStyle: Stroke V2</sub>, <sub>LayerUtility: AddBlindWaterMark</sub>, <sub>LayerUtility: BatchSelector</sub>, <sub>LayerUtility: Boolean</sub>, <sub>LayerUtility: BooleanOperator</sub>, <sub>LayerUtility: ColorImage</sub>, <sub>LayerUtility: ColorImage V2</sub>, <sub>LayerUtility: ColorPicker</sub>, <sub>LayerUtility: CreateQRCode</sub>, <sub>LayerUtility: CropBoxResolve</sub>, <sub>LayerUtility: CropByMask</sub>, <sub>LayerUtility: CropByMask V2</sub>, <sub>LayerUtility: DecodeQRCode</sub>, <sub>LayerUtility: ExtendCanvas</sub>, <sub>LayerUtility: ExtendCanvasV2</sub>, <sub>LayerUtility: Float</sub>, <sub>LayerUtility: GetColorTone</sub>, <sub>LayerUtility: GetColorToneV2</sub>, <sub>LayerUtility: GetImageSize</sub>, <sub>LayerUtility: GradientImage</sub>, <sub>LayerUtility: GradientImage V2</sub>, <sub>LayerUtility: ImageAutoCrop</sub>, <sub>LayerUtility: ImageAutoCrop V2</sub>, <sub>LayerUtility: ImageBlend</sub>, <sub>LayerUtility: ImageBlend V2</sub>, <sub>LayerUtility: ImageBlendAdvance</sub>, <sub>LayerUtility: ImageBlendAdvance V2</sub>, <sub>LayerUtility: ImageChannelMerge</sub>, <sub>LayerUtility: ImageChannelSplit</sub>, <sub>LayerUtility: ImageCombineAlpha</sub>, <sub>LayerUtility: ImageHub</sub>, <sub>LayerUtility: ImageMaskScaleAs</sub>, <sub>LayerUtility: ImageOpacity</sub>, <sub>LayerUtility: ImageRemoveAlpha</sub>, <sub>LayerUtility: ImageRewardFilter</sub>, <sub>LayerUtility: ImageScaleByAspectRatio</sub>, <sub>LayerUtility: ImageScaleByAspectRatio V2</sub>, <sub>LayerUtility: ImageScaleRestore</sub>, <sub>LayerUtility: ImageScaleRestore V2</sub>, <sub>LayerUtility: ImageShift</sub>, <sub>LayerUtility: Integer</sub>, <sub>LayerUtility: LaMa</sub>, <sub>LayerUtility: LayerImageTransform</sub>, <sub>LayerUtility: LayerMaskTransform</sub>, <sub>LayerUtility: LoadPSD</sub>, <sub>LayerUtility: NumberCalculator</sub>, <sub>LayerUtility: PrintInfo</sub>, <sub>LayerUtility: PromptEmbellish</sub>, <sub>LayerUtility: PromptTagger</sub>, <sub>LayerUtility: PurgeVRAM</sub>, <sub>LayerUtility: QWenImage2Prompt</sub>, <sub>LayerUtility: RestoreCropBox</sub>, <sub>LayerUtility: RGB Value</sub>, <sub>LayerUtility: SaveImagePlus</sub>, <sub>LayerUtility: Seed</sub>, <sub>LayerUtility: ShowBlindWaterMark</sub>, <sub>LayerUtility: SimpleTextImage</sub>, <sub>LayerUtility: TextBox</sub>, <sub>LayerUtility: TextImage</sub>, <sub>LayerUtility: TextJoin</sub>, <sub>LayerUtility: XY to Percent</sub>
+</details>
+
+
 ## ZHO-ZHO-ZHO/ComfyUI-Gemini
 
 
@@ -535,35 +551,19 @@ Using Gemini in ComfyUI
 </details>
 
 
-## chflame163/ComfyUI_LayerStyle
-
-
-<a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
-<img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
-
-**Stars**: `574` | **Created at**: `2024-06-09`
-
-
-A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
-<details><summary>Included Nodes (126)</summary>
-
- - <sub>LayerColor: AutoAdjust</sub>, <sub>LayerColor: AutoBrightness</sub>, <sub>LayerColor: Brightness & Contrast</sub>, <sub>LayerColor: Color of Shadow & Highlight</sub>, <sub>LayerColor: ColorAdapter</sub>, <sub>LayerColor: ColorBalance</sub>, <sub>LayerColor: ColorTemperature</sub>, <sub>LayerColor: Exposure</sub>, <sub>LayerColor: Gamma</sub>, <sub>LayerColor: HSV</sub>, <sub>LayerColor: LAB</sub>, <sub>LayerColor: Levels</sub>, <sub>LayerColor: LUT Apply</sub>, <sub>LayerColor: RGB</sub>, <sub>LayerColor: YUV</sub>, <sub>LayerFilter: ChannelShake</sub>, <sub>LayerFilter: ColorMap</sub>, <sub>LayerFilter: Film</sub>, <sub>LayerFilter: GaussianBlur</sub>, <sub>LayerFilter: HDREffects</sub>, <sub>LayerFilter: LightLeak</sub>, <sub>LayerFilter: MotionBlur</sub>, <sub>LayerFilter: Sharp & Soft</sub>, <sub>LayerFilter: SkinBeauty</sub>, <sub>LayerFilter: SoftLight</sub>, <sub>LayerFilter: WaterColor</sub>, <sub>LayerMask: BiRefNetUltra</sub>, <sub>LayerMask: BlendIf Mask</sub>, <sub>LayerMask: CreateGradientMask</sub>, <sub>LayerMask: MaskBoxDetect</sub>, <sub>LayerMask: MaskByColor</sub>, <sub>LayerMask: MaskByDifferent</sub>, <sub>LayerMask: MaskEdgeShrink</sub>, <sub>LayerMask: MaskEdgeUltraDetail</sub>, <sub>LayerMask: MaskEdgeUltraDetail V2</sub>, <sub>LayerMask: MaskGradient</sub>, <sub>LayerMask: MaskGrow</sub>, <sub>LayerMask: MaskInvert</sub>, <sub>LayerMask: MaskMotionBlur</sub>, <sub>LayerMask: MaskPreview</sub>, <sub>LayerMask: MaskStroke</sub>, <sub>LayerMask: MediapipeFacialSegment</sub>, <sub>LayerMask: PersonMaskUltra</sub>, <sub>LayerMask: PersonMaskUltra V2</sub>, <sub>LayerMask: PixelSpread</sub>, <sub>LayerMask: RemBgUltra</sub>, <sub>LayerMask: RmBgUltra V2</sub>, <sub>LayerMask: SegformerB2ClothesUltra</sub>, <sub>LayerMask: SegmentAnythingUltra</sub>, <sub>LayerMask: SegmentAnythingUltra V2</sub>, <sub>LayerMask: Shadow & Highlight Mask</sub>, <sub>LayerMask: YoloV8Detect</sub>, <sub>LayerStyle: ColorOverlay</sub>, <sub>LayerStyle: ColorOverlay V2</sub>, <sub>LayerStyle: DropShadow</sub>, <sub>LayerStyle: DropShadow V2</sub>, <sub>LayerStyle: GradientOverlay</sub>, <sub>LayerStyle: GradientOverlay V2</sub>, <sub>LayerStyle: InnerGlow</sub>, <sub>LayerStyle: InnerGlow V2</sub>, <sub>LayerStyle: InnerShadow</sub>, <sub>LayerStyle: InnerShadow V2</sub>, <sub>LayerStyle: OuterGlow</sub>, <sub>LayerStyle: OuterGlow V2</sub>, <sub>LayerStyle: Stroke</sub>, <sub>LayerStyle: Stroke V2</sub>, <sub>LayerUtility: AddBlindWaterMark</sub>, <sub>LayerUtility: BatchSelector</sub>, <sub>LayerUtility: Boolean</sub>, <sub>LayerUtility: BooleanOperator</sub>, <sub>LayerUtility: ColorImage</sub>, <sub>LayerUtility: ColorImage V2</sub>, <sub>LayerUtility: ColorPicker</sub>, <sub>LayerUtility: CreateQRCode</sub>, <sub>LayerUtility: CropBoxResolve</sub>, <sub>LayerUtility: CropByMask</sub>, <sub>LayerUtility: CropByMask V2</sub>, <sub>LayerUtility: DecodeQRCode</sub>, <sub>LayerUtility: ExtendCanvas</sub>, <sub>LayerUtility: ExtendCanvasV2</sub>, <sub>LayerUtility: Float</sub>, <sub>LayerUtility: GetColorTone</sub>, <sub>LayerUtility: GetColorToneV2</sub>, <sub>LayerUtility: GetImageSize</sub>, <sub>LayerUtility: GradientImage</sub>, <sub>LayerUtility: GradientImage V2</sub>, <sub>LayerUtility: ImageAutoCrop</sub>, <sub>LayerUtility: ImageAutoCrop V2</sub>, <sub>LayerUtility: ImageBlend</sub>, <sub>LayerUtility: ImageBlend V2</sub>, <sub>LayerUtility: ImageBlendAdvance</sub>, <sub>LayerUtility: ImageBlendAdvance V2</sub>, <sub>LayerUtility: ImageChannelMerge</sub>, <sub>LayerUtility: ImageChannelSplit</sub>, <sub>LayerUtility: ImageCombineAlpha</sub>, <sub>LayerUtility: ImageHub</sub>, <sub>LayerUtility: ImageMaskScaleAs</sub>, <sub>LayerUtility: ImageOpacity</sub>, <sub>LayerUtility: ImageRemoveAlpha</sub>, <sub>LayerUtility: ImageRewardFilter</sub>, <sub>LayerUtility: ImageScaleByAspectRatio</sub>, <sub>LayerUtility: ImageScaleByAspectRatio V2</sub>, <sub>LayerUtility: ImageScaleRestore</sub>, <sub>LayerUtility: ImageScaleRestore V2</sub>, <sub>LayerUtility: ImageShift</sub>, <sub>LayerUtility: Integer</sub>, <sub>LayerUtility: LaMa</sub>, <sub>LayerUtility: LayerImageTransform</sub>, <sub>LayerUtility: LayerMaskTransform</sub>, <sub>LayerUtility: LoadPSD</sub>, <sub>LayerUtility: NumberCalculator</sub>, <sub>LayerUtility: PrintInfo</sub>, <sub>LayerUtility: PromptEmbellish</sub>, <sub>LayerUtility: PromptTagger</sub>, <sub>LayerUtility: PurgeVRAM</sub>, <sub>LayerUtility: QWenImage2Prompt</sub>, <sub>LayerUtility: RestoreCropBox</sub>, <sub>LayerUtility: RGB Value</sub>, <sub>LayerUtility: SaveImagePlus</sub>, <sub>LayerUtility: Seed</sub>, <sub>LayerUtility: ShowBlindWaterMark</sub>, <sub>LayerUtility: SimpleTextImage</sub>, <sub>LayerUtility: TextBox</sub>, <sub>LayerUtility: TextImage</sub>, <sub>LayerUtility: TextJoin</sub>, <sub>LayerUtility: XY to Percent</sub>
-</details>
-
-
 ## ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `540` | **Created at**: `2024-06-08`
+**Stars**: `542` | **Created at**: `2024-06-10`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
 <details><summary>Included Nodes (2)</summary>
 
- - <sub>BRIA_RMBG_ModelLoader_Zho</sub>, <sub>BRIA_RMBG_Zho</sub>
+ - <sub>[BRIA_RMBG_ModelLoader_Zho](node_examples/BRIA_RMBG_ModelLoader_Zho.md)</sub>, <sub>[BRIA_RMBG_Zho](node_examples/BRIA_RMBG_Zho.md)</sub>
 </details>
 
 
@@ -573,7 +573,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `489` | **Created at**: `2024-06-08`
+**Stars**: `492` | **Created at**: `2024-06-09`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -585,13 +585,29 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 </details>
 
 
+## Suzie1/ComfyUI_Comfyroll_CustomNodes
+
+
+<a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
+<img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+
+**Stars**: `455` | **Created at**: `2024-06-09`
+
+
+Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
+<details><summary>Included Nodes (208)</summary>
+
+ - <sub>CR 8 Channel In</sub>, <sub>CR 8 Channel Out</sub>, <sub>CR Apply ControlNet</sub>, <sub>CR Apply LoRA Stack</sub>, <sub>CR Apply Model Merge</sub>, <sub>CR Apply Multi Upscale</sub>, <sub>CR Apply Multi-ControlNet</sub>, <sub>CR Arabic Text RTL</sub>, <sub>CR Aspect Ratio</sub>, <sub>CR Aspect Ratio Banners</sub>, <sub>CR Aspect Ratio SDXL</sub>, <sub>CR Aspect Ratio Social Media</sub>, <sub>CR Batch Images From List</sub>, <sub>CR Batch Process Switch</sub>, <sub>CR Binary Pattern</sub>, <sub>CR Binary To Bit List</sub>, <sub>CR Bit Schedule</sub>, <sub>CR Central Schedule</sub>, <sub>CR Checker Pattern</sub>, <sub>CR Clamp Value</sub>, <sub>CR Clip Input Switch</sub>, <sub>CR Color Bars</sub>, <sub>CR Color Gradient</sub>, <sub>CR Color Panel</sub>, <sub>CR Color Tint</sub>, <sub>CR Combine Prompt</sub>, <sub>CR Combine Schedules</sub>, <sub>CR Comic Panel Templates</sub>, <sub>CR Composite Text</sub>, <sub>CR Conditioning Input Switch</sub>, <sub>CR Conditioning Mixer</sub>, <sub>CR ControlNet Input Switch</sub>, <sub>CR Current Frame</sub>, <sub>CR Cycle Images</sub>, <sub>CR Cycle Images Simple</sub>, <sub>CR Cycle LoRAs</sub>, <sub>CR Cycle Models</sub>, <sub>CR Cycle Text</sub>, <sub>CR Cycle Text Simple</sub>, <sub>CR Data Bus In</sub>, <sub>CR Data Bus Out</sub>, <sub>CR Debatch Frames</sub>, <sub>CR Diamond Panel</sub>, <sub>CR Draw Perspective Text</sub>, <sub>CR Draw Pie</sub>, <sub>CR Draw Shape</sub>, <sub>CR Draw Text</sub>, <sub>CR Encode Scheduled Prompts</sub>, <sub>CR Feathered Border</sub>, <sub>CR Float Range List</sub>, <sub>CR Float To Integer</sub>, <sub>CR Float To String</sub>, <sub>CR Font File List</sub>, <sub>CR Get Parameter From Prompt</sub>, <sub>CR Gradient Float</sub>, <sub>CR Gradient Integer</sub>, <sub>CR Half Drop Panel</sub>, <sub>CR Halftone Filter</sub>, <sub>CR Halftone Grid</sub>, <sub>CR Hires Fix Process Switch</sub>, <sub>CR Image Border</sub>, <sub>CR Image Grid Panel</sub>, <sub>CR Image Input Switch</sub>, <sub>CR Image Input Switch (4 way)</sub>, <sub>CR Image List</sub>, <sub>CR Image List Simple</sub>, <sub>CR Image Output</sub>, <sub>CR Image Panel</sub>, <sub>CR Image Pipe Edit</sub>, <sub>CR Image Pipe In</sub>, <sub>CR Image Pipe Out</sub>, <sub>CR Image Size</sub>, <sub>CR Img2Img Process Switch</sub>, <sub>CR Increment Float</sub>, <sub>CR Increment Integer</sub>, <sub>CR Index</sub>, <sub>CR Index Increment</sub>, <sub>CR Index Multiply</sub>, <sub>CR Index Reset</sub>, <sub>CR Input Text List</sub>, <sub>CR Integer Multiple</sub>, <sub>CR Integer Range List</sub>, <sub>CR Integer To String</sub>, <sub>CR Interpolate Latents</sub>, <sub>CR Intertwine Lists</sub>, <sub>CR Keyframe List</sub>, <sub>CR Latent Batch Size</sub>, <sub>CR Latent Input Switch</sub>, <sub>CR Load Animation Frames</sub>, <sub>CR Load Flow Frames</sub>, <sub>CR Load GIF As List</sub>, <sub>CR Load Image List</sub>, <sub>CR Load Image List Plus</sub>, <sub>CR Load LoRA</sub>, <sub>CR Load Prompt Style</sub>, <sub>CR Load Schedule From File</sub>, <sub>CR Load Scheduled ControlNets</sub>, <sub>CR Load Scheduled LoRAs</sub>, <sub>CR Load Scheduled Models</sub>, <sub>CR Load Text List</sub>, <sub>CR LoRA List</sub>, <sub>CR LoRA Stack</sub>, <sub>CR Mask Text</sub>, <sub>CR Math Operation</sub>, <sub>CR Model Input Switch</sub>, <sub>CR Model List</sub>, <sub>CR Model Merge Stack</sub>, <sub>CR Module Input</sub>, <sub>CR Module Output</sub>, <sub>CR Module Pipe Loader</sub>, <sub>CR Multi Upscale Stack</sub>, <sub>CR Multi-ControlNet Stack</sub>, <sub>CR Multiline Text</sub>, <sub>CR Output Flow Frames</sub>, <sub>CR Output Schedule To File</sub>, <sub>CR Overlay Text</sub>, <sub>CR Overlay Transparent Image</sub>, <sub>CR Page Layout</sub>, <sub>CR Pipe Switch</sub>, <sub>CR Polygons</sub>, <sub>CR Prompt List</sub>, <sub>CR Prompt List Keyframes</sub>, <sub>CR Prompt Scheduler</sub>, <sub>CR Prompt Text</sub>, <sub>CR Radial Gradient</sub>, <sub>CR Random Hex Color</sub>, <sub>CR Random LoRA Stack</sub>, <sub>CR Random Multiline Colors</sub>, <sub>CR Random Multiline Values</sub>, <sub>CR Random Panel Codes</sub>, <sub>CR Random RGB</sub>, <sub>CR Random RGB Gradient</sub>, <sub>CR Random Shape Pattern</sub>, <sub>CR Random Weight LoRA</sub>, <sub>CR Repeater</sub>, <sub>CR Save Text To File</sub>, <sub>CR Schedule Input Switch</sub>, <sub>CR Schedule To ScheduleList</sub>, <sub>CR SD1.5 Aspect Ratio</sub>, <sub>CR SDXL Aspect Ratio</sub>, <sub>CR SDXL Base Prompt Encoder</sub>, <sub>CR SDXL Prompt Mix Presets</sub>, <sub>CR SDXL Prompt Mixer</sub>, <sub>CR SDXL Style Text</sub>, <sub>CR Seamless Checker</sub>, <sub>CR Seed</sub>, <sub>CR Seed to Int</sub>, <sub>CR Select Font</sub>, <sub>CR Select ISO Size</sub>, <sub>CR Select Model</sub>, <sub>CR Select Resize Method</sub>, <sub>CR Set Switch From String</sub>, <sub>CR Set Value On Binary</sub>, <sub>CR Set Value On Boolean</sub>, <sub>CR Set Value on String</sub>, <sub>CR Simple Banner</sub>, <sub>CR Simple Binary Pattern</sub>, <sub>CR Simple Binary Pattern Simple</sub>, <sub>CR Simple Image Compare</sub>, <sub>CR Simple List</sub>, <sub>CR Simple Meme Template</sub>, <sub>CR Simple Prompt List</sub>, <sub>CR Simple Prompt List Keyframes</sub>, <sub>CR Simple Prompt Scheduler</sub>, <sub>CR Simple Schedule</sub>, <sub>CR Simple Text Panel</sub>, <sub>CR Simple Text Scheduler</sub>, <sub>CR Simple Text Watermark</sub>, <sub>CR Simple Titles</sub>, <sub>CR Simple Value Scheduler</sub>, <sub>CR Split String</sub>, <sub>CR Starburst Colors</sub>, <sub>CR Starburst Lines</sub>, <sub>CR String To Boolean</sub>, <sub>CR String To Combo</sub>, <sub>CR String To Number</sub>, <sub>CR Style Bars</sub>, <sub>CR Switch Model and CLIP</sub>, <sub>CR Text</sub>, <sub>CR Text Blacklist</sub>, <sub>CR Text Concatenate</sub>, <sub>CR Text Cycler</sub>, <sub>CR Text Input Switch</sub>, <sub>CR Text Input Switch (4 way)</sub>, <sub>CR Text Length</sub>, <sub>CR Text List</sub>, <sub>CR Text List Simple</sub>, <sub>CR Text List To String</sub>, <sub>CR Text Operation</sub>, <sub>CR Text Replace</sub>, <sub>CR Text Scheduler</sub>, <sub>CR Thumbnail Preview</sub>, <sub>CR Trigger</sub>, <sub>CR Upscale Image</sub>, <sub>CR VAE Decode</sub>, <sub>CR VAE Input Switch</sub>, <sub>CR Value</sub>, <sub>CR Value Cycler</sub>, <sub>CR Value Scheduler</sub>, <sub>CR Vignette Filter</sub>, <sub>CR XY From Folder</sub>, <sub>CR XY Index</sub>, <sub>CR XY Interpolate</sub>, <sub>CR XY List</sub>, <sub>CR XY Product</sub>, <sub>CR XY Save Grid Image</sub>, <sub>CR XYZ Index</sub>, <sub>CR_Aspect Ratio For Print</sub>
+</details>
+
+
 ## yolain/ComfyUI-Easy-Use
 
 
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `454` | **Created at**: `2024-06-09`
+**Stars**: `455` | **Created at**: `2024-06-09`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -602,29 +618,13 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 </details>
 
 
-## Suzie1/ComfyUI_Comfyroll_CustomNodes
-
-
-<a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
-<img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
-
-**Stars**: `453` | **Created at**: `2024-06-07`
-
-
-Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
-<details><summary>Included Nodes (208)</summary>
-
- - <sub>CR 8 Channel In</sub>, <sub>CR 8 Channel Out</sub>, <sub>CR Apply ControlNet</sub>, <sub>CR Apply LoRA Stack</sub>, <sub>CR Apply Model Merge</sub>, <sub>CR Apply Multi Upscale</sub>, <sub>CR Apply Multi-ControlNet</sub>, <sub>CR Arabic Text RTL</sub>, <sub>CR Aspect Ratio</sub>, <sub>CR Aspect Ratio Banners</sub>, <sub>CR Aspect Ratio SDXL</sub>, <sub>CR Aspect Ratio Social Media</sub>, <sub>CR Batch Images From List</sub>, <sub>CR Batch Process Switch</sub>, <sub>CR Binary Pattern</sub>, <sub>CR Binary To Bit List</sub>, <sub>CR Bit Schedule</sub>, <sub>CR Central Schedule</sub>, <sub>CR Checker Pattern</sub>, <sub>CR Clamp Value</sub>, <sub>CR Clip Input Switch</sub>, <sub>CR Color Bars</sub>, <sub>CR Color Gradient</sub>, <sub>CR Color Panel</sub>, <sub>CR Color Tint</sub>, <sub>CR Combine Prompt</sub>, <sub>CR Combine Schedules</sub>, <sub>CR Comic Panel Templates</sub>, <sub>CR Composite Text</sub>, <sub>CR Conditioning Input Switch</sub>, <sub>CR Conditioning Mixer</sub>, <sub>CR ControlNet Input Switch</sub>, <sub>CR Current Frame</sub>, <sub>CR Cycle Images</sub>, <sub>CR Cycle Images Simple</sub>, <sub>CR Cycle LoRAs</sub>, <sub>CR Cycle Models</sub>, <sub>CR Cycle Text</sub>, <sub>CR Cycle Text Simple</sub>, <sub>CR Data Bus In</sub>, <sub>CR Data Bus Out</sub>, <sub>CR Debatch Frames</sub>, <sub>CR Diamond Panel</sub>, <sub>CR Draw Perspective Text</sub>, <sub>CR Draw Pie</sub>, <sub>CR Draw Shape</sub>, <sub>CR Draw Text</sub>, <sub>CR Encode Scheduled Prompts</sub>, <sub>CR Feathered Border</sub>, <sub>CR Float Range List</sub>, <sub>CR Float To Integer</sub>, <sub>CR Float To String</sub>, <sub>CR Font File List</sub>, <sub>CR Get Parameter From Prompt</sub>, <sub>CR Gradient Float</sub>, <sub>CR Gradient Integer</sub>, <sub>CR Half Drop Panel</sub>, <sub>CR Halftone Filter</sub>, <sub>CR Halftone Grid</sub>, <sub>CR Hires Fix Process Switch</sub>, <sub>CR Image Border</sub>, <sub>CR Image Grid Panel</sub>, <sub>CR Image Input Switch</sub>, <sub>CR Image Input Switch (4 way)</sub>, <sub>CR Image List</sub>, <sub>CR Image List Simple</sub>, <sub>CR Image Output</sub>, <sub>CR Image Panel</sub>, <sub>CR Image Pipe Edit</sub>, <sub>CR Image Pipe In</sub>, <sub>CR Image Pipe Out</sub>, <sub>CR Image Size</sub>, <sub>CR Img2Img Process Switch</sub>, <sub>CR Increment Float</sub>, <sub>CR Increment Integer</sub>, <sub>CR Index</sub>, <sub>CR Index Increment</sub>, <sub>CR Index Multiply</sub>, <sub>CR Index Reset</sub>, <sub>CR Input Text List</sub>, <sub>CR Integer Multiple</sub>, <sub>CR Integer Range List</sub>, <sub>CR Integer To String</sub>, <sub>CR Interpolate Latents</sub>, <sub>CR Intertwine Lists</sub>, <sub>CR Keyframe List</sub>, <sub>CR Latent Batch Size</sub>, <sub>CR Latent Input Switch</sub>, <sub>CR Load Animation Frames</sub>, <sub>CR Load Flow Frames</sub>, <sub>CR Load GIF As List</sub>, <sub>CR Load Image List</sub>, <sub>CR Load Image List Plus</sub>, <sub>CR Load LoRA</sub>, <sub>CR Load Prompt Style</sub>, <sub>CR Load Schedule From File</sub>, <sub>CR Load Scheduled ControlNets</sub>, <sub>CR Load Scheduled LoRAs</sub>, <sub>CR Load Scheduled Models</sub>, <sub>CR Load Text List</sub>, <sub>CR LoRA List</sub>, <sub>CR LoRA Stack</sub>, <sub>CR Mask Text</sub>, <sub>CR Math Operation</sub>, <sub>CR Model Input Switch</sub>, <sub>CR Model List</sub>, <sub>CR Model Merge Stack</sub>, <sub>CR Module Input</sub>, <sub>CR Module Output</sub>, <sub>CR Module Pipe Loader</sub>, <sub>CR Multi Upscale Stack</sub>, <sub>CR Multi-ControlNet Stack</sub>, <sub>CR Multiline Text</sub>, <sub>CR Output Flow Frames</sub>, <sub>CR Output Schedule To File</sub>, <sub>CR Overlay Text</sub>, <sub>CR Overlay Transparent Image</sub>, <sub>CR Page Layout</sub>, <sub>CR Pipe Switch</sub>, <sub>CR Polygons</sub>, <sub>CR Prompt List</sub>, <sub>CR Prompt List Keyframes</sub>, <sub>CR Prompt Scheduler</sub>, <sub>CR Prompt Text</sub>, <sub>CR Radial Gradient</sub>, <sub>CR Random Hex Color</sub>, <sub>CR Random LoRA Stack</sub>, <sub>CR Random Multiline Colors</sub>, <sub>CR Random Multiline Values</sub>, <sub>CR Random Panel Codes</sub>, <sub>CR Random RGB</sub>, <sub>CR Random RGB Gradient</sub>, <sub>CR Random Shape Pattern</sub>, <sub>CR Random Weight LoRA</sub>, <sub>CR Repeater</sub>, <sub>CR Save Text To File</sub>, <sub>CR Schedule Input Switch</sub>, <sub>CR Schedule To ScheduleList</sub>, <sub>CR SD1.5 Aspect Ratio</sub>, <sub>CR SDXL Aspect Ratio</sub>, <sub>CR SDXL Base Prompt Encoder</sub>, <sub>CR SDXL Prompt Mix Presets</sub>, <sub>CR SDXL Prompt Mixer</sub>, <sub>CR SDXL Style Text</sub>, <sub>CR Seamless Checker</sub>, <sub>CR Seed</sub>, <sub>CR Seed to Int</sub>, <sub>CR Select Font</sub>, <sub>CR Select ISO Size</sub>, <sub>CR Select Model</sub>, <sub>CR Select Resize Method</sub>, <sub>CR Set Switch From String</sub>, <sub>CR Set Value On Binary</sub>, <sub>CR Set Value On Boolean</sub>, <sub>CR Set Value on String</sub>, <sub>CR Simple Banner</sub>, <sub>CR Simple Binary Pattern</sub>, <sub>CR Simple Binary Pattern Simple</sub>, <sub>CR Simple Image Compare</sub>, <sub>CR Simple List</sub>, <sub>CR Simple Meme Template</sub>, <sub>CR Simple Prompt List</sub>, <sub>CR Simple Prompt List Keyframes</sub>, <sub>CR Simple Prompt Scheduler</sub>, <sub>CR Simple Schedule</sub>, <sub>CR Simple Text Panel</sub>, <sub>CR Simple Text Scheduler</sub>, <sub>CR Simple Text Watermark</sub>, <sub>CR Simple Titles</sub>, <sub>CR Simple Value Scheduler</sub>, <sub>CR Split String</sub>, <sub>CR Starburst Colors</sub>, <sub>CR Starburst Lines</sub>, <sub>CR String To Boolean</sub>, <sub>CR String To Combo</sub>, <sub>CR String To Number</sub>, <sub>CR Style Bars</sub>, <sub>CR Switch Model and CLIP</sub>, <sub>CR Text</sub>, <sub>CR Text Blacklist</sub>, <sub>CR Text Concatenate</sub>, <sub>CR Text Cycler</sub>, <sub>CR Text Input Switch</sub>, <sub>CR Text Input Switch (4 way)</sub>, <sub>CR Text Length</sub>, <sub>CR Text List</sub>, <sub>CR Text List Simple</sub>, <sub>CR Text List To String</sub>, <sub>CR Text Operation</sub>, <sub>CR Text Replace</sub>, <sub>CR Text Scheduler</sub>, <sub>CR Thumbnail Preview</sub>, <sub>CR Trigger</sub>, <sub>CR Upscale Image</sub>, <sub>CR VAE Decode</sub>, <sub>CR VAE Input Switch</sub>, <sub>CR Value</sub>, <sub>CR Value Cycler</sub>, <sub>CR Value Scheduler</sub>, <sub>CR Vignette Filter</sub>, <sub>CR XY From Folder</sub>, <sub>CR XY Index</sub>, <sub>CR XY Interpolate</sub>, <sub>CR XY List</sub>, <sub>CR XY Product</sub>, <sub>CR XY Save Grid Image</sub>, <sub>CR XYZ Index</sub>, <sub>CR_Aspect Ratio For Print</sub>
-</details>
-
-
 ## ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
 
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `433` | **Created at**: `2024-06-07`
+**Stars**: `436` | **Created at**: `2024-06-09`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
@@ -632,6 +632,23 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 
  - <sub>ESAM_ModelLoader_Zho</sub>
  - <sub>Yoloworld_ESAM_DetectorProvider_Zho</sub>, <sub>Yoloworld_ESAM_Zho</sub>, <sub>Yoloworld_ModelLoader_Zho</sub>
+</details>
+
+
+## kijai/ComfyUI-DynamiCrafterWrapper
+
+
+<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+
+**Stars**: `430` | **Created at**: `2024-06-09`
+
+
+Wrapper to use DynamiCrafter models in ComfyUI
+<details><summary>Included Nodes (8)</summary>
+
+ - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
+ - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
 </details>
 
 
@@ -656,7 +673,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes'>
 <img src="https://avatars.githubusercontent.com/u/8006000?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes
 
-**Stars**: `427` | **Created at**: `2024-06-07`
+**Stars**: `428` | **Created at**: `2024-06-09`
 
 
 Custom node and script for sending webcam to ComfyUI
@@ -666,23 +683,6 @@ Custom node and script for sending webcam to ComfyUI
  - <sub>ImageResize_Padding</sub>
  - <sub>LatentDelay</sub>, <sub>LoadWebcamImage</sub>
  - <sub>SaveImagetoPath</sub>
-</details>
-
-
-## kijai/ComfyUI-DynamiCrafterWrapper
-
-
-<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
-
-**Stars**: `427` | **Created at**: `2024-06-09`
-
-
-Wrapper to use DynamiCrafter models in ComfyUI
-<details><summary>Included Nodes (8)</summary>
-
- - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
- - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
 </details>
 
 
@@ -722,6 +722,22 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 </details>
 
 
+## frankchieng/ComfyUI_MagicClothing
+
+
+<a href='https://github.com/frankchieng/ComfyUI_MagicClothing'>
+<img src="https://avatars.githubusercontent.com/u/130369523?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/frankchieng/ComfyUI_MagicClothing
+
+**Stars**: `397` | **Created at**: `2024-06-09`
+
+
+unofficial implementation of Comfyui magic clothing
+<details><summary>Included Nodes (3)</summary>
+
+ - <sub>MagicClothing_Animatediff</sub>, <sub>MagicClothing_Generate</sub>, <sub>MagicClothing_Inpainting</sub>
+</details>
+
+
 ## Kosinkadink/ComfyUI-Advanced-ControlNet
 
 
@@ -743,29 +759,13 @@ ControlNet scheduling and masking nodes with sliding context support
 </details>
 
 
-## frankchieng/ComfyUI_MagicClothing
-
-
-<a href='https://github.com/frankchieng/ComfyUI_MagicClothing'>
-<img src="https://avatars.githubusercontent.com/u/130369523?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/frankchieng/ComfyUI_MagicClothing
-
-**Stars**: `396` | **Created at**: `2024-06-08`
-
-
-unofficial implementation of Comfyui magic clothing
-<details><summary>Included Nodes (3)</summary>
-
- - <sub>MagicClothing_Animatediff</sub>, <sub>MagicClothing_Generate</sub>, <sub>MagicClothing_Inpainting</sub>
-</details>
-
-
 ## Acly/comfyui-inpaint-nodes
 
 
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `393` | **Created at**: `2024-06-09`
+**Stars**: `394` | **Created at**: `2024-06-09`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -781,13 +781,13 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `380` | **Created at**: `2024-06-09`
+**Stars**: `382` | **Created at**: `2024-06-09`
 
 
 PuLID native implementation for ComfyUI
 <details><summary>Included Nodes (5)</summary>
 
- - <sub>ApplyPulid</sub>, <sub>ApplyPulidAdvanced</sub>
+ - <sub>[ApplyPulid](node_examples/ApplyPulid.md)</sub>, <sub>ApplyPulidAdvanced</sub>
  - <sub>PulidEvaClipLoader</sub>, <sub>PulidInsightFaceLoader</sub>, <sub>PulidModelLoader</sub>
 </details>
 
@@ -827,23 +827,19 @@ Marigold depth estimation in ComfyUI
 </details>
 
 
-## kijai/ComfyUI-IC-Light
+## lks-ai/anynode
 
 
-<a href='https://github.com/kijai/ComfyUI-IC-Light'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
+<a href='https://github.com/lks-ai/anynode'>
+<img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `359` | **Created at**: `2024-06-09`
+**Stars**: `363` | **Created at**: `2024-06-10`
 
 
-Using IC-LIght models in ComfyUI
-<details><summary>Included Nodes (7)</summary>
+A Node for ComfyUI that does what you ask it to do
+<details><summary>Included Nodes (5)</summary>
 
- - <sub>BackgroundScaler</sub>
- - <sub>CalculateNormalsFromImages</sub>
- - <sub>DetailTransfer</sub>
- - <sub>ICLightConditioning</sub>
- - <sub>LightSource</sub>, <sub>LoadAndApplyICLightUnet</sub>, <sub>LoadHDRImage</sub>
+ - <sub>[AnyNode](node_examples/AnyNode.md)</sub>, <sub>AnyNodeCodeViewer</sub>, <sub>AnyNodeExport</sub>, <sub>AnyNodeGemini</sub>, <sub>[AnyNodeLocal](node_examples/AnyNodeLocal.md)</sub>
 </details>
 
 
@@ -853,7 +849,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/huchenlei/ComfyUI-IC-Light-Native'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-IC-Light-Native
 
-**Stars**: `359` | **Created at**: `2024-06-09`
+**Stars**: `362` | **Created at**: `2024-06-09`
 
 
 ComfyUI native implementation of IC-Light
@@ -864,19 +860,23 @@ ComfyUI native implementation of IC-Light
 </details>
 
 
-## lks-ai/anynode
+## kijai/ComfyUI-IC-Light
 
 
-<a href='https://github.com/lks-ai/anynode'>
-<img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
+<a href='https://github.com/kijai/ComfyUI-IC-Light'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
 
-**Stars**: `357` | **Created at**: `2024-06-09`
+**Stars**: `360` | **Created at**: `2024-06-09`
 
 
-A Node for ComfyUI that does what you ask it to do
-<details><summary>Included Nodes (5)</summary>
+Using IC-LIght models in ComfyUI
+<details><summary>Included Nodes (7)</summary>
 
- - <sub>AnyNode</sub>, <sub>AnyNodeCodeViewer</sub>, <sub>AnyNodeExport</sub>, <sub>AnyNodeGemini</sub>, <sub>AnyNodeLocal</sub>
+ - <sub>BackgroundScaler</sub>
+ - <sub>CalculateNormalsFromImages</sub>
+ - <sub>DetailTransfer</sub>
+ - <sub>ICLightConditioning</sub>
+ - <sub>LightSource</sub>, <sub>LoadAndApplyICLightUnet</sub>, <sub>LoadHDRImage</sub>
 </details>
 
 
@@ -908,7 +908,7 @@ None
 <a href='https://github.com/flowtyone/ComfyUI-Flowty-TripoSR'>
 <img src="https://avatars.githubusercontent.com/u/145925146?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flowtyone/ComfyUI-Flowty-TripoSR
 
-**Stars**: `347` | **Created at**: `2024-06-03`
+**Stars**: `348` | **Created at**: `2024-06-09`
 
 
 TripoSR custom node for comfyui
@@ -930,7 +930,7 @@ TripoSR custom node for comfyui
 cutoff implementation for ComfyUI
 <details><summary>Included Nodes (4)</summary>
 
- - <sub>BNK_CutoffBasePrompt</sub>, <sub>BNK_CutoffRegionsToConditioning</sub>, <sub>BNK_CutoffRegionsToConditioning_ADV</sub>, <sub>BNK_CutoffSetRegions</sub>
+ - <sub>[BNK_CutoffBasePrompt](node_examples/BNK_CutoffBasePrompt.md)</sub>, <sub>[BNK_CutoffRegionsToConditioning](node_examples/BNK_CutoffRegionsToConditioning.md)</sub>, <sub>BNK_CutoffRegionsToConditioning_ADV</sub>, <sub>[BNK_CutoffSetRegions](node_examples/BNK_CutoffSetRegions.md)</sub>
 </details>
 
 
@@ -951,7 +951,7 @@ ComfyUI custom node that simply integrates the OOTDiffusion.
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `326` | **Created at**: `2024-06-07`
+**Stars**: `326` | **Created at**: `2024-06-09`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -989,7 +989,7 @@ Animation oriented nodes pack for ComfyUI
 A custom node set for Video Frame Interpolation in ComfyUI.
 <details><summary>Included Nodes (14)</summary>
 
- - <sub>AMT VFI</sub>
+ - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
  - <sub>CAIN VFI</sub>
  - <sub>FILM VFI</sub>, <sub>FLAVR VFI</sub>
  - <sub>GMFSS Fortuna VFI</sub>
@@ -1014,7 +1014,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 ComfyUI Extension Nodes for Automated Text Generation.
 <details><summary>Included Nodes (36)</summary>
 
- - <sub>AppendAgent</sub>, <sub>Assistant</sub>
+ - <sub>AppendAgent</sub>, <sub>[Assistant](node_examples/Assistant.md)</sub>
  - <sub>Chat</sub>, <sub>ChatGPT</sub>, <sub>CombineInput</sub>, <sub>Conditioning</sub>, <sub>CostumeAgent_1</sub>, <sub>CostumeAgent_2</sub>, <sub>CostumeMaster_1</sub>, <sub>Critic</sub>
  - <sub>DisplayString</sub>, <sub>DisplayTextAsImage</sub>
  - <sub>Engineer</sub>, <sub>EVAL</sub>, <sub>Executor</sub>
@@ -1036,13 +1036,13 @@ ComfyUI Extension Nodes for Automated Text Generation.
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
-**Stars**: `321` | **Created at**: `2024-06-08`
+**Stars**: `322` | **Created at**: `2024-06-09`
 
 
 Prompt Visualization | Art Gallery
 <details><summary>Included Nodes (6)</summary>
 
- - <sub>ArtGallery_Zho</sub>, <sub>ArtistsImage_Zho</sub>
+ - <sub>ArtGallery_Zho</sub>, <sub>[ArtistsImage_Zho](node_examples/ArtistsImage_Zho.md)</sub>
  - <sub>CamerasImage_Zho</sub>
  - <sub>FilmsImage_Zho</sub>
  - <sub>MovementsImage_Zho</sub>
@@ -1056,7 +1056,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `319` | **Created at**: `2024-06-08`
+**Stars**: `320` | **Created at**: `2024-06-09`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -1072,7 +1072,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `315` | **Created at**: `2024-06-09`
+**Stars**: `318` | **Created at**: `2024-06-09`
 
 
 ComfyUI BrushNet nodes
@@ -1109,7 +1109,7 @@ Wraps the IC-Light Diffuser demo to a ComfyUI node
 Unofficial implementation of APISR for ComfyUI
 <details><summary>Included Nodes (3)</summary>
 
- - <sub>APISR_Lterative_Zho</sub>, <sub>APISR_ModelLoader_Zho</sub>, <sub>APISR_Zho</sub>
+ - <sub>[APISR_Lterative_Zho](node_examples/APISR_Lterative_Zho.md)</sub>, <sub>[APISR_ModelLoader_Zho](node_examples/APISR_ModelLoader_Zho.md)</sub>, <sub>[APISR_Zho](node_examples/APISR_Zho.md)</sub>
 </details>
 
 
@@ -1125,7 +1125,7 @@ Unofficial implementation of APISR for ComfyUI
 Various custom nodes for ComfyUI
 <details><summary>Included Nodes (112)</summary>
 
- - <sub>AddLabel</sub>, <sub>AppendInstanceDiffusionTracking</sub>
+ - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>
  - <sub>BatchCLIPSeg</sub>, <sub>BatchCropFromMask</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>BatchUncrop</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>
  - <sub>CameraPoseVisualizer</sub>, <sub>ColorMatch</sub>, <sub>ColorToMask</sub>, <sub>ConditioningMultiCombine</sub>, <sub>ConditioningSetMaskAndCombine</sub>, <sub>ConditioningSetMaskAndCombine3</sub>, <sub>ConditioningSetMaskAndCombine4</sub>, <sub>ConditioningSetMaskAndCombine5</sub>, <sub>CondPassThrough</sub>, <sub>CreateAudioMask</sub>, <sub>CreateFadeMask</sub>, <sub>CreateFadeMaskAdvanced</sub>, <sub>CreateFluidMask</sub>, <sub>CreateGradientFromCoords</sub>, <sub>CreateGradientMask</sub>, <sub>CreateInstanceDiffusionTracking</sub>, <sub>CreateMagicMask</sub>, <sub>CreateShapeImageOnPath</sub>, <sub>CreateShapeMask</sub>, <sub>CreateShapeMaskOnPath</sub>, <sub>CreateTextMask</sub>, <sub>CreateTextOnPath</sub>, <sub>CreateVoronoiMask</sub>, <sub>CrossFadeImages</sub>, <sub>CustomSigmas</sub>
  - <sub>DownloadAndLoadCLIPSeg</sub>, <sub>DrawInstanceDiffusionTracking</sub>, <sub>DummyLatentOut</sub>

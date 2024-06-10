@@ -7,14 +7,14 @@
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `37.1k` | **Created at**: `2024-06-09`
+**Stars**: `37.2k` | **Created at**: `2024-06-09`
 
 
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 <details><summary>Included Nodes (179)</summary>
 
- - <sub>AddNoise</sub>, <sub>AlignYourStepsScheduler</sub>
- - <sub>BasicGuider</sub>, <sub>BasicScheduler</sub>
+ - <sub>AddNoise</sub>, <sub>[AlignYourStepsScheduler](node_examples/AlignYourStepsScheduler.md)</sub>
+ - <sub>BasicGuider</sub>, <sub>[BasicScheduler](node_examples/BasicScheduler.md)</sub>
  - <sub>Canny</sub>, <sub>CFGGuider</sub>, <sub>CheckpointLoader</sub>, <sub>CheckpointLoaderSimple</sub>, <sub>CheckpointSave</sub>, <sub>CLIPAttentionMultiply</sub>, <sub>CLIPLoader</sub>, <sub>CLIPMergeAdd</sub>, <sub>CLIPMergeSimple</sub>, <sub>CLIPMergeSubtract</sub>, <sub>CLIPSave</sub>, <sub>CLIPSetLastLayer</sub>, <sub>CLIPTextEncode</sub>, <sub>CLIPTextEncodeControlnet</sub>, <sub>CLIPTextEncodeSDXL</sub>, <sub>CLIPTextEncodeSDXLRefiner</sub>, <sub>CLIPVisionEncode</sub>, <sub>CLIPVisionLoader</sub>, <sub>ConditioningAverage</sub>, <sub>ConditioningCombine</sub>, <sub>ConditioningConcat</sub>, <sub>ConditioningSetArea</sub>, <sub>ConditioningSetAreaPercentage</sub>, <sub>ConditioningSetAreaStrength</sub>, <sub>ConditioningSetMask</sub>, <sub>ConditioningSetTimestepRange</sub>, <sub>ConditioningZeroOut</sub>, <sub>ControlNetApply</sub>, <sub>ControlNetApplyAdvanced</sub>, <sub>ControlNetLoader</sub>, <sub>CropMask</sub>
  - <sub>DiffControlNetLoader</sub>, <sub>DifferentialDiffusion</sub>, <sub>DiffusersLoader</sub>, <sub>DisableNoise</sub>, <sub>DualCFGGuider</sub>, <sub>DualCLIPLoader</sub>
  - <sub>EmptyImage</sub>, <sub>EmptyLatentImage</sub>, <sub>ExponentialScheduler</sub>

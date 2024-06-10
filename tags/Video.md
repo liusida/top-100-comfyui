@@ -24,9 +24,26 @@ A ComfyUI node for driving videos using batches of images.
 AnimateDiff for ComfyUI
 <details><summary>Included Nodes (7)</summary>
 
- - <sub>AnimateDiffCombine</sub>, <sub>AnimateDiffLoraLoader</sub>, <sub>AnimateDiffModuleLoader</sub>, <sub>AnimateDiffSampler</sub>, <sub>AnimateDiffSlidingWindowOptions</sub>
+ - <sub>[AnimateDiffCombine](node_examples/AnimateDiffCombine.md)</sub>, <sub>[AnimateDiffLoraLoader](node_examples/AnimateDiffLoraLoader.md)</sub>, <sub>[AnimateDiffModuleLoader](node_examples/AnimateDiffModuleLoader.md)</sub>, <sub>[AnimateDiffSampler](node_examples/AnimateDiffSampler.md)</sub>, <sub>[AnimateDiffSlidingWindowOptions](node_examples/AnimateDiffSlidingWindowOptions.md)</sub>
  - <sub>ImageSizeAndBatchSize</sub>
  - <sub>LoadVideo</sub>
+</details>
+
+
+## kijai/ComfyUI-DynamiCrafterWrapper
+
+
+<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+
+**Stars**: `430` | **Created at**: `2024-06-09`
+
+
+Wrapper to use DynamiCrafter models in ComfyUI
+<details><summary>Included Nodes (8)</summary>
+
+ - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
+ - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
 </details>
 
 
@@ -43,23 +60,6 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <details><summary>Included Nodes (0)?</summary>
 
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
-
-
-## kijai/ComfyUI-DynamiCrafterWrapper
-
-
-<a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
-
-**Stars**: `427` | **Created at**: `2024-06-09`
-
-
-Wrapper to use DynamiCrafter models in ComfyUI
-<details><summary>Included Nodes (8)</summary>
-
- - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
- - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
-</details>
 
 
 ## Kosinkadink/ComfyUI-VideoHelperSuite
@@ -84,7 +84,7 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `326` | **Created at**: `2024-06-07`
+**Stars**: `326` | **Created at**: `2024-06-09`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -122,7 +122,7 @@ Animation oriented nodes pack for ComfyUI
 A custom node set for Video Frame Interpolation in ComfyUI.
 <details><summary>Included Nodes (14)</summary>
 
- - <sub>AMT VFI</sub>
+ - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
  - <sub>CAIN VFI</sub>
  - <sub>FILM VFI</sub>, <sub>FLAVR VFI</sub>
  - <sub>GMFSS Fortuna VFI</sub>
