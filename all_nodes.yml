@@ -599,10 +599,10 @@ EmptySegs: 0
 Engineer: 1
 EnhanceImage: 6
 Executor: 1
-ExponentialScheduler: -1
-Export API: -1
-Export With Ffmpeg (mtb): -1
-FILM VFI: -1
+ExponentialScheduler: 0
+Export API: 0
+Export With Ffmpeg (mtb): 0
+FILM VFI: 40
 FLAVR VFI: -1
 Face Swap (mtb): -1
 FaceDetailer: -1
