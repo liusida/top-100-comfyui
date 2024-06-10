@@ -166,11 +166,11 @@ Batch Merge (mtb): 0
 Batch Shake (mtb): 0
 Batch Shape (mtb): 0
 Batch Transform (mtb): 4
-BatchCLIPSeg: -1
-BatchCropFromMask: -1
-BatchCropFromMaskAdvanced: -1
-BatchUncrop: -1
-BatchUncropAdvanced: -1
+BatchCLIPSeg: 1
+BatchCropFromMask: 2
+BatchCropFromMaskAdvanced: 0
+BatchUncrop: 1
+BatchUncropAdvanced: 0
 Bbox (mtb): -1
 Bbox From Mask (mtb): -1
 BboxDetectorCombined: -1
