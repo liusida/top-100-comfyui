@@ -307,10 +307,10 @@ CR Latent Batch Size: 0
 CR Latent Input Switch: 4
 CR LoRA List: 2
 CR LoRA Stack: 27
-CR Load Animation Frames: -1
-CR Load Flow Frames: -1
-CR Load GIF As List: -1
-CR Load Image List: -1
+CR Load Animation Frames: 0
+CR Load Flow Frames: 1
+CR Load GIF As List: 0
+CR Load Image List: 0
 CR Load Image List Plus: -1
 CR Load LoRA: -1
 CR Load Prompt Style: -1
