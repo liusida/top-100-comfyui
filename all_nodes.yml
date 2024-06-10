@@ -427,10 +427,10 @@ CR XYZ Index: 0
 CR_Aspect Ratio For Print: 0
 Cache Node: 0
 CalculateNormalsFromImages: 0
-CameraPoseVisualizer: -1
-CamerasImage_Zho: -1
-Canny: -1
-CannyEdgePreprocessor: -1
+CameraPoseVisualizer: 0
+CamerasImage_Zho: 2
+Canny: 33
+CannyEdgePreprocessor: 85
 CaptureWebcam: -1
 CenterImage: -1
 CfgScheduleHookProvider: -1
