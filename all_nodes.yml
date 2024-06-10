@@ -171,11 +171,11 @@ BatchCropFromMask: 2
 BatchCropFromMaskAdvanced: 0
 BatchUncrop: 1
 BatchUncropAdvanced: 0
-Bbox (mtb): -1
-Bbox From Mask (mtb): -1
-BboxDetectorCombined: -1
-BboxDetectorCombined_v2: -1
-BboxDetectorForEach: -1
+Bbox (mtb): 0
+Bbox From Mask (mtb): 0
+BboxDetectorCombined: 0
+BboxDetectorCombined_v2: 0
+BboxDetectorForEach: 2
 BboxDetectorSEGS: -1
 BboxToInt: -1
 BboxVisualize: -1
