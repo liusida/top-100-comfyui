@@ -311,10 +311,10 @@ CR Load Animation Frames: 0
 CR Load Flow Frames: 1
 CR Load GIF As List: 0
 CR Load Image List: 0
-CR Load Image List Plus: -1
-CR Load LoRA: -1
-CR Load Prompt Style: -1
-CR Load Schedule From File: -1
+CR Load Image List Plus: 1
+CR Load LoRA: 1
+CR Load Prompt Style: 0
+CR Load Schedule From File: 2
 CR Load Scheduled ControlNets: -1
 CR Load Scheduled LoRAs: -1
 CR Load Scheduled Models: -1
