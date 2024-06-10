@@ -363,10 +363,10 @@ CR Schedule Input Switch: 2
 CR Schedule To ScheduleList: 0
 CR Seamless Checker: 1
 CR Seed: 14
-CR Seed to Int: -1
-CR Select Font: -1
-CR Select ISO Size: -1
-CR Select Model: -1
+CR Seed to Int: 0
+CR Select Font: 1
+CR Select ISO Size: 0
+CR Select Model: 0
 CR Select Resize Method: -1
 CR Set Switch From String: -1
 CR Set Value On Binary: -1
