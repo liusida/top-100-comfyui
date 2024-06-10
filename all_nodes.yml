@@ -443,10 +443,10 @@ Checkpoint Loader (Simple): 0
 CheckpointLoader: 0
 CheckpointLoaderSimple: 98
 CheckpointLoaderSimpleWithNoiseSelect: 64
-CheckpointLoader|pysssss: -1
-CheckpointSave: -1
-CkptNames_: -1
-Color: -1
+CheckpointLoader|pysssss: 15
+CheckpointSave: 6
+CkptNames_: 2
+Color: 0
 Color Correct (mtb): -1
 ColorMatch: -1
 ColorPreprocessor: -1
