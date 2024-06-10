@@ -299,10 +299,10 @@ CR Index Reset: 0
 CR Input Text List: 0
 CR Integer Multiple: 9
 CR Integer Range List: 3
-CR Integer To String: -1
-CR Interpolate Latents: -1
-CR Intertwine Lists: -1
-CR Keyframe List: -1
+CR Integer To String: 23
+CR Interpolate Latents: 1
+CR Intertwine Lists: 1
+CR Keyframe List: 1
 CR Latent Batch Size: -1
 CR Latent Input Switch: -1
 CR LoRA List: -1
