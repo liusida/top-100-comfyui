@@ -647,10 +647,10 @@ Gemini_API_S_Vsion_ImgURL_Zho: 0
 Gemini_API_S_Zho: 9
 Gemini_API_Vsion_ImgURL_Zho: 0
 Gemini_API_Zho: 1
-Gemini_FileUpload_API_S_Zho: -1
-Gemini_File_API_S_Zho: -1
-GenerateNoise: -1
-Get Batch From History (mtb): -1
+Gemini_FileUpload_API_S_Zho: 0
+Gemini_File_API_S_Zho: 0
+GenerateNoise: 1
+Get Batch From History (mtb): 0
 Get First Image: -1
 Get Last Image: -1
 GetImageRangeFromBatch: -1
