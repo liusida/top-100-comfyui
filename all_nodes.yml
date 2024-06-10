@@ -403,10 +403,10 @@ CR Text Input Switch: 4
 CR Text Input Switch (4 way): 3
 CR Text Length: 0
 CR Text List: 1
-CR Text List Simple: -1
-CR Text List To String: -1
-CR Text Operation: -1
-CR Text Replace: -1
+CR Text List Simple: 0
+CR Text List To String: 0
+CR Text Operation: 1
+CR Text Replace: 1
 CR Text Scheduler: -1
 CR Thumbnail Preview: -1
 CR Trigger: -1
