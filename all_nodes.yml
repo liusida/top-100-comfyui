@@ -587,10 +587,10 @@ DynamicThresholdingSimple: 3
 ESAM_ModelLoader_Zho: 20
 EVAL: 0
 EditBasicPipe: 68
-EditDetailerPipe: -1
-EditDetailerPipeSDXL: -1
-Eff. Loader SDXL: -1
-Efficient Loader: -1
+EditDetailerPipe: 13
+EditDetailerPipeSDXL: 0
+Eff. Loader SDXL: 14
+Efficient Loader: 64
 EmbeddingPrompt: -1
 EmptyImage: -1
 EmptyLatentImage: -1
