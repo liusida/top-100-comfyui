@@ -399,10 +399,10 @@ CR Text: 0
 CR Text Blacklist: 0
 CR Text Concatenate: 20
 CR Text Cycler: 4
-CR Text Input Switch: -1
-CR Text Input Switch (4 way): -1
-CR Text Length: -1
-CR Text List: -1
+CR Text Input Switch: 4
+CR Text Input Switch (4 way): 3
+CR Text Length: 0
+CR Text List: 1
 CR Text List Simple: -1
 CR Text List To String: -1
 CR Text Operation: -1
