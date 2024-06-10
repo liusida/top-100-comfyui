@@ -235,10 +235,10 @@ CR Binary Pattern: 0
 CR Binary To Bit List: 2
 CR Bit Schedule: 1
 CR Central Schedule: 7
-CR Checker Pattern: -1
-CR Clamp Value: -1
-CR Clip Input Switch: -1
-CR Color Bars: -1
+CR Checker Pattern: 1
+CR Clamp Value: 0
+CR Clip Input Switch: 4
+CR Color Bars: 2
 CR Color Gradient: -1
 CR Color Panel: -1
 CR Color Tint: -1
