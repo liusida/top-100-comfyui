@@ -323,10 +323,10 @@ CR Mask Text: 0
 CR Math Operation: 0
 CR Model Input Switch: 3
 CR Model List: 1
-CR Model Merge Stack: -1
-CR Module Input: -1
-CR Module Output: -1
-CR Module Pipe Loader: -1
+CR Model Merge Stack: 4
+CR Module Input: 2
+CR Module Output: 1
+CR Module Pipe Loader: 2
 CR Multi Upscale Stack: -1
 CR Multi-ControlNet Stack: -1
 CR Multiline Text: -1
