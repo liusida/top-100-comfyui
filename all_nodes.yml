@@ -255,10 +255,10 @@ CR Cycle Images Simple: 1
 CR Cycle LoRAs: 1
 CR Cycle Models: 1
 CR Cycle Text: 0
-CR Cycle Text Simple: -1
-CR Data Bus In: -1
-CR Data Bus Out: -1
-CR Debatch Frames: -1
+CR Cycle Text Simple: 2
+CR Data Bus In: 1
+CR Data Bus Out: 1
+CR Debatch Frames: 0
 CR Diamond Panel: -1
 CR Draw Perspective Text: -1
 CR Draw Pie: -1
