@@ -551,10 +551,10 @@ DetailTransfer: 1
 DetailerForEach: 30
 DetailerForEachDebug: 30
 DetailerForEachDebugPipe: 26
-DetailerForEachPipe: -1
-DetailerForEachPipeForAnimateDiff: -1
-DetailerHookCombine: -1
-DetailerPipeToBasicPipe: -1
+DetailerForEachPipe: 32
+DetailerForEachPipeForAnimateDiff: 1
+DetailerHookCombine: 1
+DetailerPipeToBasicPipe: 12
 Dictionary to Console: -1
 DiffControlNetLoader: -1
 DiffControlNetLoaderAdvanced: -1
