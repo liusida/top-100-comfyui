@@ -231,10 +231,10 @@ CR Aspect Ratio SDXL: 0
 CR Aspect Ratio Social Media: 0
 CR Batch Images From List: 1
 CR Batch Process Switch: 5
-CR Binary Pattern: -1
-CR Binary To Bit List: -1
-CR Bit Schedule: -1
-CR Central Schedule: -1
+CR Binary Pattern: 0
+CR Binary To Bit List: 2
+CR Bit Schedule: 1
+CR Central Schedule: 7
 CR Checker Pattern: -1
 CR Clamp Value: -1
 CR Clip Input Switch: -1
