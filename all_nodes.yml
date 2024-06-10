@@ -511,10 +511,10 @@ Create Grid Image: 0
 Create Grid Image from Batch: 1
 Create Morph Image: 0
 Create Morph Image from Path: 0
-Create Video from Path: -1
-CreateAudioMask: -1
-CreateFadeMask: -1
-CreateFadeMaskAdvanced: -1
+Create Video from Path: 0
+CreateAudioMask: 0
+CreateFadeMask: 5
+CreateFadeMaskAdvanced: 1
 CreateFluidMask: -1
 CreateGradientFromCoords: -1
 CreateGradientMask: -1
