@@ -491,10 +491,10 @@ ConditioningSetMaskAndCombine3: 0
 ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
-ConditioningZeroOut: -1
-Constant Number: -1
-ConstrainImageforVideo|pysssss: -1
-ConstrainImage|pysssss: -1
+ConditioningZeroOut: 26
+Constant Number: 15
+ConstrainImageforVideo|pysssss: 3
+ConstrainImage|pysssss: 17
 Control Net Model Input Switch: -1
 Control Net Stacker: -1
 ControlNetApply: -1
