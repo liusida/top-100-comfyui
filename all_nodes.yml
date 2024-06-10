@@ -463,10 +463,10 @@ ComfyUIDeployExternalImage: 1
 ComfyUIDeployExternalImageAlpha: 0
 ComfyUIDeployExternalImageBatch: 0
 ComfyUIDeployExternalLora: 0
-ComfyUIDeployExternalNumber: -1
-ComfyUIDeployExternalNumberInt: -1
-ComfyUIDeployExternalNumberSlider: -1
-ComfyUIDeployExternalText: -1
+ComfyUIDeployExternalNumber: 1
+ComfyUIDeployExternalNumberInt: 0
+ComfyUIDeployExternalNumberSlider: 0
+ComfyUIDeployExternalText: 1
 ComfyUIDeployExternalVid: -1
 ComfyUIDeployExternalVideo: -1
 ComparingTwoFrames_: -1
