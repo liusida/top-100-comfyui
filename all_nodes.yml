@@ -181,11 +181,11 @@ BboxToInt: 0
 BboxVisualize: 0
 BinaryPreprocessor: 21
 BitwiseAndMask: 1
-BitwiseAndMaskForEach: -1
-Blend Latents: -1
-BlendInpaint: -1
-Blur (mtb): -1
-Boolean To Text: -1
+BitwiseAndMaskForEach: 0
+Blend Latents: 0
+BlendInpaint: 3
+Blur (mtb): 0
+Boolean To Text: 1
 Bounded Image Blend: -1
 Bounded Image Blend with Mask: -1
 Bounded Image Crop: -1
