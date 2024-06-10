@@ -415,10 +415,10 @@ CR VAE Decode: 0
 CR VAE Input Switch: 4
 CR Value: 0
 CR Value Cycler: 0
-CR Value Scheduler: -1
-CR Vignette Filter: -1
-CR XY From Folder: -1
-CR XY Index: -1
+CR Value Scheduler: 1
+CR Vignette Filter: 2
+CR XY From Folder: 1
+CR XY Index: 0
 CR XY Interpolate: -1
 CR XY List: -1
 CR XY Product: -1
