@@ -176,11 +176,11 @@ Bbox From Mask (mtb): 0
 BboxDetectorCombined: 0
 BboxDetectorCombined_v2: 0
 BboxDetectorForEach: 2
-BboxDetectorSEGS: -1
-BboxToInt: -1
-BboxVisualize: -1
-BinaryPreprocessor: -1
-BitwiseAndMask: -1
+BboxDetectorSEGS: 28
+BboxToInt: 0
+BboxVisualize: 0
+BinaryPreprocessor: 21
+BitwiseAndMask: 1
 BitwiseAndMaskForEach: -1
 Blend Latents: -1
 BlendInpaint: -1
