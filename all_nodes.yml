@@ -351,10 +351,10 @@ CR Random RGB: 0
 CR Random RGB Gradient: 1
 CR Random Shape Pattern: 0
 CR Random Weight LoRA: 0
-CR Repeater: -1
-CR SD1.5 Aspect Ratio: -1
-CR SDXL Aspect Ratio: -1
-CR SDXL Base Prompt Encoder: -1
+CR Repeater: 0
+CR SD1.5 Aspect Ratio: 18
+CR SDXL Aspect Ratio: 16
+CR SDXL Base Prompt Encoder: 1
 CR SDXL Prompt Mix Presets: -1
 CR SDXL Prompt Mixer: -1
 CR SDXL Style Text: -1
