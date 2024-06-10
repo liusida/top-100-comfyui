@@ -543,10 +543,10 @@ Debug Number to Console: 1
 Deep Bump (mtb): 4
 DeepTranslatorCLIPTextEncodeNode: 0
 DeepTranslatorTextNode: 10
-DenoiseScheduleHookProvider: -1
-DenoiseSchedulerDetailerHookProvider: -1
-DensePosePreprocessor: -1
-DepthAnythingPreprocessor: -1
+DenoiseScheduleHookProvider: 10
+DenoiseSchedulerDetailerHookProvider: 1
+DensePosePreprocessor: 5
+DepthAnythingPreprocessor: 58
 DetailTransfer: -1
 DetailerForEach: -1
 DetailerForEachDebug: -1
