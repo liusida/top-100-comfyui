@@ -223,10 +223,10 @@ CR Apply ControlNet: 4
 CR Apply LoRA Stack: 40
 CR Apply Model Merge: 4
 CR Apply Multi Upscale: 1
-CR Apply Multi-ControlNet: -1
-CR Arabic Text RTL: -1
-CR Aspect Ratio: -1
-CR Aspect Ratio Banners: -1
+CR Apply Multi-ControlNet: 11
+CR Arabic Text RTL: 0
+CR Aspect Ratio: 6
+CR Aspect Ratio Banners: 0
 CR Aspect Ratio SDXL: -1
 CR Aspect Ratio Social Media: -1
 CR Batch Images From List: -1
