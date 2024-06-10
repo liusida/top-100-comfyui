@@ -507,10 +507,10 @@ CoreMLDetailerHookProvider: 1
 CostumeAgent_1: 0
 CostumeAgent_2: 0
 CostumeMaster_1: 0
-Create Grid Image: -1
-Create Grid Image from Batch: -1
-Create Morph Image: -1
-Create Morph Image from Path: -1
+Create Grid Image: 0
+Create Grid Image from Batch: 1
+Create Morph Image: 0
+Create Morph Image from Path: 0
 Create Video from Path: -1
 CreateAudioMask: -1
 CreateFadeMask: -1
