@@ -435,10 +435,10 @@ CaptureWebcam: 1
 CenterImage: 0
 CfgScheduleHookProvider: 11
 CharacterInText: 2
-Chat: -1
-ChatGPT: -1
-ChatGPTOpenAI: -1
-Checkpoint Loader: -1
+Chat: 3
+ChatGPT: 0
+ChatGPTOpenAI: 10
+Checkpoint Loader: 0
 Checkpoint Loader (Simple): -1
 CheckpointLoader: -1
 CheckpointLoaderSimple: -1
