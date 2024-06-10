@@ -579,10 +579,10 @@ DualCFGGuider: 36
 DualCLIPLoader: 1
 DummyLatentOut: 0
 DynamiCrafterBatchInterpolation: 0
-DynamiCrafterI2V: -1
-DynamiCrafterModelLoader: -1
-DynamicDelayProcessor: -1
-DynamicThresholdingFull: -1
+DynamiCrafterI2V: 2
+DynamiCrafterModelLoader: 1
+DynamicDelayProcessor: 2
+DynamicThresholdingFull: 1
 DynamicThresholdingSimple: -1
 ESAM_ModelLoader_Zho: -1
 EVAL: -1
