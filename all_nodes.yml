@@ -279,10 +279,10 @@ CR Halftone Grid: 6
 CR Hires Fix Process Switch: 4
 CR Image Border: 0
 CR Image Grid Panel: 3
-CR Image Input Switch: -1
-CR Image Input Switch (4 way): -1
-CR Image List: -1
-CR Image List Simple: -1
+CR Image Input Switch: 11
+CR Image Input Switch (4 way): 15
+CR Image List: 0
+CR Image List Simple: 0
 CR Image Output: -1
 CR Image Panel: -1
 CR Image Pipe Edit: -1
