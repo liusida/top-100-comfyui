@@ -115,10 +115,10 @@ AnimateDiffLoraLoader: 5
 AnimateDiffModuleLoader: 18
 AnimateDiffSampler: 17
 AnimateDiffSlidingWindowOptions: 2
-Animation Builder (mtb): -1
+Animation Builder (mtb): 6
 AnimeFace_SemSegPreprocessor: 1
 AnimeLineArtPreprocessor: 15
-Any To String (mtb): -1
+Any To String (mtb): 0
 AnyLineArtPreprocessor_aux: 8
 AnyNode: 5
 AnyNodeCodeViewer: 0
@@ -158,9 +158,9 @@ BasicGuider: 0
 BasicPipeToDetailerPipe: 20
 BasicPipeToDetailerPipeSDXL: 13
 BasicScheduler: 48
-Batch Float (mtb): -1
-Batch Float Assemble (mtb): -1
-Batch Float Fill (mtb): -1
+Batch Float (mtb): 4
+Batch Float Assemble (mtb): 0
+Batch Float Fill (mtb): 0
 Batch Make (mtb): -1
 Batch Merge (mtb): -1
 Batch Shake (mtb): -1
