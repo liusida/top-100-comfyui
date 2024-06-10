@@ -567,10 +567,10 @@ DifyTextGenerator //Browser: 0
 DisableNoise: 0
 DisplayString: 6
 DisplayTextAsImage: 0
-DisplayText_Zho: -1
-DownloadAndLoadCLIPModel: -1
-DownloadAndLoadCLIPSeg: -1
-DownloadAndLoadCLIPVisionModel: -1
+DisplayText_Zho: 20
+DownloadAndLoadCLIPModel: 4
+DownloadAndLoadCLIPSeg: 0
+DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadDynamiCrafterModel: -1
 DragNUWA Run: -1
 DragNUWA Run MotionBrush: -1
