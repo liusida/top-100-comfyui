@@ -531,10 +531,10 @@ Critic: 1
 Crop (mtb): 0
 CropMask: 0
 CrossFadeImages: 0
-CustomControlNetWeights: -1
-CustomNoiseDetailerHookProvider: -1
-CustomSigmas: -1
-CustomT2IAdapterWeights: -1
+CustomControlNetWeights: 0
+CustomNoiseDetailerHookProvider: 0
+CustomSigmas: 9
+CustomT2IAdapterWeights: 0
 CutForInpaint: -1
 DSINE-NormalMapPreprocessor: -1
 DWPreprocessor: -1
