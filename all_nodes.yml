@@ -391,10 +391,10 @@ CR Split String: 1
 CR Starburst Colors: 1
 CR Starburst Lines: 2
 CR String To Boolean: 0
-CR String To Combo: -1
-CR String To Number: -1
-CR Style Bars: -1
-CR Switch Model and CLIP: -1
+CR String To Combo: 2
+CR String To Number: 2
+CR Style Bars: 2
+CR Switch Model and CLIP: 1
 CR Text: -1
 CR Text Blacklist: -1
 CR Text Concatenate: -1
