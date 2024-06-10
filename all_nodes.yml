@@ -219,10 +219,10 @@ CLIPVisionEncode: 51
 CLIPVisionLoader: 99
 CR 8 Channel In: 0
 CR 8 Channel Out: 0
-CR Apply ControlNet: -1
-CR Apply LoRA Stack: -1
-CR Apply Model Merge: -1
-CR Apply Multi Upscale: -1
+CR Apply ControlNet: 4
+CR Apply LoRA Stack: 40
+CR Apply Model Merge: 4
+CR Apply Multi Upscale: 1
 CR Apply Multi-ControlNet: -1
 CR Arabic Text RTL: -1
 CR Aspect Ratio: -1
