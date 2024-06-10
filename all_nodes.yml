@@ -471,10 +471,10 @@ ComfyUIDeployExternalVid: 0
 ComfyUIDeployExternalVideo: 0
 ComparingTwoFrames_: 0
 CompositeImages_: 0
-CompositeMotionBrush: -1
-CompositeMotionBrushWithoutModel: -1
-Concat Images (mtb): -1
-ConcatText_Zho: -1
+CompositeMotionBrush: 1
+CompositeMotionBrushWithoutModel: 1
+Concat Images (mtb): 3
+ConcatText_Zho: 17
 CondPassThrough: -1
 Conditioning: -1
 Conditioning Input Switch: -1
