@@ -315,10 +315,10 @@ CR Load Image List Plus: 1
 CR Load LoRA: 1
 CR Load Prompt Style: 0
 CR Load Schedule From File: 2
-CR Load Scheduled ControlNets: -1
-CR Load Scheduled LoRAs: -1
-CR Load Scheduled Models: -1
-CR Load Text List: -1
+CR Load Scheduled ControlNets: 0
+CR Load Scheduled LoRAs: 1
+CR Load Scheduled Models: 2
+CR Load Text List: 1
 CR Mask Text: -1
 CR Math Operation: -1
 CR Model Input Switch: -1
