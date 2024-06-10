@@ -411,10 +411,10 @@ CR Text Scheduler: 3
 CR Thumbnail Preview: 5
 CR Trigger: 0
 CR Upscale Image: 6
-CR VAE Decode: -1
-CR VAE Input Switch: -1
-CR Value: -1
-CR Value Cycler: -1
+CR VAE Decode: 0
+CR VAE Input Switch: 4
+CR Value: 0
+CR Value Cycler: 0
 CR Value Scheduler: -1
 CR Vignette Filter: -1
 CR XY From Folder: -1
