@@ -379,10 +379,10 @@ CR Simple Image Compare: 4
 CR Simple List: 0
 CR Simple Meme Template: 4
 CR Simple Prompt List: 0
-CR Simple Prompt List Keyframes: -1
-CR Simple Prompt Scheduler: -1
-CR Simple Schedule: -1
-CR Simple Text Panel: -1
+CR Simple Prompt List Keyframes: 2
+CR Simple Prompt Scheduler: 2
+CR Simple Schedule: 0
+CR Simple Text Panel: 0
 CR Simple Text Scheduler: -1
 CR Simple Text Watermark: -1
 CR Simple Titles: -1
