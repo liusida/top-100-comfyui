@@ -555,10 +555,10 @@ DetailerForEachPipe: 32
 DetailerForEachPipeForAnimateDiff: 1
 DetailerHookCombine: 1
 DetailerPipeToBasicPipe: 12
-Dictionary to Console: -1
-DiffControlNetLoader: -1
-DiffControlNetLoaderAdvanced: -1
-DifferentialDiffusion: -1
+Dictionary to Console: 0
+DiffControlNetLoader: 27
+DiffControlNetLoaderAdvanced: 28
+DifferentialDiffusion: 21
 Diffusers Hub Model Down-Loader: -1
 Diffusers Model Loader: -1
 DiffusersLoader: -1
