@@ -499,10 +499,10 @@ Control Net Model Input Switch: 0
 Control Net Stacker: 29
 ControlNetApply: 36
 ControlNetApplyAdvanced: 99
-ControlNetLoader: -1
-ControlNetLoaderAdvanced: -1
-ControlNetPreprocessorSelector: -1
-Convert Masks to Images: -1
+ControlNetLoader: 80
+ControlNetLoaderAdvanced: 99
+ControlNetPreprocessorSelector: 0
+Convert Masks to Images: 11
 CoreMLDetailerHookProvider: -1
 CostumeAgent_1: -1
 CostumeAgent_2: -1
