@@ -263,10 +263,10 @@ CR Diamond Panel: 0
 CR Draw Perspective Text: 0
 CR Draw Pie: 0
 CR Draw Shape: 1
-CR Draw Text: -1
-CR Encode Scheduled Prompts: -1
-CR Feathered Border: -1
-CR Float Range List: -1
+CR Draw Text: 3
+CR Encode Scheduled Prompts: 5
+CR Feathered Border: 1
+CR Float Range List: 2
 CR Float To Integer: -1
 CR Float To String: -1
 CR Font File List: -1
