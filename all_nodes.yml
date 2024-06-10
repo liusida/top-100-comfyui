@@ -375,10 +375,10 @@ CR Set Value on String: 0
 CR Simple Banner: 7
 CR Simple Binary Pattern: 0
 CR Simple Binary Pattern Simple: 0
-CR Simple Image Compare: -1
-CR Simple List: -1
-CR Simple Meme Template: -1
-CR Simple Prompt List: -1
+CR Simple Image Compare: 4
+CR Simple List: 0
+CR Simple Meme Template: 4
+CR Simple Prompt List: 0
 CR Simple Prompt List Keyframes: -1
 CR Simple Prompt Scheduler: -1
 CR Simple Schedule: -1
