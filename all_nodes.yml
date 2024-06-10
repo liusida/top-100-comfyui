@@ -335,10 +335,10 @@ CR Output Schedule To File: 2
 CR Overlay Text: 2
 CR Overlay Transparent Image: 2
 CR Page Layout: 0
-CR Pipe Switch: -1
-CR Polygons: -1
-CR Prompt List: -1
-CR Prompt List Keyframes: -1
+CR Pipe Switch: 1
+CR Polygons: 1
+CR Prompt List: 1
+CR Prompt List Keyframes: 1
 CR Prompt Scheduler: -1
 CR Prompt Text: -1
 CR Radial Gradient: -1
