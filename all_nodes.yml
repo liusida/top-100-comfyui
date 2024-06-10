@@ -615,10 +615,10 @@ FeatherMask: 42
 FeatheredMask: 2
 Film Interpolation (mtb): 3
 FilmsImage_Zho: 2
-FilterZeroMasksAndCorrespondingImages: -1
-Fit Number (mtb): -1
-FlipSigmas: -1
-FlipSigmasAdjusted: -1
+FilterZeroMasksAndCorrespondingImages: 0
+Fit Number (mtb): 0
+FlipSigmas: 3
+FlipSigmasAdjusted: 1
 Float To Number (mtb): -1
 FloatConstant: -1
 FloatSlider: -1
