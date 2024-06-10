@@ -283,10 +283,10 @@ CR Image Input Switch: 11
 CR Image Input Switch (4 way): 15
 CR Image List: 0
 CR Image List Simple: 0
-CR Image Output: -1
-CR Image Panel: -1
-CR Image Pipe Edit: -1
-CR Image Pipe In: -1
+CR Image Output: 0
+CR Image Panel: 1
+CR Image Pipe Edit: 0
+CR Image Pipe In: 1
 CR Image Pipe Out: -1
 CR Image Size: -1
 CR Img2Img Process Switch: -1
