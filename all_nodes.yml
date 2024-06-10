@@ -655,10 +655,10 @@ Get First Image: 0
 Get Last Image: 1
 GetImageRangeFromBatch: 9
 GetImageSizeAndCount: 4
-GetImageSize_: -1
-GetImagesFromBatchIndexed: -1
-GetLatentsFromBatchIndexed: -1
-GetMaskSizeAndCount: -1
+GetImageSize_: 10
+GetImagesFromBatchIndexed: 2
+GetLatentsFromBatchIndexed: 0
+GetMaskSizeAndCount: 1
 GoogleTranslateCLIPTextEncodeNode: -1
 GoogleTranslateTextNode: -1
 GradientImage: -1
