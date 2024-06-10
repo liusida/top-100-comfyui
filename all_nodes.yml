@@ -595,10 +595,10 @@ EmbeddingPrompt: 2
 EmptyImage: 44
 EmptyLatentImage: 93
 EmptyLatentImagePresets: 0
-EmptySegs: -1
-Engineer: -1
-EnhanceImage: -1
-Executor: -1
+EmptySegs: 0
+Engineer: 1
+EnhanceImage: 6
+Executor: 1
 ExponentialScheduler: -1
 Export API: -1
 Export With Ffmpeg (mtb): -1
