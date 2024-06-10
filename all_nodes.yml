@@ -523,10 +523,10 @@ CreateMagicMask: 0
 CreatePromptVariant: 3
 CreateShapeImageOnPath: 0
 CreateShapeMask: 6
-CreateShapeMaskOnPath: -1
-CreateTextMask: -1
-CreateTextOnPath: -1
-CreateVoronoiMask: -1
+CreateShapeMaskOnPath: 3
+CreateTextMask: 1
+CreateTextOnPath: 0
+CreateVoronoiMask: 0
 Critic: -1
 Crop (mtb): -1
 CropMask: -1
