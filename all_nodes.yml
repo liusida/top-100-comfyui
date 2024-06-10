@@ -215,10 +215,10 @@ CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeSDXL: 93
 CLIPTextEncodeSDXLRefiner: 95
-CLIPVisionEncode: -1
-CLIPVisionLoader: -1
-CR 8 Channel In: -1
-CR 8 Channel Out: -1
+CLIPVisionEncode: 51
+CLIPVisionLoader: 99
+CR 8 Channel In: 0
+CR 8 Channel Out: 0
 CR Apply ControlNet: -1
 CR Apply LoRA Stack: -1
 CR Apply Model Merge: -1
