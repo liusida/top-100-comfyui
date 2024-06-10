@@ -659,10 +659,10 @@ GetImageSize_: 10
 GetImagesFromBatchIndexed: 2
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
-GoogleTranslateCLIPTextEncodeNode: -1
-GoogleTranslateTextNode: -1
-GradientImage: -1
-GradientToFloat: -1
+GoogleTranslateCLIPTextEncodeNode: 0
+GoogleTranslateTextNode: 0
+GradientImage: 0
+GradientToFloat: 0
 GridDisplayAndSave: -1
 GridInput: -1
 GridOutput: -1
