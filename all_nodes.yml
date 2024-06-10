@@ -479,10 +479,10 @@ CondPassThrough: 0
 Conditioning: 1
 Conditioning Input Switch: 2
 ConditioningAverage: 9
-ConditioningCombine: -1
-ConditioningConcat: -1
-ConditioningMultiCombine: -1
-ConditioningSetArea: -1
+ConditioningCombine: 97
+ConditioningConcat: 50
+ConditioningMultiCombine: 0
+ConditioningSetArea: 23
 ConditioningSetAreaPercentage: -1
 ConditioningSetAreaStrength: -1
 ConditioningSetMask: -1
