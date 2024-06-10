@@ -467,10 +467,10 @@ ComfyUIDeployExternalNumber: 1
 ComfyUIDeployExternalNumberInt: 0
 ComfyUIDeployExternalNumberSlider: 0
 ComfyUIDeployExternalText: 1
-ComfyUIDeployExternalVid: -1
-ComfyUIDeployExternalVideo: -1
-ComparingTwoFrames_: -1
-CompositeImages_: -1
+ComfyUIDeployExternalVid: 0
+ComfyUIDeployExternalVideo: 0
+ComparingTwoFrames_: 0
+CompositeImages_: 0
 CompositeMotionBrush: -1
 CompositeMotionBrushWithoutModel: -1
 Concat Images (mtb): -1
