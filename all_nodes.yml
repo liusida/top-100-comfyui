@@ -439,10 +439,10 @@ Chat: 3
 ChatGPT: 0
 ChatGPTOpenAI: 10
 Checkpoint Loader: 0
-Checkpoint Loader (Simple): -1
-CheckpointLoader: -1
-CheckpointLoaderSimple: -1
-CheckpointLoaderSimpleWithNoiseSelect: -1
+Checkpoint Loader (Simple): 0
+CheckpointLoader: 0
+CheckpointLoaderSimple: 98
+CheckpointLoaderSimpleWithNoiseSelect: 64
 CheckpointLoader|pysssss: -1
 CheckpointSave: -1
 CkptNames_: -1
