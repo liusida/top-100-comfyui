@@ -643,10 +643,10 @@ Gemini_15P_API_S_Advance_Zho: 2
 Gemini_15P_API_S_Chat_Advance_Zho: 0
 Gemini_API_Chat_Zho: 0
 Gemini_API_S_Chat_Zho: 3
-Gemini_API_S_Vsion_ImgURL_Zho: -1
-Gemini_API_S_Zho: -1
-Gemini_API_Vsion_ImgURL_Zho: -1
-Gemini_API_Zho: -1
+Gemini_API_S_Vsion_ImgURL_Zho: 0
+Gemini_API_S_Zho: 9
+Gemini_API_Vsion_ImgURL_Zho: 0
+Gemini_API_Zho: 1
 Gemini_FileUpload_API_S_Zho: -1
 Gemini_File_API_S_Zho: -1
 GenerateNoise: -1
