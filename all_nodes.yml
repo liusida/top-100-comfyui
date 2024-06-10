@@ -447,10 +447,10 @@ CheckpointLoader|pysssss: 15
 CheckpointSave: 6
 CkptNames_: 2
 Color: 0
-Color Correct (mtb): -1
-ColorMatch: -1
-ColorPreprocessor: -1
-ColorToMask: -1
+Color Correct (mtb): 6
+ColorMatch: 19
+ColorPreprocessor: 25
+ColorToMask: 7
 Colored Image (mtb): -1
 ColorizeDepthmap: -1
 CombineInput: -1
