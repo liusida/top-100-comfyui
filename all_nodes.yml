@@ -247,10 +247,10 @@ CR Combine Schedules: 1
 CR Comic Panel Templates: 3
 CR Composite Text: 0
 CR Conditioning Input Switch: 6
-CR Conditioning Mixer: -1
-CR ControlNet Input Switch: -1
-CR Current Frame: -1
-CR Cycle Images: -1
+CR Conditioning Mixer: 0
+CR ControlNet Input Switch: 1
+CR Current Frame: 20
+CR Cycle Images: 0
 CR Cycle Images Simple: -1
 CR Cycle LoRAs: -1
 CR Cycle Models: -1
