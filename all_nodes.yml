@@ -451,10 +451,10 @@ Color Correct (mtb): 6
 ColorMatch: 19
 ColorPreprocessor: 25
 ColorToMask: 7
-Colored Image (mtb): -1
-ColorizeDepthmap: -1
-CombineInput: -1
-CombineRegionalPrompts: -1
+Colored Image (mtb): 0
+ColorizeDepthmap: 5
+CombineInput: 0
+CombineRegionalPrompts: 12
 ComfyDeployWebscoketImageInput: -1
 ComfyDeployWebscoketImageOutput: -1
 ComfyUIDeployExternalBoolean: -1
