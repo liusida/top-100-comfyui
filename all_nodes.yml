@@ -161,11 +161,11 @@ BasicScheduler: 48
 Batch Float (mtb): 4
 Batch Float Assemble (mtb): 0
 Batch Float Fill (mtb): 0
-Batch Make (mtb): -1
-Batch Merge (mtb): -1
-Batch Shake (mtb): -1
-Batch Shape (mtb): -1
-Batch Transform (mtb): -1
+Batch Make (mtb): 0
+Batch Merge (mtb): 0
+Batch Shake (mtb): 0
+Batch Shape (mtb): 0
+Batch Transform (mtb): 4
 BatchCLIPSeg: -1
 BatchCropFromMask: -1
 BatchCropFromMaskAdvanced: -1
