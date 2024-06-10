@@ -431,10 +431,10 @@ CameraPoseVisualizer: 0
 CamerasImage_Zho: 2
 Canny: 33
 CannyEdgePreprocessor: 85
-CaptureWebcam: -1
-CenterImage: -1
-CfgScheduleHookProvider: -1
-CharacterInText: -1
+CaptureWebcam: 1
+CenterImage: 0
+CfgScheduleHookProvider: 11
+CharacterInText: 2
 Chat: -1
 ChatGPT: -1
 ChatGPTOpenAI: -1
