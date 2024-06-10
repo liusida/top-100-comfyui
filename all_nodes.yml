@@ -547,10 +547,10 @@ DenoiseScheduleHookProvider: 10
 DenoiseSchedulerDetailerHookProvider: 1
 DensePosePreprocessor: 5
 DepthAnythingPreprocessor: 58
-DetailTransfer: -1
-DetailerForEach: -1
-DetailerForEachDebug: -1
-DetailerForEachDebugPipe: -1
+DetailTransfer: 1
+DetailerForEach: 30
+DetailerForEachDebug: 30
+DetailerForEachDebugPipe: 26
 DetailerForEachPipe: -1
 DetailerForEachPipeForAnimateDiff: -1
 DetailerHookCombine: -1
