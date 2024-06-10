@@ -251,10 +251,10 @@ CR Conditioning Mixer: 0
 CR ControlNet Input Switch: 1
 CR Current Frame: 20
 CR Cycle Images: 0
-CR Cycle Images Simple: -1
-CR Cycle LoRAs: -1
-CR Cycle Models: -1
-CR Cycle Text: -1
+CR Cycle Images Simple: 1
+CR Cycle LoRAs: 1
+CR Cycle Models: 1
+CR Cycle Text: 0
 CR Cycle Text Simple: -1
 CR Data Bus In: -1
 CR Data Bus Out: -1
