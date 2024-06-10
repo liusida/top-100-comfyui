@@ -355,10 +355,10 @@ CR Repeater: 0
 CR SD1.5 Aspect Ratio: 18
 CR SDXL Aspect Ratio: 16
 CR SDXL Base Prompt Encoder: 1
-CR SDXL Prompt Mix Presets: -1
-CR SDXL Prompt Mixer: -1
-CR SDXL Style Text: -1
-CR Save Text To File: -1
+CR SDXL Prompt Mix Presets: 1
+CR SDXL Prompt Mixer: 0
+CR SDXL Style Text: 1
+CR Save Text To File: 1
 CR Schedule Input Switch: -1
 CR Schedule To ScheduleList: -1
 CR Seamless Checker: -1
