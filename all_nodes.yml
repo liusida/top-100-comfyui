@@ -591,10 +591,10 @@ EditDetailerPipe: 13
 EditDetailerPipeSDXL: 0
 Eff. Loader SDXL: 14
 Efficient Loader: 64
-EmbeddingPrompt: -1
-EmptyImage: -1
-EmptyLatentImage: -1
-EmptyLatentImagePresets: -1
+EmbeddingPrompt: 2
+EmptyImage: 44
+EmptyLatentImage: 93
+EmptyLatentImagePresets: 0
 EmptySegs: -1
 Engineer: -1
 EnhanceImage: -1
