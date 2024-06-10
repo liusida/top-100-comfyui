@@ -395,10 +395,10 @@ CR String To Combo: 2
 CR String To Number: 2
 CR Style Bars: 2
 CR Switch Model and CLIP: 1
-CR Text: -1
-CR Text Blacklist: -1
-CR Text Concatenate: -1
-CR Text Cycler: -1
+CR Text: 0
+CR Text Blacklist: 0
+CR Text Concatenate: 20
+CR Text Cycler: 4
 CR Text Input Switch: -1
 CR Text Input Switch (4 way): -1
 CR Text Length: -1
