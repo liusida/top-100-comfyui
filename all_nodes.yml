@@ -227,10 +227,10 @@ CR Apply Multi-ControlNet: 11
 CR Arabic Text RTL: 0
 CR Aspect Ratio: 6
 CR Aspect Ratio Banners: 0
-CR Aspect Ratio SDXL: -1
-CR Aspect Ratio Social Media: -1
-CR Batch Images From List: -1
-CR Batch Process Switch: -1
+CR Aspect Ratio SDXL: 0
+CR Aspect Ratio Social Media: 0
+CR Batch Images From List: 1
+CR Batch Process Switch: 5
 CR Binary Pattern: -1
 CR Binary To Bit List: -1
 CR Bit Schedule: -1
