@@ -371,10 +371,10 @@ CR Select Resize Method: 0
 CR Set Switch From String: 1
 CR Set Value On Binary: 1
 CR Set Value On Boolean: 1
-CR Set Value on String: -1
-CR Simple Banner: -1
-CR Simple Binary Pattern: -1
-CR Simple Binary Pattern Simple: -1
+CR Set Value on String: 0
+CR Simple Banner: 7
+CR Simple Binary Pattern: 0
+CR Simple Binary Pattern Simple: 0
 CR Simple Image Compare: -1
 CR Simple List: -1
 CR Simple Meme Template: -1
