@@ -675,10 +675,10 @@ HEDPreprocessor: 58
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyperTile: 2
-HypernetworkLoader: -1
-ICLightApplyMaskGrey: -1
-ICLightAppply: -1
-ICLightConditioning: -1
+HypernetworkLoader: 3
+ICLightApplyMaskGrey: 8
+ICLightAppply: 8
+ICLightConditioning: 8
 IDBaseModelLoader_fromhub: -1
 IDBaseModelLoader_local: -1
 IDControlNetLoader: -1
