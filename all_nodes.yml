@@ -419,10 +419,10 @@ CR Value Scheduler: 1
 CR Vignette Filter: 2
 CR XY From Folder: 1
 CR XY Index: 0
-CR XY Interpolate: -1
-CR XY List: -1
-CR XY Product: -1
-CR XY Save Grid Image: -1
+CR XY Interpolate: 1
+CR XY List: 0
+CR XY Product: 1
+CR XY Save Grid Image: 1
 CR XYZ Index: -1
 CR_Aspect Ratio For Print: -1
 Cache Node: -1
