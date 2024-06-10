@@ -683,10 +683,10 @@ IDBaseModelLoader_fromhub: 8
 IDBaseModelLoader_local: 5
 IDControlNetLoader: 13
 IDGenerationNode: 13
-ID_Prompt_Styler: -1
-IFRNet VFI: -1
-IFUnet VFI: -1
-IF_ChatPrompt: -1
+ID_Prompt_Styler: 14
+IFRNet VFI: 2
+IFUnet VFI: 2
+IF_ChatPrompt: 4
 IF_DisplayText: -1
 IF_ImagePrompt: -1
 IF_PromptMkr: -1
