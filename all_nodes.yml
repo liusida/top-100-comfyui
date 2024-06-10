@@ -679,10 +679,10 @@ HypernetworkLoader: 3
 ICLightApplyMaskGrey: 8
 ICLightAppply: 8
 ICLightConditioning: 8
-IDBaseModelLoader_fromhub: -1
-IDBaseModelLoader_local: -1
-IDControlNetLoader: -1
-IDGenerationNode: -1
+IDBaseModelLoader_fromhub: 8
+IDBaseModelLoader_local: 5
+IDControlNetLoader: 13
+IDGenerationNode: 13
 ID_Prompt_Styler: -1
 IFRNet VFI: -1
 IFUnet VFI: -1
