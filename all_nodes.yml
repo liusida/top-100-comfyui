@@ -687,10 +687,10 @@ ID_Prompt_Styler: 14
 IFRNet VFI: 2
 IFUnet VFI: 2
 IF_ChatPrompt: 4
-IF_DisplayText: -1
-IF_ImagePrompt: -1
-IF_PromptMkr: -1
-IF_SaveText: -1
+IF_DisplayText: 4
+IF_ImagePrompt: 0
+IF_PromptMkr: 0
+IF_SaveText: 0
 IF_saveText: -1
 INPAINT_ApplyFooocusInpaint: -1
 INPAINT_DenoiseToCompositingMask: -1
