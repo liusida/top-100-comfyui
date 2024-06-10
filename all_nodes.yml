@@ -387,10 +387,10 @@ CR Simple Text Scheduler: 1
 CR Simple Text Watermark: 1
 CR Simple Titles: 0
 CR Simple Value Scheduler: 1
-CR Split String: -1
-CR Starburst Colors: -1
-CR Starburst Lines: -1
-CR String To Boolean: -1
+CR Split String: 1
+CR Starburst Colors: 1
+CR Starburst Lines: 2
+CR String To Boolean: 0
 CR String To Combo: -1
 CR String To Number: -1
 CR Style Bars: -1
