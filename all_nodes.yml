@@ -607,10 +607,10 @@ FLAVR VFI: 0
 Face Swap (mtb): 6
 FaceDetailer: 89
 FaceDetailerPipe: 37
-FaceKeypointsPreprocessor: -1
-FaceToMask: -1
-FacialPartColoringFromPoseKps: -1
-FakeScribblePreprocessor: -1
+FaceKeypointsPreprocessor: 8
+FaceToMask: 0
+FacialPartColoringFromPoseKps: 0
+FakeScribblePreprocessor: 45
 FeatherMask: -1
 FeatheredMask: -1
 Film Interpolation (mtb): -1
