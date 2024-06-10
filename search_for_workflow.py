@@ -5,7 +5,7 @@ import yaml
 import time
 from dotenv import load_dotenv
 
-from utils.common import valid_filename
+from utils.common import valid_filename, valid_search_query
 
 # Load the GitHub token from the .env file
 load_dotenv()
@@ -18,6 +18,7 @@ def fetch_github_data(search_query, headers):
     # GitHub API endpoint for code search
     url = 'https://api.github.com/search/code'
     params = {'q': search_query, 'per_page': 100}
+    print(f"debug: {url}\n\n{params}\n\n")
     response = requests.get(url, headers=headers, params=params)
     return response
 
@@ -43,7 +44,7 @@ if True:
             break
         node_number_processed_each_time -= 1
 
-        search_query = f'{node} last_node_id last_link_id in:file extension:json'
+        search_query = f'{valid_search_query(node)} last_node_id last_link_id in:file extension:json'
         response = fetch_github_data(search_query, headers)
         while handle_api_rate_limit(response):
             response = fetch_github_data(search_query, headers)

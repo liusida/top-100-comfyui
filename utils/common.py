@@ -34,3 +34,7 @@ def valid_filename(filename):
     # Ensure the filename length is not too long
     filename = filename[:255]
     return filename
+
+def valid_search_query(string):
+    string = re.sub(r'\((.*?)\)', r'\1', string)
+    return string
