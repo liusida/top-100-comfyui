@@ -631,10 +631,10 @@ FreeU_V2: 97
 FromBasicPipe: 84
 FromBasicPipe_v2: 30
 FromDetailerPipe: 14
-FromDetailerPipeSDXL: -1
-FromDetailerPipe_v2: -1
-GLIGENLoader: -1
-GLIGENTextBoxApply: -1
+FromDetailerPipeSDXL: 12
+FromDetailerPipe_v2: 0
+GLIGENLoader: 6
+GLIGENTextBoxApply: 6
 GLIGENTextBoxApplyBatchCoords: -1
 GLIGENTextBoxApply_Advanced: -1
 GMFSS Fortuna VFI: -1
