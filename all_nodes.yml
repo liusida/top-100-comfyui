@@ -275,10 +275,10 @@ CR Gradient Float: 2
 CR Gradient Integer: 1
 CR Half Drop Panel: 0
 CR Halftone Filter: 0
-CR Halftone Grid: -1
-CR Hires Fix Process Switch: -1
-CR Image Border: -1
-CR Image Grid Panel: -1
+CR Halftone Grid: 6
+CR Hires Fix Process Switch: 4
+CR Image Border: 0
+CR Image Grid Panel: 3
 CR Image Input Switch: -1
 CR Image Input Switch (4 way): -1
 CR Image List: -1
