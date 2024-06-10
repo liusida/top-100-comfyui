@@ -663,10 +663,10 @@ GoogleTranslateCLIPTextEncodeNode: 0
 GoogleTranslateTextNode: 0
 GradientImage: 0
 GradientToFloat: 0
-GridDisplayAndSave: -1
-GridInput: -1
-GridOutput: -1
-GroundingDinoModelLoader (segment anything): -1
+GridDisplayAndSave: 0
+GridInput: 0
+GridOutput: 0
+GroundingDinoModelLoader (segment anything): 45
 GroundingDinoSAMSegment (segment anything): -1
 GroupChat: -1
 GrowMask: -1
