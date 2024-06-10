@@ -583,10 +583,10 @@ DynamiCrafterI2V: 2
 DynamiCrafterModelLoader: 1
 DynamicDelayProcessor: 2
 DynamicThresholdingFull: 1
-DynamicThresholdingSimple: -1
-ESAM_ModelLoader_Zho: -1
-EVAL: -1
-EditBasicPipe: -1
+DynamicThresholdingSimple: 3
+ESAM_ModelLoader_Zho: 20
+EVAL: 0
+EditBasicPipe: 68
 EditDetailerPipe: -1
 EditDetailerPipeSDXL: -1
 Eff. Loader SDXL: -1
