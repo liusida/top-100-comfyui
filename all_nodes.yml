@@ -483,10 +483,10 @@ ConditioningCombine: 97
 ConditioningConcat: 50
 ConditioningMultiCombine: 0
 ConditioningSetArea: 23
-ConditioningSetAreaPercentage: -1
-ConditioningSetAreaStrength: -1
-ConditioningSetMask: -1
-ConditioningSetMaskAndCombine: -1
+ConditioningSetAreaPercentage: 0
+ConditioningSetAreaStrength: 0
+ConditioningSetMask: 32
+ConditioningSetMaskAndCombine: 0
 ConditioningSetMaskAndCombine3: -1
 ConditioningSetMaskAndCombine4: -1
 ConditioningSetMaskAndCombine5: -1
