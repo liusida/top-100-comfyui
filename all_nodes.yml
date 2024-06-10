@@ -539,10 +539,10 @@ CutForInpaint: 0
 DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
 Debug (mtb): 2
-Debug Number to Console: -1
-Deep Bump (mtb): -1
-DeepTranslatorCLIPTextEncodeNode: -1
-DeepTranslatorTextNode: -1
+Debug Number to Console: 1
+Deep Bump (mtb): 4
+DeepTranslatorCLIPTextEncodeNode: 0
+DeepTranslatorTextNode: 10
 DenoiseScheduleHookProvider: -1
 DenoiseSchedulerDetailerHookProvider: -1
 DensePosePreprocessor: -1
