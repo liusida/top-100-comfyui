@@ -671,10 +671,10 @@ GroundingDinoSAMSegment (segment anything): 43
 GroupChat: 2
 GrowMask: 56
 GrowMaskWithBlur: 49
-HEDPreprocessor: -1
-HighRes-Fix Script: -1
-HintImageEnchance: -1
-HyperTile: -1
+HEDPreprocessor: 58
+HighRes-Fix Script: 25
+HintImageEnchance: 3
+HyperTile: 2
 HypernetworkLoader: -1
 ICLightApplyMaskGrey: -1
 ICLightAppply: -1
