@@ -635,10 +635,10 @@ FromDetailerPipeSDXL: 12
 FromDetailerPipe_v2: 0
 GLIGENLoader: 6
 GLIGENTextBoxApply: 6
-GLIGENTextBoxApplyBatchCoords: -1
-GLIGENTextBoxApply_Advanced: -1
-GMFSS Fortuna VFI: -1
-GamePal: -1
+GLIGENTextBoxApplyBatchCoords: 0
+GLIGENTextBoxApply_Advanced: 0
+GMFSS Fortuna VFI: 11
+GamePal: 0
 Gemini_15P_API_S_Advance_Zho: -1
 Gemini_15P_API_S_Chat_Advance_Zho: -1
 Gemini_API_Chat_Zho: -1
