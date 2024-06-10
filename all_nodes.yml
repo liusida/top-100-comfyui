@@ -287,10 +287,10 @@ CR Image Output: 0
 CR Image Panel: 1
 CR Image Pipe Edit: 0
 CR Image Pipe In: 1
-CR Image Pipe Out: -1
-CR Image Size: -1
-CR Img2Img Process Switch: -1
-CR Increment Float: -1
+CR Image Pipe Out: 1
+CR Image Size: 0
+CR Img2Img Process Switch: 13
+CR Increment Float: 2
 CR Increment Integer: -1
 CR Index: -1
 CR Index Increment: -1
