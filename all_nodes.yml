@@ -455,10 +455,10 @@ Colored Image (mtb): 0
 ColorizeDepthmap: 5
 CombineInput: 0
 CombineRegionalPrompts: 12
-ComfyDeployWebscoketImageInput: -1
-ComfyDeployWebscoketImageOutput: -1
-ComfyUIDeployExternalBoolean: -1
-ComfyUIDeployExternalCheckpoint: -1
+ComfyDeployWebscoketImageInput: 0
+ComfyDeployWebscoketImageOutput: 0
+ComfyUIDeployExternalBoolean: 0
+ComfyUIDeployExternalCheckpoint: 0
 ComfyUIDeployExternalImage: -1
 ComfyUIDeployExternalImageAlpha: -1
 ComfyUIDeployExternalImageBatch: -1
