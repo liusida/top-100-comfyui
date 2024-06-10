@@ -291,10 +291,10 @@ CR Image Pipe Out: 1
 CR Image Size: 0
 CR Img2Img Process Switch: 13
 CR Increment Float: 2
-CR Increment Integer: -1
-CR Index: -1
-CR Index Increment: -1
-CR Index Multiply: -1
+CR Increment Integer: 1
+CR Index: 0
+CR Index Increment: 0
+CR Index Multiply: 0
 CR Index Reset: -1
 CR Input Text List: -1
 CR Integer Multiple: -1
