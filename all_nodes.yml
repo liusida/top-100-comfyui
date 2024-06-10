@@ -527,10 +527,10 @@ CreateShapeMaskOnPath: 3
 CreateTextMask: 1
 CreateTextOnPath: 0
 CreateVoronoiMask: 0
-Critic: -1
-Crop (mtb): -1
-CropMask: -1
-CrossFadeImages: -1
+Critic: 1
+Crop (mtb): 0
+CropMask: 0
+CrossFadeImages: 0
 CustomControlNetWeights: -1
 CustomNoiseDetailerHookProvider: -1
 CustomSigmas: -1
