@@ -559,10 +559,10 @@ Dictionary to Console: 0
 DiffControlNetLoader: 27
 DiffControlNetLoaderAdvanced: 28
 DifferentialDiffusion: 21
-Diffusers Hub Model Down-Loader: -1
-Diffusers Model Loader: -1
-DiffusersLoader: -1
-DiffusionEdge_Preprocessor: -1
+Diffusers Hub Model Down-Loader: 0
+Diffusers Model Loader: 0
+DiffusersLoader: 5
+DiffusionEdge_Preprocessor: 0
 DifyTextGenerator //Browser: -1
 DisableNoise: -1
 DisplayString: -1
