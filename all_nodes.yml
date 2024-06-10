@@ -201,11 +201,11 @@ CLIP Vision Input Switch: 0
 CLIPAttentionMultiply: 0
 CLIPLoader: 13
 CLIPMergeAdd: 0
-CLIPMergeSimple: -1
-CLIPMergeSubtract: -1
-CLIPSave: -1
-CLIPSeg Batch Masking: -1
-CLIPSeg Masking: -1
+CLIPMergeSimple: 5
+CLIPMergeSubtract: 0
+CLIPSave: 0
+CLIPSeg Batch Masking: 0
+CLIPSeg Masking: 6
 CLIPSeg Model Loader: -1
 CLIPSegDetectorProvider: -1
 CLIPSetLastLayer: -1
