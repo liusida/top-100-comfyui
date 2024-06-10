@@ -459,10 +459,10 @@ ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
-ComfyUIDeployExternalImage: -1
-ComfyUIDeployExternalImageAlpha: -1
-ComfyUIDeployExternalImageBatch: -1
-ComfyUIDeployExternalLora: -1
+ComfyUIDeployExternalImage: 1
+ComfyUIDeployExternalImageAlpha: 0
+ComfyUIDeployExternalImageBatch: 0
+ComfyUIDeployExternalLora: 0
 ComfyUIDeployExternalNumber: -1
 ComfyUIDeployExternalNumberInt: -1
 ComfyUIDeployExternalNumberSlider: -1
