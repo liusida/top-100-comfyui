@@ -259,10 +259,10 @@ CR Cycle Text Simple: 2
 CR Data Bus In: 1
 CR Data Bus Out: 1
 CR Debatch Frames: 0
-CR Diamond Panel: -1
-CR Draw Perspective Text: -1
-CR Draw Pie: -1
-CR Draw Shape: -1
+CR Diamond Panel: 0
+CR Draw Perspective Text: 0
+CR Draw Pie: 0
+CR Draw Shape: 1
 CR Draw Text: -1
 CR Encode Scheduled Prompts: -1
 CR Feathered Border: -1
