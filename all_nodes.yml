@@ -495,10 +495,10 @@ ConditioningZeroOut: 26
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
 ConstrainImage|pysssss: 17
-Control Net Model Input Switch: -1
-Control Net Stacker: -1
-ControlNetApply: -1
-ControlNetApplyAdvanced: -1
+Control Net Model Input Switch: 0
+Control Net Stacker: 29
+ControlNetApply: 36
+ControlNetApplyAdvanced: 99
 ControlNetLoader: -1
 ControlNetLoaderAdvanced: -1
 ControlNetPreprocessorSelector: -1
