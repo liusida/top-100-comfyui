@@ -191,11 +191,11 @@ Bounded Image Blend with Mask: 0
 Bounded Image Crop: 0
 Bounded Image Crop with Mask: 1
 BrushMotion: 1
-BrushNet: -1
-BrushNetLoader: -1
-Bus Node: -1
-CAIN VFI: -1
-CFGGuider: -1
+BrushNet: 9
+BrushNetLoader: 19
+Bus Node: 4
+CAIN VFI: 0
+CFGGuider: 10
 CLIP Input Switch: -1
 CLIP Vision Input Switch: -1
 CLIPAttentionMultiply: -1
