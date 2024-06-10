@@ -339,10 +339,10 @@ CR Pipe Switch: 1
 CR Polygons: 1
 CR Prompt List: 1
 CR Prompt List Keyframes: 1
-CR Prompt Scheduler: -1
-CR Prompt Text: -1
-CR Radial Gradient: -1
-CR Random Hex Color: -1
+CR Prompt Scheduler: 3
+CR Prompt Text: 7
+CR Radial Gradient: 1
+CR Random Hex Color: 0
 CR Random LoRA Stack: -1
 CR Random Multiline Colors: -1
 CR Random Multiline Values: -1
