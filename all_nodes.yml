@@ -571,10 +571,10 @@ DisplayText_Zho: 20
 DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
-DownloadAndLoadDynamiCrafterModel: -1
-DragNUWA Run: -1
-DragNUWA Run MotionBrush: -1
-DrawInstanceDiffusionTracking: -1
+DownloadAndLoadDynamiCrafterModel: 4
+DragNUWA Run: 5
+DragNUWA Run MotionBrush: 2
+DrawInstanceDiffusionTracking: 0
 DualCFGGuider: -1
 DualCLIPLoader: -1
 DummyLatentOut: -1
