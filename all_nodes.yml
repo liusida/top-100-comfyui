@@ -331,10 +331,10 @@ CR Multi Upscale Stack: 1
 CR Multi-ControlNet Stack: 26
 CR Multiline Text: 2
 CR Output Flow Frames: 1
-CR Output Schedule To File: -1
-CR Overlay Text: -1
-CR Overlay Transparent Image: -1
-CR Page Layout: -1
+CR Output Schedule To File: 2
+CR Overlay Text: 2
+CR Overlay Transparent Image: 2
+CR Page Layout: 0
 CR Pipe Switch: -1
 CR Polygons: -1
 CR Prompt List: -1
