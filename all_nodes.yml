@@ -206,10 +206,10 @@ CLIPMergeSubtract: 0
 CLIPSave: 0
 CLIPSeg Batch Masking: 0
 CLIPSeg Masking: 6
-CLIPSeg Model Loader: -1
-CLIPSegDetectorProvider: -1
-CLIPSetLastLayer: -1
-CLIPTextEncode: -1
+CLIPSeg Model Loader: 5
+CLIPSegDetectorProvider: 3
+CLIPSetLastLayer: 97
+CLIPTextEncode: 86
 CLIPTextEncode (BlenderNeko Advanced + NSP): -1
 CLIPTextEncode (NSP): -1
 CLIPTextEncodeControlnet: -1
