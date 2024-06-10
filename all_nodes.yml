@@ -623,10 +623,10 @@ Float To Number (mtb): 0
 FloatConstant: 16
 FloatSlider: 4
 FloatToMask: 0
-FloatToSigmas: -1
-FloatingVideo: -1
-Font: -1
-FreeU: -1
+FloatToSigmas: 0
+FloatingVideo: 15
+Font: 1
+FreeU: 19
 FreeU_V2: -1
 FromBasicPipe: -1
 FromBasicPipe_v2: -1
