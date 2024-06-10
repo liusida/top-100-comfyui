@@ -563,10 +563,10 @@ Diffusers Hub Model Down-Loader: 0
 Diffusers Model Loader: 0
 DiffusersLoader: 5
 DiffusionEdge_Preprocessor: 0
-DifyTextGenerator //Browser: -1
-DisableNoise: -1
-DisplayString: -1
-DisplayTextAsImage: -1
+DifyTextGenerator //Browser: 0
+DisableNoise: 0
+DisplayString: 6
+DisplayTextAsImage: 0
 DisplayText_Zho: -1
 DownloadAndLoadCLIPModel: -1
 DownloadAndLoadCLIPSeg: -1
