@@ -319,10 +319,10 @@ CR Load Scheduled ControlNets: 0
 CR Load Scheduled LoRAs: 1
 CR Load Scheduled Models: 2
 CR Load Text List: 1
-CR Mask Text: -1
-CR Math Operation: -1
-CR Model Input Switch: -1
-CR Model List: -1
+CR Mask Text: 0
+CR Math Operation: 0
+CR Model Input Switch: 3
+CR Model List: 1
 CR Model Merge Stack: -1
 CR Module Input: -1
 CR Module Output: -1
