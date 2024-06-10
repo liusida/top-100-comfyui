@@ -519,10 +519,10 @@ CreateFluidMask: 0
 CreateGradientFromCoords: 0
 CreateGradientMask: 1
 CreateInstanceDiffusionTracking: 1
-CreateMagicMask: -1
-CreatePromptVariant: -1
-CreateShapeImageOnPath: -1
-CreateShapeMask: -1
+CreateMagicMask: 0
+CreatePromptVariant: 3
+CreateShapeImageOnPath: 0
+CreateShapeMask: 6
 CreateShapeMaskOnPath: -1
 CreateTextMask: -1
 CreateTextOnPath: -1
