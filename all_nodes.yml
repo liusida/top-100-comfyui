@@ -831,10 +831,10 @@ ImageMaskSwitch: 16
 ImageNormalize_Neg1_To_1: 0
 ImageOnlyCheckpointLoader: 79
 ImageOnlyCheckpointSave: 0
-ImagePadForOutpaint: -1
-ImagePadForOutpaintMasked: -1
-ImagePadForOutpaintTargetSize: -1
-ImagePass: -1
+ImagePadForOutpaint: 55
+ImagePadForOutpaintMasked: 2
+ImagePadForOutpaintTargetSize: 0
+ImagePass: 0
 ImageQuantize: -1
 ImageRGBA2RGB: -1
 ImageReceiver: -1
