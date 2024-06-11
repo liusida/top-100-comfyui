@@ -691,10 +691,10 @@ IF_DisplayText: 4
 IF_ImagePrompt: 0
 IF_PromptMkr: 0
 IF_SaveText: 0
-IF_saveText: -1
-INPAINT_ApplyFooocusInpaint: -1
-INPAINT_DenoiseToCompositingMask: -1
-INPAINT_InpaintWithModel: -1
+IF_saveText: 0
+INPAINT_ApplyFooocusInpaint: 19
+INPAINT_DenoiseToCompositingMask: 0
+INPAINT_InpaintWithModel: 7
 INPAINT_LoadFooocusInpaint: -1
 INPAINT_LoadInpaintModel: -1
 INPAINT_MaskedBlur: -1
