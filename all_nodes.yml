@@ -755,10 +755,10 @@ Image Filter Adjustments: 18
 Image Flip: 3
 Image Generate Gradient: 4
 Image Gradient Map: 3
-Image High Pass Filter: -1
-Image History Loader: -1
-Image Input Switch: -1
-Image Levels Adjustment: -1
+Image High Pass Filter: 1
+Image History Loader: 0
+Image Input Switch: 5
+Image Levels Adjustment: 16
 Image Load: -1
 Image Lucy Sharpen: -1
 Image Median Filter: -1
