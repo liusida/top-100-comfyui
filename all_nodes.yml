@@ -1155,10 +1155,10 @@ Load Image From Url (mtb): 3
 Load Image Sequence (mtb): 0
 Load Lora: 1
 Load MotionBrush From Optical Flow: 0
-Load MotionBrush From Optical Flow Directory: -1
-Load MotionBrush From Optical Flow Without Model: -1
-Load MotionBrush From Tracking Points: -1
-Load MotionBrush From Tracking Points Without Model: -1
+Load MotionBrush From Optical Flow Directory: 0
+Load MotionBrush From Optical Flow Without Model: 0
+Load MotionBrush From Tracking Points: 0
+Load MotionBrush From Tracking Points Without Model: 0
 Load Pose KeyPoints: -1
 Load Text File: -1
 LoadAPIconfig: -1
