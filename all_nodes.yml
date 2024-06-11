@@ -867,10 +867,10 @@ ImpactControlNetApplySEGS: 12
 ImpactControlNetClearSEGS: 0
 ImpactConvertDataType: 0
 ImpactDecomposeSEGS: 4
-ImpactDilateMask: -1
-ImpactDilateMaskInSEGS: -1
-ImpactDilate_Mask_SEG_ELT: -1
-ImpactDummyInput: -1
+ImpactDilateMask: 5
+ImpactDilateMaskInSEGS: 1
+ImpactDilate_Mask_SEG_ELT: 0
+ImpactDummyInput: 0
 ImpactEdit_SEG_ELT: -1
 ImpactFloat: -1
 ImpactFrom_SEG_ELT: -1
