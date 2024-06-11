@@ -771,10 +771,10 @@ Image Paste Crop: 0
 Image Paste Crop by Location: 3
 Image Paste Face: 3
 Image Perlin Noise: 8
-Image Perlin Power Fractal: -1
-Image Pixelate: -1
-Image Power Noise: -1
-Image Premultiply (mtb): -1
+Image Perlin Power Fractal: 4
+Image Pixelate: 4
+Image Power Noise: 4
+Image Premultiply (mtb): 0
 Image Rembg (Remove Background): -1
 Image Remove Background (Alpha): -1
 Image Remove Background Rembg (mtb): -1
