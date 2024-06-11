@@ -1203,10 +1203,10 @@ MMDetLoader: 2
 MagicClothing_Animatediff: 2
 MagicClothing_Generate: 11
 MagicClothing_Inpainting: 2
-Make Interpolation State List: -1
-Manga2Anime_LineArt_Preprocessor: -1
-Manual XY Entry Info: -1
-MarigoldDepthEstimation: -1
+Make Interpolation State List: 0
+Manga2Anime_LineArt_Preprocessor: 5
+Manual XY Entry Info: 0
+MarigoldDepthEstimation: 4
 MarigoldDepthEstimationVideo: -1
 MarigoldDepthEstimation_v2: -1
 MarigoldDepthEstimation_v2_video: -1
