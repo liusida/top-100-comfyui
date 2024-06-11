@@ -1191,10 +1191,10 @@ LoopEnd_IMAGE: 0
 LoopStart_IMAGE: 0
 Lora Input Switch: 0
 Lora Loader: 0
-LoraLoader: -1
-LoraLoaderModelOnly: -1
-LoraLoader|pysssss: -1
-LoraNames_: -1
+LoraLoader: 79
+LoraLoaderModelOnly: 99
+LoraLoader|pysssss: 11
+LoraNames_: 0
 LoraPrompt: -1
 M-LSDPreprocessor: -1
 M2M VFI: -1
