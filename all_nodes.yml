@@ -1031,10 +1031,10 @@ LatentUpscaler: 0
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
 'LayerMask: MaskBoxDetect': 3
-'LayerMask: MaskByColor': -1
-'LayerMask: MaskByDifferent': -1
-'LayerMask: MaskEdgeShrink': -1
-'LayerMask: MaskEdgeUltraDetail': -1
+'LayerMask: MaskByColor': 2
+'LayerMask: MaskByDifferent': 1
+'LayerMask: MaskEdgeShrink': 1
+'LayerMask: MaskEdgeUltraDetail': 2
 'LayerMask: MaskEdgeUltraDetail V2': -1
 'LayerMask: MaskGradient': -1
 'LayerMask: MaskGrow': -1
