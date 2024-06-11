@@ -907,10 +907,10 @@ ImpactSEGSLabelAssign: 0
 ImpactSEGSLabelFilter: 0
 ImpactSEGSOrderedFilter: 11
 ImpactSEGSPicker: 0
-ImpactSEGSRangeFilter: -1
-ImpactSEGSToMaskBatch: -1
-ImpactSEGSToMaskList: -1
-ImpactScaleBy_BBOX_SEG_ELT: -1
+ImpactSEGSRangeFilter: 0
+ImpactSEGSToMaskBatch: 1
+ImpactSEGSToMaskList: 7
+ImpactScaleBy_BBOX_SEG_ELT: 0
 ImpactSchedulerAdapter: -1
 ImpactSegsAndMask: -1
 ImpactSegsAndMaskForEach: -1
