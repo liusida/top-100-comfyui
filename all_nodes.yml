@@ -1131,10 +1131,10 @@ LayeredDiffusionApply: 25
 LayeredDiffusionCondApply: 12
 LayeredDiffusionCondJointApply: 8
 LayeredDiffusionDecode: 9
-LayeredDiffusionDecodeRGBA: -1
-LayeredDiffusionDecodeSplit: -1
-LayeredDiffusionDiffApply: -1
-LayeredDiffusionJointApply: -1
+LayeredDiffusionDecodeRGBA: 22
+LayeredDiffusionDecodeSplit: 8
+LayeredDiffusionDiffApply: 17
+LayeredDiffusionJointApply: 4
 LeReS-DepthMapPreprocessor: -1
 LightSource: -1
 LimitNumber: -1
