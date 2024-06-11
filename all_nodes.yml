@@ -827,10 +827,10 @@ ImageInvert: 73
 ImageListReplace_: 0
 ImageListToImageBatch: 37
 ImageLuminanceDetector: 0
-ImageMaskSwitch: -1
-ImageNormalize_Neg1_To_1: -1
-ImageOnlyCheckpointLoader: -1
-ImageOnlyCheckpointSave: -1
+ImageMaskSwitch: 16
+ImageNormalize_Neg1_To_1: 0
+ImageOnlyCheckpointLoader: 79
+ImageOnlyCheckpointSave: 0
 ImagePadForOutpaint: -1
 ImagePadForOutpaintMasked: -1
 ImagePadForOutpaintTargetSize: -1

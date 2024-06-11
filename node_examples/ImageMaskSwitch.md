@@ -1,0 +1,98 @@
+# Here are 16 workflows that contain the node ImageMaskSwitch:
+
+## 1. 
+
+Size: 17958 bytes
+
+URL: https://github.com/ltdrdata/ComfyUI-Impact-Pack/blob/04f9f072b08d8babf7b67b949dea8a9a278b463f/test/loop-test.json
+
+## 2. 
+
+Size: 17958 bytes
+
+URL: https://github.com/jaechanjo/TIFF/blob/d160dd6b0edd30bb7b9e0f85a7dbbd69354ede2d/custom_nodes/utils/test/loop-test.json
+
+## 3. 
+
+Size: 17958 bytes
+
+URL: https://github.com/Navezjt/ComfyUI-Impact-Pack/blob/560d9b796e867b2efb6cd19ecc77bcef76f4bd56/test/loop-test.json
+
+## 4. 
+
+Size: 17958 bytes
+
+URL: https://github.com/camenduru/Magic-Me-hf/blob/17cde70239974455297fc19f8c6f8b49923fd787/custom_nodes/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 5. 
+
+Size: 17958 bytes
+
+URL: https://github.com/Rayzlaststop/ComfyUI/blob/836d4a120ebbdc1d233bef44f5c019451d01e038/custom_nodes/ComfyUI-Impact-Pack-Main/test/loop-test.json
+
+## 6. 
+
+Size: 17958 bytes
+
+URL: https://github.com/peteromallet/steerable-motion-cog/blob/8edafce9b495bd83f355e095dc21c68708a494d1/ComfyUI/custom_nodes/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 7. 
+
+Size: 17958 bytes
+
+URL: https://github.com/IKHOR/animeme-required-custom-nodes/blob/3cc6dd44473a74bb9d32bc7d92a3ce33baa82f9a/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 8. 
+
+Size: 17958 bytes
+
+URL: https://github.com/IKHOR/animeme-custom-nodes/blob/ea61a8cce8e41382fd664f9b163116934163da9e/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 9. 
+
+Size: 17958 bytes
+
+URL: https://github.com/leonmak/svd-cog/blob/9296c83c562d66c2999748e6bb2e8e9e47df42b9/ComfyUI/custom_nodes/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 10. 
+
+Size: 17959 bytes
+
+URL: https://github.com/notBradPitt/QuasarUI/blob/840c59b5b0a4578b7e573ef93bc980f2d0ab7149/custom_nodes/Impact%20Pack/test/loop-test.json
+
+## 11. 
+
+Size: 19071 bytes
+
+URL: https://github.com/PnthrLeo/diffusion-augmentation/blob/9d9dd416526ebdbfbeb0a6ddfe2d882f4c6ae273/comfyUI/custom_nodes/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 12. 
+
+Size: 19071 bytes
+
+URL: https://github.com/Rayzlaststop/ComfyUI/blob/836d4a120ebbdc1d233bef44f5c019451d01e038/custom_nodes/ComfyUI-Impact-Pack/test/loop-test.json
+
+## 13. 
+
+Size: 25822 bytes
+
+URL: https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/d6559e05557134f22c1136b2d38106016447e84c/ComfyUI-Workflow-Component/workflow/infinite-zoom.json
+
+## 14. 
+
+Size: 56378 bytes
+
+URL: https://github.com/602387193c/ComfyUI-wiki/blob/f4068aa8b1ebcebd0637887eee3cf36aac6325fd/pysssss-workflows/%E5%B0%8F%E5%B0%8F%E5%B1%80%E9%83%A8%E9%87%8D%E7%BB%98Inpaint_Anything.json
+
+## 15. 
+
+Size: 63615 bytes
+
+URL: https://github.com/jungyeup/COMFY_WORKFLOWCOLLECTION/blob/c7bd630d3a2d325e00b4c6d8d169a398e2861d84/ai_ksk_inpaint_anything__clothes__hats__hair__eyes__background__anything_comfyworkflows.json
+
+## 16. 
+
+Size: 83989 bytes
+
+URL: https://github.com/ltdrdata/ComfyUI-Workflow-Component/blob/eb22a7e33dff0c5b01795a04de19a14d2eeeb27b/misc/pixel-to-masked-latent-example.json
+
