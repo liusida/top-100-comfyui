@@ -707,10 +707,10 @@ IPAdapterAdvanced: 100
 IPAdapterBatch: 22
 IPAdapterCombineEmbeds: 18
 IPAdapterCombineParams: 4
-IPAdapterCombineWeights: -1
-IPAdapterEmbeds: -1
-IPAdapterEmbedsBatch: -1
-IPAdapterEncoder: -1
+IPAdapterCombineWeights: 0
+IPAdapterEmbeds: 18
+IPAdapterEmbedsBatch: 4
+IPAdapterEncoder: 57
 IPAdapterFaceID: -1
 IPAdapterFromParams: -1
 IPAdapterInsightFaceLoader: -1
