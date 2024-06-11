@@ -903,10 +903,10 @@ ImpactRemoteBoolean: 0
 ImpactRemoteInt: 0
 ImpactSEGSClassify: 0
 ImpactSEGSConcat: 0
-ImpactSEGSLabelAssign: -1
-ImpactSEGSLabelFilter: -1
-ImpactSEGSOrderedFilter: -1
-ImpactSEGSPicker: -1
+ImpactSEGSLabelAssign: 0
+ImpactSEGSLabelFilter: 0
+ImpactSEGSOrderedFilter: 11
+ImpactSEGSPicker: 0
 ImpactSEGSRangeFilter: -1
 ImpactSEGSToMaskBatch: -1
 ImpactSEGSToMaskList: -1
