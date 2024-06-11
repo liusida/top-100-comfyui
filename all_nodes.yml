@@ -1135,10 +1135,10 @@ LayeredDiffusionDecodeRGBA: 22
 LayeredDiffusionDecodeSplit: 8
 LayeredDiffusionDiffApply: 17
 LayeredDiffusionJointApply: 4
-LeReS-DepthMapPreprocessor: -1
-LightSource: -1
-LimitNumber: -1
-LineArtPreprocessor: -1
+LeReS-DepthMapPreprocessor: 54
+LightSource: 10
+LimitNumber: 2
+LineArtPreprocessor: 72
 LineartStandardPreprocessor: -1
 ListSplit_: -1
 LoRA Stack to String converter: -1
