@@ -947,10 +947,10 @@ Interpolate Clip Sequential (mtb): 0
 InterpolateCoords: 0
 Intrinsic_lora_sampling: 0
 InvertMask: 97
-InvertMask (segment anything): -1
-Ipadapter_instantidLoader: -1
-IsMaskEmpty: -1
-IterativeImageUpscale: -1
+InvertMask (segment anything): 5
+Ipadapter_instantidLoader: 13
+IsMaskEmpty: 1
+IterativeImageUpscale: 9
 IterativeLatentUpscale: -1
 Join XY Inputs of Same Type: -1
 JoinImageWithAlpha: -1
