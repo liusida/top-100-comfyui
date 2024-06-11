@@ -1187,10 +1187,10 @@ Logic Comparison OR: 0
 Logic Comparison XOR: 0
 Logic NOT: 0
 Loop: 1
-LoopEnd_IMAGE: -1
-LoopStart_IMAGE: -1
-Lora Input Switch: -1
-Lora Loader: -1
+LoopEnd_IMAGE: 0
+LoopStart_IMAGE: 0
+Lora Input Switch: 0
+Lora Loader: 0
 LoraLoader: -1
 LoraLoaderModelOnly: -1
 LoraLoader|pysssss: -1
