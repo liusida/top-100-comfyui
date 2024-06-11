@@ -815,10 +815,10 @@ ImageColorTransfer: 0
 ImageCompositeMasked: 77
 ImageConcanate: 14
 ImageCrop: 49
-ImageCropByAlpha: -1
-ImageFromBatch: -1
-ImageGenResolutionFromImage: -1
-ImageGenResolutionFromLatent: -1
+ImageCropByAlpha: 4
+ImageFromBatch: 9
+ImageGenResolutionFromImage: 4
+ImageGenResolutionFromLatent: 4
 ImageGrabPIL: -1
 ImageGridComposite2x2: -1
 ImageGridComposite3x3: -1
