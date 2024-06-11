@@ -1195,10 +1195,10 @@ LoraLoader: 79
 LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraNames_: 0
-LoraPrompt: -1
-M-LSDPreprocessor: -1
-M2M VFI: -1
-MMDetDetectorProvider: -1
+LoraPrompt: 0
+M-LSDPreprocessor: 44
+M2M VFI: 2
+MMDetDetectorProvider: 34
 MMDetLoader: -1
 MagicClothing_Animatediff: -1
 MagicClothing_Generate: -1
