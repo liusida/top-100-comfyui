@@ -819,10 +819,10 @@ ImageCropByAlpha: 4
 ImageFromBatch: 9
 ImageGenResolutionFromImage: 4
 ImageGenResolutionFromLatent: 4
-ImageGrabPIL: -1
-ImageGridComposite2x2: -1
-ImageGridComposite3x3: -1
-ImageIntensityDetector: -1
+ImageGrabPIL: 0
+ImageGridComposite2x2: 0
+ImageGridComposite3x3: 0
+ImageIntensityDetector: 0
 ImageInvert: -1
 ImageListReplace_: -1
 ImageListToImageBatch: -1
