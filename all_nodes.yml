@@ -1143,10 +1143,10 @@ LineartStandardPreprocessor: 12
 ListSplit_: 0
 LoRA Stack to String converter: 0
 LoRA Stacker: 50
-LoRALoader: -1
-Load Cache: -1
-Load CheckPoint DragNUWA: -1
-Load Face Analysis Model (mtb): -1
+LoRALoader: 1
+Load Cache: 0
+Load CheckPoint DragNUWA: 7
+Load Face Analysis Model (mtb): 6
 Load Face Enhance Model (mtb): -1
 Load Face Swap Model (mtb): -1
 Load Film Model (mtb): -1
