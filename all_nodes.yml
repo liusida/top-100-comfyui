@@ -935,10 +935,10 @@ Inset Image Bounds: 0
 InsightFaceLoader_Zho: 7
 InstantCameraMotionBrush: 1
 InstantIDAttentionPatch: 0
-InstantIDFaceAnalysis: -1
-InstantIDModelLoader: -1
-InstantObjectMotionBrush: -1
-InstructPixToPixConditioning: -1
+InstantIDFaceAnalysis: 59
+InstantIDModelLoader: 60
+InstantObjectMotionBrush: 1
+InstructPixToPixConditioning: 36
 Int To Bool (mtb): -1
 Int To Number (mtb): -1
 IntNumber: -1
