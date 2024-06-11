@@ -943,10 +943,10 @@ Int To Bool (mtb): 0
 Int To Number (mtb): 4
 IntNumber: 6
 Integer place counter: 0
-Interpolate Clip Sequential (mtb): -1
-InterpolateCoords: -1
-Intrinsic_lora_sampling: -1
-InvertMask: -1
+Interpolate Clip Sequential (mtb): 0
+InterpolateCoords: 0
+Intrinsic_lora_sampling: 0
+InvertMask: 97
 InvertMask (segment anything): -1
 Ipadapter_instantidLoader: -1
 IsMaskEmpty: -1
