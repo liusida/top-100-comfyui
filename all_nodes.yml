@@ -1223,10 +1223,10 @@ Mask Dominant Region: 3
 Mask Erode Region: 0
 Mask Fill Holes: 4
 Mask Floor Region: 0
-Mask Gaussian Region: -1
-Mask Invert: -1
-Mask Minority Region: -1
-Mask Paste Region: -1
+Mask Gaussian Region: 1
+Mask Invert: 1
+Mask Minority Region: 0
+Mask Paste Region: 0
 Mask Smooth Region: -1
 Mask Threshold Region: -1
 Mask To Image (mtb): -1
