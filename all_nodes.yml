@@ -743,10 +743,10 @@ Image Bounds to Console: 0
 Image Canny Filter: 15
 Image Chromatic Aberration: 0
 Image Color Palette: 2
-Image Compare (mtb): -1
-Image Crop Face: -1
-Image Crop Location: -1
-Image Crop Square Location: -1
+Image Compare (mtb): 1
+Image Crop Face: 4
+Image Crop Location: 8
+Image Crop Square Location: 0
 Image Displacement Warp: -1
 Image Dragan Photography Filter: -1
 Image Edge Detection Filter: -1
