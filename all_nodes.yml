@@ -999,10 +999,10 @@ LatentSender: 2
 LatentSubtract: 1
 LatentSwitch: 2
 LatentUpscale: 51
-LatentUpscaleBy: -1
-LatentUpscaler: -1
-'LayerColor: AutoAdjust': -1
-'LayerColor: AutoBrightness': -1
+LatentUpscaleBy: 92
+LatentUpscaler: 0
+'LayerColor: AutoAdjust': 2
+'LayerColor: AutoBrightness': 2
 'LayerColor: Brightness & Contrast': -1
 'LayerColor: Color of Shadow & Highlight': -1
 'LayerColor: ColorAdapter': -1
