@@ -1043,10 +1043,10 @@ LatentUpscaler: 0
 'LayerMask: MaskPreview': 30
 'LayerMask: MaskStroke': 1
 'LayerMask: MediapipeFacialSegment': 0
-'LayerMask: PersonMaskUltra': -1
-'LayerMask: PersonMaskUltra V2': -1
-'LayerMask: PixelSpread': -1
-'LayerMask: RemBgUltra': -1
+'LayerMask: PersonMaskUltra': 4
+'LayerMask: PersonMaskUltra V2': 4
+'LayerMask: PixelSpread': 5
+'LayerMask: RemBgUltra': 16
 'LayerMask: RmBgUltra V2': -1
 'LayerMask: SegformerB2ClothesUltra': -1
 'LayerMask: SegmentAnythingUltra': -1
