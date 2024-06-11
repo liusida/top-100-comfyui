@@ -1111,10 +1111,10 @@ LatentUpscaler: 0
 'LayerUtility: LayerImageTransform': 3
 'LayerUtility: LayerMaskTransform': 3
 'LayerUtility: LoadPSD': 1
-'LayerUtility: NumberCalculator': -1
-'LayerUtility: PrintInfo': -1
-'LayerUtility: PromptEmbellish': -1
-'LayerUtility: PromptTagger': -1
+'LayerUtility: NumberCalculator': 2
+'LayerUtility: PrintInfo': 1
+'LayerUtility: PromptEmbellish': 1
+'LayerUtility: PromptTagger': 3
 'LayerUtility: PurgeVRAM': -1
 'LayerUtility: QWenImage2Prompt': -1
 'LayerUtility: RGB Value': -1
