@@ -895,10 +895,10 @@ ImpactMakeImageBatch: 24
 ImpactMakeImageList: 5
 ImpactMakeTileSEGS: 3
 ImpactMinMax: 12
-ImpactNeg: -1
-ImpactNodeSetMuteState: -1
-ImpactQueueTrigger: -1
-ImpactQueueTriggerCountdown: -1
+ImpactNeg: 12
+ImpactNodeSetMuteState: 0
+ImpactQueueTrigger: 0
+ImpactQueueTriggerCountdown: 0
 ImpactRemoteBoolean: -1
 ImpactRemoteInt: -1
 ImpactSEGSClassify: -1
