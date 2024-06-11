@@ -855,10 +855,10 @@ Images to Linear: 0
 Images to RGB: 12
 ImagesPrompt_: 0
 ImpactAssembleSEGS: 4
-ImpactCombineConditionings: -1
-ImpactCompare: -1
-ImpactConcatConditionings: -1
-ImpactConditionalBranch: -1
+ImpactCombineConditionings: 0
+ImpactCompare: 14
+ImpactConcatConditionings: 0
+ImpactConditionalBranch: 12
 ImpactConditionalBranchSelMode: -1
 ImpactConditionalStopIteration: -1
 ImpactControlBridge: -1
