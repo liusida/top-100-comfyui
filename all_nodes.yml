@@ -923,10 +923,10 @@ ImpactStringSelector: 0
 ImpactSwitch: 16
 ImpactValueReceiver: 12
 ImpactValueSender: 12
-ImpactWildcardEncode: -1
-ImpactWildcardProcessor: -1
-IncrementingListNode_: -1
-InjectNoiseToLatent: -1
+ImpactWildcardEncode: 7
+ImpactWildcardProcessor: 16
+IncrementingListNode_: 0
+InjectNoiseToLatent: 3
 InpaintModelConditioning: -1
 InpaintPreprocessor: -1
 InsertImageBatchByIndexes: -1
