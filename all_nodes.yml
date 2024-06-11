@@ -803,10 +803,10 @@ Image to Latent Mask: 0
 Image to Noise: 0
 Image to Seed: 0
 ImageAddMulti: 0
-ImageAndMaskPreview: -1
-ImageBatch: -1
-ImageBatchMulti: -1
-ImageBatchRepeatInterleaving: -1
+ImageAndMaskPreview: 0
+ImageBatch: 62
+ImageBatchMulti: 4
+ImageBatchRepeatInterleaving: 1
 ImageBatchTestPattern: -1
 ImageBlend: -1
 ImageBlur: -1
