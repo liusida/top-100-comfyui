@@ -1067,10 +1067,10 @@ LatentUpscaler: 0
 'LayerStyle: OuterGlow V2': 1
 'LayerStyle: Stroke': 3
 'LayerStyle: Stroke V2': 1
-'LayerUtility: AddBlindWaterMark': -1
-'LayerUtility: BatchSelector': -1
-'LayerUtility: Boolean': -1
-'LayerUtility: BooleanOperator': -1
+'LayerUtility: AddBlindWaterMark': 2
+'LayerUtility: BatchSelector': 1
+'LayerUtility: Boolean': 1
+'LayerUtility: BooleanOperator': 2
 'LayerUtility: ColorImage': -1
 'LayerUtility: ColorImage V2': -1
 'LayerUtility: ColorPicker': -1
