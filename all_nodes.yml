@@ -883,10 +883,10 @@ ImpactIPAdapterApplySEGS: 1
 ImpactIfNone: 0
 ImpactImageBatchToImageList: 44
 ImpactImageInfo: 16
-ImpactInt: -1
-ImpactInversedSwitch: -1
-ImpactIsNotEmptySEGS: -1
-ImpactKSamplerAdvancedBasicPipe: -1
+ImpactInt: 38
+ImpactInversedSwitch: 4
+ImpactIsNotEmptySEGS: 0
+ImpactKSamplerAdvancedBasicPipe: 5
 ImpactKSamplerBasicPipe: -1
 ImpactLatentInfo: -1
 ImpactLogger: -1
