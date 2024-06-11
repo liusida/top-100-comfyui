@@ -859,10 +859,10 @@ ImpactCombineConditionings: 0
 ImpactCompare: 14
 ImpactConcatConditionings: 0
 ImpactConditionalBranch: 12
-ImpactConditionalBranchSelMode: -1
-ImpactConditionalStopIteration: -1
-ImpactControlBridge: -1
-ImpactControlNetApplyAdvancedSEGS: -1
+ImpactConditionalBranchSelMode: 0
+ImpactConditionalStopIteration: 12
+ImpactControlBridge: 0
+ImpactControlNetApplyAdvancedSEGS: 0
 ImpactControlNetApplySEGS: -1
 ImpactControlNetClearSEGS: -1
 ImpactConvertDataType: -1
