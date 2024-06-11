@@ -967,10 +967,10 @@ KSampler SDXL (Eff.): 12
 KSamplerAdvanced: 95
 KSamplerAdvancedProvider: 25
 KSamplerProvider: 6
-KSamplerSelect: -1
-KarrasScheduler: -1
-LM_Studio: -1
-Latent Batch: -1
+KSamplerSelect: 80
+KarrasScheduler: 1
+LM_Studio: 4
+Latent Batch: 0
 Latent Input Switch: -1
 Latent Lerp (mtb): -1
 Latent Noise Injection: -1
