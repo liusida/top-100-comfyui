@@ -799,10 +799,10 @@ Image Tiled: 0
 Image Transpose: 2
 Image Voronoi Noise Filter: 1
 Image fDOF Filter: 0
-Image to Latent Mask: -1
-Image to Noise: -1
-Image to Seed: -1
-ImageAddMulti: -1
+Image to Latent Mask: 0
+Image to Noise: 0
+Image to Seed: 0
+ImageAddMulti: 0
 ImageAndMaskPreview: -1
 ImageBatch: -1
 ImageBatchMulti: -1
