@@ -1127,10 +1127,10 @@ LatentUpscaler: 0
 'LayerUtility: TextImage': 6
 'LayerUtility: TextJoin': 1
 'LayerUtility: XY to Percent': 3
-LayeredDiffusionApply: -1
-LayeredDiffusionCondApply: -1
-LayeredDiffusionCondJointApply: -1
-LayeredDiffusionDecode: -1
+LayeredDiffusionApply: 25
+LayeredDiffusionCondApply: 12
+LayeredDiffusionCondJointApply: 8
+LayeredDiffusionDecode: 9
 LayeredDiffusionDecodeRGBA: -1
 LayeredDiffusionDecodeSplit: -1
 LayeredDiffusionDiffApply: -1
