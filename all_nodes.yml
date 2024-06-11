@@ -995,10 +995,10 @@ LatentMultiply: 0
 LatentPixelScale: 2
 LatentReceiver: 2
 LatentRotate: 0
-LatentSender: -1
-LatentSubtract: -1
-LatentSwitch: -1
-LatentUpscale: -1
+LatentSender: 2
+LatentSubtract: 1
+LatentSwitch: 2
+LatentUpscale: 51
 LatentUpscaleBy: -1
 LatentUpscaler: -1
 'LayerColor: AutoAdjust': -1
