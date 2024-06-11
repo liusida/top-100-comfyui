@@ -851,10 +851,10 @@ ImageTransformByNormalizedAmplitude: 0
 ImageUpscaleWithModel: 97
 ImageUpscaleWithModelBatched: 0
 Image_generation_Conditioning: 0
-Images to Linear: -1
-Images to RGB: -1
-ImagesPrompt_: -1
-ImpactAssembleSEGS: -1
+Images to Linear: 0
+Images to RGB: 12
+ImagesPrompt_: 0
+ImpactAssembleSEGS: 4
 ImpactCombineConditionings: -1
 ImpactCompare: -1
 ImpactConcatConditionings: -1
