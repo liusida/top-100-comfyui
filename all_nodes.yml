@@ -1027,10 +1027,10 @@ LatentUpscaler: 0
 'LayerFilter: SkinBeauty': 2
 'LayerFilter: SoftLight': 1
 'LayerFilter: WaterColor': 1
-'LayerMask: BiRefNetUltra': -1
-'LayerMask: BlendIf Mask': -1
-'LayerMask: CreateGradientMask': -1
-'LayerMask: MaskBoxDetect': -1
+'LayerMask: BiRefNetUltra': 6
+'LayerMask: BlendIf Mask': 2
+'LayerMask: CreateGradientMask': 3
+'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': -1
 'LayerMask: MaskByDifferent': -1
 'LayerMask: MaskEdgeShrink': -1
