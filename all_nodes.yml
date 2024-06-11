@@ -1007,10 +1007,10 @@ LatentUpscaler: 0
 'LayerColor: Color of Shadow & Highlight': 3
 'LayerColor: ColorAdapter': 6
 'LayerColor: ColorBalance': 1
-'LayerColor: ColorTemperature': -1
-'LayerColor: Exposure': -1
-'LayerColor: Gamma': -1
-'LayerColor: HSV': -1
+'LayerColor: ColorTemperature': 2
+'LayerColor: Exposure': 3
+'LayerColor: Gamma': 3
+'LayerColor: HSV': 6
 'LayerColor: LAB': -1
 'LayerColor: LUT Apply': -1
 'LayerColor: Levels': -1
