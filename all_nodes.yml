@@ -987,10 +987,10 @@ LatentDelay: 0
 LatentFlip: 0
 LatentFromBatch: 17
 LatentInterpolate: 1
-LatentKeyframe: -1
-LatentKeyframeBatchedGroup: -1
-LatentKeyframeGroup: -1
-LatentKeyframeTiming: -1
+LatentKeyframe: 6
+LatentKeyframeBatchedGroup: 1
+LatentKeyframeGroup: 1
+LatentKeyframeTiming: 11
 LatentMultiply: -1
 LatentPixelScale: -1
 LatentReceiver: -1
