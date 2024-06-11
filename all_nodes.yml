@@ -747,10 +747,10 @@ Image Compare (mtb): 1
 Image Crop Face: 4
 Image Crop Location: 8
 Image Crop Square Location: 0
-Image Displacement Warp: -1
-Image Dragan Photography Filter: -1
-Image Edge Detection Filter: -1
-Image Film Grain: -1
+Image Displacement Warp: 1
+Image Dragan Photography Filter: 1
+Image Edge Detection Filter: 1
+Image Film Grain: 1
 Image Filter Adjustments: -1
 Image Flip: -1
 Image Generate Gradient: -1
