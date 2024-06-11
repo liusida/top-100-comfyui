@@ -839,10 +839,10 @@ ImageQuantize: 2
 ImageRGBA2RGB: 1
 ImageReceiver: 16
 ImageResizeKJ: 4
-ImageResize_Padding: -1
-ImageScale: -1
-ImageScaleBy: -1
-ImageScaleToTotalPixels: -1
+ImageResize_Padding: 0
+ImageScale: 70
+ImageScaleBy: 97
+ImageScaleToTotalPixels: 71
 ImageSender: -1
 ImageSharpen: -1
 ImageSizeAndBatchSize: -1
