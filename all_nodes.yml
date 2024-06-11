@@ -1227,10 +1227,10 @@ Mask Gaussian Region: 1
 Mask Invert: 1
 Mask Minority Region: 0
 Mask Paste Region: 0
-Mask Smooth Region: -1
-Mask Threshold Region: -1
-Mask To Image (mtb): -1
-MaskBatchMulti: -1
+Mask Smooth Region: 3
+Mask Threshold Region: 0
+Mask To Image (mtb): 0
+MaskBatchMulti: 0
 MaskComposite: -1
 MaskDetailerPipe: -1
 MaskListMerge_: -1
