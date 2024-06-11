@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.6k` | **Created at**: `2024-06-09`
+**Stars**: `3.6k` | **Created at**: `2024-06-10`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.4k` | **Created at**: `2024-06-09`
+**Stars**: `1.4k` | **Created at**: `2024-06-10`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -34,13 +34,13 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Created at**: `2024-06-09`
+**Stars**: `1.2k` | **Created at**: `2024-06-11`
 
 
 Unofficial implementation of InstantID for ComfyUI
 <details><summary>Included Nodes (7)</summary>
 
- - <sub>ID_Prompt_Styler</sub>, <sub>IDBaseModelLoader_fromhub</sub>, <sub>IDBaseModelLoader_local</sub>, <sub>IDControlNetLoader</sub>, <sub>IDGenerationNode</sub>, <sub>InsightFaceLoader_Zho</sub>, <sub>Ipadapter_instantidLoader</sub>
+ - <sub>[ID_Prompt_Styler](node_examples/ID_Prompt_Styler.md)</sub>, <sub>[IDBaseModelLoader_fromhub](node_examples/IDBaseModelLoader_fromhub.md)</sub>, <sub>[IDBaseModelLoader_local](node_examples/IDBaseModelLoader_local.md)</sub>, <sub>[IDControlNetLoader](node_examples/IDControlNetLoader.md)</sub>, <sub>[IDGenerationNode](node_examples/IDGenerationNode.md)</sub>, <sub>InsightFaceLoader_Zho</sub>, <sub>Ipadapter_instantidLoader</sub>
 </details>
 
 
@@ -50,7 +50,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `845` | **Created at**: `2024-06-09`
+**Stars**: `848` | **Created at**: `2024-06-10`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -58,11 +58,11 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
  - <sub>[3DImage](node_examples/3DImage.md)</sub>
  - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>
- - <sub>CenterImage</sub>, <sub>CharacterInText</sub>, <sub>ChatGPTOpenAI</sub>, <sub>CkptNames_</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
- - <sub>DynamicDelayProcessor</sub>
- - <sub>EmbeddingPrompt</sub>, <sub>EnhanceImage</sub>
- - <sub>FaceToMask</sub>, <sub>FeatheredMask</sub>, <sub>FloatingVideo</sub>, <sub>FloatSlider</sub>, <sub>Font</sub>
- - <sub>GamePal</sub>, <sub>GetImageSize_</sub>, <sub>GLIGENTextBoxApply_Advanced</sub>, <sub>GradientImage</sub>, <sub>GridDisplayAndSave</sub>, <sub>GridInput</sub>, <sub>GridOutput</sub>
+ - <sub>CenterImage</sub>, <sub>[CharacterInText](node_examples/CharacterInText.md)</sub>, <sub>[ChatGPTOpenAI](node_examples/ChatGPTOpenAI.md)</sub>, <sub>[CkptNames_](node_examples/CkptNames_.md)</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
+ - <sub>[DynamicDelayProcessor](node_examples/DynamicDelayProcessor.md)</sub>
+ - <sub>[EmbeddingPrompt](node_examples/EmbeddingPrompt.md)</sub>, <sub>[EnhanceImage](node_examples/EnhanceImage.md)</sub>
+ - <sub>FaceToMask</sub>, <sub>[FeatheredMask](node_examples/FeatheredMask.md)</sub>, <sub>[FloatingVideo](node_examples/FloatingVideo.md)</sub>, <sub>[FloatSlider](node_examples/FloatSlider.md)</sub>, <sub>[Font](node_examples/Font.md)</sub>
+ - <sub>GamePal</sub>, <sub>[GetImageSize_](node_examples/GetImageSize_.md)</sub>, <sub>GLIGENTextBoxApply_Advanced</sub>, <sub>GradientImage</sub>, <sub>GridDisplayAndSave</sub>, <sub>GridInput</sub>, <sub>GridOutput</sub>
  - <sub>ImageColorTransfer</sub>, <sub>ImageCropByAlpha</sub>, <sub>ImageListReplace_</sub>, <sub>ImagesPrompt_</sub>, <sub>IncrementingListNode_</sub>, <sub>IntNumber</sub>
  - <sub>JoinWithDelimiter</sub>
  - <sub>LimitNumber</sub>, <sub>ListSplit_</sub>, <sub>LoadImagesFromPath</sub>, <sub>LoadImagesFromURL</sub>, <sub>LoadImagesToBatch</sub>, <sub>LoadTripoSRModel_</sub>, <sub>LoadVideoAndSegment_</sub>, <sub>LoraNames_</sub>, <sub>LoraPrompt</sub>
@@ -83,7 +83,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `740` | **Created at**: `2024-06-08`
+**Stars**: `741` | **Created at**: `2024-06-10`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -109,9 +109,9 @@ Unofficial implementation of PhotoMaker for ComfyUI
 Using Gemini in ComfyUI
 <details><summary>Included Nodes (12)</summary>
 
- - <sub>ConcatText_Zho</sub>
- - <sub>DisplayText_Zho</sub>
- - <sub>Gemini_15P_API_S_Advance_Zho</sub>, <sub>Gemini_15P_API_S_Chat_Advance_Zho</sub>, <sub>Gemini_API_Chat_Zho</sub>, <sub>Gemini_API_S_Chat_Zho</sub>, <sub>Gemini_API_S_Vsion_ImgURL_Zho</sub>, <sub>Gemini_API_S_Zho</sub>, <sub>Gemini_API_Vsion_ImgURL_Zho</sub>, <sub>Gemini_API_Zho</sub>, <sub>Gemini_File_API_S_Zho</sub>, <sub>Gemini_FileUpload_API_S_Zho</sub>
+ - <sub>[ConcatText_Zho](node_examples/ConcatText_Zho.md)</sub>
+ - <sub>[DisplayText_Zho](node_examples/DisplayText_Zho.md)</sub>
+ - <sub>[Gemini_15P_API_S_Advance_Zho](node_examples/Gemini_15P_API_S_Advance_Zho.md)</sub>, <sub>Gemini_15P_API_S_Chat_Advance_Zho</sub>, <sub>Gemini_API_Chat_Zho</sub>, <sub>[Gemini_API_S_Chat_Zho](node_examples/Gemini_API_S_Chat_Zho.md)</sub>, <sub>Gemini_API_S_Vsion_ImgURL_Zho</sub>, <sub>[Gemini_API_S_Zho](node_examples/Gemini_API_S_Zho.md)</sub>, <sub>Gemini_API_Vsion_ImgURL_Zho</sub>, <sub>[Gemini_API_Zho](node_examples/Gemini_API_Zho.md)</sub>, <sub>Gemini_File_API_S_Zho</sub>, <sub>Gemini_FileUpload_API_S_Zho</sub>
 </details>
 
 
@@ -121,7 +121,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `542` | **Created at**: `2024-06-10`
+**Stars**: `544` | **Created at**: `2024-06-10`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -137,7 +137,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `455` | **Created at**: `2024-06-09`
+**Stars**: `459` | **Created at**: `2024-06-10`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -154,13 +154,13 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `436` | **Created at**: `2024-06-09`
+**Stars**: `440` | **Created at**: `2024-06-11`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 <details><summary>Included Nodes (4)</summary>
 
- - <sub>ESAM_ModelLoader_Zho</sub>
+ - <sub>[ESAM_ModelLoader_Zho](node_examples/ESAM_ModelLoader_Zho.md)</sub>
  - <sub>Yoloworld_ESAM_DetectorProvider_Zho</sub>, <sub>Yoloworld_ESAM_Zho</sub>, <sub>Yoloworld_ModelLoader_Zho</sub>
 </details>
 
@@ -200,8 +200,8 @@ Prompt Visualization | Art Gallery
 <details><summary>Included Nodes (6)</summary>
 
  - <sub>ArtGallery_Zho</sub>, <sub>[ArtistsImage_Zho](node_examples/ArtistsImage_Zho.md)</sub>
- - <sub>CamerasImage_Zho</sub>
- - <sub>FilmsImage_Zho</sub>
+ - <sub>[CamerasImage_Zho](node_examples/CamerasImage_Zho.md)</sub>
+ - <sub>[FilmsImage_Zho](node_examples/FilmsImage_Zho.md)</sub>
  - <sub>MovementsImage_Zho</sub>
  - <sub>StylesImage_Zho</sub>
 </details>
@@ -213,7 +213,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR
 
-**Stars**: `310` | **Created at**: `2024-06-06`
+**Stars**: `309` | **Created at**: `2024-06-10`
 
 
 Unofficial implementation of APISR for ComfyUI

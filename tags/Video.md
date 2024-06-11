@@ -7,7 +7,7 @@
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `728` | **Created at**: `2024-06-09`
+**Stars**: `731` | **Created at**: `2024-06-10`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -18,7 +18,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `625` | **Created at**: `2024-06-08`
+**Stars**: `626` | **Created at**: `2024-06-11`
 
 
 AnimateDiff for ComfyUI
@@ -36,13 +36,13 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `430` | **Created at**: `2024-06-09`
+**Stars**: `434` | **Created at**: `2024-06-10`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
 <details><summary>Included Nodes (8)</summary>
 
- - <sub>DownloadAndLoadCLIPModel</sub>, <sub>DownloadAndLoadCLIPVisionModel</sub>, <sub>DownloadAndLoadDynamiCrafterModel</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>DynamiCrafterI2V</sub>, <sub>DynamiCrafterModelLoader</sub>
+ - <sub>[DownloadAndLoadCLIPModel](node_examples/DownloadAndLoadCLIPModel.md)</sub>, <sub>[DownloadAndLoadCLIPVisionModel](node_examples/DownloadAndLoadCLIPVisionModel.md)</sub>, <sub>[DownloadAndLoadDynamiCrafterModel](node_examples/DownloadAndLoadDynamiCrafterModel.md)</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>[DynamiCrafterI2V](node_examples/DynamiCrafterI2V.md)</sub>, <sub>[DynamiCrafterModelLoader](node_examples/DynamiCrafterModelLoader.md)</sub>
  - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
 </details>
 
@@ -68,7 +68,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `378` | **Created at**: `2024-06-07`
+**Stars**: `380` | **Created at**: `2024-06-11`
 
 
 Nodes related to video workflows
@@ -84,18 +84,18 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `326` | **Created at**: `2024-06-09`
+**Stars**: `327` | **Created at**: `2024-06-10`
 
 
 Animation oriented nodes pack for ComfyUI
 <details><summary>Included Nodes (60)</summary>
 
- - <sub>Animation Builder (mtb)</sub>, <sub>Any To String (mtb)</sub>
- - <sub>Batch Float (mtb)</sub>, <sub>Batch Float Assemble (mtb)</sub>, <sub>Batch Float Fill (mtb)</sub>, <sub>Batch Make (mtb)</sub>, <sub>Batch Merge (mtb)</sub>, <sub>Batch Shake (mtb)</sub>, <sub>Batch Shape (mtb)</sub>, <sub>Batch Transform (mtb)</sub>, <sub>Bbox (mtb)</sub>, <sub>Bbox From Mask (mtb)</sub>, <sub>Blur (mtb)</sub>
- - <sub>Color Correct (mtb)</sub>, <sub>Colored Image (mtb)</sub>, <sub>Concat Images (mtb)</sub>, <sub>Crop (mtb)</sub>
- - <sub>Debug (mtb)</sub>, <sub>Deep Bump (mtb)</sub>
+ - <sub>[Animation Builder (mtb)](node_examples/Animation_Builder_(mtb).md)</sub>, <sub>Any To String (mtb)</sub>
+ - <sub>[Batch Float (mtb)](node_examples/Batch_Float_(mtb).md)</sub>, <sub>Batch Float Assemble (mtb)</sub>, <sub>Batch Float Fill (mtb)</sub>, <sub>Batch Make (mtb)</sub>, <sub>Batch Merge (mtb)</sub>, <sub>Batch Shake (mtb)</sub>, <sub>Batch Shape (mtb)</sub>, <sub>[Batch Transform (mtb)](node_examples/Batch_Transform_(mtb).md)</sub>, <sub>Bbox (mtb)</sub>, <sub>Bbox From Mask (mtb)</sub>, <sub>Blur (mtb)</sub>
+ - <sub>[Color Correct (mtb)](node_examples/Color_Correct_(mtb).md)</sub>, <sub>Colored Image (mtb)</sub>, <sub>[Concat Images (mtb)](node_examples/Concat_Images_(mtb).md)</sub>, <sub>Crop (mtb)</sub>
+ - <sub>[Debug (mtb)](node_examples/Debug_(mtb).md)</sub>, <sub>[Deep Bump (mtb)](node_examples/Deep_Bump_(mtb).md)</sub>
  - <sub>Export With Ffmpeg (mtb)</sub>
- - <sub>Face Swap (mtb)</sub>, <sub>Film Interpolation (mtb)</sub>, <sub>Fit Number (mtb)</sub>, <sub>Float To Number (mtb)</sub>
+ - <sub>[Face Swap (mtb)](node_examples/Face_Swap_(mtb).md)</sub>, <sub>[Film Interpolation (mtb)](node_examples/Film_Interpolation_(mtb).md)</sub>, <sub>Fit Number (mtb)</sub>, <sub>Float To Number (mtb)</sub>
  - <sub>Get Batch From History (mtb)</sub>
  - <sub>Image Compare (mtb)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>Image Remove Background Rembg (mtb)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>Image Tile Offset (mtb)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>Int To Number (mtb)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
  - <sub>Latent Lerp (mtb)</sub>, <sub>Load Face Analysis Model (mtb)</sub>, <sub>Load Face Enhance Model (mtb)</sub>, <sub>Load Face Swap Model (mtb)</sub>, <sub>Load Film Model (mtb)</sub>, <sub>Load Image From Url (mtb)</sub>, <sub>Load Image Sequence (mtb)</sub>
@@ -124,9 +124,9 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 
  - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
  - <sub>CAIN VFI</sub>
- - <sub>FILM VFI</sub>, <sub>FLAVR VFI</sub>
- - <sub>GMFSS Fortuna VFI</sub>
- - <sub>IFRNet VFI</sub>, <sub>IFUnet VFI</sub>
+ - <sub>[FILM VFI](node_examples/FILM_VFI.md)</sub>, <sub>FLAVR VFI</sub>
+ - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>
+ - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
  - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
  - <sub>M2M VFI</sub>, <sub>Make Interpolation State List</sub>
  - <sub>RIFE VFI</sub>

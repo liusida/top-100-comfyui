@@ -7,7 +7,7 @@
 <a href='https://github.com/ltdrdata/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
 
-**Stars**: `4.1k` | **Created at**: `2024-06-10`
+**Stars**: `4.2k` | **Created at**: `2024-06-11`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -18,13 +18,13 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.3k` | **Created at**: `2024-06-09`
+**Stars**: `1.3k` | **Created at**: `2024-06-11`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <details><summary>Included Nodes (14)</summary>
 
- - <sub>CheckpointLoader|pysssss</sub>, <sub>ConstrainImageforVideo|pysssss</sub>, <sub>ConstrainImage|pysssss</sub>
+ - <sub>[CheckpointLoader|pysssss](node_examples/CheckpointLoaderpysssss.md)</sub>, <sub>[ConstrainImageforVideo|pysssss](node_examples/ConstrainImageforVideopysssss.md)</sub>, <sub>[ConstrainImage|pysssss](node_examples/ConstrainImagepysssss.md)</sub>
  - <sub>LoadText|pysssss</sub>, <sub>LoraLoader|pysssss</sub>
  - <sub>MathExpression|pysssss</sub>, <sub>MultiPrimitive|pysssss</sub>
  - <sub>PlaySound|pysssss</sub>
@@ -39,7 +39,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
 
-**Stars**: `881` | **Created at**: `2024-06-09`
+**Stars**: `884` | **Created at**: `2024-06-10`
 
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
@@ -50,7 +50,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `758` | **Created at**: `2024-06-09`
+**Stars**: `760` | **Created at**: `2024-06-11`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -61,7 +61,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `444` | **Created at**: `2024-06-09`
+**Stars**: `446` | **Created at**: `2024-06-11`
 
 
 A powerful set of tools for ComfyUI
@@ -96,7 +96,7 @@ An image/video/workflow browser and manager for ComfyUI.
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `375` | **Created at**: `2024-06-09`
+**Stars**: `377` | **Created at**: `2024-06-10`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -107,7 +107,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `349` | **Created at**: `2024-06-09`
+**Stars**: `355` | **Created at**: `2024-06-10`
 
 
 A simple sidebar for your ConfyUI!
