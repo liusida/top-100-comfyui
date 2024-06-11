@@ -1207,10 +1207,10 @@ Make Interpolation State List: 0
 Manga2Anime_LineArt_Preprocessor: 5
 Manual XY Entry Info: 0
 MarigoldDepthEstimation: 4
-MarigoldDepthEstimationVideo: -1
-MarigoldDepthEstimation_v2: -1
-MarigoldDepthEstimation_v2_video: -1
-MarigoldModelLoader: -1
+MarigoldDepthEstimationVideo: 2
+MarigoldDepthEstimation_v2: 2
+MarigoldDepthEstimation_v2_video: 0
+MarigoldModelLoader: 2
 Mask Arbitrary Region: -1
 Mask Batch: -1
 Mask Batch to Mask: -1
