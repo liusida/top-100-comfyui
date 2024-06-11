@@ -1075,10 +1075,10 @@ LatentUpscaler: 0
 'LayerUtility: ColorImage V2': 3
 'LayerUtility: ColorPicker': 3
 'LayerUtility: CreateQRCode': 2
-'LayerUtility: CropBoxResolve': -1
-'LayerUtility: CropByMask': -1
-'LayerUtility: CropByMask V2': -1
-'LayerUtility: DecodeQRCode': -1
+'LayerUtility: CropBoxResolve': 1
+'LayerUtility: CropByMask': 2
+'LayerUtility: CropByMask V2': 1
+'LayerUtility: DecodeQRCode': 2
 'LayerUtility: ExtendCanvas': -1
 'LayerUtility: ExtendCanvasV2': -1
 'LayerUtility: Float': -1
