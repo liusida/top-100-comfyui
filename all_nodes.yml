@@ -959,10 +959,10 @@ JoinStrings: 1
 JoinWithDelimiter: 0
 KSampler: 74
 KSampler (Efficient): 68
-KSampler (WAS): -1
-KSampler Adv. (Efficient): -1
-KSampler Cycle: -1
-KSampler Gradually Adding More Denoise (efficient): -1
+KSampler (WAS): 4
+KSampler Adv. (Efficient): 39
+KSampler Cycle: 0
+KSampler Gradually Adding More Denoise (efficient): 0
 KSampler SDXL (Eff.): -1
 KSamplerAdvanced: -1
 KSamplerAdvancedProvider: -1
