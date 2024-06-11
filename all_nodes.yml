@@ -939,10 +939,10 @@ InstantIDFaceAnalysis: 59
 InstantIDModelLoader: 60
 InstantObjectMotionBrush: 1
 InstructPixToPixConditioning: 36
-Int To Bool (mtb): -1
-Int To Number (mtb): -1
-IntNumber: -1
-Integer place counter: -1
+Int To Bool (mtb): 0
+Int To Number (mtb): 4
+IntNumber: 6
+Integer place counter: 0
 Interpolate Clip Sequential (mtb): -1
 InterpolateCoords: -1
 Intrinsic_lora_sampling: -1
