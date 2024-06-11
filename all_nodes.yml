@@ -835,10 +835,10 @@ ImagePadForOutpaint: 55
 ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
 ImagePass: 0
-ImageQuantize: -1
-ImageRGBA2RGB: -1
-ImageReceiver: -1
-ImageResizeKJ: -1
+ImageQuantize: 2
+ImageRGBA2RGB: 1
+ImageReceiver: 16
+ImageResizeKJ: 4
 ImageResize_Padding: -1
 ImageScale: -1
 ImageScaleBy: -1
