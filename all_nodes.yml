@@ -915,10 +915,10 @@ ImpactSchedulerAdapter: 0
 ImpactSegsAndMask: 2
 ImpactSegsAndMaskForEach: 0
 ImpactSetWidgetValue: 0
-ImpactSimpleDetectorSEGS: -1
-ImpactSimpleDetectorSEGSPipe: -1
-ImpactSimpleDetectorSEGS_for_AD: -1
-ImpactSleep: -1
+ImpactSimpleDetectorSEGS: 28
+ImpactSimpleDetectorSEGSPipe: 13
+ImpactSimpleDetectorSEGS_for_AD: 24
+ImpactSleep: 0
 ImpactStringSelector: -1
 ImpactSwitch: -1
 ImpactValueReceiver: -1
