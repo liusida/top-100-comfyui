@@ -991,10 +991,10 @@ LatentKeyframe: 6
 LatentKeyframeBatchedGroup: 1
 LatentKeyframeGroup: 1
 LatentKeyframeTiming: 11
-LatentMultiply: -1
-LatentPixelScale: -1
-LatentReceiver: -1
-LatentRotate: -1
+LatentMultiply: 0
+LatentPixelScale: 2
+LatentReceiver: 2
+LatentRotate: 0
 LatentSender: -1
 LatentSubtract: -1
 LatentSwitch: -1
