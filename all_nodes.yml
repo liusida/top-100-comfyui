@@ -1039,10 +1039,10 @@ LatentUpscaler: 0
 'LayerMask: MaskGradient': 5
 'LayerMask: MaskGrow': 2
 'LayerMask: MaskInvert': 3
-'LayerMask: MaskMotionBlur': -1
-'LayerMask: MaskPreview': -1
-'LayerMask: MaskStroke': -1
-'LayerMask: MediapipeFacialSegment': -1
+'LayerMask: MaskMotionBlur': 1
+'LayerMask: MaskPreview': 30
+'LayerMask: MaskStroke': 1
+'LayerMask: MediapipeFacialSegment': 0
 'LayerMask: PersonMaskUltra': -1
 'LayerMask: PersonMaskUltra V2': -1
 'LayerMask: PixelSpread': -1
