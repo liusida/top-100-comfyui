@@ -811,10 +811,10 @@ ImageBatchTestPattern: 0
 ImageBlend: 53
 ImageBlur: 7
 ImageColorToMask: 8
-ImageColorTransfer: -1
-ImageCompositeMasked: -1
-ImageConcanate: -1
-ImageCrop: -1
+ImageColorTransfer: 0
+ImageCompositeMasked: 77
+ImageConcanate: 14
+ImageCrop: 49
 ImageCropByAlpha: -1
 ImageFromBatch: -1
 ImageGenResolutionFromImage: -1
