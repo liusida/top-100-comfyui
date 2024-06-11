@@ -791,10 +791,10 @@ Image Select Channel: 0
 Image Select Color: 0
 Image Shadows and Highlights: 2
 Image Size to Number: 3
-Image Stitch: -1
-Image Style Filter: -1
-Image Threshold: -1
-Image Tile Offset (mtb): -1
+Image Stitch: 5
+Image Style Filter: 10
+Image Threshold: 2
+Image Tile Offset (mtb): 3
 Image Tiled: -1
 Image Transpose: -1
 Image Voronoi Noise Filter: -1
