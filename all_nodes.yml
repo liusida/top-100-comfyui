@@ -823,10 +823,10 @@ ImageGrabPIL: 0
 ImageGridComposite2x2: 0
 ImageGridComposite3x3: 0
 ImageIntensityDetector: 0
-ImageInvert: -1
-ImageListReplace_: -1
-ImageListToImageBatch: -1
-ImageLuminanceDetector: -1
+ImageInvert: 73
+ImageListReplace_: 0
+ImageListToImageBatch: 37
+ImageLuminanceDetector: 0
 ImageMaskSwitch: -1
 ImageNormalize_Neg1_To_1: -1
 ImageOnlyCheckpointLoader: -1
