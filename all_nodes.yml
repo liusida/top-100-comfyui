@@ -891,10 +891,10 @@ ImpactKSamplerBasicPipe: 14
 ImpactLatentInfo: 1
 ImpactLogger: 0
 ImpactLogicalOperators: 0
-ImpactMakeImageBatch: -1
-ImpactMakeImageList: -1
-ImpactMakeTileSEGS: -1
-ImpactMinMax: -1
+ImpactMakeImageBatch: 24
+ImpactMakeImageList: 5
+ImpactMakeTileSEGS: 3
+ImpactMinMax: 12
 ImpactNeg: -1
 ImpactNodeSetMuteState: -1
 ImpactQueueTrigger: -1
