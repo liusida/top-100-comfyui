@@ -1179,10 +1179,10 @@ LoadText|pysssss: 0
 LoadTripoSRModel_: 0
 LoadVideo: 4
 LoadVideoAndSegment_: 0
-LoadWebcamImage: -1
-Logic Boolean: -1
-Logic Boolean Primitive: -1
-Logic Comparison AND: -1
+LoadWebcamImage: 0
+Logic Boolean: 17
+Logic Boolean Primitive: 6
+Logic Comparison AND: 1
 Logic Comparison OR: -1
 Logic Comparison XOR: -1
 Logic NOT: -1
