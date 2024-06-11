@@ -1047,10 +1047,10 @@ LatentUpscaler: 0
 'LayerMask: PersonMaskUltra V2': 4
 'LayerMask: PixelSpread': 5
 'LayerMask: RemBgUltra': 16
-'LayerMask: RmBgUltra V2': -1
-'LayerMask: SegformerB2ClothesUltra': -1
-'LayerMask: SegmentAnythingUltra': -1
-'LayerMask: SegmentAnythingUltra V2': -1
+'LayerMask: RmBgUltra V2': 3
+'LayerMask: SegformerB2ClothesUltra': 1
+'LayerMask: SegmentAnythingUltra': 13
+'LayerMask: SegmentAnythingUltra V2': 6
 'LayerMask: Shadow & Highlight Mask': -1
 'LayerMask: YoloV8Detect': -1
 'LayerStyle: ColorOverlay': -1
