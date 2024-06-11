@@ -779,10 +779,10 @@ Image Rembg (Remove Background): 37
 Image Remove Background (Alpha): 2
 Image Remove Background Rembg (mtb): 14
 Image Remove Color: 0
-Image Resize: -1
-Image Resize Factor (mtb): -1
-Image Rotate: -1
-Image Rotate Hue: -1
+Image Resize: 15
+Image Resize Factor (mtb): 0
+Image Rotate: 3
+Image Rotate Hue: 6
 Image SSAO (Ambient Occlusion): -1
 Image SSDO (Direct Occlusion): -1
 Image Save: -1
