@@ -703,10 +703,10 @@ INPAINT_VAEEncodeInpaintConditioning: 15
 INTConstant: 28
 IPAAdapterFaceIDBatch: 0
 IPAdapter: 5
-IPAdapterAdvanced: -1
-IPAdapterBatch: -1
-IPAdapterCombineEmbeds: -1
-IPAdapterCombineParams: -1
+IPAdapterAdvanced: 100
+IPAdapterBatch: 22
+IPAdapterCombineEmbeds: 18
+IPAdapterCombineParams: 4
 IPAdapterCombineWeights: -1
 IPAdapterEmbeds: -1
 IPAdapterEmbedsBatch: -1
