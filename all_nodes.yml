@@ -1051,10 +1051,10 @@ LatentUpscaler: 0
 'LayerMask: SegformerB2ClothesUltra': 1
 'LayerMask: SegmentAnythingUltra': 13
 'LayerMask: SegmentAnythingUltra V2': 6
-'LayerMask: Shadow & Highlight Mask': -1
-'LayerMask: YoloV8Detect': -1
-'LayerStyle: ColorOverlay': -1
-'LayerStyle: ColorOverlay V2': -1
+'LayerMask: Shadow & Highlight Mask': 1
+'LayerMask: YoloV8Detect': 1
+'LayerStyle: ColorOverlay': 2
+'LayerStyle: ColorOverlay V2': 1
 'LayerStyle: DropShadow': -1
 'LayerStyle: DropShadow V2': -1
 'LayerStyle: GradientOverlay': -1
