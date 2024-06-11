@@ -1091,10 +1091,10 @@ LatentUpscaler: 0
 'LayerUtility: ImageAutoCrop V2': 0
 'LayerUtility: ImageBlend': 11
 'LayerUtility: ImageBlend V2': 3
-'LayerUtility: ImageBlendAdvance': -1
-'LayerUtility: ImageBlendAdvance V2': -1
-'LayerUtility: ImageChannelMerge': -1
-'LayerUtility: ImageChannelSplit': -1
+'LayerUtility: ImageBlendAdvance': 15
+'LayerUtility: ImageBlendAdvance V2': 2
+'LayerUtility: ImageChannelMerge': 1
+'LayerUtility: ImageChannelSplit': 1
 'LayerUtility: ImageCombineAlpha': -1
 'LayerUtility: ImageHub': -1
 'LayerUtility: ImageMaskScaleAs': -1
