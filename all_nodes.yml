@@ -1099,10 +1099,10 @@ LatentUpscaler: 0
 'LayerUtility: ImageHub': 2
 'LayerUtility: ImageMaskScaleAs': 5
 'LayerUtility: ImageOpacity': 1
-'LayerUtility: ImageRemoveAlpha': -1
-'LayerUtility: ImageRewardFilter': -1
-'LayerUtility: ImageScaleByAspectRatio': -1
-'LayerUtility: ImageScaleByAspectRatio V2': -1
+'LayerUtility: ImageRemoveAlpha': 4
+'LayerUtility: ImageRewardFilter': 2
+'LayerUtility: ImageScaleByAspectRatio': 0
+'LayerUtility: ImageScaleByAspectRatio V2': 1
 'LayerUtility: ImageScaleRestore': -1
 'LayerUtility: ImageScaleRestore V2': -1
 'LayerUtility: ImageShift': -1
