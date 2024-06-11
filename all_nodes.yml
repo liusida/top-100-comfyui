@@ -767,10 +767,10 @@ Image Monitor Effects Filter: 2
 Image Nova Filter: 0
 Image Overlay: 10
 Image Padding: 11
-Image Paste Crop: -1
-Image Paste Crop by Location: -1
-Image Paste Face: -1
-Image Perlin Noise: -1
+Image Paste Crop: 0
+Image Paste Crop by Location: 3
+Image Paste Face: 3
+Image Perlin Noise: 8
 Image Perlin Power Fractal: -1
 Image Pixelate: -1
 Image Power Noise: -1
