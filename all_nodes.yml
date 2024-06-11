@@ -1095,10 +1095,10 @@ LatentUpscaler: 0
 'LayerUtility: ImageBlendAdvance V2': 2
 'LayerUtility: ImageChannelMerge': 1
 'LayerUtility: ImageChannelSplit': 1
-'LayerUtility: ImageCombineAlpha': -1
-'LayerUtility: ImageHub': -1
-'LayerUtility: ImageMaskScaleAs': -1
-'LayerUtility: ImageOpacity': -1
+'LayerUtility: ImageCombineAlpha': 3
+'LayerUtility: ImageHub': 2
+'LayerUtility: ImageMaskScaleAs': 5
+'LayerUtility: ImageOpacity': 1
 'LayerUtility: ImageRemoveAlpha': -1
 'LayerUtility: ImageRewardFilter': -1
 'LayerUtility: ImageScaleByAspectRatio': -1
