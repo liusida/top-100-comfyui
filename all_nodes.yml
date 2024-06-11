@@ -727,10 +727,10 @@ IPAdapterTiled: 12
 IPAdapterTiledBatch: 3
 IPAdapterUnifiedLoader: 89
 IPAdapterUnifiedLoaderCommunity: 0
-IPAdapterUnifiedLoaderFaceID: -1
-IPAdapterWeights: -1
-IPAdapterWeightsFromStrategy: -1
-Image Analyze: -1
+IPAdapterUnifiedLoaderFaceID: 39
+IPAdapterWeights: 7
+IPAdapterWeightsFromStrategy: 1
+Image Analyze: 0
 Image Aspect Ratio: -1
 Image Batch: -1
 Image Blank: -1
