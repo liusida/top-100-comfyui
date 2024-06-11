@@ -775,10 +775,10 @@ Image Perlin Power Fractal: 4
 Image Pixelate: 4
 Image Power Noise: 4
 Image Premultiply (mtb): 0
-Image Rembg (Remove Background): -1
-Image Remove Background (Alpha): -1
-Image Remove Background Rembg (mtb): -1
-Image Remove Color: -1
+Image Rembg (Remove Background): 37
+Image Remove Background (Alpha): 2
+Image Remove Background Rembg (mtb): 14
+Image Remove Color: 0
 Image Resize: -1
 Image Resize Factor (mtb): -1
 Image Rotate: -1
