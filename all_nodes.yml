@@ -863,10 +863,10 @@ ImpactConditionalBranchSelMode: 0
 ImpactConditionalStopIteration: 12
 ImpactControlBridge: 0
 ImpactControlNetApplyAdvancedSEGS: 0
-ImpactControlNetApplySEGS: -1
-ImpactControlNetClearSEGS: -1
-ImpactConvertDataType: -1
-ImpactDecomposeSEGS: -1
+ImpactControlNetApplySEGS: 12
+ImpactControlNetClearSEGS: 0
+ImpactConvertDataType: 0
+ImpactDecomposeSEGS: 4
 ImpactDilateMask: -1
 ImpactDilateMaskInSEGS: -1
 ImpactDilate_Mask_SEG_ELT: -1
