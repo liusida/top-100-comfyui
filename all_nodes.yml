@@ -1103,10 +1103,10 @@ LatentUpscaler: 0
 'LayerUtility: ImageRewardFilter': 2
 'LayerUtility: ImageScaleByAspectRatio': 0
 'LayerUtility: ImageScaleByAspectRatio V2': 1
-'LayerUtility: ImageScaleRestore': -1
-'LayerUtility: ImageScaleRestore V2': -1
-'LayerUtility: ImageShift': -1
-'LayerUtility: Integer': -1
+'LayerUtility: ImageScaleRestore': 4
+'LayerUtility: ImageScaleRestore V2': 1
+'LayerUtility: ImageShift': 1
+'LayerUtility: Integer': 2
 'LayerUtility: LaMa': -1
 'LayerUtility: LayerImageTransform': -1
 'LayerUtility: LayerMaskTransform': -1
