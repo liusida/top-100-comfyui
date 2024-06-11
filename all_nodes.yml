@@ -843,10 +843,10 @@ ImageResize_Padding: 0
 ImageScale: 70
 ImageScaleBy: 97
 ImageScaleToTotalPixels: 71
-ImageSender: -1
-ImageSharpen: -1
-ImageSizeAndBatchSize: -1
-ImageToMask: -1
+ImageSender: 16
+ImageSharpen: 13
+ImageSizeAndBatchSize: 8
+ImageToMask: 96
 ImageTransformByNormalizedAmplitude: -1
 ImageUpscaleWithModel: -1
 ImageUpscaleWithModelBatched: -1
