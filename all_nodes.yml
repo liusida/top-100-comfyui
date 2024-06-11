@@ -711,10 +711,10 @@ IPAdapterCombineWeights: 0
 IPAdapterEmbeds: 18
 IPAdapterEmbedsBatch: 4
 IPAdapterEncoder: 57
-IPAdapterFaceID: -1
-IPAdapterFromParams: -1
-IPAdapterInsightFaceLoader: -1
-IPAdapterLoadEmbeds: -1
+IPAdapterFaceID: 51
+IPAdapterFromParams: 4
+IPAdapterInsightFaceLoader: 23
+IPAdapterLoadEmbeds: 0
 IPAdapterMS: -1
 IPAdapterModelLoader: -1
 IPAdapterNoise: -1
