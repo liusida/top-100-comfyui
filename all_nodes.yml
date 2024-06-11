@@ -971,10 +971,10 @@ KSamplerSelect: 80
 KarrasScheduler: 1
 LM_Studio: 4
 Latent Batch: 0
-Latent Input Switch: -1
-Latent Lerp (mtb): -1
-Latent Noise Injection: -1
-Latent Size to Number: -1
+Latent Input Switch: 0
+Latent Lerp (mtb): 0
+Latent Noise Injection: 2
+Latent Size to Number: 0
 Latent Upscale by Factor (WAS): -1
 LatentAdd: -1
 LatentBatch: -1
