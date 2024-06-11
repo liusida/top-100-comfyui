@@ -1019,10 +1019,10 @@ LatentUpscaler: 0
 'LayerFilter: ChannelShake': 1
 'LayerFilter: ColorMap': 1
 'LayerFilter: Film': 1
-'LayerFilter: GaussianBlur': -1
-'LayerFilter: HDREffects': -1
-'LayerFilter: LightLeak': -1
-'LayerFilter: MotionBlur': -1
+'LayerFilter: GaussianBlur': 1
+'LayerFilter: HDREffects': 4
+'LayerFilter: LightLeak': 1
+'LayerFilter: MotionBlur': 1
 'LayerFilter: Sharp & Soft': -1
 'LayerFilter: SkinBeauty': -1
 'LayerFilter: SoftLight': -1
