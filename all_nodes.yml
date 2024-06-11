@@ -1215,10 +1215,10 @@ Mask Arbitrary Region: 0
 Mask Batch: 0
 Mask Batch to Mask: 0
 Mask Ceiling Region: 0
-Mask Crop Dominant Region: -1
-Mask Crop Minority Region: -1
-Mask Crop Region: -1
-Mask Dilate Region: -1
+Mask Crop Dominant Region: 0
+Mask Crop Minority Region: 0
+Mask Crop Region: 5
+Mask Dilate Region: 0
 Mask Dominant Region: -1
 Mask Erode Region: -1
 Mask Fill Holes: -1
