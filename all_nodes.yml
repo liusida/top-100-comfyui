@@ -875,10 +875,10 @@ ImpactEdit_SEG_ELT: 4
 ImpactFloat: 3
 ImpactFrom_SEG_ELT: 4
 ImpactFrom_SEG_ELT_bbox: 0
-ImpactFrom_SEG_ELT_crop_region: -1
-ImpactGaussianBlurMask: -1
-ImpactGaussianBlurMaskInSEGS: -1
-ImpactHFTransformersClassifierProvider: -1
+ImpactFrom_SEG_ELT_crop_region: 1
+ImpactGaussianBlurMask: 14
+ImpactGaussianBlurMaskInSEGS: 0
+ImpactHFTransformersClassifierProvider: 0
 ImpactIPAdapterApplySEGS: -1
 ImpactIfNone: -1
 ImpactImageBatchToImageList: -1
