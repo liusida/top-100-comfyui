@@ -1071,10 +1071,10 @@ LatentUpscaler: 0
 'LayerUtility: BatchSelector': 1
 'LayerUtility: Boolean': 1
 'LayerUtility: BooleanOperator': 2
-'LayerUtility: ColorImage': -1
-'LayerUtility: ColorImage V2': -1
-'LayerUtility: ColorPicker': -1
-'LayerUtility: CreateQRCode': -1
+'LayerUtility: ColorImage': 1
+'LayerUtility: ColorImage V2': 3
+'LayerUtility: ColorPicker': 3
+'LayerUtility: CreateQRCode': 2
 'LayerUtility: CropBoxResolve': -1
 'LayerUtility: CropByMask': -1
 'LayerUtility: CropByMask V2': -1
