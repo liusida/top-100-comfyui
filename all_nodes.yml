@@ -1123,10 +1123,10 @@ LatentUpscaler: 0
 'LayerUtility: Seed': 1
 'LayerUtility: ShowBlindWaterMark': 2
 'LayerUtility: SimpleTextImage': 5
-'LayerUtility: TextBox': -1
-'LayerUtility: TextImage': -1
-'LayerUtility: TextJoin': -1
-'LayerUtility: XY to Percent': -1
+'LayerUtility: TextBox': 1
+'LayerUtility: TextImage': 6
+'LayerUtility: TextJoin': 1
+'LayerUtility: XY to Percent': 3
 LayeredDiffusionApply: -1
 LayeredDiffusionCondApply: -1
 LayeredDiffusionCondJointApply: -1
