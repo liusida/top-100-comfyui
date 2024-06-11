@@ -1079,10 +1079,10 @@ LatentUpscaler: 0
 'LayerUtility: CropByMask': 2
 'LayerUtility: CropByMask V2': 1
 'LayerUtility: DecodeQRCode': 2
-'LayerUtility: ExtendCanvas': -1
-'LayerUtility: ExtendCanvasV2': -1
-'LayerUtility: Float': -1
-'LayerUtility: GetColorTone': -1
+'LayerUtility: ExtendCanvas': 2
+'LayerUtility: ExtendCanvasV2': 1
+'LayerUtility: Float': 2
+'LayerUtility: GetColorTone': 1
 'LayerUtility: GetColorToneV2': -1
 'LayerUtility: GetImageSize': -1
 'LayerUtility: GradientImage': -1
