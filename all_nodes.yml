@@ -763,10 +763,10 @@ Image Load: 0
 Image Lucy Sharpen: 7
 Image Median Filter: 0
 Image Mix RGB Channels: 0
-Image Monitor Effects Filter: -1
-Image Nova Filter: -1
-Image Overlay: -1
-Image Padding: -1
+Image Monitor Effects Filter: 2
+Image Nova Filter: 0
+Image Overlay: 10
+Image Padding: 11
 Image Paste Crop: -1
 Image Paste Crop by Location: -1
 Image Paste Face: -1
