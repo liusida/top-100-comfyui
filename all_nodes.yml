@@ -1199,10 +1199,10 @@ LoraPrompt: 0
 M-LSDPreprocessor: 44
 M2M VFI: 2
 MMDetDetectorProvider: 34
-MMDetLoader: -1
-MagicClothing_Animatediff: -1
-MagicClothing_Generate: -1
-MagicClothing_Inpainting: -1
+MMDetLoader: 2
+MagicClothing_Animatediff: 2
+MagicClothing_Generate: 11
+MagicClothing_Inpainting: 2
 Make Interpolation State List: -1
 Manga2Anime_LineArt_Preprocessor: -1
 Manual XY Entry Info: -1
