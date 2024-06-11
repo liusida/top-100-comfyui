@@ -1167,10 +1167,10 @@ LoadAndResizeImage: 0
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
-LoadImageMask: -1
-LoadImagesFromDirectory: -1
-LoadImagesFromPath: -1
-LoadImagesFromURL: -1
+LoadImageMask: 72
+LoadImagesFromDirectory: 2
+LoadImagesFromPath: 4
+LoadImagesFromURL: 4
 LoadImagesToBatch: -1
 LoadLatent: -1
 LoadResAdapterNormalization: -1
