@@ -979,10 +979,10 @@ Latent Upscale by Factor (WAS): 15
 LatentAdd: 1
 LatentBatch: 3
 LatentBatchSeedBehavior: 4
-LatentBlend: -1
-LatentComposite: -1
-LatentCompositeMasked: -1
-LatentCrop: -1
+LatentBlend: 4
+LatentComposite: 18
+LatentCompositeMasked: 10
+LatentCrop: 1
 LatentDelay: -1
 LatentFlip: -1
 LatentFromBatch: -1
