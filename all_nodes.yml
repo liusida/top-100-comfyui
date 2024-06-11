@@ -1011,10 +1011,10 @@ LatentUpscaler: 0
 'LayerColor: Exposure': 3
 'LayerColor: Gamma': 3
 'LayerColor: HSV': 6
-'LayerColor: LAB': -1
-'LayerColor: LUT Apply': -1
-'LayerColor: Levels': -1
-'LayerColor: RGB': -1
+'LayerColor: LAB': 3
+'LayerColor: LUT Apply': 3
+'LayerColor: Levels': 1
+'LayerColor: RGB': 5
 'LayerColor: YUV': -1
 'LayerFilter: ChannelShake': -1
 'LayerFilter: ColorMap': -1
