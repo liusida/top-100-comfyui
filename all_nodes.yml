@@ -1151,10 +1151,10 @@ Load Face Enhance Model (mtb): 3
 Load Face Swap Model (mtb): 6
 Load Film Model (mtb): 3
 Load Image Batch: 11
-Load Image From Url (mtb): -1
-Load Image Sequence (mtb): -1
-Load Lora: -1
-Load MotionBrush From Optical Flow: -1
+Load Image From Url (mtb): 3
+Load Image Sequence (mtb): 0
+Load Lora: 1
+Load MotionBrush From Optical Flow: 0
 Load MotionBrush From Optical Flow Directory: -1
 Load MotionBrush From Optical Flow Without Model: -1
 Load MotionBrush From Tracking Points: -1
