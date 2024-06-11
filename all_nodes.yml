@@ -1211,10 +1211,10 @@ MarigoldDepthEstimationVideo: 2
 MarigoldDepthEstimation_v2: 2
 MarigoldDepthEstimation_v2_video: 0
 MarigoldModelLoader: 2
-Mask Arbitrary Region: -1
-Mask Batch: -1
-Mask Batch to Mask: -1
-Mask Ceiling Region: -1
+Mask Arbitrary Region: 0
+Mask Batch: 0
+Mask Batch to Mask: 0
+Mask Ceiling Region: 0
 Mask Crop Dominant Region: -1
 Mask Crop Minority Region: -1
 Mask Crop Region: -1
