@@ -951,10 +951,10 @@ InvertMask (segment anything): 5
 Ipadapter_instantidLoader: 13
 IsMaskEmpty: 1
 IterativeImageUpscale: 9
-IterativeLatentUpscale: -1
-Join XY Inputs of Same Type: -1
-JoinImageWithAlpha: -1
-JoinStringMulti: -1
+IterativeLatentUpscale: 14
+Join XY Inputs of Same Type: 0
+JoinImageWithAlpha: 21
+JoinStringMulti: 0
 JoinStrings: -1
 JoinWithDelimiter: -1
 KSampler: -1
