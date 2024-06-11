@@ -1183,10 +1183,10 @@ LoadWebcamImage: 0
 Logic Boolean: 17
 Logic Boolean Primitive: 6
 Logic Comparison AND: 1
-Logic Comparison OR: -1
-Logic Comparison XOR: -1
-Logic NOT: -1
-Loop: -1
+Logic Comparison OR: 0
+Logic Comparison XOR: 0
+Logic NOT: 0
+Loop: 1
 LoopEnd_IMAGE: -1
 LoopStart_IMAGE: -1
 Lora Input Switch: -1
