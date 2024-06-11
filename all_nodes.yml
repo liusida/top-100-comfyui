@@ -699,10 +699,10 @@ INPAINT_LoadFooocusInpaint: 20
 INPAINT_LoadInpaintModel: 7
 INPAINT_MaskedBlur: 11
 INPAINT_MaskedFill: 11
-INPAINT_VAEEncodeInpaintConditioning: -1
-INTConstant: -1
-IPAAdapterFaceIDBatch: -1
-IPAdapter: -1
+INPAINT_VAEEncodeInpaintConditioning: 15
+INTConstant: 28
+IPAAdapterFaceIDBatch: 0
+IPAdapter: 5
 IPAdapterAdvanced: -1
 IPAdapterBatch: -1
 IPAdapterCombineEmbeds: -1
