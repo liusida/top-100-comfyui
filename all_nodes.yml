@@ -1035,10 +1035,10 @@ LatentUpscaler: 0
 'LayerMask: MaskByDifferent': 1
 'LayerMask: MaskEdgeShrink': 1
 'LayerMask: MaskEdgeUltraDetail': 2
-'LayerMask: MaskEdgeUltraDetail V2': -1
-'LayerMask: MaskGradient': -1
-'LayerMask: MaskGrow': -1
-'LayerMask: MaskInvert': -1
+'LayerMask: MaskEdgeUltraDetail V2': 4
+'LayerMask: MaskGradient': 5
+'LayerMask: MaskGrow': 2
+'LayerMask: MaskInvert': 3
 'LayerMask: MaskMotionBlur': -1
 'LayerMask: MaskPreview': -1
 'LayerMask: MaskStroke': -1
