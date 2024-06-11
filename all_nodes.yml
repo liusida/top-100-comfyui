@@ -975,10 +975,10 @@ Latent Input Switch: 0
 Latent Lerp (mtb): 0
 Latent Noise Injection: 2
 Latent Size to Number: 0
-Latent Upscale by Factor (WAS): -1
-LatentAdd: -1
-LatentBatch: -1
-LatentBatchSeedBehavior: -1
+Latent Upscale by Factor (WAS): 15
+LatentAdd: 1
+LatentBatch: 3
+LatentBatchSeedBehavior: 4
 LatentBlend: -1
 LatentComposite: -1
 LatentCompositeMasked: -1
