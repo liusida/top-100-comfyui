@@ -1139,10 +1139,10 @@ LeReS-DepthMapPreprocessor: 54
 LightSource: 10
 LimitNumber: 2
 LineArtPreprocessor: 72
-LineartStandardPreprocessor: -1
-ListSplit_: -1
-LoRA Stack to String converter: -1
-LoRA Stacker: -1
+LineartStandardPreprocessor: 12
+ListSplit_: 0
+LoRA Stack to String converter: 0
+LoRA Stacker: 50
 LoRALoader: -1
 Load Cache: -1
 Load CheckPoint DragNUWA: -1
