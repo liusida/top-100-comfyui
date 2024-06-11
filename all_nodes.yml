@@ -751,10 +751,10 @@ Image Displacement Warp: 1
 Image Dragan Photography Filter: 1
 Image Edge Detection Filter: 1
 Image Film Grain: 1
-Image Filter Adjustments: -1
-Image Flip: -1
-Image Generate Gradient: -1
-Image Gradient Map: -1
+Image Filter Adjustments: 18
+Image Flip: 3
+Image Generate Gradient: 4
+Image Gradient Map: 3
 Image High Pass Filter: -1
 Image History Loader: -1
 Image Input Switch: -1
