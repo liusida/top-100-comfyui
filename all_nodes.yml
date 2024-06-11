@@ -1107,10 +1107,10 @@ LatentUpscaler: 0
 'LayerUtility: ImageScaleRestore V2': 1
 'LayerUtility: ImageShift': 1
 'LayerUtility: Integer': 2
-'LayerUtility: LaMa': -1
-'LayerUtility: LayerImageTransform': -1
-'LayerUtility: LayerMaskTransform': -1
-'LayerUtility: LoadPSD': -1
+'LayerUtility: LaMa': 4
+'LayerUtility: LayerImageTransform': 3
+'LayerUtility: LayerMaskTransform': 3
+'LayerUtility: LoadPSD': 1
 'LayerUtility: NumberCalculator': -1
 'LayerUtility: PrintInfo': -1
 'LayerUtility: PromptEmbellish': -1
