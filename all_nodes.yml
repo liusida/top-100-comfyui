@@ -1163,10 +1163,10 @@ Load Pose KeyPoints: 0
 Load Text File: 1
 LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
-LoadAndResizeImage: -1
-LoadHDRImage: -1
-LoadImage: -1
-LoadImageByUrl //Browser: -1
+LoadAndResizeImage: 0
+LoadHDRImage: 0
+LoadImage: 97
+LoadImageByUrl //Browser: 0
 LoadImageMask: -1
 LoadImagesFromDirectory: -1
 LoadImagesFromPath: -1
