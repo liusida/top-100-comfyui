@@ -1023,10 +1023,10 @@ LatentUpscaler: 0
 'LayerFilter: HDREffects': 4
 'LayerFilter: LightLeak': 1
 'LayerFilter: MotionBlur': 1
-'LayerFilter: Sharp & Soft': -1
-'LayerFilter: SkinBeauty': -1
-'LayerFilter: SoftLight': -1
-'LayerFilter: WaterColor': -1
+'LayerFilter: Sharp & Soft': 1
+'LayerFilter: SkinBeauty': 2
+'LayerFilter: SoftLight': 1
+'LayerFilter: WaterColor': 1
 'LayerMask: BiRefNetUltra': -1
 'LayerMask: BlendIf Mask': -1
 'LayerMask: CreateGradientMask': -1
