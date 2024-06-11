@@ -983,10 +983,10 @@ LatentBlend: 4
 LatentComposite: 18
 LatentCompositeMasked: 10
 LatentCrop: 1
-LatentDelay: -1
-LatentFlip: -1
-LatentFromBatch: -1
-LatentInterpolate: -1
+LatentDelay: 0
+LatentFlip: 0
+LatentFromBatch: 17
+LatentInterpolate: 1
 LatentKeyframe: -1
 LatentKeyframeBatchedGroup: -1
 LatentKeyframeGroup: -1
