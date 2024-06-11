@@ -783,10 +783,10 @@ Image Resize: 15
 Image Resize Factor (mtb): 0
 Image Rotate: 3
 Image Rotate Hue: 6
-Image SSAO (Ambient Occlusion): -1
-Image SSDO (Direct Occlusion): -1
-Image Save: -1
-Image Seamless Texture: -1
+Image SSAO (Ambient Occlusion): 0
+Image SSDO (Direct Occlusion): 0
+Image Save: 3
+Image Seamless Texture: 0
 Image Select Channel: -1
 Image Select Color: -1
 Image Shadows and Highlights: -1
