@@ -963,10 +963,10 @@ KSampler (WAS): 4
 KSampler Adv. (Efficient): 39
 KSampler Cycle: 0
 KSampler Gradually Adding More Denoise (efficient): 0
-KSampler SDXL (Eff.): -1
-KSamplerAdvanced: -1
-KSamplerAdvancedProvider: -1
-KSamplerProvider: -1
+KSampler SDXL (Eff.): 12
+KSamplerAdvanced: 95
+KSamplerAdvancedProvider: 25
+KSamplerProvider: 6
 KSamplerSelect: -1
 KarrasScheduler: -1
 LM_Studio: -1
