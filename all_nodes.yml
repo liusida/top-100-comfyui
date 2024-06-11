@@ -735,10 +735,10 @@ Image Aspect Ratio: 0
 Image Batch: 1
 Image Blank: 5
 Image Blend: 0
-Image Blend by Mask: -1
-Image Blending Mode: -1
-Image Bloom Filter: -1
-Image Bounds: -1
+Image Blend by Mask: 9
+Image Blending Mode: 14
+Image Bloom Filter: 8
+Image Bounds: 0
 Image Bounds to Console: -1
 Image Canny Filter: -1
 Image Chromatic Aberration: -1
