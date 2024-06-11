@@ -695,10 +695,10 @@ IF_saveText: 0
 INPAINT_ApplyFooocusInpaint: 19
 INPAINT_DenoiseToCompositingMask: 0
 INPAINT_InpaintWithModel: 7
-INPAINT_LoadFooocusInpaint: -1
-INPAINT_LoadInpaintModel: -1
-INPAINT_MaskedBlur: -1
-INPAINT_MaskedFill: -1
+INPAINT_LoadFooocusInpaint: 20
+INPAINT_LoadInpaintModel: 7
+INPAINT_MaskedBlur: 11
+INPAINT_MaskedFill: 11
 INPAINT_VAEEncodeInpaintConditioning: -1
 INTConstant: -1
 IPAAdapterFaceIDBatch: -1
