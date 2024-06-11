@@ -719,10 +719,10 @@ IPAdapterMS: 0
 IPAdapterModelLoader: 99
 IPAdapterNoise: 16
 IPAdapterPromptScheduleFromWeightsStrategy: 2
-IPAdapterRegionalConditioning: -1
-IPAdapterSaveEmbeds: -1
-IPAdapterStyleComposition: -1
-IPAdapterStyleCompositionBatch: -1
+IPAdapterRegionalConditioning: 4
+IPAdapterSaveEmbeds: 1
+IPAdapterStyleComposition: 10
+IPAdapterStyleCompositionBatch: 0
 IPAdapterTiled: -1
 IPAdapterTiledBatch: -1
 IPAdapterUnifiedLoader: -1
