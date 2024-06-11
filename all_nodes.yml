@@ -1147,10 +1147,10 @@ LoRALoader: 1
 Load Cache: 0
 Load CheckPoint DragNUWA: 7
 Load Face Analysis Model (mtb): 6
-Load Face Enhance Model (mtb): -1
-Load Face Swap Model (mtb): -1
-Load Film Model (mtb): -1
-Load Image Batch: -1
+Load Face Enhance Model (mtb): 3
+Load Face Swap Model (mtb): 6
+Load Film Model (mtb): 3
+Load Image Batch: 11
 Load Image From Url (mtb): -1
 Load Image Sequence (mtb): -1
 Load Lora: -1
