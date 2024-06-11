@@ -1171,10 +1171,10 @@ LoadImageMask: 72
 LoadImagesFromDirectory: 2
 LoadImagesFromPath: 4
 LoadImagesFromURL: 4
-LoadImagesToBatch: -1
-LoadLatent: -1
-LoadResAdapterNormalization: -1
-LoadTXT: -1
+LoadImagesToBatch: 0
+LoadLatent: 0
+LoadResAdapterNormalization: 0
+LoadTXT: 0
 LoadText|pysssss: -1
 LoadTripoSRModel_: -1
 LoadVideo: -1
