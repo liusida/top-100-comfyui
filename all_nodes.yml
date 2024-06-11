@@ -739,10 +739,10 @@ Image Blend by Mask: 9
 Image Blending Mode: 14
 Image Bloom Filter: 8
 Image Bounds: 0
-Image Bounds to Console: -1
-Image Canny Filter: -1
-Image Chromatic Aberration: -1
-Image Color Palette: -1
+Image Bounds to Console: 0
+Image Canny Filter: 15
+Image Chromatic Aberration: 0
+Image Color Palette: 2
 Image Compare (mtb): -1
 Image Crop Face: -1
 Image Crop Location: -1
