@@ -807,10 +807,10 @@ ImageAndMaskPreview: 0
 ImageBatch: 62
 ImageBatchMulti: 4
 ImageBatchRepeatInterleaving: 1
-ImageBatchTestPattern: -1
-ImageBlend: -1
-ImageBlur: -1
-ImageColorToMask: -1
+ImageBatchTestPattern: 0
+ImageBlend: 53
+ImageBlur: 7
+ImageColorToMask: 8
 ImageColorTransfer: -1
 ImageCompositeMasked: -1
 ImageConcanate: -1
