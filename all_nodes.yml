@@ -731,10 +731,10 @@ IPAdapterUnifiedLoaderFaceID: 39
 IPAdapterWeights: 7
 IPAdapterWeightsFromStrategy: 1
 Image Analyze: 0
-Image Aspect Ratio: -1
-Image Batch: -1
-Image Blank: -1
-Image Blend: -1
+Image Aspect Ratio: 0
+Image Batch: 1
+Image Blank: 5
+Image Blend: 0
 Image Blend by Mask: -1
 Image Blending Mode: -1
 Image Bloom Filter: -1
