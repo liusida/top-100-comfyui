@@ -1063,10 +1063,10 @@ LatentUpscaler: 0
 'LayerStyle: InnerGlow V2': 1
 'LayerStyle: InnerShadow': 4
 'LayerStyle: InnerShadow V2': 1
-'LayerStyle: OuterGlow': -1
-'LayerStyle: OuterGlow V2': -1
-'LayerStyle: Stroke': -1
-'LayerStyle: Stroke V2': -1
+'LayerStyle: OuterGlow': 4
+'LayerStyle: OuterGlow V2': 1
+'LayerStyle: Stroke': 3
+'LayerStyle: Stroke V2': 1
 'LayerUtility: AddBlindWaterMark': -1
 'LayerUtility: BatchSelector': -1
 'LayerUtility: Boolean': -1
