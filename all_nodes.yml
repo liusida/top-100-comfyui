@@ -927,10 +927,10 @@ ImpactWildcardEncode: 7
 ImpactWildcardProcessor: 16
 IncrementingListNode_: 0
 InjectNoiseToLatent: 3
-InpaintModelConditioning: -1
-InpaintPreprocessor: -1
-InsertImageBatchByIndexes: -1
-InsertImagesToBatchIndexed: -1
+InpaintModelConditioning: 39
+InpaintPreprocessor: 38
+InsertImageBatchByIndexes: 0
+InsertImagesToBatchIndexed: 0
 Inset Image Bounds: -1
 InsightFaceLoader_Zho: -1
 InstantCameraMotionBrush: -1
