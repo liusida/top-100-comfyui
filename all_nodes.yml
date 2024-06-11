@@ -1087,10 +1087,10 @@ LatentUpscaler: 0
 'LayerUtility: GetImageSize': 7
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
-'LayerUtility: ImageAutoCrop': -1
-'LayerUtility: ImageAutoCrop V2': -1
-'LayerUtility: ImageBlend': -1
-'LayerUtility: ImageBlend V2': -1
+'LayerUtility: ImageAutoCrop': 1
+'LayerUtility: ImageAutoCrop V2': 0
+'LayerUtility: ImageBlend': 11
+'LayerUtility: ImageBlend V2': 3
 'LayerUtility: ImageBlendAdvance': -1
 'LayerUtility: ImageBlendAdvance V2': -1
 'LayerUtility: ImageChannelMerge': -1
