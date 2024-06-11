@@ -847,10 +847,10 @@ ImageSender: 16
 ImageSharpen: 13
 ImageSizeAndBatchSize: 8
 ImageToMask: 96
-ImageTransformByNormalizedAmplitude: -1
-ImageUpscaleWithModel: -1
-ImageUpscaleWithModelBatched: -1
-Image_generation_Conditioning: -1
+ImageTransformByNormalizedAmplitude: 0
+ImageUpscaleWithModel: 97
+ImageUpscaleWithModelBatched: 0
+Image_generation_Conditioning: 0
 Images to Linear: -1
 Images to RGB: -1
 ImagesPrompt_: -1
