@@ -1115,10 +1115,10 @@ LatentUpscaler: 0
 'LayerUtility: PrintInfo': 1
 'LayerUtility: PromptEmbellish': 1
 'LayerUtility: PromptTagger': 3
-'LayerUtility: PurgeVRAM': -1
-'LayerUtility: QWenImage2Prompt': -1
-'LayerUtility: RGB Value': -1
-'LayerUtility: RestoreCropBox': -1
+'LayerUtility: PurgeVRAM': 2
+'LayerUtility: QWenImage2Prompt': 1
+'LayerUtility: RGB Value': 1
+'LayerUtility: RestoreCropBox': 3
 'LayerUtility: SaveImagePlus': -1
 'LayerUtility: Seed': -1
 'LayerUtility: ShowBlindWaterMark': -1
