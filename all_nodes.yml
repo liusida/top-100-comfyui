@@ -723,10 +723,10 @@ IPAdapterRegionalConditioning: 4
 IPAdapterSaveEmbeds: 1
 IPAdapterStyleComposition: 10
 IPAdapterStyleCompositionBatch: 0
-IPAdapterTiled: -1
-IPAdapterTiledBatch: -1
-IPAdapterUnifiedLoader: -1
-IPAdapterUnifiedLoaderCommunity: -1
+IPAdapterTiled: 12
+IPAdapterTiledBatch: 3
+IPAdapterUnifiedLoader: 89
+IPAdapterUnifiedLoaderCommunity: 0
 IPAdapterUnifiedLoaderFaceID: -1
 IPAdapterWeights: -1
 IPAdapterWeightsFromStrategy: -1
