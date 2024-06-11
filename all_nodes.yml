@@ -1219,10 +1219,10 @@ Mask Crop Dominant Region: 0
 Mask Crop Minority Region: 0
 Mask Crop Region: 5
 Mask Dilate Region: 0
-Mask Dominant Region: -1
-Mask Erode Region: -1
-Mask Fill Holes: -1
-Mask Floor Region: -1
+Mask Dominant Region: 3
+Mask Erode Region: 0
+Mask Fill Holes: 4
+Mask Floor Region: 0
 Mask Gaussian Region: -1
 Mask Invert: -1
 Mask Minority Region: -1
