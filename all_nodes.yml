@@ -715,10 +715,10 @@ IPAdapterFaceID: 51
 IPAdapterFromParams: 4
 IPAdapterInsightFaceLoader: 23
 IPAdapterLoadEmbeds: 0
-IPAdapterMS: -1
-IPAdapterModelLoader: -1
-IPAdapterNoise: -1
-IPAdapterPromptScheduleFromWeightsStrategy: -1
+IPAdapterMS: 0
+IPAdapterModelLoader: 99
+IPAdapterNoise: 16
+IPAdapterPromptScheduleFromWeightsStrategy: 2
 IPAdapterRegionalConditioning: -1
 IPAdapterSaveEmbeds: -1
 IPAdapterStyleComposition: -1
