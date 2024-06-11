@@ -1175,10 +1175,10 @@ LoadImagesToBatch: 0
 LoadLatent: 0
 LoadResAdapterNormalization: 0
 LoadTXT: 0
-LoadText|pysssss: -1
-LoadTripoSRModel_: -1
-LoadVideo: -1
-LoadVideoAndSegment_: -1
+LoadText|pysssss: 0
+LoadTripoSRModel_: 0
+LoadVideo: 4
+LoadVideoAndSegment_: 0
 LoadWebcamImage: -1
 Logic Boolean: -1
 Logic Boolean Primitive: -1
