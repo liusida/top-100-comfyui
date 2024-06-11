@@ -955,10 +955,10 @@ IterativeLatentUpscale: 14
 Join XY Inputs of Same Type: 0
 JoinImageWithAlpha: 21
 JoinStringMulti: 0
-JoinStrings: -1
-JoinWithDelimiter: -1
-KSampler: -1
-KSampler (Efficient): -1
+JoinStrings: 1
+JoinWithDelimiter: 0
+KSampler: 74
+KSampler (Efficient): 68
 KSampler (WAS): -1
 KSampler Adv. (Efficient): -1
 KSampler Cycle: -1
