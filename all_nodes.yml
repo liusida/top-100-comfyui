@@ -931,10 +931,10 @@ InpaintModelConditioning: 39
 InpaintPreprocessor: 38
 InsertImageBatchByIndexes: 0
 InsertImagesToBatchIndexed: 0
-Inset Image Bounds: -1
-InsightFaceLoader_Zho: -1
-InstantCameraMotionBrush: -1
-InstantIDAttentionPatch: -1
+Inset Image Bounds: 0
+InsightFaceLoader_Zho: 7
+InstantCameraMotionBrush: 1
+InstantIDAttentionPatch: 0
 InstantIDFaceAnalysis: -1
 InstantIDModelLoader: -1
 InstantObjectMotionBrush: -1
