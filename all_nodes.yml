@@ -911,10 +911,10 @@ ImpactSEGSRangeFilter: 0
 ImpactSEGSToMaskBatch: 1
 ImpactSEGSToMaskList: 7
 ImpactScaleBy_BBOX_SEG_ELT: 0
-ImpactSchedulerAdapter: -1
-ImpactSegsAndMask: -1
-ImpactSegsAndMaskForEach: -1
-ImpactSetWidgetValue: -1
+ImpactSchedulerAdapter: 0
+ImpactSegsAndMask: 2
+ImpactSegsAndMaskForEach: 0
+ImpactSetWidgetValue: 0
 ImpactSimpleDetectorSEGS: -1
 ImpactSimpleDetectorSEGSPipe: -1
 ImpactSimpleDetectorSEGS_for_AD: -1
