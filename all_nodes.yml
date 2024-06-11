@@ -919,10 +919,10 @@ ImpactSimpleDetectorSEGS: 28
 ImpactSimpleDetectorSEGSPipe: 13
 ImpactSimpleDetectorSEGS_for_AD: 24
 ImpactSleep: 0
-ImpactStringSelector: -1
-ImpactSwitch: -1
-ImpactValueReceiver: -1
-ImpactValueSender: -1
+ImpactStringSelector: 0
+ImpactSwitch: 16
+ImpactValueReceiver: 12
+ImpactValueSender: 12
 ImpactWildcardEncode: -1
 ImpactWildcardProcessor: -1
 IncrementingListNode_: -1
