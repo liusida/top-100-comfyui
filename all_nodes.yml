@@ -1431,10 +1431,10 @@ SEGSPreview: 36
 SEGSPreviewCNet: 0
 SEGSRangeFilterDetailerHookProvider: 0
 SEGSSwitch: 0
-SEGSToImageList: -1
-SEGSUpscaler: -1
-SEGSUpscalerPipe: -1
-STMFNet VFI: -1
+SEGSToImageList: 26
+SEGSUpscaler: 0
+SEGSUpscalerPipe: 0
+STMFNet VFI: 7
 SUPIR_Upscale: -1
 SUPIR_conditioner: -1
 SUPIR_decode: -1
