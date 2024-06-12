@@ -1675,10 +1675,10 @@ TextCombine: 0
 TextGeneration: 6
 TextGenerator: 0
 TextImage: 8
-TextInput: -1
-TextInput_: -1
-TextOutput: -1
-TextSplitByDelimiter: -1
+TextInput: 0
+TextInput_: 4
+TextOutput: 0
+TextSplitByDelimiter: 1
 TextToNumber: -1
 ThresholdMask: -1
 TilePreprocessor: -1
