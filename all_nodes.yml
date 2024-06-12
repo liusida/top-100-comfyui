@@ -1391,10 +1391,10 @@ ReencodeLatent: 0
 ReencodeLatentPipe: 2
 Ref_Image_Preprocessing: 11
 RegionalPrompt: 12
-RegionalSampler: -1
-RegionalSamplerAdvanced: -1
-RemapDepth: -1
-RemapImageRange: -1
+RegionalSampler: 12
+RegionalSamplerAdvanced: 0
+RemapDepth: 3
+RemapImageRange: 6
 RemapMaskRange: -1
 RemoveImageFromSEGS: -1
 RemoveNoiseMask: -1
