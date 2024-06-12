@@ -1459,10 +1459,10 @@ SamplerLCMUpscale: 0
 SamplerLMS: 0
 SamplerNames_: 0
 Samples Passthrough (Stat System): 0
-Save Gif (mtb): -1
-Save Image Grid (mtb): -1
-Save Image Sequence (mtb): -1
-Save Tensors (mtb): -1
+Save Gif (mtb): 3
+Save Image Grid (mtb): 0
+Save Image Sequence (mtb): 7
+Save Tensors (mtb): 1
 Save Text File: -1
 SaveAnimatedPNG: -1
 SaveAnimatedWEBP: -1
