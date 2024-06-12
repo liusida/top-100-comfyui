@@ -1491,10 +1491,10 @@ SeargeCheckpointLoader: 15
 SeargeConditionMixing: 35
 SeargeConditioningMuxer2: 26
 SeargeConditioningMuxer5: 28
-SeargeConditioningParameters: -1
-SeargeControlnetAdapterV2: -1
-SeargeControlnetModels: -1
-SeargeCustomAfterUpscaling: -1
+SeargeConditioningParameters: 35
+SeargeControlnetAdapterV2: 35
+SeargeControlnetModels: 35
+SeargeCustomAfterUpscaling: 35
 SeargeCustomAfterVaeDecode: -1
 SeargeCustomPromptMode: -1
 SeargeDebugPrinter: -1
