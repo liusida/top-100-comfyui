@@ -1335,10 +1335,10 @@ PhotoMakerEncode: 3
 PhotoMakerLoader: 3
 PhotoMaker_Generation: 2
 PiDiNetPreprocessor: 37
-Pick From Batch (mtb): -1
-PixelKSampleHookCombine: -1
-PixelKSampleUpscalerProvider: -1
-PixelKSampleUpscalerProviderPipe: -1
+Pick From Batch (mtb): 0
+PixelKSampleHookCombine: 7
+PixelKSampleUpscalerProvider: 13
+PixelKSampleUpscalerProviderPipe: 9
 PixelPerfectResolution: -1
 PixelTiledKSampleUpscalerProvider: -1
 PixelTiledKSampleUpscalerProviderPipe: -1
