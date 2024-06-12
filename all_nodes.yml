@@ -1427,10 +1427,10 @@ SEGSDetailerForAnimateDiff: 25
 SEGSLabelFilterDetailerHookProvider: 0
 SEGSOrderedFilterDetailerHookProvider: 0
 SEGSPaste: 26
-SEGSPreview: -1
-SEGSPreviewCNet: -1
-SEGSRangeFilterDetailerHookProvider: -1
-SEGSSwitch: -1
+SEGSPreview: 36
+SEGSPreviewCNet: 0
+SEGSRangeFilterDetailerHookProvider: 0
+SEGSSwitch: 0
 SEGSToImageList: -1
 SEGSUpscaler: -1
 SEGSUpscalerPipe: -1
