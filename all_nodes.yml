@@ -1559,10 +1559,10 @@ SeargeTextInputV2: 35
 SeargeUpscaleModelLoader: 16
 SeargeUpscaleModels: 35
 SeargeVAELoader: 15
-Seed: -1
-Seed_: -1
-SegmDetectorCombined: -1
-SegmDetectorCombined_v2: -1
+Seed: 5
+Seed_: 0
+SegmDetectorCombined: 0
+SegmDetectorCombined_v2: 7
 SegmDetectorForEach: -1
 SegmDetectorSEGS: -1
 Segs  Mask: -1
