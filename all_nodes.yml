@@ -1703,10 +1703,10 @@ True Random.org Number Generator: 0
 TwoAdvancedSamplersForMask: 13
 TwoSamplersForMask: 4
 TwoSamplersForMaskUpscalerProvider: 2
-TwoSamplersForMaskUpscalerProviderPipe: -1
-UNETLoader: -1
-UNetCrossAttentionMultiply: -1
-UNetSelfAttentionMultiply: -1
+TwoSamplersForMaskUpscalerProviderPipe: 0
+UNETLoader: 37
+UNetCrossAttentionMultiply: 0
+UNetSelfAttentionMultiply: 0
 UNetTemporalAttentionMultiply: -1
 UltimateSDUpscale: -1
 UltimateSDUpscaleNoUpscale: -1
