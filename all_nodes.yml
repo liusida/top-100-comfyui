@@ -1455,10 +1455,10 @@ SamplerDPMPP_2M_SDE: 0
 SamplerDPMPP_3M_SDE: 0
 SamplerDPMPP_SDE: 3
 SamplerEulerAncestral: 0
-SamplerLCMUpscale: -1
-SamplerLMS: -1
-SamplerNames_: -1
-Samples Passthrough (Stat System): -1
+SamplerLCMUpscale: 0
+SamplerLMS: 0
+SamplerNames_: 0
+Samples Passthrough (Stat System): 0
 Save Gif (mtb): -1
 Save Image Grid (mtb): -1
 Save Image Sequence (mtb): -1
