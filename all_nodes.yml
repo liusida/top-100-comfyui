@@ -1515,10 +1515,10 @@ SeargeInput2: 16
 SeargeInput3: 16
 SeargeInput4: 16
 SeargeInput5: 16
-SeargeInput6: -1
-SeargeInput7: -1
-SeargeIntegerConstant: -1
-SeargeIntegerMath: -1
+SeargeInput6: 16
+SeargeInput7: 16
+SeargeIntegerConstant: 19
+SeargeIntegerMath: 10
 SeargeIntegerPair: -1
 SeargeIntegerScaler: -1
 SeargeLatentMuxer3: -1
