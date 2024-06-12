@@ -1755,10 +1755,10 @@ VHS_MergeLatents: 1
 VHS_MergeMasks: 0
 VHS_PruneOutputs: 1
 VHS_SelectEveryNthImage: 0
-VHS_SelectEveryNthLatent: -1
-VHS_SelectEveryNthMask: -1
-VHS_SplitImages: -1
-VHS_SplitLatents: -1
+VHS_SelectEveryNthLatent: 0
+VHS_SelectEveryNthMask: 2
+VHS_SplitImages: 25
+VHS_SplitLatents: 1
 VHS_SplitMasks: -1
 VHS_VAEDecodeBatched: -1
 VHS_VAEEncodeBatched: -1
