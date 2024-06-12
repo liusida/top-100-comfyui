@@ -1735,10 +1735,10 @@ VAEEncodeForInpaint_Frames: 0
 VAEEncodeTiled: 26
 VAELoader: 97
 VAELoaderConsistencyDecoder: 1
-VAESave: -1
-VFI FloatToInt: -1
-VHS_BatchManager: -1
-VHS_DuplicateImages: -1
+VAESave: 0
+VFI FloatToInt: 0
+VHS_BatchManager: 100
+VHS_DuplicateImages: 11
 VHS_DuplicateLatents: -1
 VHS_DuplicateMasks: -1
 VHS_GetImageCount: -1
