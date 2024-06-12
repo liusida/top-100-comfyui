@@ -1591,10 +1591,10 @@ SoundReactive: 0
 SpeechRecognition: 6
 SpeechSynthesis: 6
 SplineEditor: 4
-Split Tracking Points: -1
-SplitBboxes: -1
-SplitImage: -1
-SplitImageChannels: -1
+Split Tracking Points: 1
+SplitBboxes: 0
+SplitImage: 0
+SplitImageChannels: 0
 SplitImageWithAlpha: -1
 SplitLongMask: -1
 SplitSigmas: -1
