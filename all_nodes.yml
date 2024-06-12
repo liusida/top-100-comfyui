@@ -1623,10 +1623,10 @@ StyleModelLoader: 9
 Styles Loader (mtb): 0
 StylesImage_Zho: 3
 SubtractMask: 7
-SubtractMaskForEach: -1
-Superprompt: -1
-SvgImage: -1
-SwitchByIndex: -1
+SubtractMaskForEach: 0
+Superprompt: 0
+SvgImage: 4
+SwitchByIndex: 3
 SystemNotification|pysssss: -1
 TEEDPreprocessor: -1
 TESTNODE_: -1
