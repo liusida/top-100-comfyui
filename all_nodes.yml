@@ -1575,10 +1575,10 @@ SemSegPreprocessor: 25
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
 SetLatentNoiseMask: 86
-Sharpen (mtb): -1
-ShowLayer: -1
-ShowTextForGPT: -1
-ShowText|pysssss: -1
+Sharpen (mtb): 0
+ShowLayer: 4
+ShowTextForGPT: 12
+ShowText|pysssss: 99
 ShufflePreprocessor: -1
 Sleep: -1
 Smart Step (mtb): -1
