@@ -1339,10 +1339,10 @@ Pick From Batch (mtb): 0
 PixelKSampleHookCombine: 7
 PixelKSampleUpscalerProvider: 13
 PixelKSampleUpscalerProviderPipe: 9
-PixelPerfectResolution: -1
-PixelTiledKSampleUpscalerProvider: -1
-PixelTiledKSampleUpscalerProviderPipe: -1
-Planner: -1
+PixelPerfectResolution: 23
+PixelTiledKSampleUpscalerProvider: 2
+PixelTiledKSampleUpscalerProviderPipe: 2
+Planner: 1
 PlaySound|pysssss: -1
 PlotCoordinates: -1
 PolyexponentialScheduler: -1
