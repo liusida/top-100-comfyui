@@ -1359,10 +1359,10 @@ PreviewBridgeLatent: 0
 PreviewDetailerHookProvider: 0
 PreviewImage: 98
 PreviewMask_: 0
-PreviewTextNode: -1
-Prompt Multiple Styles Selector: -1
-Prompt Styles Selector: -1
-PromptImage: -1
+PreviewTextNode: 19
+Prompt Multiple Styles Selector: 0
+Prompt Styles Selector: 0
+PromptImage: 2
 PromptSimplification: -1
 PromptSlide: -1
 Prompt_Styler: -1
