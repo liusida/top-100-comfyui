@@ -1379,10 +1379,10 @@ ReActorBuildFaceModel: 4
 ReActorFaceSwap: 95
 ReActorFaceSwapOpt: 4
 ReActorImageDublicator: 0
-ReActorLoadFaceModel: -1
-ReActorMakeFaceModelBatch: -1
-ReActorMaskHelper: -1
-ReActorOptions: -1
+ReActorLoadFaceModel: 28
+ReActorMakeFaceModelBatch: 0
+ReActorMaskHelper: 1
+ReActorOptions: 4
 ReActorRestoreFace: -1
 ReActorSaveFaceModel: -1
 RebatchImages: -1
