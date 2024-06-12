@@ -1615,10 +1615,10 @@ StringConstant: 6
 StringConstantMultiline: 4
 StringFunction|pysssss: 35
 StringListToString: 4
-StyleAlignedBatchAlign_: -1
-StyleAlignedReferenceSampler_: -1
-StyleAlignedSampleReferenceLatents_: -1
-StyleModelApply: -1
+StyleAlignedBatchAlign_: 0
+StyleAlignedReferenceSampler_: 0
+StyleAlignedSampleReferenceLatents_: 0
+StyleModelApply: 9
 StyleModelLoader: -1
 Styles Loader (mtb): -1
 StylesImage_Zho: -1
