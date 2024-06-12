@@ -1567,10 +1567,10 @@ SegmDetectorForEach: 0
 SegmDetectorSEGS: 21
 Segs  Mask: 0
 Segs  Mask ForEach: 0
-SegsMaskCombine: -1
-SegsToCombinedMask: -1
-SelectInputs //Browser: -1
-SelfAttentionGuidance: -1
+SegsMaskCombine: 1
+SegsToCombinedMask: 21
+SelectInputs //Browser: 1
+SelfAttentionGuidance: 38
 SemSegPreprocessor: -1
 Sepconv VFI: -1
 SetDefaultImageForSEGS: -1
