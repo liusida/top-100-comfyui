@@ -1375,10 +1375,10 @@ RIFE VFI: 98
 Random Number: 7
 RandomNoise: 46
 RandomPrompt: 4
-ReActorBuildFaceModel: -1
-ReActorFaceSwap: -1
-ReActorFaceSwapOpt: -1
-ReActorImageDublicator: -1
+ReActorBuildFaceModel: 4
+ReActorFaceSwap: 95
+ReActorFaceSwapOpt: 4
+ReActorImageDublicator: 0
 ReActorLoadFaceModel: -1
 ReActorMakeFaceModelBatch: -1
 ReActorMaskHelper: -1
