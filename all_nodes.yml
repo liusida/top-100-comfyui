@@ -1299,10 +1299,10 @@ NormalizedAmplitudeToFloatList: 0
 NormalizedAmplitudeToMask: 0
 Number Counter: 1
 Number Input Condition: 0
-Number Input Switch: -1
-Number Multiple Of: -1
-Number Operation: -1
-Number PI: -1
+Number Input Switch: 0
+Number Multiple Of: 0
+Number Operation: 5
+Number PI: 0
 Number to Float: -1
 Number to Int: -1
 Number to Seed: -1
