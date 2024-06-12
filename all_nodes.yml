@@ -1711,10 +1711,10 @@ UNetTemporalAttentionMultiply: 0
 UltimateSDUpscale: 93
 UltimateSDUpscaleNoUpscale: 4
 UltralyticsDetectorProvider: 100
-Uncrop (mtb): -1
-UniFormer-SemSegPreprocessor: -1
-Unimatch_OptFlowPreprocessor: -1
-Unpack SDXL Tuple: -1
+Uncrop (mtb): 0
+UniFormer-SemSegPreprocessor: 15
+Unimatch_OptFlowPreprocessor: 0
+Unpack SDXL Tuple: 10
 UnsamplerDetailerHookProvider: -1
 UnsamplerHookProvider: -1
 Unsplash Image (mtb): -1
