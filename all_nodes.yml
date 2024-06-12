@@ -1367,10 +1367,10 @@ PromptSimplification: 0
 PromptSlide: 4
 Prompt_Styler: 5
 PulidEvaClipLoader: 12
-PulidInsightFaceLoader: -1
-PulidModelLoader: -1
-Qr Code (mtb): -1
-RAUNet: -1
+PulidInsightFaceLoader: 11
+PulidModelLoader: 12
+Qr Code (mtb): 0
+RAUNet: 4
 RIFE VFI: -1
 Random Number: -1
 RandomNoise: -1
