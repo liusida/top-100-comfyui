@@ -1383,10 +1383,10 @@ ReActorLoadFaceModel: 28
 ReActorMakeFaceModelBatch: 0
 ReActorMaskHelper: 1
 ReActorOptions: 4
-ReActorRestoreFace: -1
-ReActorSaveFaceModel: -1
-RebatchImages: -1
-RebatchLatents: -1
+ReActorRestoreFace: 6
+ReActorSaveFaceModel: 1
+RebatchImages: 2
+RebatchLatents: 7
 ReencodeLatent: -1
 ReencodeLatentPipe: -1
 Ref_Image_Preprocessing: -1
