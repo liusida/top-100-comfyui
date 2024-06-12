@@ -1767,10 +1767,10 @@ VHS_VideoInfo: 3
 VHS_VideoInfoLoaded: 1
 VHS_VideoInfoSource: 0
 VPScheduler: 0
-VRAM_Debug: -1
-Vae Decode (mtb): -1
-VariationNoiseDetailerHookProvider: -1
-Video Dump Frames: -1
+VRAM_Debug: 1
+Vae Decode (mtb): 3
+VariationNoiseDetailerHookProvider: 0
+Video Dump Frames: 0
 VideoCombine_Adv: -1
 VideoLinearCFGGuidance: -1
 VideoTriangleCFGGuidance: -1
