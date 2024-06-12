@@ -1563,10 +1563,10 @@ Seed: 5
 Seed_: 0
 SegmDetectorCombined: 0
 SegmDetectorCombined_v2: 7
-SegmDetectorForEach: -1
-SegmDetectorSEGS: -1
-Segs  Mask: -1
-Segs  Mask ForEach: -1
+SegmDetectorForEach: 0
+SegmDetectorSEGS: 21
+Segs  Mask: 0
+Segs  Mask ForEach: 0
 SegsMaskCombine: -1
 SegsToCombinedMask: -1
 SelectInputs //Browser: -1
