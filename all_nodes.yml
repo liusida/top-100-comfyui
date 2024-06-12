@@ -1543,10 +1543,10 @@ SeargePromptCombiner: 22
 SeargePromptStyles: 35
 SeargePromptText: 46
 SeargeSDXLBasePromptEncoder: 16
-SeargeSDXLImage2ImageSampler: -1
-SeargeSDXLImage2ImageSampler2: -1
-SeargeSDXLPromptEncoder: -1
-SeargeSDXLRefinerPromptEncoder: -1
+SeargeSDXLImage2ImageSampler: 9
+SeargeSDXLImage2ImageSampler2: 9
+SeargeSDXLPromptEncoder: 30
+SeargeSDXLRefinerPromptEncoder: 17
 SeargeSDXLSampler: -1
 SeargeSDXLSampler2: -1
 SeargeSDXLSamplerV3: -1
