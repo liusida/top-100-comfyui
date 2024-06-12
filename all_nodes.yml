@@ -1507,10 +1507,10 @@ SeargeGenerated1: 16
 SeargeGenerationParameters: 35
 SeargeHighResolution: 35
 SeargeImage2ImageAndInpainting: 35
-SeargeImageAdapterV2: -1
-SeargeImageSave: -1
-SeargeImageSaving: -1
-SeargeInput1: -1
+SeargeImageAdapterV2: 35
+SeargeImageSave: 34
+SeargeImageSaving: 35
+SeargeInput1: 16
 SeargeInput2: -1
 SeargeInput3: -1
 SeargeInput4: -1
