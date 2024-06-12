@@ -1731,10 +1731,10 @@ VAEDecodeTiled: 64
 VAEEncode: 92
 VAEEncodeArgMax: 8
 VAEEncodeForInpaint: 100
-VAEEncodeForInpaint_Frames: -1
-VAEEncodeTiled: -1
-VAELoader: -1
-VAELoaderConsistencyDecoder: -1
+VAEEncodeForInpaint_Frames: 0
+VAEEncodeTiled: 26
+VAELoader: 97
+VAELoaderConsistencyDecoder: 1
 VAESave: -1
 VFI FloatToInt: -1
 VHS_BatchManager: -1
