@@ -1739,10 +1739,10 @@ VAESave: 0
 VFI FloatToInt: 0
 VHS_BatchManager: 100
 VHS_DuplicateImages: 11
-VHS_DuplicateLatents: -1
-VHS_DuplicateMasks: -1
-VHS_GetImageCount: -1
-VHS_GetLatentCount: -1
+VHS_DuplicateLatents: 2
+VHS_DuplicateMasks: 0
+VHS_GetImageCount: 16
+VHS_GetLatentCount: 8
 VHS_GetMaskCount: -1
 VHS_LoadAudio: -1
 VHS_LoadAudioUpload: -1
