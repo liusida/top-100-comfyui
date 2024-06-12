@@ -1467,10 +1467,10 @@ Save Text File: 0
 SaveAnimatedPNG: 0
 SaveAnimatedWEBP: 33
 SaveImage: 97
-SaveImageAndMetadata_: -1
-SaveImageOpenEXR: -1
-SaveImageToLocal: -1
-SaveImageWebsocket: -1
+SaveImageAndMetadata_: 0
+SaveImageOpenEXR: 1
+SaveImageToLocal: 0
+SaveImageWebsocket: 0
 SaveImageWithAlpha: -1
 SaveImagetoPath: -1
 SaveLatent: -1
