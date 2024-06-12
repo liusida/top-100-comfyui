@@ -1247,10 +1247,10 @@ MaskToImage: 97
 MaskToSEGS: 59
 MaskToSEGS_for_AnimateDiff: 0
 Masks Add: 2
-Masks Combine Batch: -1
-Masks Combine Regions: -1
-Masks Subtract: -1
-MasksToMaskList: -1
+Masks Combine Batch: 0
+Masks Combine Regions: 1
+Masks Subtract: 2
+MasksToMaskList: 12
 Math Expression (mtb): -1
 MathExpression|pysssss: -1
 MediaPipe-FaceMeshPreprocessor: -1
