@@ -1607,10 +1607,10 @@ StableCascade_SuperResolutionControlnet: 0
 StableZero123_BatchSchedule: 1
 StableZero123_Conditioning: 5
 StableZero123_Conditioning_Batched: 0
-Stack Images (mtb): -1
-StepsScheduleHookProvider: -1
-String Replace (mtb): -1
-String to Text: -1
+Stack Images (mtb): 0
+StepsScheduleHookProvider: 0
+String Replace (mtb): 5
+String to Text: 0
 StringConstant: -1
 StringConstantMultiline: -1
 StringFunction|pysssss: -1
