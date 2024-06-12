@@ -1423,10 +1423,10 @@ SDXLPromptStyler: 79
 SDXLPromptStylerAdvanced: 5
 SD_4XUpscale_Conditioning: 1
 SEGSDetailer: 0
-SEGSDetailerForAnimateDiff: -1
-SEGSLabelFilterDetailerHookProvider: -1
-SEGSOrderedFilterDetailerHookProvider: -1
-SEGSPaste: -1
+SEGSDetailerForAnimateDiff: 25
+SEGSLabelFilterDetailerHookProvider: 0
+SEGSOrderedFilterDetailerHookProvider: 0
+SEGSPaste: 26
 SEGSPreview: -1
 SEGSPreviewCNet: -1
 SEGSRangeFilterDetailerHookProvider: -1
