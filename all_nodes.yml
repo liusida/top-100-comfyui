@@ -1699,10 +1699,10 @@ TripoSRModelLoader: 14
 TripoSRSampler: 14
 TripoSRSampler_: 0
 TripoSRViewer: 12
-True Random.org Number Generator: -1
-TwoAdvancedSamplersForMask: -1
-TwoSamplersForMask: -1
-TwoSamplersForMaskUpscalerProvider: -1
+True Random.org Number Generator: 0
+TwoAdvancedSamplersForMask: 13
+TwoSamplersForMask: 4
+TwoSamplersForMaskUpscalerProvider: 2
 TwoSamplersForMaskUpscalerProviderPipe: -1
 UNETLoader: -1
 UNetCrossAttentionMultiply: -1
