@@ -1523,10 +1523,10 @@ SeargeIntegerPair: 12
 SeargeIntegerScaler: 16
 SeargeLatentMuxer3: 16
 SeargeLoraLoader: 15
-SeargeLoras: -1
-SeargeMagicBox: -1
-SeargeModelSelector: -1
-SeargeOperatingMode: -1
+SeargeLoras: 35
+SeargeMagicBox: 35
+SeargeModelSelector: 35
+SeargeOperatingMode: 35
 SeargeOutput1: -1
 SeargeOutput2: -1
 SeargeOutput3: -1
