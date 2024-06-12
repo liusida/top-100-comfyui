@@ -1651,10 +1651,10 @@ Text Find: 0
 Text Find and Replace: 3
 Text Find and Replace Input: 2
 Text Find and Replace by Dictionary: 0
-Text Input Switch: -1
-Text List: -1
-Text List Concatenate: -1
-Text List to Text: -1
+Text Input Switch: 0
+Text List: 1
+Text List Concatenate: 0
+Text List to Text: 1
 Text Load Line From File: -1
 Text Multiline: -1
 Text Multiline (Code Compatible): -1
