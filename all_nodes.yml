@@ -1499,10 +1499,10 @@ SeargeCustomAfterVaeDecode: 35
 SeargeCustomPromptMode: 35
 SeargeDebugPrinter: 35
 SeargeEnablerInputs: 12
-SeargeFloatConstant: -1
-SeargeFloatMath: -1
-SeargeFloatPair: -1
-SeargeFreeU: -1
+SeargeFloatConstant: 4
+SeargeFloatMath: 1
+SeargeFloatPair: 0
+SeargeFreeU: 13
 SeargeGenerated1: -1
 SeargeGenerationParameters: -1
 SeargeHighResolution: -1
