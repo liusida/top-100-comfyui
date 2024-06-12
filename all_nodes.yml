@@ -1671,10 +1671,10 @@ Text to Conditioning: 1
 Text to Console: 9
 Text to Number: 1
 Text to String: 0
-TextCombine: -1
-TextGeneration: -1
-TextGenerator: -1
-TextImage: -1
+TextCombine: 0
+TextGeneration: 6
+TextGenerator: 0
+TextImage: 8
 TextInput: -1
 TextInput_: -1
 TextOutput: -1
