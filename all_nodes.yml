@@ -1231,10 +1231,10 @@ Mask Smooth Region: 3
 Mask Threshold Region: 0
 Mask To Image (mtb): 0
 MaskBatchMulti: 0
-MaskComposite: -1
-MaskDetailerPipe: -1
-MaskListMerge_: -1
-MaskListReplace_: -1
+MaskComposite: 63
+MaskDetailerPipe: 1
+MaskListMerge_: 0
+MaskListReplace_: 0
 MaskListToMaskBatch: -1
 MaskOptFlow: -1
 MaskOrImageToWeight: -1
