@@ -1415,10 +1415,10 @@ SAM Parameters: 2
 SAM Parameters Combine: 0
 SAMDetectorCombined: 26
 SAMDetectorSegmented: 14
-SAMLoader: -1
-SAMModelLoader (segment anything): -1
-SAMPreprocessor: -1
-SDTurboScheduler: -1
+SAMLoader: 98
+SAMModelLoader (segment anything): 33
+SAMPreprocessor: 17
+SDTurboScheduler: 24
 SDXLPromptStyler: -1
 SDXLPromptStylerAdvanced: -1
 SD_4XUpscale_Conditioning: -1
