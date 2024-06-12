@@ -1327,10 +1327,10 @@ Pack SDXL Tuple: 8
 PainterNode: 17
 PatchModelAddDownscale: 24
 PerpNeg: 0
-PerpNegGuider: -1
-PerturbedAttentionGuidance: -1
-PhotoMakerAdapter_Loader_fromhub: -1
-PhotoMakerAdapter_Loader_local: -1
+PerpNegGuider: 0
+PerturbedAttentionGuidance: 6
+PhotoMakerAdapter_Loader_fromhub: 7
+PhotoMakerAdapter_Loader_local: 2
 PhotoMakerEncode: -1
 PhotoMakerLoader: -1
 PhotoMaker_Generation: -1
