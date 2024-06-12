@@ -1743,10 +1743,10 @@ VHS_DuplicateLatents: 2
 VHS_DuplicateMasks: 0
 VHS_GetImageCount: 16
 VHS_GetLatentCount: 8
-VHS_GetMaskCount: -1
-VHS_LoadAudio: -1
-VHS_LoadAudioUpload: -1
-VHS_LoadImages: -1
+VHS_GetMaskCount: 0
+VHS_LoadAudio: 14
+VHS_LoadAudioUpload: 4
+VHS_LoadImages: 20
 VHS_LoadImagesPath: -1
 VHS_LoadVideo: -1
 VHS_LoadVideoPath: -1
