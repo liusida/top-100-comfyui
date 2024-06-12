@@ -1663,10 +1663,10 @@ Text Parse Noodle Soup Prompts: 0
 Text Parse Tokens: 7
 Text Random Line: 3
 Text Random Prompt: 0
-Text Shuffle: -1
-Text String: -1
-Text String Truncate: -1
-Text To Image (mtb): -1
+Text Shuffle: 0
+Text String: 0
+Text String Truncate: 0
+Text To Image (mtb): 0
 Text to Conditioning: -1
 Text to Console: -1
 Text to Number: -1
