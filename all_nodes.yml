@@ -1295,10 +1295,10 @@ Noise Control Script: 2
 NoiseImage: 2
 NoiseInjectionDetailerHookProvider: 4
 NoiseInjectionHookProvider: 0
-NormalizedAmplitudeToFloatList: -1
-NormalizedAmplitudeToMask: -1
-Number Counter: -1
-Number Input Condition: -1
+NormalizedAmplitudeToFloatList: 0
+NormalizedAmplitudeToMask: 0
+Number Counter: 1
+Number Input Condition: 0
 Number Input Switch: -1
 Number Multiple Of: -1
 Number Operation: -1
