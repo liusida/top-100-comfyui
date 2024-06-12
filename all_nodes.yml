@@ -1351,10 +1351,10 @@ PortraitMaster: 4
 "PortraitMaster_\u4E2D\u6587\u7248": 6
 PoseNode: 5
 PowerPaint: 6
-PowerPaintCLIPLoader: -1
-PrepImageForClipVision: -1
-PreviewAnimation: -1
-PreviewBridge: -1
+PowerPaintCLIPLoader: 6
+PrepImageForClipVision: 98
+PreviewAnimation: 1
+PreviewBridge: 40
 PreviewBridgeLatent: -1
 PreviewDetailerHookProvider: -1
 PreviewImage: -1
