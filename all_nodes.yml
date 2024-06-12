@@ -1707,10 +1707,10 @@ TwoSamplersForMaskUpscalerProviderPipe: 0
 UNETLoader: 37
 UNetCrossAttentionMultiply: 0
 UNetSelfAttentionMultiply: 0
-UNetTemporalAttentionMultiply: -1
-UltimateSDUpscale: -1
-UltimateSDUpscaleNoUpscale: -1
-UltralyticsDetectorProvider: -1
+UNetTemporalAttentionMultiply: 0
+UltimateSDUpscale: 93
+UltimateSDUpscaleNoUpscale: 4
+UltralyticsDetectorProvider: 100
 Uncrop (mtb): -1
 UniFormer-SemSegPreprocessor: -1
 Unimatch_OptFlowPreprocessor: -1
