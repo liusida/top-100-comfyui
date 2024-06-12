@@ -1471,10 +1471,10 @@ SaveImageAndMetadata_: 0
 SaveImageOpenEXR: 1
 SaveImageToLocal: 0
 SaveImageWebsocket: 0
-SaveImageWithAlpha: -1
-SaveImagetoPath: -1
-SaveLatent: -1
-SavePoseKpsAsJsonFile: -1
+SaveImageWithAlpha: 0
+SaveImagetoPath: 4
+SaveLatent: 0
+SavePoseKpsAsJsonFile: 1
 SavePromptToFile: -1
 SaveText|pysssss: -1
 SaveTripoSRMesh: -1
