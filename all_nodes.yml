@@ -1691,10 +1691,10 @@ ToDetailerPipe: 16
 ToDetailerPipeSDXL: 14
 TomePatchModel: 3
 ToonCrafterDecode: 2
-ToonCrafterInterpolation: -1
-Transform Image (mtb): -1
-TransparentImage: -1
-TripleCLIPLoader: -1
+ToonCrafterInterpolation: 3
+Transform Image (mtb): 3
+TransparentImage: 6
+TripleCLIPLoader: 5
 TripoSRModelLoader: -1
 TripoSRSampler: -1
 TripoSRSampler_: -1
