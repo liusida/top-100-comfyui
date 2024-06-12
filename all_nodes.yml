@@ -1271,10 +1271,10 @@ MiDaS-NormalMapPreprocessor: 35
 MirroredImage: 0
 Model Input Switch: 0
 Model Patch Seamless (mtb): 3
-ModelMergeAdd: -1
-ModelMergeBlocks: -1
-ModelMergeSD1: -1
-ModelMergeSD2: -1
+ModelMergeAdd: 0
+ModelMergeBlocks: 1
+ModelMergeSD1: 0
+ModelMergeSD2: 0
 ModelMergeSDXL: -1
 ModelMergeSimple: -1
 ModelMergeSubtract: -1
