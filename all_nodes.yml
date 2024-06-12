@@ -1239,10 +1239,10 @@ MaskComposite: 63
 MaskDetailerPipe: 1
 MaskListMerge_: 0
 MaskListReplace_: 0
-MaskListToMaskBatch: -1
-MaskOptFlow: -1
-MaskOrImageToWeight: -1
-MaskPainter: -1
+MaskListToMaskBatch: 6
+MaskOptFlow: 0
+MaskOrImageToWeight: 0
+MaskPainter: 0
 MaskToImage: -1
 MaskToSEGS: -1
 MaskToSEGS_for_AnimateDiff: -1
