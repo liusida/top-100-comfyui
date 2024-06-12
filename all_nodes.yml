@@ -1751,10 +1751,10 @@ VHS_LoadImagesPath: 79
 VHS_LoadVideo: 81
 VHS_LoadVideoPath: 64
 VHS_MergeImages: 6
-VHS_MergeLatents: -1
-VHS_MergeMasks: -1
-VHS_PruneOutputs: -1
-VHS_SelectEveryNthImage: -1
+VHS_MergeLatents: 1
+VHS_MergeMasks: 0
+VHS_PruneOutputs: 1
+VHS_SelectEveryNthImage: 0
 VHS_SelectEveryNthLatent: -1
 VHS_SelectEveryNthMask: -1
 VHS_SplitImages: -1
