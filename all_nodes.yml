@@ -1363,10 +1363,10 @@ PreviewTextNode: 19
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
 PromptImage: 2
-PromptSimplification: -1
-PromptSlide: -1
-Prompt_Styler: -1
-PulidEvaClipLoader: -1
+PromptSimplification: 0
+PromptSlide: 4
+Prompt_Styler: 5
+PulidEvaClipLoader: 12
 PulidInsightFaceLoader: -1
 PulidModelLoader: -1
 Qr Code (mtb): -1
