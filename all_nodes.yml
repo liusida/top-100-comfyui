@@ -1419,10 +1419,10 @@ SAMLoader: 98
 SAMModelLoader (segment anything): 33
 SAMPreprocessor: 17
 SDTurboScheduler: 24
-SDXLPromptStyler: -1
-SDXLPromptStylerAdvanced: -1
-SD_4XUpscale_Conditioning: -1
-SEGSDetailer: -1
+SDXLPromptStyler: 79
+SDXLPromptStylerAdvanced: 5
+SD_4XUpscale_Conditioning: 1
+SEGSDetailer: 0
 SEGSDetailerForAnimateDiff: -1
 SEGSLabelFilterDetailerHookProvider: -1
 SEGSOrderedFilterDetailerHookProvider: -1
