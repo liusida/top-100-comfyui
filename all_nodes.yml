@@ -1411,10 +1411,10 @@ ReverseImageBatch: 0
 RoundMask: 0
 SAM Image Mask: 0
 SAM Model Loader: 0
-SAM Parameters: -1
-SAM Parameters Combine: -1
-SAMDetectorCombined: -1
-SAMDetectorSegmented: -1
+SAM Parameters: 2
+SAM Parameters Combine: 0
+SAMDetectorCombined: 26
+SAMDetectorSegmented: 14
 SAMLoader: -1
 SAMModelLoader (segment anything): -1
 SAMPreprocessor: -1
