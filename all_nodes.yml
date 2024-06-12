@@ -1655,10 +1655,10 @@ Text Input Switch: 0
 Text List: 1
 Text List Concatenate: 0
 Text List to Text: 1
-Text Load Line From File: -1
-Text Multiline: -1
-Text Multiline (Code Compatible): -1
-Text Parse A1111 Embeddings: -1
+Text Load Line From File: 1
+Text Multiline: 16
+Text Multiline (Code Compatible): 0
+Text Parse A1111 Embeddings: 2
 Text Parse Noodle Soup Prompts: -1
 Text Parse Tokens: -1
 Text Random Line: -1
