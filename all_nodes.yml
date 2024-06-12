@@ -1519,10 +1519,10 @@ SeargeInput6: 16
 SeargeInput7: 16
 SeargeIntegerConstant: 19
 SeargeIntegerMath: 10
-SeargeIntegerPair: -1
-SeargeIntegerScaler: -1
-SeargeLatentMuxer3: -1
-SeargeLoraLoader: -1
+SeargeIntegerPair: 12
+SeargeIntegerScaler: 16
+SeargeLatentMuxer3: 16
+SeargeLoraLoader: 15
 SeargeLoras: -1
 SeargeMagicBox: -1
 SeargeModelSelector: -1
