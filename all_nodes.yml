@@ -1443,10 +1443,10 @@ SUPIR_first_stage: 10
 SUPIR_model_loader: 1
 SUPIR_model_loader_v2: 9
 SUPIR_model_loader_v2_clip: 0
-SUPIR_sample: -1
-SUPIR_tiles: -1
-SV3D_BatchSchedule: -1
-SV3D_Conditioning: -1
+SUPIR_sample: 10
+SUPIR_tiles: 3
+SV3D_BatchSchedule: 0
+SV3D_Conditioning: 2
 SVD_img2vid_Conditioning: -1
 SamplerCustom: -1
 SamplerCustomAdvanced: -1
