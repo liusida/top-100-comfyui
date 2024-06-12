@@ -1695,10 +1695,10 @@ ToonCrafterInterpolation: 3
 Transform Image (mtb): 3
 TransparentImage: 6
 TripleCLIPLoader: 5
-TripoSRModelLoader: -1
-TripoSRSampler: -1
-TripoSRSampler_: -1
-TripoSRViewer: -1
+TripoSRModelLoader: 14
+TripoSRSampler: 14
+TripoSRSampler_: 0
+TripoSRViewer: 12
 True Random.org Number Generator: -1
 TwoAdvancedSamplersForMask: -1
 TwoSamplersForMask: -1
