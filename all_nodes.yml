@@ -1307,10 +1307,10 @@ Number to Float: 1
 Number to Int: 1
 Number to Seed: 1
 Number to String: 3
-Number to Text: -1
-ONNXDetectorProvider: -1
-ONNXDetectorSEGS: -1
-OffsetMask: -1
+Number to Text: 5
+ONNXDetectorProvider: 2
+ONNXDetectorSEGS: 0
+OffsetMask: 0
 OffsetMaskByNormalizedAmplitude: -1
 Ollama: -1
 OneButtonArtify: -1
