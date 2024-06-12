@@ -1483,10 +1483,10 @@ ScaledSoftControlNetWeights: 18
 ScaledSoftMaskedUniversalWeights: 0
 Scientist: 1
 ScreenShare: 15
-ScribblePreprocessor: -1
-Scribble_PiDiNet_Preprocessor: -1
-Scribble_XDoG_Preprocessor: -1
-SeargeAdvancedParameters: -1
+ScribblePreprocessor: 46
+Scribble_PiDiNet_Preprocessor: 0
+Scribble_XDoG_Preprocessor: 4
+SeargeAdvancedParameters: 35
 SeargeCheckpointLoader: -1
 SeargeConditionMixing: -1
 SeargeConditioningMuxer2: -1
