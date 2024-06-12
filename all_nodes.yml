@@ -1279,10 +1279,10 @@ ModelMergeSDXL: 0
 ModelMergeSimple: 13
 ModelMergeSubtract: 0
 ModelPassThrough: 0
-ModelSamplingContinuousEDM: -1
-ModelSamplingDiscrete: -1
-ModelSamplingSD3: -1
-ModelSamplingStableCascade: -1
+ModelSamplingContinuousEDM: 14
+ModelSamplingDiscrete: 96
+ModelSamplingSD3: 0
+ModelSamplingStableCascade: 1
 Model_1: -1
 Morphology: -1
 MovementsImage_Zho: -1
