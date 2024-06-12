@@ -1511,10 +1511,10 @@ SeargeImageAdapterV2: 35
 SeargeImageSave: 34
 SeargeImageSaving: 35
 SeargeInput1: 16
-SeargeInput2: -1
-SeargeInput3: -1
-SeargeInput4: -1
-SeargeInput5: -1
+SeargeInput2: 16
+SeargeInput3: 16
+SeargeInput4: 16
+SeargeInput5: 16
 SeargeInput6: -1
 SeargeInput7: -1
 SeargeIntegerConstant: -1
