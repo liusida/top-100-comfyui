@@ -1619,10 +1619,10 @@ StyleAlignedBatchAlign_: 0
 StyleAlignedReferenceSampler_: 0
 StyleAlignedSampleReferenceLatents_: 0
 StyleModelApply: 9
-StyleModelLoader: -1
-Styles Loader (mtb): -1
-StylesImage_Zho: -1
-SubtractMask: -1
+StyleModelLoader: 9
+Styles Loader (mtb): 0
+StylesImage_Zho: 3
+SubtractMask: 7
 SubtractMaskForEach: -1
 Superprompt: -1
 SvgImage: -1
