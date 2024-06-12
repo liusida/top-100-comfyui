@@ -1719,10 +1719,10 @@ UnsamplerDetailerHookProvider: 1
 UnsamplerHookProvider: 0
 Unsplash Image (mtb): 0
 UploadToRemote //Browser: 0
-UpperBodyTrackingFromPoseKps: -1
-Upscale Model Loader: -1
-Upscale Model Switch: -1
-UpscaleModelLoader: -1
+UpperBodyTrackingFromPoseKps: 0
+Upscale Model Loader: 6
+Upscale Model Switch: 0
+UpscaleModelLoader: 97
 UserProxy: -1
 VAE Input Switch: -1
 VAEDecode: -1
