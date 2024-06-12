@@ -1555,10 +1555,10 @@ SeargeSamplerInputs: 10
 SeargeSaveFolderInputs: 12
 SeargeSeparator: 35
 SeargeStylePreprocessor: 15
-SeargeTextInputV2: -1
-SeargeUpscaleModelLoader: -1
-SeargeUpscaleModels: -1
-SeargeVAELoader: -1
+SeargeTextInputV2: 35
+SeargeUpscaleModelLoader: 16
+SeargeUpscaleModels: 35
+SeargeVAELoader: 15
 Seed: -1
 Seed_: -1
 SegmDetectorCombined: -1
