@@ -1747,10 +1747,10 @@ VHS_GetMaskCount: 0
 VHS_LoadAudio: 14
 VHS_LoadAudioUpload: 4
 VHS_LoadImages: 20
-VHS_LoadImagesPath: -1
-VHS_LoadVideo: -1
-VHS_LoadVideoPath: -1
-VHS_MergeImages: -1
+VHS_LoadImagesPath: 79
+VHS_LoadVideo: 81
+VHS_LoadVideoPath: 64
+VHS_MergeImages: 6
 VHS_MergeLatents: -1
 VHS_MergeMasks: -1
 VHS_PruneOutputs: -1
