@@ -1407,10 +1407,10 @@ RescaleCFG: 19
 ResizeImageMixlab: 6
 ResizeMask: 4
 Restore Face (mtb): 3
-ReverseImageBatch: -1
-RoundMask: -1
-SAM Image Mask: -1
-SAM Model Loader: -1
+ReverseImageBatch: 0
+RoundMask: 0
+SAM Image Mask: 0
+SAM Model Loader: 0
 SAM Parameters: -1
 SAM Parameters Combine: -1
 SAMDetectorCombined: -1
