@@ -1371,10 +1371,10 @@ PulidInsightFaceLoader: 11
 PulidModelLoader: 12
 Qr Code (mtb): 0
 RAUNet: 4
-RIFE VFI: -1
-Random Number: -1
-RandomNoise: -1
-RandomPrompt: -1
+RIFE VFI: 98
+Random Number: 7
+RandomNoise: 46
+RandomPrompt: 4
 ReActorBuildFaceModel: -1
 ReActorFaceSwap: -1
 ReActorFaceSwapOpt: -1
