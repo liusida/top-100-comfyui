@@ -1435,10 +1435,10 @@ SEGSToImageList: 26
 SEGSUpscaler: 0
 SEGSUpscalerPipe: 0
 STMFNet VFI: 7
-SUPIR_Upscale: -1
-SUPIR_conditioner: -1
-SUPIR_decode: -1
-SUPIR_encode: -1
+SUPIR_Upscale: 2
+SUPIR_conditioner: 10
+SUPIR_decode: 10
+SUPIR_encode: 10
 SUPIR_first_stage: -1
 SUPIR_model_loader: -1
 SUPIR_model_loader_v2: -1
