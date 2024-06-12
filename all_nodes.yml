@@ -1531,10 +1531,10 @@ SeargeOutput1: 16
 SeargeOutput2: 16
 SeargeOutput3: 16
 SeargeOutput4: 16
-SeargeOutput5: -1
-SeargeOutput6: -1
-SeargeOutput7: -1
-SeargeParameterProcessor: -1
+SeargeOutput5: 16
+SeargeOutput6: 16
+SeargeOutput7: 16
+SeargeParameterProcessor: 16
 SeargePipelineStart: -1
 SeargePipelineTerminator: -1
 SeargePreviewImage: -1
