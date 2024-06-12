@@ -1399,10 +1399,10 @@ RemapMaskRange: 7
 RemoveImageFromSEGS: 0
 RemoveNoiseMask: 0
 RepeatImageBatch: 15
-RepeatLatentBatch: -1
-Repeater|pysssss: -1
-ReplaceImagesInBatch: -1
-ReroutePrimitive|pysssss: -1
+RepeatLatentBatch: 40
+Repeater|pysssss: 0
+ReplaceImagesInBatch: 0
+ReroutePrimitive|pysssss: 5
 RescaleCFG: -1
 ResizeImageMixlab: -1
 ResizeMask: -1
