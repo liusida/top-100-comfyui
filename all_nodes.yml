@@ -1639,10 +1639,10 @@ Text Add Token by Input: 1
 Text Add Tokens: 0
 Text Compare: 0
 Text Concatenate: 75
-Text Contains: -1
-Text Dictionary Convert: -1
-Text Dictionary Get: -1
-Text Dictionary Keys: -1
+Text Contains: 0
+Text Dictionary Convert: 0
+Text Dictionary Get: 0
+Text Dictionary Keys: 0
 Text Dictionary New: -1
 Text Dictionary To Text: -1
 Text Dictionary Update: -1
