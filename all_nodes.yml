@@ -1603,10 +1603,10 @@ StabilityAPI_SD3: 0
 StableCascade_EmptyLatentImage: 25
 StableCascade_StageB_Conditioning: 26
 StableCascade_StageC_VAEEncode: 7
-StableCascade_SuperResolutionControlnet: -1
-StableZero123_BatchSchedule: -1
-StableZero123_Conditioning: -1
-StableZero123_Conditioning_Batched: -1
+StableCascade_SuperResolutionControlnet: 0
+StableZero123_BatchSchedule: 1
+StableZero123_Conditioning: 5
+StableZero123_Conditioning_Batched: 0
 Stack Images (mtb): -1
 StepsScheduleHookProvider: -1
 String Replace (mtb): -1
