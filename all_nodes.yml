@@ -1587,10 +1587,10 @@ SoftControlNetWeights: 0
 SoftT2IAdapterWeights: 0
 SolidMask: 46
 SomethingToString: 6
-SoundReactive: -1
-SpeechRecognition: -1
-SpeechSynthesis: -1
-SplineEditor: -1
+SoundReactive: 0
+SpeechRecognition: 6
+SpeechSynthesis: 6
+SplineEditor: 4
 Split Tracking Points: -1
 SplitBboxes: -1
 SplitImage: -1
