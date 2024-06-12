@@ -1487,10 +1487,10 @@ ScribblePreprocessor: 46
 Scribble_PiDiNet_Preprocessor: 0
 Scribble_XDoG_Preprocessor: 4
 SeargeAdvancedParameters: 35
-SeargeCheckpointLoader: -1
-SeargeConditionMixing: -1
-SeargeConditioningMuxer2: -1
-SeargeConditioningMuxer5: -1
+SeargeCheckpointLoader: 15
+SeargeConditionMixing: 35
+SeargeConditioningMuxer2: 26
+SeargeConditioningMuxer5: 28
 SeargeConditioningParameters: -1
 SeargeControlnetAdapterV2: -1
 SeargeControlnetModels: -1
