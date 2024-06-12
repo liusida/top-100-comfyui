@@ -1347,10 +1347,10 @@ PlaySound|pysssss: 5
 PlotCoordinates: 1
 PolyexponentialScheduler: 0
 PorterDuffImageComposite: 1
-PortraitMaster: -1
-"PortraitMaster_\u4E2D\u6587\u7248": -1
-PoseNode: -1
-PowerPaint: -1
+PortraitMaster: 4
+"PortraitMaster_\u4E2D\u6587\u7248": 6
+PoseNode: 5
+PowerPaint: 6
 PowerPaintCLIPLoader: -1
 PrepImageForClipVision: -1
 PreviewAnimation: -1
