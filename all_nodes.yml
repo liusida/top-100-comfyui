@@ -1627,10 +1627,10 @@ SubtractMaskForEach: 0
 Superprompt: 0
 SvgImage: 4
 SwitchByIndex: 3
-SystemNotification|pysssss: -1
-TEEDPreprocessor: -1
-TESTNODE_: -1
-TESTNODE_TOKEN: -1
+SystemNotification|pysssss: 0
+TEEDPreprocessor: 1
+TESTNODE_: 0
+TESTNODE_TOKEN: 0
 TTPlanet_TileGF_Preprocessor: -1
 TTPlanet_TileSimple_Preprocessor: -1
 Tensor Batch to Image: -1
