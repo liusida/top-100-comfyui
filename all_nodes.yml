@@ -1583,10 +1583,10 @@ ShufflePreprocessor: 5
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
-SoftControlNetWeights: -1
-SoftT2IAdapterWeights: -1
-SolidMask: -1
-SomethingToString: -1
+SoftControlNetWeights: 0
+SoftT2IAdapterWeights: 0
+SolidMask: 46
+SomethingToString: 6
 SoundReactive: -1
 SpeechRecognition: -1
 SpeechSynthesis: -1
