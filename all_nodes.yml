@@ -1551,10 +1551,10 @@ SeargeSDXLSampler: 11
 SeargeSDXLSampler2: 16
 SeargeSDXLSamplerV3: 7
 SeargeSamplerAdvanced: 6
-SeargeSamplerInputs: -1
-SeargeSaveFolderInputs: -1
-SeargeSeparator: -1
-SeargeStylePreprocessor: -1
+SeargeSamplerInputs: 10
+SeargeSaveFolderInputs: 12
+SeargeSeparator: 35
+SeargeStylePreprocessor: 15
 SeargeTextInputV2: -1
 SeargeUpscaleModelLoader: -1
 SeargeUpscaleModels: -1
