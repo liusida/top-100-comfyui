@@ -1463,10 +1463,10 @@ Save Gif (mtb): 3
 Save Image Grid (mtb): 0
 Save Image Sequence (mtb): 7
 Save Tensors (mtb): 1
-Save Text File: -1
-SaveAnimatedPNG: -1
-SaveAnimatedWEBP: -1
-SaveImage: -1
+Save Text File: 0
+SaveAnimatedPNG: 0
+SaveAnimatedWEBP: 33
+SaveImage: 97
 SaveImageAndMetadata_: -1
 SaveImageOpenEXR: -1
 SaveImageToLocal: -1
