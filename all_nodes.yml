@@ -1303,10 +1303,10 @@ Number Input Switch: 0
 Number Multiple Of: 0
 Number Operation: 5
 Number PI: 0
-Number to Float: -1
-Number to Int: -1
-Number to Seed: -1
-Number to String: -1
+Number to Float: 1
+Number to Int: 1
+Number to Seed: 1
+Number to String: 3
 Number to Text: -1
 ONNXDetectorProvider: -1
 ONNXDetectorSEGS: -1
