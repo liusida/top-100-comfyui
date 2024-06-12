@@ -1263,10 +1263,10 @@ MeshGraphormer+ImpactDetector-DepthMapPreprocessor: 0
 MeshGraphormer-DepthMapPreprocessor: 12
 Metric3D-DepthMapPreprocessor: 0
 Metric3D-NormalMapPreprocessor: 0
-MiDaS Depth Approximation: -1
-MiDaS Mask Image: -1
-MiDaS Model Loader: -1
-MiDaS-DepthMapPreprocessor: -1
+MiDaS Depth Approximation: 11
+MiDaS Mask Image: 0
+MiDaS Model Loader: 6
+MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: -1
 MirroredImage: -1
 Model Input Switch: -1
