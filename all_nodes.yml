@@ -1595,10 +1595,10 @@ Split Tracking Points: 1
 SplitBboxes: 0
 SplitImage: 0
 SplitImageChannels: 0
-SplitImageWithAlpha: -1
-SplitLongMask: -1
-SplitSigmas: -1
-SplitSigmasDenoise: -1
+SplitImageWithAlpha: 15
+SplitLongMask: 2
+SplitSigmas: 3
+SplitSigmasDenoise: 0
 StabilityAPI_SD3: -1
 StableCascade_EmptyLatentImage: -1
 StableCascade_StageB_Conditioning: -1
