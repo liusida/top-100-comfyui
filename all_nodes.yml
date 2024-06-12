@@ -1727,10 +1727,10 @@ UserProxy: 3
 VAE Input Switch: 0
 VAEDecode: 96
 VAEDecodeConsistencyDecoder: 1
-VAEDecodeTiled: -1
-VAEEncode: -1
-VAEEncodeArgMax: -1
-VAEEncodeForInpaint: -1
+VAEDecodeTiled: 64
+VAEEncode: 92
+VAEEncodeArgMax: 8
+VAEEncodeForInpaint: 100
 VAEEncodeForInpaint_Frames: -1
 VAEEncodeTiled: -1
 VAELoader: -1
