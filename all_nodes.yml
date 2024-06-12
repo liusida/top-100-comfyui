@@ -1715,10 +1715,10 @@ Uncrop (mtb): 0
 UniFormer-SemSegPreprocessor: 15
 Unimatch_OptFlowPreprocessor: 0
 Unpack SDXL Tuple: 10
-UnsamplerDetailerHookProvider: -1
-UnsamplerHookProvider: -1
-Unsplash Image (mtb): -1
-UploadToRemote //Browser: -1
+UnsamplerDetailerHookProvider: 1
+UnsamplerHookProvider: 0
+Unsplash Image (mtb): 0
+UploadToRemote //Browser: 0
 UpperBodyTrackingFromPoseKps: -1
 Upscale Model Loader: -1
 Upscale Model Switch: -1
