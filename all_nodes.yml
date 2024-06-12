@@ -1387,10 +1387,10 @@ ReActorRestoreFace: 6
 ReActorSaveFaceModel: 1
 RebatchImages: 2
 RebatchLatents: 7
-ReencodeLatent: -1
-ReencodeLatentPipe: -1
-Ref_Image_Preprocessing: -1
-RegionalPrompt: -1
+ReencodeLatent: 0
+ReencodeLatentPipe: 2
+Ref_Image_Preprocessing: 11
+RegionalPrompt: 12
 RegionalSampler: -1
 RegionalSamplerAdvanced: -1
 RemapDepth: -1
