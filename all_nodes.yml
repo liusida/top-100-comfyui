@@ -1287,10 +1287,10 @@ Model_1: 0
 Morphology: 0
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
-MultiplicationNode: -1
-NEW_PhotoMaker_Generation: -1
-NNLatentUpscale: -1
-NewLayer: -1
+MultiplicationNode: 0
+NEW_PhotoMaker_Generation: 7
+NNLatentUpscale: 17
+NewLayer: 10
 Noise Control Script: -1
 NoiseImage: -1
 NoiseInjectionDetailerHookProvider: -1
