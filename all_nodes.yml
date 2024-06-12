@@ -1319,10 +1319,10 @@ OneButtonPreset: 0
 OneButtonPrompt: 10
 OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
-OneFormer-COCO-SemSegPreprocessor: -1
-OpenposePreprocessor: -1
-OutlineMask: -1
-Output2String: -1
+OneFormer-COCO-SemSegPreprocessor: 20
+OpenposePreprocessor: 92
+OutlineMask: 0
+Output2String: 1
 Pack SDXL Tuple: -1
 PainterNode: -1
 PatchModelAddDownscale: -1
