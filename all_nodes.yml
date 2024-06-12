@@ -1403,10 +1403,10 @@ RepeatLatentBatch: 40
 Repeater|pysssss: 0
 ReplaceImagesInBatch: 0
 ReroutePrimitive|pysssss: 5
-RescaleCFG: -1
-ResizeImageMixlab: -1
-ResizeMask: -1
-Restore Face (mtb): -1
+RescaleCFG: 19
+ResizeImageMixlab: 6
+ResizeMask: 4
+Restore Face (mtb): 3
 ReverseImageBatch: -1
 RoundMask: -1
 SAM Image Mask: -1
