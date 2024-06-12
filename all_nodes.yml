@@ -1395,10 +1395,10 @@ RegionalSampler: 12
 RegionalSamplerAdvanced: 0
 RemapDepth: 3
 RemapImageRange: 6
-RemapMaskRange: -1
-RemoveImageFromSEGS: -1
-RemoveNoiseMask: -1
-RepeatImageBatch: -1
+RemapMaskRange: 7
+RemoveImageFromSEGS: 0
+RemoveNoiseMask: 0
+RepeatImageBatch: 15
 RepeatLatentBatch: -1
 Repeater|pysssss: -1
 ReplaceImagesInBatch: -1
