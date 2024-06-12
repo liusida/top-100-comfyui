@@ -1275,10 +1275,10 @@ ModelMergeAdd: 0
 ModelMergeBlocks: 1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
-ModelMergeSDXL: -1
-ModelMergeSimple: -1
-ModelMergeSubtract: -1
-ModelPassThrough: -1
+ModelMergeSDXL: 0
+ModelMergeSimple: 13
+ModelMergeSubtract: 0
+ModelPassThrough: 0
 ModelSamplingContinuousEDM: -1
 ModelSamplingDiscrete: -1
 ModelSamplingSD3: -1
