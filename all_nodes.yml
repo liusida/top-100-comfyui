@@ -1355,10 +1355,10 @@ PowerPaintCLIPLoader: 6
 PrepImageForClipVision: 98
 PreviewAnimation: 1
 PreviewBridge: 40
-PreviewBridgeLatent: -1
-PreviewDetailerHookProvider: -1
-PreviewImage: -1
-PreviewMask_: -1
+PreviewBridgeLatent: 0
+PreviewDetailerHookProvider: 0
+PreviewImage: 98
+PreviewMask_: 0
 PreviewTextNode: -1
 Prompt Multiple Styles Selector: -1
 Prompt Styles Selector: -1
