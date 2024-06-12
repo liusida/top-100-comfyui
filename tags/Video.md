@@ -25,8 +25,8 @@ AnimateDiff for ComfyUI
 <details><summary>Included Nodes (7)</summary>
 
  - <sub>[AnimateDiffCombine](node_examples/AnimateDiffCombine.md)</sub>, <sub>[AnimateDiffLoraLoader](node_examples/AnimateDiffLoraLoader.md)</sub>, <sub>[AnimateDiffModuleLoader](node_examples/AnimateDiffModuleLoader.md)</sub>, <sub>[AnimateDiffSampler](node_examples/AnimateDiffSampler.md)</sub>, <sub>[AnimateDiffSlidingWindowOptions](node_examples/AnimateDiffSlidingWindowOptions.md)</sub>
- - <sub>ImageSizeAndBatchSize</sub>
- - <sub>LoadVideo</sub>
+ - <sub>[ImageSizeAndBatchSize](node_examples/ImageSizeAndBatchSize.md)</sub>
+ - <sub>[LoadVideo](node_examples/LoadVideo.md)</sub>
 </details>
 
 
@@ -36,7 +36,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `434` | **Created at**: `2024-06-10`
+**Stars**: `444` | **Created at**: `2024-06-11`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -68,13 +68,38 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `380` | **Created at**: `2024-06-11`
+**Stars**: `382` | **Created at**: `2024-06-11`
 
 
 Nodes related to video workflows
 <details><summary>Included Nodes (29)</summary>
 
  - <sub>VHS_BatchManager</sub>, <sub>VHS_DuplicateImages</sub>, <sub>VHS_DuplicateLatents</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>VHS_GetImageCount</sub>, <sub>VHS_GetLatentCount</sub>, <sub>VHS_GetMaskCount</sub>, <sub>VHS_LoadAudio</sub>, <sub>VHS_LoadAudioUpload</sub>, <sub>VHS_LoadImages</sub>, <sub>VHS_LoadImagesPath</sub>, <sub>VHS_LoadVideo</sub>, <sub>VHS_LoadVideoPath</sub>, <sub>VHS_MergeImages</sub>, <sub>VHS_MergeLatents</sub>, <sub>VHS_MergeMasks</sub>, <sub>VHS_PruneOutputs</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>VHS_SelectEveryNthMask</sub>, <sub>VHS_SplitImages</sub>, <sub>VHS_SplitLatents</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_VAEDecodeBatched</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VideoCombine</sub>, <sub>VHS_VideoInfo</sub>, <sub>VHS_VideoInfoLoaded</sub>, <sub>VHS_VideoInfoSource</sub>
+</details>
+
+
+## Fannovel16/ComfyUI-Frame-Interpolation
+
+
+<a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
+<img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
+
+**Stars**: `328` | **Created at**: `2024-06-11`
+
+
+A custom node set for Video Frame Interpolation in ComfyUI.
+<details><summary>Included Nodes (14)</summary>
+
+ - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
+ - <sub>CAIN VFI</sub>
+ - <sub>[FILM VFI](node_examples/FILM_VFI.md)</sub>, <sub>FLAVR VFI</sub>
+ - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>
+ - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
+ - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
+ - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>
+ - <sub>RIFE VFI</sub>
+ - <sub>Sepconv VFI</sub>, <sub>STMFNet VFI</sub>
+ - <sub>VFI FloatToInt</sub>
 </details>
 
 
@@ -97,8 +122,8 @@ Animation oriented nodes pack for ComfyUI
  - <sub>Export With Ffmpeg (mtb)</sub>
  - <sub>[Face Swap (mtb)](node_examples/Face_Swap_(mtb).md)</sub>, <sub>[Film Interpolation (mtb)](node_examples/Film_Interpolation_(mtb).md)</sub>, <sub>Fit Number (mtb)</sub>, <sub>Float To Number (mtb)</sub>
  - <sub>Get Batch From History (mtb)</sub>
- - <sub>Image Compare (mtb)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>Image Remove Background Rembg (mtb)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>Image Tile Offset (mtb)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>Int To Number (mtb)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
- - <sub>Latent Lerp (mtb)</sub>, <sub>Load Face Analysis Model (mtb)</sub>, <sub>Load Face Enhance Model (mtb)</sub>, <sub>Load Face Swap Model (mtb)</sub>, <sub>Load Film Model (mtb)</sub>, <sub>Load Image From Url (mtb)</sub>, <sub>Load Image Sequence (mtb)</sub>
+ - <sub>[Image Compare (mtb)](node_examples/Image_Compare_(mtb).md)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>[Image Remove Background Rembg (mtb)](node_examples/Image_Remove_Background_Rembg_(mtb).md)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>[Image Tile Offset (mtb)](node_examples/Image_Tile_Offset_(mtb).md)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>[Int To Number (mtb)](node_examples/Int_To_Number_(mtb).md)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
+ - <sub>Latent Lerp (mtb)</sub>, <sub>[Load Face Analysis Model (mtb)](node_examples/Load_Face_Analysis_Model_(mtb).md)</sub>, <sub>[Load Face Enhance Model (mtb)](node_examples/Load_Face_Enhance_Model_(mtb).md)</sub>, <sub>[Load Face Swap Model (mtb)](node_examples/Load_Face_Swap_Model_(mtb).md)</sub>, <sub>[Load Film Model (mtb)](node_examples/Load_Film_Model_(mtb).md)</sub>, <sub>[Load Image From Url (mtb)](node_examples/Load_Image_From_Url_(mtb).md)</sub>, <sub>Load Image Sequence (mtb)</sub>
  - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>Model Patch Seamless (mtb)</sub>
  - <sub>Pick From Batch (mtb)</sub>
  - <sub>Qr Code (mtb)</sub>
@@ -107,30 +132,5 @@ Animation oriented nodes pack for ComfyUI
  - <sub>Text To Image (mtb)</sub>, <sub>Transform Image (mtb)</sub>
  - <sub>Uncrop (mtb)</sub>, <sub>Unsplash Image (mtb)</sub>
  - <sub>Vae Decode (mtb)</sub>
-</details>
-
-
-## Fannovel16/ComfyUI-Frame-Interpolation
-
-
-<a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
-<img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
-
-**Stars**: `326` | **Created at**: `2024-06-08`
-
-
-A custom node set for Video Frame Interpolation in ComfyUI.
-<details><summary>Included Nodes (14)</summary>
-
- - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
- - <sub>CAIN VFI</sub>
- - <sub>[FILM VFI](node_examples/FILM_VFI.md)</sub>, <sub>FLAVR VFI</sub>
- - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>
- - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
- - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
- - <sub>M2M VFI</sub>, <sub>Make Interpolation State List</sub>
- - <sub>RIFE VFI</sub>
- - <sub>Sepconv VFI</sub>, <sub>STMFNet VFI</sub>
- - <sub>VFI FloatToInt</sub>
 </details>
 

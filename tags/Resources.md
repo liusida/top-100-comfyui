@@ -7,7 +7,7 @@
 <a href='https://github.com/nerdyrodent/AVeryComfyNerd'>
 <img src="https://avatars.githubusercontent.com/u/74688049?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nerdyrodent/AVeryComfyNerd
 
-**Stars**: `1.1k` | **Created at**: `2024-06-10`
+**Stars**: `1.1k` | **Created at**: `2024-06-11`
 
 
 ComfyUI related stuff and things

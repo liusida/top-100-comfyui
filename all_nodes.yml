@@ -213,6 +213,7 @@ CLIPTextEncode: 86
 CLIPTextEncode (BlenderNeko Advanced + NSP): -1
 CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
+CLIPTextEncodeSD3: -1
 CLIPTextEncodeSDXL: 93
 CLIPTextEncodeSDXLRefiner: 95
 CLIPVisionEncode: 51
@@ -595,6 +596,7 @@ EmbeddingPrompt: 2
 EmptyImage: 44
 EmptyLatentImage: 93
 EmptyLatentImagePresets: 0
+EmptySD3LatentImage: -1
 EmptySegs: 0
 Engineer: 1
 EnhanceImage: 6
@@ -866,6 +868,7 @@ ImpactControlNetApplyAdvancedSEGS: 0
 ImpactControlNetApplySEGS: 12
 ImpactControlNetClearSEGS: 0
 ImpactConvertDataType: 0
+ImpactCount_Elts_in_SEGS: -1
 ImpactDecomposeSEGS: 4
 ImpactDilateMask: 5
 ImpactDilateMaskInSEGS: 1
@@ -1030,6 +1033,7 @@ LatentUpscaler: 0
 'LayerMask: BiRefNetUltra': 6
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
+'LayerMask: ImageToMask': -1
 'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': 2
 'LayerMask: MaskByDifferent': 1
@@ -1277,6 +1281,7 @@ ModelMergeSubtract: -1
 ModelPassThrough: -1
 ModelSamplingContinuousEDM: -1
 ModelSamplingDiscrete: -1
+ModelSamplingSD3: -1
 ModelSamplingStableCascade: -1
 Model_1: -1
 Morphology: -1
@@ -1689,6 +1694,7 @@ ToonCrafterDecode: -1
 ToonCrafterInterpolation: -1
 Transform Image (mtb): -1
 TransparentImage: -1
+TripleCLIPLoader: -1
 TripoSRModelLoader: -1
 TripoSRSampler: -1
 TripoSRSampler_: -1
