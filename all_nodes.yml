@@ -1539,10 +1539,10 @@ SeargePipelineStart: 35
 SeargePipelineTerminator: 35
 SeargePreviewImage: 37
 SeargePromptAdapterV2: 35
-SeargePromptCombiner: -1
-SeargePromptStyles: -1
-SeargePromptText: -1
-SeargeSDXLBasePromptEncoder: -1
+SeargePromptCombiner: 22
+SeargePromptStyles: 35
+SeargePromptText: 46
+SeargeSDXLBasePromptEncoder: 16
 SeargeSDXLImage2ImageSampler: -1
 SeargeSDXLImage2ImageSampler2: -1
 SeargeSDXLPromptEncoder: -1
