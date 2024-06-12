@@ -1503,10 +1503,10 @@ SeargeFloatConstant: 4
 SeargeFloatMath: 1
 SeargeFloatPair: 0
 SeargeFreeU: 13
-SeargeGenerated1: -1
-SeargeGenerationParameters: -1
-SeargeHighResolution: -1
-SeargeImage2ImageAndInpainting: -1
+SeargeGenerated1: 16
+SeargeGenerationParameters: 35
+SeargeHighResolution: 35
+SeargeImage2ImageAndInpainting: 35
 SeargeImageAdapterV2: -1
 SeargeImageSave: -1
 SeargeImageSaving: -1
