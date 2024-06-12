@@ -1631,10 +1631,10 @@ SystemNotification|pysssss: 0
 TEEDPreprocessor: 1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
-TTPlanet_TileGF_Preprocessor: -1
-TTPlanet_TileSimple_Preprocessor: -1
-Tensor Batch to Image: -1
-Terminal: -1
+TTPlanet_TileGF_Preprocessor: 0
+TTPlanet_TileSimple_Preprocessor: 0
+Tensor Batch to Image: 0
+Terminal: 0
 Text Add Token by Input: -1
 Text Add Tokens: -1
 Text Compare: -1
