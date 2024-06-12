@@ -1687,10 +1687,10 @@ TiledKSamplerProvider: 0
 TimestepKeyframe: 16
 ToBasicPipe: 99
 ToBinaryMask: 6
-ToDetailerPipe: -1
-ToDetailerPipeSDXL: -1
-TomePatchModel: -1
-ToonCrafterDecode: -1
+ToDetailerPipe: 16
+ToDetailerPipeSDXL: 14
+TomePatchModel: 3
+ToonCrafterDecode: 2
 ToonCrafterInterpolation: -1
 Transform Image (mtb): -1
 TransparentImage: -1
