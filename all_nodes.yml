@@ -1291,10 +1291,10 @@ MultiplicationNode: 0
 NEW_PhotoMaker_Generation: 7
 NNLatentUpscale: 17
 NewLayer: 10
-Noise Control Script: -1
-NoiseImage: -1
-NoiseInjectionDetailerHookProvider: -1
-NoiseInjectionHookProvider: -1
+Noise Control Script: 2
+NoiseImage: 2
+NoiseInjectionDetailerHookProvider: 4
+NoiseInjectionHookProvider: 0
 NormalizedAmplitudeToFloatList: -1
 NormalizedAmplitudeToMask: -1
 Number Counter: -1
