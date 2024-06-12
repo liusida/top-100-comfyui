@@ -1243,10 +1243,10 @@ MaskListToMaskBatch: 6
 MaskOptFlow: 0
 MaskOrImageToWeight: 0
 MaskPainter: 0
-MaskToImage: -1
-MaskToSEGS: -1
-MaskToSEGS_for_AnimateDiff: -1
-Masks Add: -1
+MaskToImage: 97
+MaskToSEGS: 59
+MaskToSEGS_for_AnimateDiff: 0
+Masks Add: 2
 Masks Combine Batch: -1
 Masks Combine Regions: -1
 Masks Subtract: -1
