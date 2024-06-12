@@ -1475,10 +1475,10 @@ SaveImageWithAlpha: 0
 SaveImagetoPath: 4
 SaveLatent: 0
 SavePoseKpsAsJsonFile: 1
-SavePromptToFile: -1
-SaveText|pysssss: -1
-SaveTripoSRMesh: -1
-ScaleBatchPromptSchedule: -1
+SavePromptToFile: 10
+SaveText|pysssss: 0
+SaveTripoSRMesh: 0
+ScaleBatchPromptSchedule: 0
 ScaledSoftControlNetWeights: -1
 ScaledSoftMaskedUniversalWeights: -1
 Scientist: -1
