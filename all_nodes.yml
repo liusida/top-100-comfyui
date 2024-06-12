@@ -1479,10 +1479,10 @@ SavePromptToFile: 10
 SaveText|pysssss: 0
 SaveTripoSRMesh: 0
 ScaleBatchPromptSchedule: 0
-ScaledSoftControlNetWeights: -1
-ScaledSoftMaskedUniversalWeights: -1
-Scientist: -1
-ScreenShare: -1
+ScaledSoftControlNetWeights: 18
+ScaledSoftMaskedUniversalWeights: 0
+Scientist: 1
+ScreenShare: 15
 ScribblePreprocessor: -1
 Scribble_PiDiNet_Preprocessor: -1
 Scribble_XDoG_Preprocessor: -1
