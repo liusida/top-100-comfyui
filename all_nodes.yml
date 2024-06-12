@@ -1535,10 +1535,10 @@ SeargeOutput5: 16
 SeargeOutput6: 16
 SeargeOutput7: 16
 SeargeParameterProcessor: 16
-SeargePipelineStart: -1
-SeargePipelineTerminator: -1
-SeargePreviewImage: -1
-SeargePromptAdapterV2: -1
+SeargePipelineStart: 35
+SeargePipelineTerminator: 35
+SeargePreviewImage: 37
+SeargePromptAdapterV2: 35
 SeargePromptCombiner: -1
 SeargePromptStyles: -1
 SeargePromptText: -1
