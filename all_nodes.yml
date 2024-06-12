@@ -1323,10 +1323,10 @@ OneFormer-COCO-SemSegPreprocessor: 20
 OpenposePreprocessor: 92
 OutlineMask: 0
 Output2String: 1
-Pack SDXL Tuple: -1
-PainterNode: -1
-PatchModelAddDownscale: -1
-PerpNeg: -1
+Pack SDXL Tuple: 8
+PainterNode: 17
+PatchModelAddDownscale: 24
+PerpNeg: 0
 PerpNegGuider: -1
 PerturbedAttentionGuidance: -1
 PhotoMakerAdapter_Loader_fromhub: -1
