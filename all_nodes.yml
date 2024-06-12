@@ -1683,10 +1683,10 @@ TextToNumber: 0
 ThresholdMask: 4
 TilePreprocessor: 45
 Tiled Upscaler Script: 1
-TiledKSamplerProvider: -1
-TimestepKeyframe: -1
-ToBasicPipe: -1
-ToBinaryMask: -1
+TiledKSamplerProvider: 0
+TimestepKeyframe: 16
+ToBasicPipe: 99
+ToBinaryMask: 6
 ToDetailerPipe: -1
 ToDetailerPipeSDXL: -1
 TomePatchModel: -1
