@@ -1267,10 +1267,10 @@ MiDaS Depth Approximation: 11
 MiDaS Mask Image: 0
 MiDaS Model Loader: 6
 MiDaS-DepthMapPreprocessor: 95
-MiDaS-NormalMapPreprocessor: -1
-MirroredImage: -1
-Model Input Switch: -1
-Model Patch Seamless (mtb): -1
+MiDaS-NormalMapPreprocessor: 35
+MirroredImage: 0
+Model Input Switch: 0
+Model Patch Seamless (mtb): 3
 ModelMergeAdd: -1
 ModelMergeBlocks: -1
 ModelMergeSD1: -1
