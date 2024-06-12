@@ -1679,10 +1679,10 @@ TextInput: 0
 TextInput_: 4
 TextOutput: 0
 TextSplitByDelimiter: 1
-TextToNumber: -1
-ThresholdMask: -1
-TilePreprocessor: -1
-Tiled Upscaler Script: -1
+TextToNumber: 0
+ThresholdMask: 4
+TilePreprocessor: 45
+Tiled Upscaler Script: 1
 TiledKSamplerProvider: -1
 TimestepKeyframe: -1
 ToBasicPipe: -1
