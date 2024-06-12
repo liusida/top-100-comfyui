@@ -1451,10 +1451,10 @@ SVD_img2vid_Conditioning: 72
 SamplerCustom: 48
 SamplerCustomAdvanced: 46
 SamplerDPMAdaptative: 0
-SamplerDPMPP_2M_SDE: -1
-SamplerDPMPP_3M_SDE: -1
-SamplerDPMPP_SDE: -1
-SamplerEulerAncestral: -1
+SamplerDPMPP_2M_SDE: 0
+SamplerDPMPP_3M_SDE: 0
+SamplerDPMPP_SDE: 3
+SamplerEulerAncestral: 0
 SamplerLCMUpscale: -1
 SamplerLMS: -1
 SamplerNames_: -1
