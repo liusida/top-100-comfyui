@@ -1763,10 +1763,10 @@ VHS_SplitMasks: 0
 VHS_VAEDecodeBatched: 2
 VHS_VAEEncodeBatched: 0
 VHS_VideoCombine: 100
-VHS_VideoInfo: -1
-VHS_VideoInfoLoaded: -1
-VHS_VideoInfoSource: -1
-VPScheduler: -1
+VHS_VideoInfo: 3
+VHS_VideoInfoLoaded: 1
+VHS_VideoInfoSource: 0
+VPScheduler: 0
 VRAM_Debug: -1
 Vae Decode (mtb): -1
 VariationNoiseDetailerHookProvider: -1
