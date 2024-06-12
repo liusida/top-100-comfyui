@@ -1723,10 +1723,10 @@ UpperBodyTrackingFromPoseKps: 0
 Upscale Model Loader: 6
 Upscale Model Switch: 0
 UpscaleModelLoader: 97
-UserProxy: -1
-VAE Input Switch: -1
-VAEDecode: -1
-VAEDecodeConsistencyDecoder: -1
+UserProxy: 3
+VAE Input Switch: 0
+VAEDecode: 96
+VAEDecodeConsistencyDecoder: 1
 VAEDecodeTiled: -1
 VAEEncode: -1
 VAEEncodeArgMax: -1
