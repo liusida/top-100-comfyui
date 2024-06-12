@@ -1311,10 +1311,10 @@ Number to Text: 5
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
 OffsetMask: 0
-OffsetMaskByNormalizedAmplitude: -1
-Ollama: -1
-OneButtonArtify: -1
-OneButtonFlufferize: -1
+OffsetMaskByNormalizedAmplitude: 0
+Ollama: 0
+OneButtonArtify: 1
+OneButtonFlufferize: 2
 OneButtonPreset: -1
 OneButtonPrompt: -1
 OneButtonSuperPrompt: -1
