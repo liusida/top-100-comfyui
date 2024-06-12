@@ -1343,10 +1343,10 @@ PixelPerfectResolution: 23
 PixelTiledKSampleUpscalerProvider: 2
 PixelTiledKSampleUpscalerProviderPipe: 2
 Planner: 1
-PlaySound|pysssss: -1
-PlotCoordinates: -1
-PolyexponentialScheduler: -1
-PorterDuffImageComposite: -1
+PlaySound|pysssss: 5
+PlotCoordinates: 1
+PolyexponentialScheduler: 0
+PorterDuffImageComposite: 1
 PortraitMaster: -1
 "PortraitMaster_\u4E2D\u6587\u7248": -1
 PoseNode: -1
