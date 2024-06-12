@@ -1283,10 +1283,10 @@ ModelSamplingContinuousEDM: 14
 ModelSamplingDiscrete: 96
 ModelSamplingSD3: 0
 ModelSamplingStableCascade: 1
-Model_1: -1
-Morphology: -1
-MovementsImage_Zho: -1
-MultiPrimitive|pysssss: -1
+Model_1: 0
+Morphology: 0
+MovementsImage_Zho: 8
+MultiPrimitive|pysssss: 0
 MultiplicationNode: -1
 NEW_PhotoMaker_Generation: -1
 NNLatentUpscale: -1
