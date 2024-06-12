@@ -1527,10 +1527,10 @@ SeargeLoras: 35
 SeargeMagicBox: 35
 SeargeModelSelector: 35
 SeargeOperatingMode: 35
-SeargeOutput1: -1
-SeargeOutput2: -1
-SeargeOutput3: -1
-SeargeOutput4: -1
+SeargeOutput1: 16
+SeargeOutput2: 16
+SeargeOutput3: 16
+SeargeOutput4: 16
 SeargeOutput5: -1
 SeargeOutput6: -1
 SeargeOutput7: -1
