@@ -1571,10 +1571,10 @@ SegsMaskCombine: 1
 SegsToCombinedMask: 21
 SelectInputs //Browser: 1
 SelfAttentionGuidance: 38
-SemSegPreprocessor: -1
-Sepconv VFI: -1
-SetDefaultImageForSEGS: -1
-SetLatentNoiseMask: -1
+SemSegPreprocessor: 25
+Sepconv VFI: 2
+SetDefaultImageForSEGS: 0
+SetLatentNoiseMask: 86
 Sharpen (mtb): -1
 ShowLayer: -1
 ShowTextForGPT: -1
