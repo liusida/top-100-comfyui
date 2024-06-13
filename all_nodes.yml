@@ -2011,10 +2011,10 @@ easy unSampler: 0
 easy wildcards: 3
 easy xyAny: 0
 easy zero123Loader: 0
-llama-cpp: -1
-llava: -1
-oobaboogaOpenAI: -1
-ttN KSampler_v2: -1
+llama-cpp: 5
+llava: 0
+oobaboogaOpenAI: 0
+ttN KSampler_v2: 0
 ttN advPlot range: -1
 ttN advanced xyPlot: -1
 ttN compareInput: -1
