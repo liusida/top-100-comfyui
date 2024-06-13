@@ -1979,10 +1979,10 @@ easy preMaskDetailerFix: 0
 easy preSampling: 27
 easy preSamplingAdvanced: 0
 easy preSamplingCascade: 0
-easy preSamplingCustom: -1
-easy preSamplingDynamicCFG: -1
-easy preSamplingLayerDiffusion: -1
-easy preSamplingLayerDiffusionADDTL: -1
+easy preSamplingCustom: 1
+easy preSamplingDynamicCFG: 1
+easy preSamplingLayerDiffusion: 8
+easy preSamplingLayerDiffusionADDTL: 4
 easy preSamplingNoiseIn: -1
 easy preSamplingSdTurbo: -1
 easy prompt: -1
