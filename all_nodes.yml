@@ -1208,7 +1208,7 @@ LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
 LoadAndCombinedAudio_: 0
 LoadAndResizeImage: 0
-LoadCLIPSegModels+: -1
+LoadCLIPSegModels+: 0
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
@@ -1275,10 +1275,10 @@ Mask Paste Region: 0
 Mask Smooth Region: 3
 Mask Threshold Region: 0
 Mask To Image (mtb): 0
-MaskBatch+: -1
+MaskBatch+: 0
 MaskBatchMulti: 0
-MaskBlur+: -1
-MaskBoundingBox+: -1
+MaskBlur+: 11
+MaskBoundingBox+: 0
 MaskComposite: 63
 MaskDetailerPipe: 1
 MaskExpandBatch+: -1
