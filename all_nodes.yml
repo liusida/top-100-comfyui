@@ -1971,10 +1971,10 @@ easy pipeEdit: 6
 easy pipeIn: 3
 easy pipeOut: 4
 easy pipeToBasicPipe: 0
-easy portraitMaster: -1
-easy poseEditor: -1
-easy positive: -1
-easy preDetailerFix: -1
+easy portraitMaster: 0
+easy poseEditor: 0
+easy positive: 1
+easy preDetailerFix: 1
 easy preMaskDetailerFix: -1
 easy preSampling: -1
 easy preSamplingAdvanced: -1
