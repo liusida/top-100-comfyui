@@ -1943,10 +1943,10 @@ easy imageToMask: 2
 easy imageUncropFromBBOX: 0
 easy imagesSplitImage: 1
 easy injectNoiseToLatent: 0
-easy instantIDApply: -1
-easy instantIDApplyADV: -1
-easy int: -1
-easy ipadapterApply: -1
+easy instantIDApply: 3
+easy instantIDApplyADV: 0
+easy int: 0
+easy ipadapterApply: 2
 easy ipadapterApplyADV: -1
 easy ipadapterApplyEmbeds: -1
 easy ipadapterApplyEncoder: -1
