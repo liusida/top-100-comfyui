@@ -2003,10 +2003,10 @@ easy stableDiffusion3API: 1
 easy string: 0
 easy styleAlignedBatchAlign: 1
 easy stylesSelector: 3
-easy sv3dLoader: -1
-easy svdLoader: -1
-easy textSwitch: -1
-easy ultralyticsDetectorPipe: -1
+easy sv3dLoader: 0
+easy svdLoader: 0
+easy textSwitch: 0
+easy ultralyticsDetectorPipe: 1
 easy unSampler: -1
 easy wildcards: -1
 easy xyAny: -1
