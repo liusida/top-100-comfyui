@@ -1875,10 +1875,10 @@ easy LLLiteLoader: 0
 'easy XYInputs: Checkpoint': 0
 'easy XYInputs: ControlNet': 0
 'easy XYInputs: Denoise': 0
-'easy XYInputs: Lora': -1
-'easy XYInputs: ModelMergeBlocks': -1
-'easy XYInputs: NegativeCond': -1
-'easy XYInputs: NegativeCondList': -1
+'easy XYInputs: Lora': 0
+'easy XYInputs: ModelMergeBlocks': 0
+'easy XYInputs: NegativeCond': 0
+'easy XYInputs: NegativeCondList': 0
 'easy XYInputs: PositiveCond': -1
 'easy XYInputs: PositiveCondList': -1
 'easy XYInputs: PromptSR': -1
