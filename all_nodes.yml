@@ -129,7 +129,7 @@ AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
-ApplyCLIPSeg+: -1
+ApplyCLIPSeg+: 0
 ApplyInstantID: 56
 ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: 0
@@ -168,7 +168,7 @@ Batch Shake (mtb): 0
 Batch Shape (mtb): 0
 Batch Transform (mtb): 4
 BatchCLIPSeg: 1
-BatchCount+: -1
+BatchCount+: 4
 BatchCropFromMask: 2
 BatchCropFromMaskAdvanced: 0
 BatchUncrop: 1
@@ -217,7 +217,7 @@ CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
-CLIPTextEncodeSDXL+: -1
+CLIPTextEncodeSDXL+: 1
 CLIPTextEncodeSDXLRefiner: 95
 CLIPVisionEncode: 51
 CLIPVisionLoader: 99
@@ -457,7 +457,7 @@ ColorPreprocessor: 25
 ColorToMask: 7
 Colored Image (mtb): 0
 ColorizeDepthmap: 5
-CombineAudioVideo: -1
+CombineAudioVideo: 0
 CombineInput: 0
 CombineRegionalPrompts: 12
 ComfyDeployWebscoketImageInput: 0
