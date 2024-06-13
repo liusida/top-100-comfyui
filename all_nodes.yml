@@ -1915,10 +1915,10 @@ easy fullkSampler: 1
 easy globalSeed: 2
 easy hiresFix: 2
 easy humanSegmentation: 0
-easy icLightApply: -1
-easy if: -1
-easy imageChooser: -1
-easy imageColorMatch: -1
+easy icLightApply: 3
+easy if: 0
+easy imageChooser: 2
+easy imageColorMatch: 2
 easy imageConcat: -1
 easy imageCount: -1
 easy imageCropFromMask: -1
