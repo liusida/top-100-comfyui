@@ -1911,10 +1911,10 @@ easy dynamiCrafterLoader: 0
 easy float: 0
 easy fullCascadeKSampler: 3
 easy fullLoader: 1
-easy fullkSampler: -1
-easy globalSeed: -1
-easy hiresFix: -1
-easy humanSegmentation: -1
+easy fullkSampler: 1
+easy globalSeed: 2
+easy hiresFix: 2
+easy humanSegmentation: 0
 easy icLightApply: -1
 easy if: -1
 easy imageChooser: -1
