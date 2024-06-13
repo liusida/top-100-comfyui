@@ -1285,10 +1285,10 @@ MaskExpandBatch+: 0
 MaskFix+: 0
 MaskFlip+: 9
 MaskFromBatch+: 0
-MaskFromColor+: -1
-MaskFromList+: -1
-MaskFromRGBCMYBW+: -1
-MaskFromSegmentation+: -1
+MaskFromColor+: 4
+MaskFromList+: 0
+MaskFromRGBCMYBW+: 4
+MaskFromSegmentation+: 0
 MaskListMerge_: 0
 MaskListReplace_: 0
 MaskListToMaskBatch: 6
