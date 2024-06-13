@@ -851,7 +851,7 @@ ImageIntensityDetector: 0
 ImageInvert: 73
 ImageListReplace_: 0
 ImageListToBatch+: 8
-ImageListToBatch_: -1
+ImageListToBatch_: 0
 ImageListToImageBatch: 37
 ImageLuminanceDetector: 0
 ImageMaskSwitch: 16
@@ -862,12 +862,12 @@ ImagePadForOutpaint: 55
 ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
 ImagePass: 0
-ImagePosterize+: -1
+ImagePosterize+: 4
 ImageQuantize: 2
 ImageRGBA2RGB: 1
-ImageRandomTransform+: -1
+ImageRandomTransform+: 3
 ImageReceiver: 16
-ImageRemoveAlpha+: -1
+ImageRemoveAlpha+: 0
 ImageRemoveBackground+: -1
 ImageResize+: -1
 ImageResizeKJ: 4
