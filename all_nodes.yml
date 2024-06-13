@@ -1891,10 +1891,10 @@ easy a1111Loader: 26
 easy applyBrushNet: 1
 easy applyFooocusInpaint: 1
 easy applyInpaint: 0
-easy applyPowerPaint: -1
-easy boolean: -1
-easy cascadeKSampler: -1
-easy cascadeLoader: -1
+easy applyPowerPaint: 2
+easy boolean: 1
+easy cascadeKSampler: 0
+easy cascadeLoader: 3
 easy ckptNames: -1
 easy cleanGpuUsed: -1
 easy clearCacheAll: -1
