@@ -485,7 +485,7 @@ Conditioning: 1
 Conditioning Input Switch: 2
 ConditioningAverage: 9
 ConditioningCombine: 97
-ConditioningCombineMultiple+: -1
+ConditioningCombineMultiple+: 4
 ConditioningConcat: 50
 ConditioningMultiCombine: 0
 ConditioningSetArea: 23
@@ -498,7 +498,7 @@ ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
 ConditioningZeroOut: 26
-ConsoleDebug+: -1
+ConsoleDebug+: 5
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
 ConstrainImage|pysssss: 17
@@ -547,7 +547,7 @@ DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
 Debug (mtb): 2
 Debug Number to Console: 1
-DebugTensorShape+: -1
+DebugTensorShape+: 1
 Deep Bump (mtb): 4
 DeepTranslatorCLIPTextEncodeNode: 0
 DeepTranslatorTextNode: 10
@@ -583,7 +583,7 @@ DownloadAndLoadDynamiCrafterModel: 4
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
-DrawText+: -1
+DrawText+: 0
 DualCFGGuider: 36
 DualCLIPLoader: 1
 DummyLatentOut: 0
