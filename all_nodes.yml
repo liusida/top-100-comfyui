@@ -1847,10 +1847,10 @@ Write to Video: 0
 'XY Input: Add/Return Noise': 0
 'XY Input: Aesthetic Score': 0
 'XY Input: CFG Scale': 9
-'XY Input: Checkpoint': -1
-'XY Input: Clip Skip': -1
-'XY Input: Control Net': -1
-'XY Input: Control Net Plot': -1
+'XY Input: Checkpoint': 3
+'XY Input: Clip Skip': 0
+'XY Input: Control Net': 0
+'XY Input: Control Net Plot': 0
 'XY Input: Denoise': -1
 'XY Input: LoRA': -1
 'XY Input: LoRA Plot': -1
