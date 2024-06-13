@@ -1939,10 +1939,10 @@ easy imageSplitGrid: 1
 easy imageSplitList: 3
 easy imageSwitch: 1
 easy imageToBase64: 0
-easy imageToMask: -1
-easy imageUncropFromBBOX: -1
-easy imagesSplitImage: -1
-easy injectNoiseToLatent: -1
+easy imageToMask: 2
+easy imageUncropFromBBOX: 0
+easy imagesSplitImage: 1
+easy injectNoiseToLatent: 0
 easy instantIDApply: -1
 easy instantIDApplyADV: -1
 easy int: -1
