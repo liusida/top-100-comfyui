@@ -1931,10 +1931,10 @@ easy imageRemBg: 12
 easy imageSave: 0
 easy imageScaleDown: 0
 easy imageScaleDownBy: 0
-easy imageScaleDownToSize: -1
-easy imageSize: -1
-easy imageSizeByLongerSide: -1
-easy imageSizeBySide: -1
+easy imageScaleDownToSize: 1
+easy imageSize: 5
+easy imageSizeByLongerSide: 0
+easy imageSizeBySide: 0
 easy imageSplitGrid: -1
 easy imageSplitList: -1
 easy imageSwitch: -1
