@@ -2031,10 +2031,10 @@ ttN pipe2BASIC: 0
 ttN pipe2DETAILER: 0
 ttN pipeEDIT: 0
 ttN pipeEncodeConcat: 0
-ttN pipeIN: -1
-ttN pipeKSampler: -1
-ttN pipeKSamplerAdvanced: -1
-ttN pipeKSamplerAdvanced_v2: -1
+ttN pipeIN: 0
+ttN pipeKSampler: 16
+ttN pipeKSamplerAdvanced: 3
+ttN pipeKSamplerAdvanced_v2: 0
 ttN pipeKSamplerSDXL: -1
 ttN pipeKSamplerSDXL_v2: -1
 ttN pipeKSampler_v2: -1
