@@ -2023,10 +2023,10 @@ ttN conditioning: 0
 ttN debugInput: 0
 ttN float: 0
 ttN hiresfixScale: 14
-ttN imageOutput: -1
-ttN imageREMBG: -1
-ttN int: -1
-ttN multiModelMerge: -1
+ttN imageOutput: 4
+ttN imageREMBG: 3
+ttN int: 0
+ttN multiModelMerge: 4
 ttN pipe2BASIC: -1
 ttN pipe2DETAILER: -1
 ttN pipeEDIT: -1
