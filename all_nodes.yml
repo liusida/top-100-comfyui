@@ -1867,10 +1867,10 @@ XyzPlot //Browser: 1
 Yoloworld_ESAM_DetectorProvider_Zho: 0
 Yoloworld_ESAM_Zho: 19
 Yoloworld_ModelLoader_Zho: 20
-Zoe-DepthMapPreprocessor: -1
-Zoe_DepthAnythingPreprocessor: -1
-dynamicThresholdingFull: -1
-easy LLLiteLoader: -1
+Zoe-DepthMapPreprocessor: 65
+Zoe_DepthAnythingPreprocessor: 6
+dynamicThresholdingFull: 0
+easy LLLiteLoader: 0
 'easy XYInputs: CFG Scale': -1
 'easy XYInputs: Checkpoint': -1
 'easy XYInputs: ControlNet': -1
