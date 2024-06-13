@@ -1935,10 +1935,10 @@ easy imageScaleDownToSize: 1
 easy imageSize: 5
 easy imageSizeByLongerSide: 0
 easy imageSizeBySide: 0
-easy imageSplitGrid: -1
-easy imageSplitList: -1
-easy imageSwitch: -1
-easy imageToBase64: -1
+easy imageSplitGrid: 1
+easy imageSplitList: 3
+easy imageSwitch: 1
+easy imageToBase64: 0
 easy imageToMask: -1
 easy imageUncropFromBBOX: -1
 easy imagesSplitImage: -1
