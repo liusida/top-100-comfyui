@@ -1907,10 +1907,10 @@ easy controlnetNames: 0
 easy controlnetStack: 1
 easy convertAnything: 0
 easy detailerFix: 1
-easy dynamiCrafterLoader: -1
-easy float: -1
-easy fullCascadeKSampler: -1
-easy fullLoader: -1
+easy dynamiCrafterLoader: 0
+easy float: 0
+easy fullCascadeKSampler: 3
+easy fullLoader: 1
 easy fullkSampler: -1
 easy globalSeed: -1
 easy hiresFix: -1
