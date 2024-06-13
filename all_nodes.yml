@@ -1919,10 +1919,10 @@ easy icLightApply: 3
 easy if: 0
 easy imageChooser: 2
 easy imageColorMatch: 2
-easy imageConcat: -1
-easy imageCount: -1
-easy imageCropFromMask: -1
-easy imageDetailTransfer: -1
+easy imageConcat: 1
+easy imageCount: 0
+easy imageCropFromMask: 0
+easy imageDetailTransfer: 1
 easy imageInsetCrop: -1
 easy imageInterrogator: -1
 easy imagePixelPerfect: -1
