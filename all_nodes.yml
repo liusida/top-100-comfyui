@@ -2051,7 +2051,7 @@ ttN text7BOX_concat: 1
 ttN textCycleLine: 0
 ttN textDebug: 3
 ttN tinyLoader: 0
-ttN xyPlot: -1
-unCLIP Checkpoint Loader: -1
-unCLIPCheckpointLoader: -1
-unCLIPConditioning: -1
+ttN xyPlot: 3
+unCLIP Checkpoint Loader: 0
+unCLIPCheckpointLoader: 24
+unCLIPConditioning: 50
