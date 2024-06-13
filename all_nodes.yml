@@ -1903,10 +1903,10 @@ easy comfyLoader: 10
 easy compare: 1
 easy controlnetLoader: 2
 easy controlnetLoaderADV: 1
-easy controlnetNames: -1
-easy controlnetStack: -1
-easy convertAnything: -1
-easy detailerFix: -1
+easy controlnetNames: 0
+easy controlnetStack: 1
+easy convertAnything: 0
+easy detailerFix: 1
 easy dynamiCrafterLoader: -1
 easy float: -1
 easy fullCascadeKSampler: -1
