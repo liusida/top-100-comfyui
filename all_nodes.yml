@@ -612,7 +612,7 @@ Executor: 1
 ExponentialScheduler: 0
 Export API: 0
 Export With Ffmpeg (mtb): 0
-ExtractKeyframes+: -1
+ExtractKeyframes+: 0
 FILM VFI: 40
 FLAVR VFI: 0
 Face Swap (mtb): 6
@@ -660,13 +660,13 @@ Gemini_API_Vsion_ImgURL_Zho: 0
 Gemini_API_Zho: 1
 Gemini_FileUpload_API_S_Zho: 0
 Gemini_File_API_S_Zho: 0
-GenerateFramesByCount: -1
+GenerateFramesByCount: 0
 GenerateNoise: 1
 Get Batch From History (mtb): 0
 Get First Image: 0
 Get Last Image: 1
 GetImageRangeFromBatch: 9
-GetImageSize+: -1
+GetImageSize+: 37
 GetImageSizeAndCount: 4
 GetImageSize_: 10
 GetImagesFromBatchIndexed: 2
@@ -817,7 +817,7 @@ Image to Noise: 0
 Image to Seed: 0
 ImageAddMulti: 0
 ImageAndMaskPreview: 0
-ImageApplyLUT+: -1
+ImageApplyLUT+: 0
 ImageBatch: 62
 ImageBatchMulti: 4
 ImageBatchMultiple+: -1
