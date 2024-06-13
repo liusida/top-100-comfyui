@@ -1295,8 +1295,8 @@ MaskListToMaskBatch: 6
 MaskOptFlow: 0
 MaskOrImageToWeight: 0
 MaskPainter: 0
-MaskPreview+: -1
-MaskSmooth+: -1
+MaskPreview+: 55
+MaskSmooth+: 0
 MaskToImage: 97
 MaskToSEGS: 59
 MaskToSEGS_for_AnimateDiff: 0
@@ -1325,7 +1325,7 @@ MiDaS-NormalMapPreprocessor: 35
 MirroredImage: 0
 Model Input Switch: 0
 Model Patch Seamless (mtb): 3
-ModelCompile+: -1
+ModelCompile+: 0
 ModelMergeAdd: 0
 ModelMergeBlocks: 1
 ModelMergeSD1: 0
@@ -1394,7 +1394,7 @@ Pick From Batch (mtb): 0
 PixelKSampleHookCombine: 7
 PixelKSampleUpscalerProvider: 13
 PixelKSampleUpscalerProviderPipe: 9
-PixelOEPixelize+: -1
+PixelOEPixelize+: 0
 PixelPerfectResolution: 23
 PixelTiledKSampleUpscalerProvider: 2
 PixelTiledKSampleUpscalerProviderPipe: 2
