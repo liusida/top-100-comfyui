@@ -212,7 +212,7 @@ CLIPSeg Model Loader: 5
 CLIPSegDetectorProvider: 3
 CLIPSetLastLayer: 97
 CLIPTextEncode: 86
-CLIPTextEncode (BlenderNeko Advanced + NSP): -1
+CLIPTextEncode (BlenderNeko Advanced + NSP): 0
 CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeSD3: 0
