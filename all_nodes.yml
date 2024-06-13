@@ -1851,10 +1851,10 @@ Write to Video: 0
 'XY Input: Clip Skip': 0
 'XY Input: Control Net': 0
 'XY Input: Control Net Plot': 0
-'XY Input: Denoise': -1
-'XY Input: LoRA': -1
-'XY Input: LoRA Plot': -1
-'XY Input: LoRA Stacks': -1
+'XY Input: Denoise': 4
+'XY Input: LoRA': 1
+'XY Input: LoRA Plot': 1
+'XY Input: LoRA Stacks': 0
 'XY Input: Manual XY Entry': -1
 'XY Input: Prompt S/R': -1
 'XY Input: Refiner On/Off': -1
