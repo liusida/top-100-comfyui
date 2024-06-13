@@ -1991,10 +1991,10 @@ easy promptLine: 5
 easy promptList: 0
 easy promptReplace: 1
 easy rangeFloat: 0
-easy rangeInt: -1
-easy removeLocalImage: -1
-easy samLoaderPipe: -1
-easy seed: -1
+easy rangeInt: 0
+easy removeLocalImage: 0
+easy samLoaderPipe: 1
+easy seed: 2
 easy showAnything: -1
 easy showLoaderSettingsNames: -1
 easy showSpentTime: -1
