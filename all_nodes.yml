@@ -1967,10 +1967,10 @@ easy loadImageBase64: 17
 easy loraStack: 4
 easy negative: 1
 easy pipeBatchIndex: 0
-easy pipeEdit: -1
-easy pipeIn: -1
-easy pipeOut: -1
-easy pipeToBasicPipe: -1
+easy pipeEdit: 6
+easy pipeIn: 3
+easy pipeOut: 4
+easy pipeToBasicPipe: 0
 easy portraitMaster: -1
 easy poseEditor: -1
 easy positive: -1
