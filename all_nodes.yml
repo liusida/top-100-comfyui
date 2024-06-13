@@ -1899,10 +1899,10 @@ easy ckptNames: 1
 easy cleanGpuUsed: 2
 easy clearCacheAll: 0
 easy clearCacheKey: 0
-easy comfyLoader: -1
-easy compare: -1
-easy controlnetLoader: -1
-easy controlnetLoaderADV: -1
+easy comfyLoader: 10
+easy compare: 1
+easy controlnetLoader: 2
+easy controlnetLoaderADV: 1
 easy controlnetNames: -1
 easy controlnetStack: -1
 easy convertAnything: -1
