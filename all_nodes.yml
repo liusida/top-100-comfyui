@@ -833,11 +833,11 @@ ImageCompositeFromMaskBatch+: 0
 ImageCompositeMasked: 77
 ImageConcanate: 14
 ImageCrop: 49
-ImageCrop+: -1
+ImageCrop+: 15
 ImageCropByAlpha: 4
-ImageDesaturate+: -1
-ImageEnhanceDifference+: -1
-ImageExpandBatch+: -1
+ImageDesaturate+: 4
+ImageEnhanceDifference+: 1
+ImageExpandBatch+: 0
 ImageFlip+: -1
 ImageFromBatch: 9
 ImageFromBatch+: -1
