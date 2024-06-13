@@ -1887,10 +1887,10 @@ easy LLLiteLoader: 0
 'easy XYInputs: Steps': 1
 easy XYPlot: 0
 easy XYPlotAdvanced: 1
-easy a1111Loader: -1
-easy applyBrushNet: -1
-easy applyFooocusInpaint: -1
-easy applyInpaint: -1
+easy a1111Loader: 26
+easy applyBrushNet: 1
+easy applyFooocusInpaint: 1
+easy applyInpaint: 0
 easy applyPowerPaint: -1
 easy boolean: -1
 easy cascadeKSampler: -1
