@@ -1640,7 +1640,7 @@ ShowLayer: 4
 ShowTextForGPT: 12
 ShowText|pysssss: 99
 ShufflePreprocessor: 5
-SimpleMath+: -1
+SimpleMath+: 29
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
@@ -1754,7 +1754,7 @@ TomePatchModel: 3
 ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 Transform Image (mtb): 3
-TransitionMask+: -1
+TransitionMask+: 0
 TransparentImage: 6
 TripleCLIPLoader: 5
 TripoSRModelLoader: 14
@@ -1837,8 +1837,8 @@ VideoCombine_Adv: 0
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 WD14Tagger|pysssss: 82
-WebcamCapture: -1
-WeightScheduleConvert: -1
+WebcamCapture: 1
+WeightScheduleConvert: 1
 WeightScheduleExtend: -1
 WidgetToString: -1
 WildcardPromptFromString: -1
