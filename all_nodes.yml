@@ -1895,10 +1895,10 @@ easy applyPowerPaint: 2
 easy boolean: 1
 easy cascadeKSampler: 0
 easy cascadeLoader: 3
-easy ckptNames: -1
-easy cleanGpuUsed: -1
-easy clearCacheAll: -1
-easy clearCacheKey: -1
+easy ckptNames: 1
+easy cleanGpuUsed: 2
+easy clearCacheAll: 0
+easy clearCacheKey: 0
 easy comfyLoader: -1
 easy compare: -1
 easy controlnetLoader: -1
