@@ -1999,10 +1999,10 @@ easy showAnything: 3
 easy showLoaderSettingsNames: 0
 easy showSpentTime: 0
 easy showTensorShape: 0
-easy stableDiffusion3API: -1
-easy string: -1
-easy styleAlignedBatchAlign: -1
-easy stylesSelector: -1
+easy stableDiffusion3API: 1
+easy string: 0
+easy styleAlignedBatchAlign: 1
+easy stylesSelector: 3
 easy sv3dLoader: -1
 easy svdLoader: -1
 easy textSwitch: -1
