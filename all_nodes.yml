@@ -1058,7 +1058,7 @@ LatentUpscaler: 0
 'LayerFilter: ChannelShake': 1
 'LayerFilter: ColorMap': 1
 'LayerFilter: Film': 1
-'LayerFilter: FilmV2': -1
+'LayerFilter: FilmV2': 0
 'LayerFilter: GaussianBlur': 1
 'LayerFilter: HDREffects': 4
 'LayerFilter: LightLeak': 1
@@ -1078,7 +1078,7 @@ LatentUpscaler: 0
 'LayerMask: MaskEdgeUltraDetail': 2
 'LayerMask: MaskEdgeUltraDetail V2': 4
 'LayerMask: MaskGradient': 5
-'LayerMask: MaskGrain': -1
+'LayerMask: MaskGrain': 0
 'LayerMask: MaskGrow': 2
 'LayerMask: MaskInvert': 3
 'LayerMask: MaskMotionBlur': 1
@@ -1129,7 +1129,7 @@ LatentUpscaler: 0
 'LayerUtility: GetImageSize': 7
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
-'LayerUtility: HLFrequencyDetailRestore': -1
+'LayerUtility: HLFrequencyDetailRestore': 1
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
 'LayerUtility: ImageBlend': 11
@@ -1206,7 +1206,7 @@ Load Pose KeyPoints: 0
 Load Text File: 1
 LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
-LoadAndCombinedAudio_: -1
+LoadAndCombinedAudio_: 0
 LoadAndResizeImage: 0
 LoadCLIPSegModels+: -1
 LoadHDRImage: 0
