@@ -2035,10 +2035,10 @@ ttN pipeIN: 0
 ttN pipeKSampler: 16
 ttN pipeKSamplerAdvanced: 3
 ttN pipeKSamplerAdvanced_v2: 0
-ttN pipeKSamplerSDXL: -1
-ttN pipeKSamplerSDXL_v2: -1
-ttN pipeKSampler_v2: -1
-ttN pipeLoader: -1
+ttN pipeKSamplerSDXL: 3
+ttN pipeKSamplerSDXL_v2: 0
+ttN pipeKSampler_v2: 0
+ttN pipeLoader: 24
 ttN pipeLoaderSDXL: -1
 ttN pipeLoaderSDXL_v2: -1
 ttN pipeLoader_v2: -1
