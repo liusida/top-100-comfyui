@@ -1863,10 +1863,10 @@ Write to Video: 0
 'XY Input: Steps': 10
 'XY Input: VAE': 0
 XY Plot: 21
-XyzPlot //Browser: -1
-Yoloworld_ESAM_DetectorProvider_Zho: -1
-Yoloworld_ESAM_Zho: -1
-Yoloworld_ModelLoader_Zho: -1
+XyzPlot //Browser: 1
+Yoloworld_ESAM_DetectorProvider_Zho: 0
+Yoloworld_ESAM_Zho: 19
+Yoloworld_ModelLoader_Zho: 20
 Zoe-DepthMapPreprocessor: -1
 Zoe_DepthAnythingPreprocessor: -1
 dynamicThresholdingFull: -1
