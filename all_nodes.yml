@@ -1963,10 +1963,10 @@ easy kSamplerSDTurbo: 0
 easy kSamplerTiled: 0
 easy latentCompositeMaskedWithCond: 0
 easy latentNoisy: 0
-easy loadImageBase64: -1
-easy loraStack: -1
-easy negative: -1
-easy pipeBatchIndex: -1
+easy loadImageBase64: 17
+easy loraStack: 4
+easy negative: 1
+easy pipeBatchIndex: 0
 easy pipeEdit: -1
 easy pipeIn: -1
 easy pipeOut: -1
