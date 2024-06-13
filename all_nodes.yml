@@ -1883,10 +1883,10 @@ easy LLLiteLoader: 0
 'easy XYInputs: PositiveCondList': 0
 'easy XYInputs: PromptSR': 0
 'easy XYInputs: Sampler/Scheduler': 0
-'easy XYInputs: Seeds++ Batch': -1
-'easy XYInputs: Steps': -1
-easy XYPlot: -1
-easy XYPlotAdvanced: -1
+'easy XYInputs: Seeds++ Batch': 1
+'easy XYInputs: Steps': 1
+easy XYPlot: 0
+easy XYPlotAdvanced: 1
 easy a1111Loader: -1
 easy applyBrushNet: -1
 easy applyFooocusInpaint: -1
