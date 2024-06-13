@@ -1983,10 +1983,10 @@ easy preSamplingCustom: 1
 easy preSamplingDynamicCFG: 1
 easy preSamplingLayerDiffusion: 8
 easy preSamplingLayerDiffusionADDTL: 4
-easy preSamplingNoiseIn: -1
-easy preSamplingSdTurbo: -1
-easy prompt: -1
-easy promptConcat: -1
+easy preSamplingNoiseIn: 1
+easy preSamplingSdTurbo: 0
+easy prompt: 1
+easy promptConcat: 1
 easy promptLine: -1
 easy promptList: -1
 easy promptReplace: -1
