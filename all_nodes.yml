@@ -2027,10 +2027,10 @@ ttN imageOutput: 4
 ttN imageREMBG: 3
 ttN int: 0
 ttN multiModelMerge: 4
-ttN pipe2BASIC: -1
-ttN pipe2DETAILER: -1
-ttN pipeEDIT: -1
-ttN pipeEncodeConcat: -1
+ttN pipe2BASIC: 0
+ttN pipe2DETAILER: 0
+ttN pipeEDIT: 0
+ttN pipeEncodeConcat: 0
 ttN pipeIN: -1
 ttN pipeKSampler: -1
 ttN pipeKSamplerAdvanced: -1
