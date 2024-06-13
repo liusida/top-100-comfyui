@@ -36,5 +36,6 @@ def valid_filename(filename):
     return filename
 
 def valid_search_query(string):
-    string = re.sub(r'\((.*?)\)', r'\1', string)
+    string = re.sub(r'\((.*?)\)', r'\1', string)  # Remove content within parentheses
+    string = string.replace('+', '')  # Remove the '+' character
     return string
