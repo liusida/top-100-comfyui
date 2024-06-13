@@ -1871,10 +1871,10 @@ Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
 dynamicThresholdingFull: 0
 easy LLLiteLoader: 0
-'easy XYInputs: CFG Scale': -1
-'easy XYInputs: Checkpoint': -1
-'easy XYInputs: ControlNet': -1
-'easy XYInputs: Denoise': -1
+'easy XYInputs: CFG Scale': 0
+'easy XYInputs: Checkpoint': 0
+'easy XYInputs: ControlNet': 0
+'easy XYInputs: Denoise': 0
 'easy XYInputs: Lora': -1
 'easy XYInputs: ModelMergeBlocks': -1
 'easy XYInputs: NegativeCond': -1
