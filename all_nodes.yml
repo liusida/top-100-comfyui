@@ -2015,10 +2015,10 @@ llama-cpp: 5
 llava: 0
 oobaboogaOpenAI: 0
 ttN KSampler_v2: 0
-ttN advPlot range: -1
-ttN advanced xyPlot: -1
-ttN compareInput: -1
-ttN concat: -1
+ttN advPlot range: 0
+ttN advanced xyPlot: 0
+ttN compareInput: 0
+ttN concat: 1
 ttN conditioning: -1
 ttN debugInput: -1
 ttN float: -1
