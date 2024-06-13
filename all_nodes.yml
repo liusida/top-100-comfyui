@@ -1281,10 +1281,10 @@ MaskBlur+: 11
 MaskBoundingBox+: 0
 MaskComposite: 63
 MaskDetailerPipe: 1
-MaskExpandBatch+: -1
-MaskFix+: -1
-MaskFlip+: -1
-MaskFromBatch+: -1
+MaskExpandBatch+: 0
+MaskFix+: 0
+MaskFlip+: 9
+MaskFromBatch+: 0
 MaskFromColor+: -1
 MaskFromList+: -1
 MaskFromRGBCMYBW+: -1
