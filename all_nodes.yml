@@ -1843,10 +1843,10 @@ WeightScheduleExtend: 0
 WidgetToString: 0
 WildcardPromptFromString: 0
 Write to GIF: 0
-Write to Video: -1
-'XY Input: Add/Return Noise': -1
-'XY Input: Aesthetic Score': -1
-'XY Input: CFG Scale': -1
+Write to Video: 0
+'XY Input: Add/Return Noise': 0
+'XY Input: Aesthetic Score': 0
+'XY Input: CFG Scale': 9
 'XY Input: Checkpoint': -1
 'XY Input: Clip Skip': -1
 'XY Input: Control Net': -1
