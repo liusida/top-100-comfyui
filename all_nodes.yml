@@ -880,7 +880,7 @@ ImageSender: 16
 ImageSharpen: 13
 ImageSizeAndBatchSize: 8
 ImageTile+: 0
-ImageToDevice+: -1
+ImageToDevice+: 0
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
 ImageUpscaleWithModel: 97
@@ -1004,8 +1004,8 @@ KSamplerAdvanced: 95
 KSamplerAdvancedProvider: 25
 KSamplerProvider: 6
 KSamplerSelect: 80
-KSamplerVariationsStochastic+: -1
-KSamplerVariationsWithNoise+: -1
+KSamplerVariationsStochastic+: 0
+KSamplerVariationsWithNoise+: 0
 KarrasScheduler: 1
 LM_Studio: 4
 Latent Batch: 0
@@ -1054,7 +1054,7 @@ LatentUpscaler: 0
 'LayerColor: Levels': 1
 'LayerColor: RGB': 5
 'LayerColor: YUV': 3
-'LayerFilter: AddGrain': -1
+'LayerFilter: AddGrain': 0
 'LayerFilter: ChannelShake': 1
 'LayerFilter: ColorMap': 1
 'LayerFilter: Film': 1
