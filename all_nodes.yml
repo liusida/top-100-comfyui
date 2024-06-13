@@ -2007,10 +2007,10 @@ easy sv3dLoader: 0
 easy svdLoader: 0
 easy textSwitch: 0
 easy ultralyticsDetectorPipe: 1
-easy unSampler: -1
-easy wildcards: -1
-easy xyAny: -1
-easy zero123Loader: -1
+easy unSampler: 0
+easy wildcards: 3
+easy xyAny: 0
+easy zero123Loader: 0
 llama-cpp: -1
 llava: -1
 oobaboogaOpenAI: -1
