@@ -1947,10 +1947,10 @@ easy instantIDApply: 3
 easy instantIDApplyADV: 0
 easy int: 0
 easy ipadapterApply: 2
-easy ipadapterApplyADV: -1
-easy ipadapterApplyEmbeds: -1
-easy ipadapterApplyEncoder: -1
-easy ipadapterApplyFromParams: -1
+easy ipadapterApplyADV: 0
+easy ipadapterApplyEmbeds: 0
+easy ipadapterApplyEncoder: 0
+easy ipadapterApplyFromParams: 0
 easy ipadapterApplyRegional: -1
 easy ipadapterStyleComposition: -1
 easy isSDXL: -1
