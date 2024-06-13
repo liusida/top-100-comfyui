@@ -2039,10 +2039,10 @@ ttN pipeKSamplerSDXL: 3
 ttN pipeKSamplerSDXL_v2: 0
 ttN pipeKSampler_v2: 0
 ttN pipeLoader: 24
-ttN pipeLoaderSDXL: -1
-ttN pipeLoaderSDXL_v2: -1
-ttN pipeLoader_v2: -1
-ttN pipeLoraStack: -1
+ttN pipeLoaderSDXL: 3
+ttN pipeLoaderSDXL_v2: 0
+ttN pipeLoader_v2: 0
+ttN pipeLoraStack: 0
 ttN pipeOUT: -1
 ttN seed: -1
 ttN text: -1
