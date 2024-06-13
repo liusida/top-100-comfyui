@@ -1951,10 +1951,10 @@ easy ipadapterApplyADV: 0
 easy ipadapterApplyEmbeds: 0
 easy ipadapterApplyEncoder: 0
 easy ipadapterApplyFromParams: 0
-easy ipadapterApplyRegional: -1
-easy ipadapterStyleComposition: -1
-easy isSDXL: -1
-easy joinImageBatch: -1
+easy ipadapterApplyRegional: 0
+easy ipadapterStyleComposition: 0
+easy isSDXL: 0
+easy joinImageBatch: 0
 easy kSampler: -1
 easy kSamplerDownscaleUnet: -1
 easy kSamplerInpainting: -1
