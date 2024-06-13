@@ -7,14 +7,14 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `2.9k` | **Created at**: `2024-06-11`
+**Stars**: `2.9k` | **Created at**: `2024-06-12`
 
 
 None
 <details><summary>Included Nodes (30)</summary>
 
  - <sub>IPAAdapterFaceIDBatch</sub>, <sub>[IPAdapter](node_examples/IPAdapter.md)</sub>, [IPAdapterAdvanced🌟](node_examples/IPAdapterAdvanced.md), <sub>[IPAdapterBatch](node_examples/IPAdapterBatch.md)</sub>, <sub>[IPAdapterCombineEmbeds](node_examples/IPAdapterCombineEmbeds.md)</sub>, <sub>[IPAdapterCombineParams](node_examples/IPAdapterCombineParams.md)</sub>, <sub>IPAdapterCombineWeights</sub>, <sub>[IPAdapterEmbeds](node_examples/IPAdapterEmbeds.md)</sub>, <sub>[IPAdapterEmbedsBatch](node_examples/IPAdapterEmbedsBatch.md)</sub>, [IPAdapterEncoder🌟](node_examples/IPAdapterEncoder.md), [IPAdapterFaceID🌟](node_examples/IPAdapterFaceID.md), <sub>[IPAdapterFromParams](node_examples/IPAdapterFromParams.md)</sub>, <sub>[IPAdapterInsightFaceLoader](node_examples/IPAdapterInsightFaceLoader.md)</sub>, <sub>IPAdapterLoadEmbeds</sub>, [IPAdapterModelLoader🌟](node_examples/IPAdapterModelLoader.md), <sub>IPAdapterMS</sub>, <sub>[IPAdapterNoise](node_examples/IPAdapterNoise.md)</sub>, <sub>[IPAdapterPromptScheduleFromWeightsStrategy](node_examples/IPAdapterPromptScheduleFromWeightsStrategy.md)</sub>, <sub>[IPAdapterRegionalConditioning](node_examples/IPAdapterRegionalConditioning.md)</sub>, <sub>[IPAdapterSaveEmbeds](node_examples/IPAdapterSaveEmbeds.md)</sub>, <sub>[IPAdapterStyleComposition](node_examples/IPAdapterStyleComposition.md)</sub>, <sub>IPAdapterStyleCompositionBatch</sub>, <sub>[IPAdapterTiled](node_examples/IPAdapterTiled.md)</sub>, <sub>[IPAdapterTiledBatch](node_examples/IPAdapterTiledBatch.md)</sub>, [IPAdapterUnifiedLoader🌟](node_examples/IPAdapterUnifiedLoader.md), <sub>IPAdapterUnifiedLoaderCommunity</sub>, <sub>[IPAdapterUnifiedLoaderFaceID](node_examples/IPAdapterUnifiedLoaderFaceID.md)</sub>, <sub>[IPAdapterWeights](node_examples/IPAdapterWeights.md)</sub>, <sub>[IPAdapterWeightsFromStrategy](node_examples/IPAdapterWeightsFromStrategy.md)</sub>
- - <sub>PrepImageForClipVision</sub>
+ - [PrepImageForClipVision🌟](node_examples/PrepImageForClipVision.md)
 </details>
 
 
@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `2.2k` | **Created at**: `2024-06-11`
+**Stars**: `2.2k` | **Created at**: `2024-06-12`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -41,7 +41,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `1.6k` | **Created at**: `2024-06-11`
+**Stars**: `1.6k` | **Created at**: `2024-06-12`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -56,7 +56,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `1.5k` | **Created at**: `2024-06-11`
+**Stars**: `1.5k` | **Created at**: `2024-06-12`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -70,12 +70,12 @@ ComfyUI's ControlNet Auxiliary Preprocessors
  - [HEDPreprocessor🌟](node_examples/HEDPreprocessor.md), <sub>[HintImageEnchance](node_examples/HintImageEnchance.md)</sub>
  - <sub>[ImageGenResolutionFromImage](node_examples/ImageGenResolutionFromImage.md)</sub>, <sub>[ImageGenResolutionFromLatent](node_examples/ImageGenResolutionFromLatent.md)</sub>, <sub>ImageIntensityDetector</sub>, <sub>ImageLuminanceDetector</sub>, <sub>[InpaintPreprocessor](node_examples/InpaintPreprocessor.md)</sub>
  - [LeReS-DepthMapPreprocessor🌟](node_examples/LeReS-DepthMapPreprocessor.md), [LineArtPreprocessor🌟](node_examples/LineArtPreprocessor.md), <sub>[LineartStandardPreprocessor](node_examples/LineartStandardPreprocessor.md)</sub>
- - <sub>[M-LSDPreprocessor](node_examples/M-LSDPreprocessor.md)</sub>, <sub>[Manga2Anime_LineArt_Preprocessor](node_examples/Manga2Anime_LineArt_Preprocessor.md)</sub>, <sub>MaskOptFlow</sub>, <sub>MediaPipe-FaceMeshPreprocessor</sub>, <sub>MeshGraphormer+ImpactDetector-DepthMapPreprocessor</sub>, <sub>MeshGraphormer-DepthMapPreprocessor</sub>, <sub>Metric3D-DepthMapPreprocessor</sub>, <sub>Metric3D-NormalMapPreprocessor</sub>, <sub>MiDaS-DepthMapPreprocessor</sub>, <sub>MiDaS-NormalMapPreprocessor</sub>
- - <sub>OneFormer-ADE20K-SemSegPreprocessor</sub>, <sub>OneFormer-COCO-SemSegPreprocessor</sub>, <sub>OpenposePreprocessor</sub>
- - <sub>PiDiNetPreprocessor</sub>, <sub>PixelPerfectResolution</sub>
- - <sub>SAMPreprocessor</sub>, <sub>SavePoseKpsAsJsonFile</sub>, <sub>Scribble_PiDiNet_Preprocessor</sub>, <sub>Scribble_XDoG_Preprocessor</sub>, <sub>ScribblePreprocessor</sub>, <sub>SemSegPreprocessor</sub>, <sub>ShufflePreprocessor</sub>
- - <sub>TEEDPreprocessor</sub>, <sub>TilePreprocessor</sub>, <sub>TTPlanet_TileGF_Preprocessor</sub>, <sub>TTPlanet_TileSimple_Preprocessor</sub>
- - <sub>UniFormer-SemSegPreprocessor</sub>, <sub>Unimatch_OptFlowPreprocessor</sub>, <sub>UpperBodyTrackingFromPoseKps</sub>
+ - <sub>[M-LSDPreprocessor](node_examples/M-LSDPreprocessor.md)</sub>, <sub>[Manga2Anime_LineArt_Preprocessor](node_examples/Manga2Anime_LineArt_Preprocessor.md)</sub>, <sub>MaskOptFlow</sub>, <sub>[MediaPipe-FaceMeshPreprocessor](node_examples/MediaPipe-FaceMeshPreprocessor.md)</sub>, <sub>MeshGraphormer+ImpactDetector-DepthMapPreprocessor</sub>, <sub>[MeshGraphormer-DepthMapPreprocessor](node_examples/MeshGraphormer-DepthMapPreprocessor.md)</sub>, <sub>Metric3D-DepthMapPreprocessor</sub>, <sub>Metric3D-NormalMapPreprocessor</sub>, [MiDaS-DepthMapPreprocessor🌟](node_examples/MiDaS-DepthMapPreprocessor.md), <sub>[MiDaS-NormalMapPreprocessor](node_examples/MiDaS-NormalMapPreprocessor.md)</sub>
+ - <sub>[OneFormer-ADE20K-SemSegPreprocessor](node_examples/OneFormer-ADE20K-SemSegPreprocessor.md)</sub>, <sub>[OneFormer-COCO-SemSegPreprocessor](node_examples/OneFormer-COCO-SemSegPreprocessor.md)</sub>, [OpenposePreprocessor🌟](node_examples/OpenposePreprocessor.md)
+ - <sub>[PiDiNetPreprocessor](node_examples/PiDiNetPreprocessor.md)</sub>, <sub>[PixelPerfectResolution](node_examples/PixelPerfectResolution.md)</sub>
+ - <sub>[SAMPreprocessor](node_examples/SAMPreprocessor.md)</sub>, <sub>[SavePoseKpsAsJsonFile](node_examples/SavePoseKpsAsJsonFile.md)</sub>, <sub>Scribble_PiDiNet_Preprocessor</sub>, <sub>[Scribble_XDoG_Preprocessor](node_examples/Scribble_XDoG_Preprocessor.md)</sub>, <sub>[ScribblePreprocessor](node_examples/ScribblePreprocessor.md)</sub>, <sub>[SemSegPreprocessor](node_examples/SemSegPreprocessor.md)</sub>, <sub>[ShufflePreprocessor](node_examples/ShufflePreprocessor.md)</sub>
+ - <sub>[TEEDPreprocessor](node_examples/TEEDPreprocessor.md)</sub>, <sub>[TilePreprocessor](node_examples/TilePreprocessor.md)</sub>, <sub>TTPlanet_TileGF_Preprocessor</sub>, <sub>TTPlanet_TileSimple_Preprocessor</sub>
+ - <sub>[UniFormer-SemSegPreprocessor](node_examples/UniFormer-SemSegPreprocessor.md)</sub>, <sub>Unimatch_OptFlowPreprocessor</sub>, <sub>UpperBodyTrackingFromPoseKps</sub>
  - <sub>Zoe-DepthMapPreprocessor</sub>, <sub>Zoe_DepthAnythingPreprocessor</sub>
 </details>
 
@@ -86,13 +86,13 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.4k` | **Created at**: `2024-06-11`
+**Stars**: `1.4k` | **Created at**: `2024-06-13`
 
 
 肖像大师 中文版 comfyui-portrait-master
 <details><summary>Included Nodes (1)</summary>
 
- - <sub>PortraitMaster_中文版</sub>
+ - <sub>[PortraitMaster_中文版](node_examples/PortraitMaster_中文版.md)</sub>
 </details>
 
 
@@ -102,7 +102,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `1.3k` | **Created at**: `2024-06-11`
+**Stars**: `1.3k` | **Created at**: `2024-06-12`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -117,14 +117,14 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
  - <sub>[ImageListToImageBatch](node_examples/ImageListToImageBatch.md)</sub>, <sub>[ImageMaskSwitch](node_examples/ImageMaskSwitch.md)</sub>, <sub>[ImageReceiver](node_examples/ImageReceiver.md)</sub>, <sub>[ImageSender](node_examples/ImageSender.md)</sub>, <sub>[ImpactAssembleSEGS](node_examples/ImpactAssembleSEGS.md)</sub>, <sub>ImpactCombineConditionings</sub>, <sub>[ImpactCompare](node_examples/ImpactCompare.md)</sub>, <sub>ImpactConcatConditionings</sub>, <sub>[ImpactConditionalBranch](node_examples/ImpactConditionalBranch.md)</sub>, <sub>ImpactConditionalBranchSelMode</sub>, <sub>[ImpactConditionalStopIteration](node_examples/ImpactConditionalStopIteration.md)</sub>, <sub>ImpactControlBridge</sub>, <sub>ImpactControlNetApplyAdvancedSEGS</sub>, <sub>[ImpactControlNetApplySEGS](node_examples/ImpactControlNetApplySEGS.md)</sub>, <sub>ImpactControlNetClearSEGS</sub>, <sub>ImpactConvertDataType</sub>, <sub>ImpactCount_Elts_in_SEGS</sub>, <sub>[ImpactDecomposeSEGS](node_examples/ImpactDecomposeSEGS.md)</sub>, <sub>ImpactDilate_Mask_SEG_ELT</sub>, <sub>[ImpactDilateMask](node_examples/ImpactDilateMask.md)</sub>, <sub>[ImpactDilateMaskInSEGS](node_examples/ImpactDilateMaskInSEGS.md)</sub>, <sub>ImpactDummyInput</sub>, <sub>[ImpactEdit_SEG_ELT](node_examples/ImpactEdit_SEG_ELT.md)</sub>, <sub>[ImpactFloat](node_examples/ImpactFloat.md)</sub>, <sub>[ImpactFrom_SEG_ELT](node_examples/ImpactFrom_SEG_ELT.md)</sub>, <sub>ImpactFrom_SEG_ELT_bbox</sub>, <sub>[ImpactFrom_SEG_ELT_crop_region](node_examples/ImpactFrom_SEG_ELT_crop_region.md)</sub>, <sub>[ImpactGaussianBlurMask](node_examples/ImpactGaussianBlurMask.md)</sub>, <sub>ImpactGaussianBlurMaskInSEGS</sub>, <sub>ImpactHFTransformersClassifierProvider</sub>, <sub>ImpactIfNone</sub>, <sub>[ImpactImageBatchToImageList](node_examples/ImpactImageBatchToImageList.md)</sub>, <sub>[ImpactImageInfo](node_examples/ImpactImageInfo.md)</sub>, <sub>[ImpactInt](node_examples/ImpactInt.md)</sub>, <sub>[ImpactInversedSwitch](node_examples/ImpactInversedSwitch.md)</sub>, <sub>[ImpactIPAdapterApplySEGS](node_examples/ImpactIPAdapterApplySEGS.md)</sub>, <sub>ImpactIsNotEmptySEGS</sub>, <sub>[ImpactKSamplerAdvancedBasicPipe](node_examples/ImpactKSamplerAdvancedBasicPipe.md)</sub>, <sub>[ImpactKSamplerBasicPipe](node_examples/ImpactKSamplerBasicPipe.md)</sub>, <sub>[ImpactLatentInfo](node_examples/ImpactLatentInfo.md)</sub>, <sub>ImpactLogger</sub>, <sub>ImpactLogicalOperators</sub>, <sub>[ImpactMakeImageBatch](node_examples/ImpactMakeImageBatch.md)</sub>, <sub>[ImpactMakeImageList](node_examples/ImpactMakeImageList.md)</sub>, <sub>[ImpactMakeTileSEGS](node_examples/ImpactMakeTileSEGS.md)</sub>, <sub>[ImpactMinMax](node_examples/ImpactMinMax.md)</sub>, <sub>[ImpactNeg](node_examples/ImpactNeg.md)</sub>, <sub>ImpactNodeSetMuteState</sub>, <sub>ImpactQueueTrigger</sub>, <sub>ImpactQueueTriggerCountdown</sub>, <sub>ImpactRemoteBoolean</sub>, <sub>ImpactRemoteInt</sub>, <sub>ImpactScaleBy_BBOX_SEG_ELT</sub>, <sub>ImpactSchedulerAdapter</sub>, <sub>[ImpactSegsAndMask](node_examples/ImpactSegsAndMask.md)</sub>, <sub>ImpactSegsAndMaskForEach</sub>, <sub>ImpactSEGSClassify</sub>, <sub>ImpactSEGSConcat</sub>, <sub>ImpactSEGSLabelAssign</sub>, <sub>ImpactSEGSLabelFilter</sub>, <sub>[ImpactSEGSOrderedFilter](node_examples/ImpactSEGSOrderedFilter.md)</sub>, <sub>ImpactSEGSPicker</sub>, <sub>ImpactSEGSRangeFilter</sub>, <sub>[ImpactSEGSToMaskBatch](node_examples/ImpactSEGSToMaskBatch.md)</sub>, <sub>[ImpactSEGSToMaskList](node_examples/ImpactSEGSToMaskList.md)</sub>, <sub>ImpactSetWidgetValue</sub>, <sub>[ImpactSimpleDetectorSEGS](node_examples/ImpactSimpleDetectorSEGS.md)</sub>, <sub>[ImpactSimpleDetectorSEGS_for_AD](node_examples/ImpactSimpleDetectorSEGS_for_AD.md)</sub>, <sub>[ImpactSimpleDetectorSEGSPipe](node_examples/ImpactSimpleDetectorSEGSPipe.md)</sub>, <sub>ImpactSleep</sub>, <sub>ImpactStringSelector</sub>, <sub>[ImpactSwitch](node_examples/ImpactSwitch.md)</sub>, <sub>[ImpactValueReceiver](node_examples/ImpactValueReceiver.md)</sub>, <sub>[ImpactValueSender](node_examples/ImpactValueSender.md)</sub>, <sub>[ImpactWildcardEncode](node_examples/ImpactWildcardEncode.md)</sub>, <sub>[ImpactWildcardProcessor](node_examples/ImpactWildcardProcessor.md)</sub>, <sub>[IterativeImageUpscale](node_examples/IterativeImageUpscale.md)</sub>, <sub>[IterativeLatentUpscale](node_examples/IterativeLatentUpscale.md)</sub>
  - <sub>[KSamplerAdvancedProvider](node_examples/KSamplerAdvancedProvider.md)</sub>, <sub>[KSamplerProvider](node_examples/KSamplerProvider.md)</sub>
  - <sub>[LatentPixelScale](node_examples/LatentPixelScale.md)</sub>, <sub>[LatentReceiver](node_examples/LatentReceiver.md)</sub>, <sub>[LatentSender](node_examples/LatentSender.md)</sub>, <sub>[LatentSwitch](node_examples/LatentSwitch.md)</sub>
- - <sub>[MaskDetailerPipe](node_examples/MaskDetailerPipe.md)</sub>, <sub>MaskListToMaskBatch</sub>, <sub>MaskPainter</sub>, <sub>MasksToMaskList</sub>, <sub>MaskToSEGS</sub>, <sub>MaskToSEGS_for_AnimateDiff</sub>, <sub>MediaPipeFaceMeshToSEGS</sub>, <sub>[MMDetDetectorProvider](node_examples/MMDetDetectorProvider.md)</sub>, <sub>[MMDetLoader](node_examples/MMDetLoader.md)</sub>
- - <sub>NoiseInjectionDetailerHookProvider</sub>, <sub>NoiseInjectionHookProvider</sub>
- - <sub>ONNXDetectorProvider</sub>, <sub>ONNXDetectorSEGS</sub>
- - <sub>PixelKSampleHookCombine</sub>, <sub>PixelKSampleUpscalerProvider</sub>, <sub>PixelKSampleUpscalerProviderPipe</sub>, <sub>PixelTiledKSampleUpscalerProvider</sub>, <sub>PixelTiledKSampleUpscalerProviderPipe</sub>, <sub>PreviewBridge</sub>, <sub>PreviewBridgeLatent</sub>, <sub>PreviewDetailerHookProvider</sub>
- - <sub>ReencodeLatent</sub>, <sub>ReencodeLatentPipe</sub>, <sub>RegionalPrompt</sub>, <sub>RegionalSampler</sub>, <sub>RegionalSamplerAdvanced</sub>, <sub>RemoveImageFromSEGS</sub>, <sub>RemoveNoiseMask</sub>
- - <sub>SAMDetectorCombined</sub>, <sub>SAMDetectorSegmented</sub>, <sub>SAMLoader</sub>, <sub>SegmDetectorCombined</sub>, <sub>SegmDetectorCombined_v2</sub>, <sub>SegmDetectorForEach</sub>, <sub>SegmDetectorSEGS</sub>, <sub>Segs  Mask</sub>, <sub>Segs  Mask ForEach</sub>, <sub>SEGSDetailer</sub>, <sub>SEGSDetailerForAnimateDiff</sub>, <sub>SEGSLabelFilterDetailerHookProvider</sub>, <sub>SegsMaskCombine</sub>, <sub>SEGSOrderedFilterDetailerHookProvider</sub>, <sub>SEGSPaste</sub>, <sub>SEGSPreview</sub>, <sub>SEGSPreviewCNet</sub>, <sub>SEGSRangeFilterDetailerHookProvider</sub>, <sub>SEGSSwitch</sub>, <sub>SegsToCombinedMask</sub>, <sub>SEGSToImageList</sub>, <sub>SEGSUpscaler</sub>, <sub>SEGSUpscalerPipe</sub>, <sub>SetDefaultImageForSEGS</sub>, <sub>StepsScheduleHookProvider</sub>, <sub>StringListToString</sub>, <sub>SubtractMask</sub>, <sub>SubtractMaskForEach</sub>
- - <sub>TiledKSamplerProvider</sub>, <sub>ToBasicPipe</sub>, <sub>ToBinaryMask</sub>, <sub>ToDetailerPipe</sub>, <sub>ToDetailerPipeSDXL</sub>, <sub>TwoAdvancedSamplersForMask</sub>, <sub>TwoSamplersForMask</sub>, <sub>TwoSamplersForMaskUpscalerProvider</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
- - <sub>UltralyticsDetectorProvider</sub>, <sub>UnsamplerDetailerHookProvider</sub>, <sub>UnsamplerHookProvider</sub>
+ - <sub>[MaskDetailerPipe](node_examples/MaskDetailerPipe.md)</sub>, <sub>[MaskListToMaskBatch](node_examples/MaskListToMaskBatch.md)</sub>, <sub>MaskPainter</sub>, <sub>[MasksToMaskList](node_examples/MasksToMaskList.md)</sub>, [MaskToSEGS🌟](node_examples/MaskToSEGS.md), <sub>MaskToSEGS_for_AnimateDiff</sub>, <sub>[MediaPipeFaceMeshToSEGS](node_examples/MediaPipeFaceMeshToSEGS.md)</sub>, <sub>[MMDetDetectorProvider](node_examples/MMDetDetectorProvider.md)</sub>, <sub>[MMDetLoader](node_examples/MMDetLoader.md)</sub>
+ - <sub>[NoiseInjectionDetailerHookProvider](node_examples/NoiseInjectionDetailerHookProvider.md)</sub>, <sub>NoiseInjectionHookProvider</sub>
+ - <sub>[ONNXDetectorProvider](node_examples/ONNXDetectorProvider.md)</sub>, <sub>ONNXDetectorSEGS</sub>
+ - <sub>[PixelKSampleHookCombine](node_examples/PixelKSampleHookCombine.md)</sub>, <sub>[PixelKSampleUpscalerProvider](node_examples/PixelKSampleUpscalerProvider.md)</sub>, <sub>[PixelKSampleUpscalerProviderPipe](node_examples/PixelKSampleUpscalerProviderPipe.md)</sub>, <sub>[PixelTiledKSampleUpscalerProvider](node_examples/PixelTiledKSampleUpscalerProvider.md)</sub>, <sub>[PixelTiledKSampleUpscalerProviderPipe](node_examples/PixelTiledKSampleUpscalerProviderPipe.md)</sub>, <sub>[PreviewBridge](node_examples/PreviewBridge.md)</sub>, <sub>PreviewBridgeLatent</sub>, <sub>PreviewDetailerHookProvider</sub>
+ - <sub>ReencodeLatent</sub>, <sub>[ReencodeLatentPipe](node_examples/ReencodeLatentPipe.md)</sub>, <sub>[RegionalPrompt](node_examples/RegionalPrompt.md)</sub>, <sub>[RegionalSampler](node_examples/RegionalSampler.md)</sub>, <sub>RegionalSamplerAdvanced</sub>, <sub>RemoveImageFromSEGS</sub>, <sub>RemoveNoiseMask</sub>
+ - <sub>[SAMDetectorCombined](node_examples/SAMDetectorCombined.md)</sub>, <sub>[SAMDetectorSegmented](node_examples/SAMDetectorSegmented.md)</sub>, [SAMLoader🌟](node_examples/SAMLoader.md), <sub>SegmDetectorCombined</sub>, <sub>[SegmDetectorCombined_v2](node_examples/SegmDetectorCombined_v2.md)</sub>, <sub>SegmDetectorForEach</sub>, <sub>[SegmDetectorSEGS](node_examples/SegmDetectorSEGS.md)</sub>, <sub>Segs  Mask</sub>, <sub>Segs  Mask ForEach</sub>, <sub>SEGSDetailer</sub>, <sub>[SEGSDetailerForAnimateDiff](node_examples/SEGSDetailerForAnimateDiff.md)</sub>, <sub>SEGSLabelFilterDetailerHookProvider</sub>, <sub>[SegsMaskCombine](node_examples/SegsMaskCombine.md)</sub>, <sub>SEGSOrderedFilterDetailerHookProvider</sub>, <sub>[SEGSPaste](node_examples/SEGSPaste.md)</sub>, <sub>[SEGSPreview](node_examples/SEGSPreview.md)</sub>, <sub>SEGSPreviewCNet</sub>, <sub>SEGSRangeFilterDetailerHookProvider</sub>, <sub>SEGSSwitch</sub>, <sub>[SegsToCombinedMask](node_examples/SegsToCombinedMask.md)</sub>, <sub>[SEGSToImageList](node_examples/SEGSToImageList.md)</sub>, <sub>SEGSUpscaler</sub>, <sub>SEGSUpscalerPipe</sub>, <sub>SetDefaultImageForSEGS</sub>, <sub>StepsScheduleHookProvider</sub>, <sub>[StringListToString](node_examples/StringListToString.md)</sub>, <sub>[SubtractMask](node_examples/SubtractMask.md)</sub>, <sub>SubtractMaskForEach</sub>
+ - <sub>TiledKSamplerProvider</sub>, [ToBasicPipe🌟](node_examples/ToBasicPipe.md), <sub>[ToBinaryMask](node_examples/ToBinaryMask.md)</sub>, <sub>[ToDetailerPipe](node_examples/ToDetailerPipe.md)</sub>, <sub>[ToDetailerPipeSDXL](node_examples/ToDetailerPipeSDXL.md)</sub>, <sub>[TwoAdvancedSamplersForMask](node_examples/TwoAdvancedSamplersForMask.md)</sub>, <sub>[TwoSamplersForMask](node_examples/TwoSamplersForMask.md)</sub>, <sub>[TwoSamplersForMaskUpscalerProvider](node_examples/TwoSamplersForMaskUpscalerProvider.md)</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
+ - [UltralyticsDetectorProvider🌟](node_examples/UltralyticsDetectorProvider.md), <sub>[UnsamplerDetailerHookProvider](node_examples/UnsamplerDetailerHookProvider.md)</sub>, <sub>UnsamplerHookProvider</sub>
  - <sub>VariationNoiseDetailerHookProvider</sub>
  - <sub>WildcardPromptFromString</sub>
 </details>
@@ -136,7 +136,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.3k` | **Created at**: `2024-06-11`
+**Stars**: `1.3k` | **Created at**: `2024-06-12`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -144,10 +144,10 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
  - <sub>[CheckpointLoader|pysssss](node_examples/CheckpointLoaderpysssss.md)</sub>, <sub>[ConstrainImageforVideo|pysssss](node_examples/ConstrainImageforVideopysssss.md)</sub>, <sub>[ConstrainImage|pysssss](node_examples/ConstrainImagepysssss.md)</sub>
  - <sub>LoadText|pysssss</sub>, <sub>[LoraLoader|pysssss](node_examples/LoraLoaderpysssss.md)</sub>
- - <sub>MathExpression|pysssss</sub>, <sub>MultiPrimitive|pysssss</sub>
- - <sub>PlaySound|pysssss</sub>
- - <sub>Repeater|pysssss</sub>, <sub>ReroutePrimitive|pysssss</sub>
- - <sub>SaveText|pysssss</sub>, <sub>ShowText|pysssss</sub>, <sub>StringFunction|pysssss</sub>, <sub>SystemNotification|pysssss</sub>
+ - <sub>[MathExpression|pysssss](node_examples/MathExpressionpysssss.md)</sub>, <sub>MultiPrimitive|pysssss</sub>
+ - <sub>[PlaySound|pysssss](node_examples/PlaySoundpysssss.md)</sub>
+ - <sub>Repeater|pysssss</sub>, <sub>[ReroutePrimitive|pysssss](node_examples/ReroutePrimitivepysssss.md)</sub>
+ - <sub>SaveText|pysssss</sub>, [ShowText|pysssss🌟](node_examples/ShowTextpysssss.md), <sub>[StringFunction|pysssss](node_examples/StringFunctionpysssss.md)</sub>, <sub>SystemNotification|pysssss</sub>
 </details>
 
 
@@ -157,7 +157,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/huchenlei/ComfyUI-layerdiffuse'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-layerdiffuse
 
-**Stars**: `1.2k` | **Created at**: `2024-06-11`
+**Stars**: `1.2k` | **Created at**: `2024-06-12`
 
 
 Layer Diffuse custom nodes
@@ -173,7 +173,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Created at**: `2024-06-11`
+**Stars**: `1.2k` | **Created at**: `2024-06-12`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -189,13 +189,13 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `1.1k` | **Created at**: `2024-06-11`
+**Stars**: `1.1k` | **Created at**: `2024-06-12`
 
 
 SUPIR upscaling wrapper for ComfyUI
 <details><summary>Included Nodes (10)</summary>
 
- - <sub>SUPIR_conditioner</sub>, <sub>SUPIR_decode</sub>, <sub>SUPIR_encode</sub>, <sub>SUPIR_first_stage</sub>, <sub>SUPIR_model_loader</sub>, <sub>SUPIR_model_loader_v2</sub>, <sub>SUPIR_model_loader_v2_clip</sub>, <sub>SUPIR_sample</sub>, <sub>SUPIR_tiles</sub>, <sub>SUPIR_Upscale</sub>
+ - <sub>[SUPIR_conditioner](node_examples/SUPIR_conditioner.md)</sub>, <sub>[SUPIR_decode](node_examples/SUPIR_decode.md)</sub>, <sub>[SUPIR_encode](node_examples/SUPIR_encode.md)</sub>, <sub>[SUPIR_first_stage](node_examples/SUPIR_first_stage.md)</sub>, <sub>[SUPIR_model_loader](node_examples/SUPIR_model_loader.md)</sub>, <sub>[SUPIR_model_loader_v2](node_examples/SUPIR_model_loader_v2.md)</sub>, <sub>SUPIR_model_loader_v2_clip</sub>, <sub>[SUPIR_sample](node_examples/SUPIR_sample.md)</sub>, <sub>[SUPIR_tiles](node_examples/SUPIR_tiles.md)</sub>, <sub>[SUPIR_Upscale](node_examples/SUPIR_Upscale.md)</sub>
 </details>
 
 
@@ -221,14 +221,14 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyU
 <a href='https://github.com/Gourieff/comfyui-reactor-node'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/comfyui-reactor-node
 
-**Stars**: `1.0k` | **Created at**: `2024-06-11`
+**Stars**: `1.0k` | **Created at**: `2024-06-12`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI
 <details><summary>Included Nodes (11)</summary>
 
  - <sub>[ImageRGBA2RGB](node_examples/ImageRGBA2RGB.md)</sub>
- - <sub>ReActorBuildFaceModel</sub>, <sub>ReActorFaceSwap</sub>, <sub>ReActorFaceSwapOpt</sub>, <sub>ReActorImageDublicator</sub>, <sub>ReActorLoadFaceModel</sub>, <sub>ReActorMakeFaceModelBatch</sub>, <sub>ReActorMaskHelper</sub>, <sub>ReActorOptions</sub>, <sub>ReActorRestoreFace</sub>, <sub>ReActorSaveFaceModel</sub>
+ - <sub>[ReActorBuildFaceModel](node_examples/ReActorBuildFaceModel.md)</sub>, [ReActorFaceSwap🌟](node_examples/ReActorFaceSwap.md), <sub>[ReActorFaceSwapOpt](node_examples/ReActorFaceSwapOpt.md)</sub>, <sub>ReActorImageDublicator</sub>, <sub>[ReActorLoadFaceModel](node_examples/ReActorLoadFaceModel.md)</sub>, <sub>ReActorMakeFaceModelBatch</sub>, <sub>[ReActorMaskHelper](node_examples/ReActorMaskHelper.md)</sub>, <sub>[ReActorOptions](node_examples/ReActorOptions.md)</sub>, <sub>[ReActorRestoreFace](node_examples/ReActorRestoreFace.md)</sub>, <sub>[ReActorSaveFaceModel](node_examples/ReActorSaveFaceModel.md)</sub>
 </details>
 
 
@@ -238,7 +238,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `905` | **Created at**: `2024-06-11`
+**Stars**: `910` | **Created at**: `2024-06-12`
 
 
 An extensive node suite for ComfyUI with over 210 new nodes
@@ -251,13 +251,13 @@ An extensive node suite for ComfyUI with over 210 new nodes
  - <sub>Image Analyze</sub>, <sub>Image Aspect Ratio</sub>, <sub>[Image Batch](node_examples/Image_Batch.md)</sub>, <sub>[Image Blank](node_examples/Image_Blank.md)</sub>, <sub>Image Blend</sub>, <sub>[Image Blend by Mask](node_examples/Image_Blend_by_Mask.md)</sub>, <sub>[Image Blending Mode](node_examples/Image_Blending_Mode.md)</sub>, <sub>[Image Bloom Filter](node_examples/Image_Bloom_Filter.md)</sub>, <sub>Image Bounds</sub>, <sub>Image Bounds to Console</sub>, <sub>[Image Canny Filter](node_examples/Image_Canny_Filter.md)</sub>, <sub>Image Chromatic Aberration</sub>, <sub>[Image Color Palette](node_examples/Image_Color_Palette.md)</sub>, <sub>[Image Crop Face](node_examples/Image_Crop_Face.md)</sub>, <sub>[Image Crop Location](node_examples/Image_Crop_Location.md)</sub>, <sub>Image Crop Square Location</sub>, <sub>[Image Displacement Warp](node_examples/Image_Displacement_Warp.md)</sub>, <sub>[Image Dragan Photography Filter](node_examples/Image_Dragan_Photography_Filter.md)</sub>, <sub>[Image Edge Detection Filter](node_examples/Image_Edge_Detection_Filter.md)</sub>, <sub>Image fDOF Filter</sub>, <sub>[Image Film Grain](node_examples/Image_Film_Grain.md)</sub>, <sub>[Image Filter Adjustments](node_examples/Image_Filter_Adjustments.md)</sub>, <sub>[Image Flip](node_examples/Image_Flip.md)</sub>, <sub>[Image Generate Gradient](node_examples/Image_Generate_Gradient.md)</sub>, <sub>[Image Gradient Map](node_examples/Image_Gradient_Map.md)</sub>, <sub>[Image High Pass Filter](node_examples/Image_High_Pass_Filter.md)</sub>, <sub>Image History Loader</sub>, <sub>[Image Input Switch](node_examples/Image_Input_Switch.md)</sub>, <sub>[Image Levels Adjustment](node_examples/Image_Levels_Adjustment.md)</sub>, <sub>Image Load</sub>, <sub>[Image Lucy Sharpen](node_examples/Image_Lucy_Sharpen.md)</sub>, <sub>Image Median Filter</sub>, <sub>Image Mix RGB Channels</sub>, <sub>[Image Monitor Effects Filter](node_examples/Image_Monitor_Effects_Filter.md)</sub>, <sub>Image Nova Filter</sub>, <sub>[Image Padding](node_examples/Image_Padding.md)</sub>, <sub>Image Paste Crop</sub>, <sub>[Image Paste Crop by Location](node_examples/Image_Paste_Crop_by_Location.md)</sub>, <sub>[Image Paste Face](node_examples/Image_Paste_Face.md)</sub>, <sub>[Image Perlin Noise](node_examples/Image_Perlin_Noise.md)</sub>, <sub>[Image Perlin Power Fractal](node_examples/Image_Perlin_Power_Fractal.md)</sub>, <sub>[Image Pixelate](node_examples/Image_Pixelate.md)</sub>, <sub>[Image Power Noise](node_examples/Image_Power_Noise.md)</sub>, <sub>[Image Rembg (Remove Background)](node_examples/Image_Rembg_(Remove_Background).md)</sub>, <sub>[Image Remove Background (Alpha)](node_examples/Image_Remove_Background_(Alpha).md)</sub>, <sub>Image Remove Color</sub>, <sub>[Image Resize](node_examples/Image_Resize.md)</sub>, <sub>[Image Rotate](node_examples/Image_Rotate.md)</sub>, <sub>[Image Rotate Hue](node_examples/Image_Rotate_Hue.md)</sub>, <sub>[Image Save](node_examples/Image_Save.md)</sub>, <sub>Image Seamless Texture</sub>, <sub>Image Select Channel</sub>, <sub>Image Select Color</sub>, <sub>[Image Shadows and Highlights](node_examples/Image_Shadows_and_Highlights.md)</sub>, <sub>[Image Size to Number](node_examples/Image_Size_to_Number.md)</sub>, <sub>Image SSAO (Ambient Occlusion)</sub>, <sub>Image SSDO (Direct Occlusion)</sub>, <sub>[Image Stitch](node_examples/Image_Stitch.md)</sub>, <sub>[Image Style Filter](node_examples/Image_Style_Filter.md)</sub>, <sub>[Image Threshold](node_examples/Image_Threshold.md)</sub>, <sub>Image Tiled</sub>, <sub>Image to Latent Mask</sub>, <sub>Image to Noise</sub>, <sub>Image to Seed</sub>, <sub>[Image Transpose](node_examples/Image_Transpose.md)</sub>, <sub>[Image Voronoi Noise Filter](node_examples/Image_Voronoi_Noise_Filter.md)</sub>, <sub>Images to Linear</sub>, <sub>[Images to RGB](node_examples/Images_to_RGB.md)</sub>, <sub>Inset Image Bounds</sub>, <sub>Integer place counter</sub>
  - <sub>[KSampler (WAS)](node_examples/KSampler_(WAS).md)</sub>, <sub>KSampler Cycle</sub>
  - <sub>Latent Batch</sub>, <sub>Latent Input Switch</sub>, <sub>[Latent Noise Injection](node_examples/Latent_Noise_Injection.md)</sub>, <sub>Latent Size to Number</sub>, <sub>[Latent Upscale by Factor (WAS)](node_examples/Latent_Upscale_by_Factor_(WAS).md)</sub>, <sub>Load Cache</sub>, <sub>[Load Image Batch](node_examples/Load_Image_Batch.md)</sub>, <sub>[Load Lora](node_examples/Load_Lora.md)</sub>, <sub>[Load Text File](node_examples/Load_Text_File.md)</sub>, <sub>[Logic Boolean](node_examples/Logic_Boolean.md)</sub>, <sub>[Logic Boolean Primitive](node_examples/Logic_Boolean_Primitive.md)</sub>, <sub>[Logic Comparison AND](node_examples/Logic_Comparison_AND.md)</sub>, <sub>Logic Comparison OR</sub>, <sub>Logic Comparison XOR</sub>, <sub>Logic NOT</sub>, <sub>Lora Input Switch</sub>, <sub>Lora Loader</sub>
- - <sub>Mask Arbitrary Region</sub>, <sub>Mask Batch</sub>, <sub>Mask Batch to Mask</sub>, <sub>Mask Ceiling Region</sub>, <sub>Mask Crop Dominant Region</sub>, <sub>Mask Crop Minority Region</sub>, <sub>[Mask Crop Region](node_examples/Mask_Crop_Region.md)</sub>, <sub>Mask Dilate Region</sub>, <sub>[Mask Dominant Region](node_examples/Mask_Dominant_Region.md)</sub>, <sub>Mask Erode Region</sub>, <sub>[Mask Fill Holes](node_examples/Mask_Fill_Holes.md)</sub>, <sub>Mask Floor Region</sub>, <sub>[Mask Gaussian Region](node_examples/Mask_Gaussian_Region.md)</sub>, <sub>[Mask Invert](node_examples/Mask_Invert.md)</sub>, <sub>Mask Minority Region</sub>, <sub>Mask Paste Region</sub>, <sub>[Mask Smooth Region](node_examples/Mask_Smooth_Region.md)</sub>, <sub>Mask Threshold Region</sub>, <sub>Masks Add</sub>, <sub>Masks Combine Batch</sub>, <sub>Masks Combine Regions</sub>, <sub>Masks Subtract</sub>, <sub>MiDaS Depth Approximation</sub>, <sub>MiDaS Mask Image</sub>, <sub>MiDaS Model Loader</sub>, <sub>Model Input Switch</sub>
- - <sub>Number Counter</sub>, <sub>Number Input Condition</sub>, <sub>Number Input Switch</sub>, <sub>Number Multiple Of</sub>, <sub>Number Operation</sub>, <sub>Number PI</sub>, <sub>Number to Float</sub>, <sub>Number to Int</sub>, <sub>Number to Seed</sub>, <sub>Number to String</sub>, <sub>Number to Text</sub>
+ - <sub>Mask Arbitrary Region</sub>, <sub>Mask Batch</sub>, <sub>Mask Batch to Mask</sub>, <sub>Mask Ceiling Region</sub>, <sub>Mask Crop Dominant Region</sub>, <sub>Mask Crop Minority Region</sub>, <sub>[Mask Crop Region](node_examples/Mask_Crop_Region.md)</sub>, <sub>Mask Dilate Region</sub>, <sub>[Mask Dominant Region](node_examples/Mask_Dominant_Region.md)</sub>, <sub>Mask Erode Region</sub>, <sub>[Mask Fill Holes](node_examples/Mask_Fill_Holes.md)</sub>, <sub>Mask Floor Region</sub>, <sub>[Mask Gaussian Region](node_examples/Mask_Gaussian_Region.md)</sub>, <sub>[Mask Invert](node_examples/Mask_Invert.md)</sub>, <sub>Mask Minority Region</sub>, <sub>Mask Paste Region</sub>, <sub>[Mask Smooth Region](node_examples/Mask_Smooth_Region.md)</sub>, <sub>Mask Threshold Region</sub>, <sub>[Masks Add](node_examples/Masks_Add.md)</sub>, <sub>Masks Combine Batch</sub>, <sub>[Masks Combine Regions](node_examples/Masks_Combine_Regions.md)</sub>, <sub>[Masks Subtract](node_examples/Masks_Subtract.md)</sub>, <sub>[MiDaS Depth Approximation](node_examples/MiDaS_Depth_Approximation.md)</sub>, <sub>MiDaS Mask Image</sub>, <sub>[MiDaS Model Loader](node_examples/MiDaS_Model_Loader.md)</sub>, <sub>Model Input Switch</sub>
+ - <sub>[Number Counter](node_examples/Number_Counter.md)</sub>, <sub>Number Input Condition</sub>, <sub>Number Input Switch</sub>, <sub>Number Multiple Of</sub>, <sub>[Number Operation](node_examples/Number_Operation.md)</sub>, <sub>Number PI</sub>, <sub>[Number to Float](node_examples/Number_to_Float.md)</sub>, <sub>[Number to Int](node_examples/Number_to_Int.md)</sub>, <sub>[Number to Seed](node_examples/Number_to_Seed.md)</sub>, <sub>[Number to String](node_examples/Number_to_String.md)</sub>, <sub>[Number to Text](node_examples/Number_to_Text.md)</sub>
  - <sub>Prompt Multiple Styles Selector</sub>, <sub>Prompt Styles Selector</sub>
- - <sub>Random Number</sub>
- - <sub>SAM Image Mask</sub>, <sub>SAM Model Loader</sub>, <sub>SAM Parameters</sub>, <sub>SAM Parameters Combine</sub>, <sub>Samples Passthrough (Stat System)</sub>, <sub>Save Text File</sub>, <sub>Seed</sub>, <sub>String to Text</sub>
- - <sub>Tensor Batch to Image</sub>, <sub>Text Add Token by Input</sub>, <sub>Text Add Tokens</sub>, <sub>Text Compare</sub>, <sub>Text Concatenate</sub>, <sub>Text Contains</sub>, <sub>Text Dictionary Convert</sub>, <sub>Text Dictionary Get</sub>, <sub>Text Dictionary Keys</sub>, <sub>Text Dictionary New</sub>, <sub>Text Dictionary To Text</sub>, <sub>Text Dictionary Update</sub>, <sub>Text File History Loader</sub>, <sub>Text Find</sub>, <sub>Text Find and Replace</sub>, <sub>Text Find and Replace by Dictionary</sub>, <sub>Text Find and Replace Input</sub>, <sub>Text Input Switch</sub>, <sub>Text List</sub>, <sub>Text List Concatenate</sub>, <sub>Text List to Text</sub>, <sub>Text Load Line From File</sub>, <sub>Text Multiline</sub>, <sub>Text Multiline (Code Compatible)</sub>, <sub>Text Parse A1111 Embeddings</sub>, <sub>Text Parse Noodle Soup Prompts</sub>, <sub>Text Parse Tokens</sub>, <sub>Text Random Line</sub>, <sub>Text Random Prompt</sub>, <sub>Text Shuffle</sub>, <sub>Text String</sub>, <sub>Text String Truncate</sub>, <sub>Text to Conditioning</sub>, <sub>Text to Console</sub>, <sub>Text to Number</sub>, <sub>Text to String</sub>, <sub>True Random.org Number Generator</sub>
- - <sub>unCLIP Checkpoint Loader</sub>, <sub>Upscale Model Loader</sub>, <sub>Upscale Model Switch</sub>
+ - <sub>[Random Number](node_examples/Random_Number.md)</sub>
+ - <sub>SAM Image Mask</sub>, <sub>SAM Model Loader</sub>, <sub>[SAM Parameters](node_examples/SAM_Parameters.md)</sub>, <sub>SAM Parameters Combine</sub>, <sub>Samples Passthrough (Stat System)</sub>, <sub>Save Text File</sub>, <sub>[Seed](node_examples/Seed.md)</sub>, <sub>String to Text</sub>
+ - <sub>Tensor Batch to Image</sub>, <sub>[Text Add Token by Input](node_examples/Text_Add_Token_by_Input.md)</sub>, <sub>Text Add Tokens</sub>, <sub>Text Compare</sub>, [Text Concatenate🌟](node_examples/Text_Concatenate.md), <sub>Text Contains</sub>, <sub>Text Dictionary Convert</sub>, <sub>Text Dictionary Get</sub>, <sub>Text Dictionary Keys</sub>, <sub>Text Dictionary New</sub>, <sub>Text Dictionary To Text</sub>, <sub>Text Dictionary Update</sub>, <sub>Text File History Loader</sub>, <sub>Text Find</sub>, <sub>[Text Find and Replace](node_examples/Text_Find_and_Replace.md)</sub>, <sub>Text Find and Replace by Dictionary</sub>, <sub>[Text Find and Replace Input](node_examples/Text_Find_and_Replace_Input.md)</sub>, <sub>Text Input Switch</sub>, <sub>[Text List](node_examples/Text_List.md)</sub>, <sub>Text List Concatenate</sub>, <sub>[Text List to Text](node_examples/Text_List_to_Text.md)</sub>, <sub>[Text Load Line From File](node_examples/Text_Load_Line_From_File.md)</sub>, <sub>[Text Multiline](node_examples/Text_Multiline.md)</sub>, <sub>Text Multiline (Code Compatible)</sub>, <sub>[Text Parse A1111 Embeddings](node_examples/Text_Parse_A1111_Embeddings.md)</sub>, <sub>Text Parse Noodle Soup Prompts</sub>, <sub>[Text Parse Tokens](node_examples/Text_Parse_Tokens.md)</sub>, <sub>[Text Random Line](node_examples/Text_Random_Line.md)</sub>, <sub>Text Random Prompt</sub>, <sub>Text Shuffle</sub>, <sub>Text String</sub>, <sub>Text String Truncate</sub>, <sub>[Text to Conditioning](node_examples/Text_to_Conditioning.md)</sub>, <sub>[Text to Console](node_examples/Text_to_Console.md)</sub>, <sub>[Text to Number](node_examples/Text_to_Number.md)</sub>, <sub>Text to String</sub>, <sub>True Random.org Number Generator</sub>
+ - <sub>unCLIP Checkpoint Loader</sub>, <sub>[Upscale Model Loader](node_examples/Upscale_Model_Loader.md)</sub>, <sub>Upscale Model Switch</sub>
  - <sub>VAE Input Switch</sub>, <sub>Video Dump Frames</sub>
  - <sub>Write to GIF</sub>, <sub>Write to Video</sub>
 </details>
@@ -269,7 +269,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `872` | **Created at**: `2024-06-11`
+**Stars**: `873` | **Created at**: `2024-06-12`
 
 
 None
@@ -287,30 +287,30 @@ None
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `850` | **Created at**: `2024-06-11`
+**Stars**: `851` | **Created at**: `2024-06-12`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
-<details><summary>Included Nodes (86)</summary>
+<details><summary>Included Nodes (91)</summary>
 
  - <sub>[3DImage](node_examples/3DImage.md)</sub>
  - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>
- - <sub>CenterImage</sub>, <sub>[CharacterInText](node_examples/CharacterInText.md)</sub>, <sub>[ChatGPTOpenAI](node_examples/ChatGPTOpenAI.md)</sub>, <sub>[CkptNames_](node_examples/CkptNames_.md)</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
+ - <sub>CenterImage</sub>, <sub>[CharacterInText](node_examples/CharacterInText.md)</sub>, <sub>[ChatGPTOpenAI](node_examples/ChatGPTOpenAI.md)</sub>, <sub>[CkptNames_](node_examples/CkptNames_.md)</sub>, <sub>Color</sub>, <sub>CombineAudioVideo</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
  - <sub>[DynamicDelayProcessor](node_examples/DynamicDelayProcessor.md)</sub>
  - <sub>[EmbeddingPrompt](node_examples/EmbeddingPrompt.md)</sub>, <sub>[EnhanceImage](node_examples/EnhanceImage.md)</sub>
  - <sub>FaceToMask</sub>, <sub>[FeatheredMask](node_examples/FeatheredMask.md)</sub>, <sub>[FloatingVideo](node_examples/FloatingVideo.md)</sub>, <sub>[FloatSlider](node_examples/FloatSlider.md)</sub>, <sub>[Font](node_examples/Font.md)</sub>
- - <sub>GamePal</sub>, <sub>[GetImageSize_](node_examples/GetImageSize_.md)</sub>, <sub>GLIGENTextBoxApply_Advanced</sub>, <sub>GradientImage</sub>, <sub>GridDisplayAndSave</sub>, <sub>GridInput</sub>, <sub>GridOutput</sub>
- - <sub>ImageColorTransfer</sub>, <sub>[ImageCropByAlpha](node_examples/ImageCropByAlpha.md)</sub>, <sub>ImageListReplace_</sub>, <sub>ImagesPrompt_</sub>, <sub>IncrementingListNode_</sub>, <sub>[IntNumber](node_examples/IntNumber.md)</sub>
+ - <sub>GamePal</sub>, <sub>GenerateFramesByCount</sub>, <sub>[GetImageSize_](node_examples/GetImageSize_.md)</sub>, <sub>GLIGENTextBoxApply_Advanced</sub>, <sub>GradientImage</sub>, <sub>GridDisplayAndSave</sub>, <sub>GridInput</sub>, <sub>GridOutput</sub>
+ - <sub>ImageColorTransfer</sub>, <sub>[ImageCropByAlpha](node_examples/ImageCropByAlpha.md)</sub>, <sub>ImageListReplace_</sub>, <sub>ImageListToBatch_</sub>, <sub>ImagesPrompt_</sub>, <sub>IncrementingListNode_</sub>, <sub>[IntNumber](node_examples/IntNumber.md)</sub>
  - <sub>JoinWithDelimiter</sub>
- - <sub>[LimitNumber](node_examples/LimitNumber.md)</sub>, <sub>ListSplit_</sub>, <sub>[LoadImagesFromPath](node_examples/LoadImagesFromPath.md)</sub>, <sub>[LoadImagesFromURL](node_examples/LoadImagesFromURL.md)</sub>, <sub>LoadImagesToBatch</sub>, <sub>LoadTripoSRModel_</sub>, <sub>LoadVideoAndSegment_</sub>, <sub>LoraNames_</sub>, <sub>LoraPrompt</sub>
- - <sub>MaskListMerge_</sub>, <sub>MaskListReplace_</sub>, <sub>MergeLayers</sub>, <sub>MirroredImage</sub>, <sub>MultiplicationNode</sub>
- - <sub>NewLayer</sub>, <sub>NoiseImage</sub>
+ - <sub>[LimitNumber](node_examples/LimitNumber.md)</sub>, <sub>ListSplit_</sub>, <sub>LoadAndCombinedAudio_</sub>, <sub>[LoadImagesFromPath](node_examples/LoadImagesFromPath.md)</sub>, <sub>[LoadImagesFromURL](node_examples/LoadImagesFromURL.md)</sub>, <sub>LoadImagesToBatch</sub>, <sub>LoadTripoSRModel_</sub>, <sub>LoadVideoAndSegment_</sub>, <sub>LoraNames_</sub>, <sub>LoraPrompt</sub>
+ - <sub>MaskListMerge_</sub>, <sub>MaskListReplace_</sub>, <sub>[MergeLayers](node_examples/MergeLayers.md)</sub>, <sub>MirroredImage</sub>, <sub>MultiplicationNode</sub>
+ - <sub>[NewLayer](node_examples/NewLayer.md)</sub>, <sub>[NoiseImage](node_examples/NoiseImage.md)</sub>
  - <sub>OutlineMask</sub>
- - <sub>PreviewMask_</sub>, <sub>PromptImage</sub>, <sub>PromptSimplification</sub>, <sub>PromptSlide</sub>
- - <sub>RandomPrompt</sub>, <sub>ResizeImageMixlab</sub>
- - <sub>SamplerNames_</sub>, <sub>SaveImageAndMetadata_</sub>, <sub>SaveImageToLocal</sub>, <sub>SaveTripoSRMesh</sub>, <sub>ScreenShare</sub>, <sub>Seed_</sub>, <sub>ShowLayer</sub>, <sub>ShowTextForGPT</sub>, <sub>SmoothMask</sub>, <sub>SpeechRecognition</sub>, <sub>SpeechSynthesis</sub>, <sub>SplitImage</sub>, <sub>SplitLongMask</sub>, <sub>StyleAlignedBatchAlign_</sub>, <sub>StyleAlignedReferenceSampler_</sub>, <sub>StyleAlignedSampleReferenceLatents_</sub>, <sub>SvgImage</sub>, <sub>SwitchByIndex</sub>
- - <sub>TESTNODE_</sub>, <sub>TESTNODE_TOKEN</sub>, <sub>TextImage</sub>, <sub>TextInput_</sub>, <sub>TextSplitByDelimiter</sub>, <sub>TextToNumber</sub>, <sub>TransparentImage</sub>, <sub>TripoSRSampler_</sub>
- - <sub>VAEDecodeConsistencyDecoder</sub>, <sub>VAEEncodeForInpaint_Frames</sub>, <sub>VAELoaderConsistencyDecoder</sub>, <sub>VideoCombine_Adv</sub>
+ - <sub>PreviewMask_</sub>, <sub>[PromptImage](node_examples/PromptImage.md)</sub>, <sub>PromptSimplification</sub>, <sub>[PromptSlide](node_examples/PromptSlide.md)</sub>
+ - <sub>[RandomPrompt](node_examples/RandomPrompt.md)</sub>, <sub>[ResizeImageMixlab](node_examples/ResizeImageMixlab.md)</sub>
+ - <sub>SamplerNames_</sub>, <sub>SaveImageAndMetadata_</sub>, <sub>SaveImageToLocal</sub>, <sub>SaveTripoSRMesh</sub>, <sub>ScenesNode_</sub>, <sub>[ScreenShare](node_examples/ScreenShare.md)</sub>, <sub>Seed_</sub>, <sub>[ShowLayer](node_examples/ShowLayer.md)</sub>, <sub>[ShowTextForGPT](node_examples/ShowTextForGPT.md)</sub>, <sub>SmoothMask</sub>, <sub>[SpeechRecognition](node_examples/SpeechRecognition.md)</sub>, <sub>[SpeechSynthesis](node_examples/SpeechSynthesis.md)</sub>, <sub>SplitImage</sub>, <sub>[SplitLongMask](node_examples/SplitLongMask.md)</sub>, <sub>StyleAlignedBatchAlign_</sub>, <sub>StyleAlignedReferenceSampler_</sub>, <sub>StyleAlignedSampleReferenceLatents_</sub>, <sub>[SvgImage](node_examples/SvgImage.md)</sub>, <sub>[SwitchByIndex](node_examples/SwitchByIndex.md)</sub>
+ - <sub>TESTNODE_</sub>, <sub>TESTNODE_TOKEN</sub>, <sub>[TextImage](node_examples/TextImage.md)</sub>, <sub>[TextInput_](node_examples/TextInput_.md)</sub>, <sub>[TextSplitByDelimiter](node_examples/TextSplitByDelimiter.md)</sub>, <sub>TextToNumber</sub>, <sub>[TransparentImage](node_examples/TransparentImage.md)</sub>, <sub>TripoSRSampler_</sub>
+ - <sub>[VAEDecodeConsistencyDecoder](node_examples/VAEDecodeConsistencyDecoder.md)</sub>, <sub>VAEEncodeForInpaint_Frames</sub>, <sub>[VAELoaderConsistencyDecoder](node_examples/VAELoaderConsistencyDecoder.md)</sub>, <sub>VideoCombine_Adv</sub>
 </details>
 
 
@@ -320,7 +320,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `741` | **Created at**: `2024-06-10`
+**Stars**: `742` | **Created at**: `2024-06-12`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -328,9 +328,9 @@ Unofficial implementation of PhotoMaker for ComfyUI
 
  - <sub>[BaseModel_Loader_fromhub](node_examples/BaseModel_Loader_fromhub.md)</sub>, <sub>[BaseModel_Loader_local](node_examples/BaseModel_Loader_local.md)</sub>
  - <sub>[LoRALoader](node_examples/LoRALoader.md)</sub>
- - <sub>NEW_PhotoMaker_Generation</sub>
- - <sub>PhotoMaker_Generation</sub>, <sub>PhotoMakerAdapter_Loader_fromhub</sub>, <sub>PhotoMakerAdapter_Loader_local</sub>, <sub>Prompt_Styler</sub>
- - <sub>Ref_Image_Preprocessing</sub>
+ - <sub>[NEW_PhotoMaker_Generation](node_examples/NEW_PhotoMaker_Generation.md)</sub>
+ - <sub>[PhotoMaker_Generation](node_examples/PhotoMaker_Generation.md)</sub>, <sub>[PhotoMakerAdapter_Loader_fromhub](node_examples/PhotoMakerAdapter_Loader_fromhub.md)</sub>, <sub>[PhotoMakerAdapter_Loader_local](node_examples/PhotoMakerAdapter_Loader_local.md)</sub>, <sub>[Prompt_Styler](node_examples/Prompt_Styler.md)</sub>
+ - <sub>[Ref_Image_Preprocessing](node_examples/Ref_Image_Preprocessing.md)</sub>
 </details>
 
 
@@ -340,15 +340,26 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'>
 <img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: `734` | **Created at**: `2024-06-11`
+**Stars**: `736` | **Created at**: `2024-06-12`
 
 
 This node was designed to help AI image creators to generate prompts for human portraits.
 <details><summary>Included Nodes (1)</summary>
 
- - <sub>PortraitMaster</sub>
+ - <sub>[PortraitMaster](node_examples/PortraitMaster.md)</sub>
 </details>
 
+
+## banodoco/Steerable-Motion
+
+
+<a href='https://github.com/banodoco/Steerable-Motion'>
+<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
+
+**Stars**: `736` | **Created at**: `2024-06-12`
+
+
+A ComfyUI node for driving videos using batches of images.
 
 ## SeargeDP/SeargeSDXL
 
@@ -362,20 +373,9 @@ This node was designed to help AI image creators to generate prompts for human p
 Custom nodes and workflows for SDXL in ComfyUI
 <details><summary>Included Nodes (73)</summary>
 
- - <sub>SeargeAdvancedParameters</sub>, <sub>SeargeCheckpointLoader</sub>, <sub>SeargeConditioningMuxer2</sub>, <sub>SeargeConditioningMuxer5</sub>, <sub>SeargeConditioningParameters</sub>, <sub>SeargeConditionMixing</sub>, <sub>SeargeControlnetAdapterV2</sub>, <sub>SeargeControlnetModels</sub>, <sub>SeargeCustomAfterUpscaling</sub>, <sub>SeargeCustomAfterVaeDecode</sub>, <sub>SeargeCustomPromptMode</sub>, <sub>SeargeDebugPrinter</sub>, <sub>SeargeEnablerInputs</sub>, <sub>SeargeFloatConstant</sub>, <sub>SeargeFloatMath</sub>, <sub>SeargeFloatPair</sub>, <sub>SeargeFreeU</sub>, <sub>SeargeGenerated1</sub>, <sub>SeargeGenerationParameters</sub>, <sub>SeargeHighResolution</sub>, <sub>SeargeImage2ImageAndInpainting</sub>, <sub>SeargeImageAdapterV2</sub>, <sub>SeargeImageSave</sub>, <sub>SeargeImageSaving</sub>, <sub>SeargeInput1</sub>, <sub>SeargeInput2</sub>, <sub>SeargeInput3</sub>, <sub>SeargeInput4</sub>, <sub>SeargeInput5</sub>, <sub>SeargeInput6</sub>, <sub>SeargeInput7</sub>, <sub>SeargeIntegerConstant</sub>, <sub>SeargeIntegerMath</sub>, <sub>SeargeIntegerPair</sub>, <sub>SeargeIntegerScaler</sub>, <sub>SeargeLatentMuxer3</sub>, <sub>SeargeLoraLoader</sub>, <sub>SeargeLoras</sub>, <sub>SeargeMagicBox</sub>, <sub>SeargeModelSelector</sub>, <sub>SeargeOperatingMode</sub>, <sub>SeargeOutput1</sub>, <sub>SeargeOutput2</sub>, <sub>SeargeOutput3</sub>, <sub>SeargeOutput4</sub>, <sub>SeargeOutput5</sub>, <sub>SeargeOutput6</sub>, <sub>SeargeOutput7</sub>, <sub>SeargeParameterProcessor</sub>, <sub>SeargePipelineStart</sub>, <sub>SeargePipelineTerminator</sub>, <sub>SeargePreviewImage</sub>, <sub>SeargePromptAdapterV2</sub>, <sub>SeargePromptCombiner</sub>, <sub>SeargePromptStyles</sub>, <sub>SeargePromptText</sub>, <sub>SeargeSamplerAdvanced</sub>, <sub>SeargeSamplerInputs</sub>, <sub>SeargeSaveFolderInputs</sub>, <sub>SeargeSDXLBasePromptEncoder</sub>, <sub>SeargeSDXLImage2ImageSampler</sub>, <sub>SeargeSDXLImage2ImageSampler2</sub>, <sub>SeargeSDXLPromptEncoder</sub>, <sub>SeargeSDXLRefinerPromptEncoder</sub>, <sub>SeargeSDXLSampler</sub>, <sub>SeargeSDXLSampler2</sub>, <sub>SeargeSDXLSamplerV3</sub>, <sub>SeargeSeparator</sub>, <sub>SeargeStylePreprocessor</sub>, <sub>SeargeTextInputV2</sub>, <sub>SeargeUpscaleModelLoader</sub>, <sub>SeargeUpscaleModels</sub>, <sub>SeargeVAELoader</sub>
+ - <sub>[SeargeAdvancedParameters](node_examples/SeargeAdvancedParameters.md)</sub>, <sub>[SeargeCheckpointLoader](node_examples/SeargeCheckpointLoader.md)</sub>, <sub>[SeargeConditioningMuxer2](node_examples/SeargeConditioningMuxer2.md)</sub>, <sub>[SeargeConditioningMuxer5](node_examples/SeargeConditioningMuxer5.md)</sub>, <sub>[SeargeConditioningParameters](node_examples/SeargeConditioningParameters.md)</sub>, <sub>[SeargeConditionMixing](node_examples/SeargeConditionMixing.md)</sub>, <sub>[SeargeControlnetAdapterV2](node_examples/SeargeControlnetAdapterV2.md)</sub>, <sub>[SeargeControlnetModels](node_examples/SeargeControlnetModels.md)</sub>, <sub>[SeargeCustomAfterUpscaling](node_examples/SeargeCustomAfterUpscaling.md)</sub>, <sub>[SeargeCustomAfterVaeDecode](node_examples/SeargeCustomAfterVaeDecode.md)</sub>, <sub>[SeargeCustomPromptMode](node_examples/SeargeCustomPromptMode.md)</sub>, <sub>[SeargeDebugPrinter](node_examples/SeargeDebugPrinter.md)</sub>, <sub>[SeargeEnablerInputs](node_examples/SeargeEnablerInputs.md)</sub>, <sub>[SeargeFloatConstant](node_examples/SeargeFloatConstant.md)</sub>, <sub>[SeargeFloatMath](node_examples/SeargeFloatMath.md)</sub>, <sub>SeargeFloatPair</sub>, <sub>[SeargeFreeU](node_examples/SeargeFreeU.md)</sub>, <sub>[SeargeGenerated1](node_examples/SeargeGenerated1.md)</sub>, <sub>[SeargeGenerationParameters](node_examples/SeargeGenerationParameters.md)</sub>, <sub>[SeargeHighResolution](node_examples/SeargeHighResolution.md)</sub>, <sub>[SeargeImage2ImageAndInpainting](node_examples/SeargeImage2ImageAndInpainting.md)</sub>, <sub>[SeargeImageAdapterV2](node_examples/SeargeImageAdapterV2.md)</sub>, <sub>[SeargeImageSave](node_examples/SeargeImageSave.md)</sub>, <sub>[SeargeImageSaving](node_examples/SeargeImageSaving.md)</sub>, <sub>[SeargeInput1](node_examples/SeargeInput1.md)</sub>, <sub>[SeargeInput2](node_examples/SeargeInput2.md)</sub>, <sub>[SeargeInput3](node_examples/SeargeInput3.md)</sub>, <sub>[SeargeInput4](node_examples/SeargeInput4.md)</sub>, <sub>[SeargeInput5](node_examples/SeargeInput5.md)</sub>, <sub>[SeargeInput6](node_examples/SeargeInput6.md)</sub>, <sub>[SeargeInput7](node_examples/SeargeInput7.md)</sub>, <sub>[SeargeIntegerConstant](node_examples/SeargeIntegerConstant.md)</sub>, <sub>[SeargeIntegerMath](node_examples/SeargeIntegerMath.md)</sub>, <sub>[SeargeIntegerPair](node_examples/SeargeIntegerPair.md)</sub>, <sub>[SeargeIntegerScaler](node_examples/SeargeIntegerScaler.md)</sub>, <sub>[SeargeLatentMuxer3](node_examples/SeargeLatentMuxer3.md)</sub>, <sub>[SeargeLoraLoader](node_examples/SeargeLoraLoader.md)</sub>, <sub>[SeargeLoras](node_examples/SeargeLoras.md)</sub>, <sub>[SeargeMagicBox](node_examples/SeargeMagicBox.md)</sub>, <sub>[SeargeModelSelector](node_examples/SeargeModelSelector.md)</sub>, <sub>[SeargeOperatingMode](node_examples/SeargeOperatingMode.md)</sub>, <sub>[SeargeOutput1](node_examples/SeargeOutput1.md)</sub>, <sub>[SeargeOutput2](node_examples/SeargeOutput2.md)</sub>, <sub>[SeargeOutput3](node_examples/SeargeOutput3.md)</sub>, <sub>[SeargeOutput4](node_examples/SeargeOutput4.md)</sub>, <sub>[SeargeOutput5](node_examples/SeargeOutput5.md)</sub>, <sub>[SeargeOutput6](node_examples/SeargeOutput6.md)</sub>, <sub>[SeargeOutput7](node_examples/SeargeOutput7.md)</sub>, <sub>[SeargeParameterProcessor](node_examples/SeargeParameterProcessor.md)</sub>, <sub>[SeargePipelineStart](node_examples/SeargePipelineStart.md)</sub>, <sub>[SeargePipelineTerminator](node_examples/SeargePipelineTerminator.md)</sub>, <sub>[SeargePreviewImage](node_examples/SeargePreviewImage.md)</sub>, <sub>[SeargePromptAdapterV2](node_examples/SeargePromptAdapterV2.md)</sub>, <sub>[SeargePromptCombiner](node_examples/SeargePromptCombiner.md)</sub>, <sub>[SeargePromptStyles](node_examples/SeargePromptStyles.md)</sub>, <sub>[SeargePromptText](node_examples/SeargePromptText.md)</sub>, <sub>[SeargeSamplerAdvanced](node_examples/SeargeSamplerAdvanced.md)</sub>, <sub>[SeargeSamplerInputs](node_examples/SeargeSamplerInputs.md)</sub>, <sub>[SeargeSaveFolderInputs](node_examples/SeargeSaveFolderInputs.md)</sub>, <sub>[SeargeSDXLBasePromptEncoder](node_examples/SeargeSDXLBasePromptEncoder.md)</sub>, <sub>[SeargeSDXLImage2ImageSampler](node_examples/SeargeSDXLImage2ImageSampler.md)</sub>, <sub>[SeargeSDXLImage2ImageSampler2](node_examples/SeargeSDXLImage2ImageSampler2.md)</sub>, <sub>[SeargeSDXLPromptEncoder](node_examples/SeargeSDXLPromptEncoder.md)</sub>, <sub>[SeargeSDXLRefinerPromptEncoder](node_examples/SeargeSDXLRefinerPromptEncoder.md)</sub>, <sub>[SeargeSDXLSampler](node_examples/SeargeSDXLSampler.md)</sub>, <sub>[SeargeSDXLSampler2](node_examples/SeargeSDXLSampler2.md)</sub>, <sub>[SeargeSDXLSamplerV3](node_examples/SeargeSDXLSamplerV3.md)</sub>, <sub>[SeargeSeparator](node_examples/SeargeSeparator.md)</sub>, <sub>[SeargeStylePreprocessor](node_examples/SeargeStylePreprocessor.md)</sub>, <sub>[SeargeTextInputV2](node_examples/SeargeTextInputV2.md)</sub>, <sub>[SeargeUpscaleModelLoader](node_examples/SeargeUpscaleModelLoader.md)</sub>, <sub>[SeargeUpscaleModels](node_examples/SeargeUpscaleModels.md)</sub>, <sub>[SeargeVAELoader](node_examples/SeargeVAELoader.md)</sub>
 </details>
 
-
-## banodoco/Steerable-Motion
-
-
-<a href='https://github.com/banodoco/Steerable-Motion'>
-<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
-
-**Stars**: `731` | **Created at**: `2024-06-10`
-
-
-A ComfyUI node for driving videos using batches of images.
 
 ## rgthree/rgthree-comfy
 
@@ -383,7 +383,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `663` | **Created at**: `2024-06-11`
+**Stars**: `668` | **Created at**: `2024-06-12`
 
 
 Making ComfyUI more comfortable!
@@ -398,7 +398,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `659` | **Created at**: `2024-06-11`
+**Stars**: `662` | **Created at**: `2024-06-12`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -414,7 +414,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `654` | **Created at**: `2024-06-11`
+**Stars**: `656` | **Created at**: `2024-06-12`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -429,10 +429,10 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
  - [KSampler (Efficient)🌟](node_examples/KSampler_(Efficient).md), <sub>[KSampler Adv. (Efficient)](node_examples/KSampler_Adv._(Efficient).md)</sub>, <sub>[KSampler SDXL (Eff.)](node_examples/KSampler_SDXL_(Eff.).md)</sub>
  - <sub>LatentUpscaler</sub>, <sub>LoRA Stack to String converter</sub>, <sub>[LoRA Stacker](node_examples/LoRA_Stacker.md)</sub>
  - <sub>Manual XY Entry Info</sub>
- - <sub>NNLatentUpscale</sub>, <sub>Noise Control Script</sub>
- - <sub>Pack SDXL Tuple</sub>
- - <sub>Tiled Upscaler Script</sub>
- - <sub>Unpack SDXL Tuple</sub>
+ - <sub>[NNLatentUpscale](node_examples/NNLatentUpscale.md)</sub>, <sub>[Noise Control Script](node_examples/Noise_Control_Script.md)</sub>
+ - <sub>[Pack SDXL Tuple](node_examples/Pack_SDXL_Tuple.md)</sub>
+ - <sub>[Tiled Upscaler Script](node_examples/Tiled_Upscaler_Script.md)</sub>
+ - <sub>[Unpack SDXL Tuple](node_examples/Unpack_SDXL_Tuple.md)</sub>
  - <sub>XY Input: Add/Return Noise</sub>, <sub>XY Input: Aesthetic Score</sub>, <sub>XY Input: CFG Scale</sub>, <sub>XY Input: Checkpoint</sub>, <sub>XY Input: Clip Skip</sub>, <sub>XY Input: Control Net</sub>, <sub>XY Input: Control Net Plot</sub>, <sub>XY Input: Denoise</sub>, <sub>XY Input: LoRA</sub>, <sub>XY Input: LoRA Plot</sub>, <sub>XY Input: LoRA Stacks</sub>, <sub>XY Input: Manual XY Entry</sub>, <sub>XY Input: Prompt S/R</sub>, <sub>XY Input: Refiner On/Off</sub>, <sub>XY Input: Sampler/Scheduler</sub>, <sub>XY Input: Seeds++ Batch</sub>, <sub>XY Input: Steps</sub>, <sub>XY Input: VAE</sub>, <sub>XY Plot</sub>
 </details>
 
@@ -443,7 +443,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `634` | **Created at**: `2024-06-11`
+**Stars**: `635` | **Created at**: `2024-06-12`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -452,7 +452,7 @@ Custom nodes that extend the capabilities of Comfyui
  - <sub>ArgosTranslateCLIPTextEncodeNode</sub>, <sub>ArgosTranslateTextNode</sub>
  - <sub>DeepTranslatorCLIPTextEncodeNode</sub>, <sub>[DeepTranslatorTextNode](node_examples/DeepTranslatorTextNode.md)</sub>
  - <sub>GoogleTranslateCLIPTextEncodeNode</sub>, <sub>GoogleTranslateTextNode</sub>
- - <sub>PainterNode</sub>, <sub>PoseNode</sub>, <sub>PreviewTextNode</sub>
+ - <sub>[PainterNode](node_examples/PainterNode.md)</sub>, <sub>[PoseNode](node_examples/PoseNode.md)</sub>, <sub>[PreviewTextNode](node_examples/PreviewTextNode.md)</sub>
 </details>
 
 
@@ -462,7 +462,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `626` | **Created at**: `2024-06-11`
+**Stars**: `627` | **Created at**: `2024-06-12`
 
 
 AnimateDiff for ComfyUI
@@ -480,13 +480,13 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `600` | **Created at**: `2024-06-11`
+**Stars**: `604` | **Created at**: `2024-06-12`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <details><summary>Included Nodes (2)</summary>
 
- - <sub>UltimateSDUpscale</sub>, <sub>UltimateSDUpscaleNoUpscale</sub>
+ - [UltimateSDUpscale🌟](node_examples/UltimateSDUpscale.md), <sub>[UltimateSDUpscaleNoUpscale](node_examples/UltimateSDUpscaleNoUpscale.md)</sub>
 </details>
 
 
@@ -496,13 +496,13 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `594` | **Created at**: `2024-06-11`
+**Stars**: `595` | **Created at**: `2024-06-12`
 
 
 Custom prompt styler node for SDXL in ComfyUI
 <details><summary>Included Nodes (2)</summary>
 
- - <sub>SDXLPromptStyler</sub>, <sub>SDXLPromptStylerAdvanced</sub>
+ - [SDXLPromptStyler🌟](node_examples/SDXLPromptStyler.md), <sub>[SDXLPromptStylerAdvanced](node_examples/SDXLPromptStylerAdvanced.md)</sub>
 </details>
 
 
@@ -512,13 +512,13 @@ Custom prompt styler node for SDXL in ComfyUI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `586` | **Created at**: `2024-06-11`
+**Stars**: `590` | **Created at**: `2024-06-12`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
-<details><summary>Included Nodes (127)</summary>
+<details><summary>Included Nodes (131)</summary>
 
- - <sub>[LayerColor: AutoAdjust](node_examples/LayerColor_AutoAdjust.md)</sub>, <sub>[LayerColor: AutoBrightness](node_examples/LayerColor_AutoBrightness.md)</sub>, <sub>[LayerColor: Brightness & Contrast](node_examples/LayerColor_Brightness_&_Contrast.md)</sub>, <sub>[LayerColor: Color of Shadow & Highlight](node_examples/LayerColor_Color_of_Shadow_&_Highlight.md)</sub>, <sub>[LayerColor: ColorAdapter](node_examples/LayerColor_ColorAdapter.md)</sub>, <sub>[LayerColor: ColorBalance](node_examples/LayerColor_ColorBalance.md)</sub>, <sub>[LayerColor: ColorTemperature](node_examples/LayerColor_ColorTemperature.md)</sub>, <sub>[LayerColor: Exposure](node_examples/LayerColor_Exposure.md)</sub>, <sub>[LayerColor: Gamma](node_examples/LayerColor_Gamma.md)</sub>, <sub>[LayerColor: HSV](node_examples/LayerColor_HSV.md)</sub>, <sub>[LayerColor: LAB](node_examples/LayerColor_LAB.md)</sub>, <sub>[LayerColor: Levels](node_examples/LayerColor_Levels.md)</sub>, <sub>[LayerColor: LUT Apply](node_examples/LayerColor_LUT_Apply.md)</sub>, <sub>[LayerColor: RGB](node_examples/LayerColor_RGB.md)</sub>, <sub>[LayerColor: YUV](node_examples/LayerColor_YUV.md)</sub>, <sub>[LayerFilter: ChannelShake](node_examples/LayerFilter_ChannelShake.md)</sub>, <sub>[LayerFilter: ColorMap](node_examples/LayerFilter_ColorMap.md)</sub>, <sub>[LayerFilter: Film](node_examples/LayerFilter_Film.md)</sub>, <sub>[LayerFilter: GaussianBlur](node_examples/LayerFilter_GaussianBlur.md)</sub>, <sub>[LayerFilter: HDREffects](node_examples/LayerFilter_HDREffects.md)</sub>, <sub>[LayerFilter: LightLeak](node_examples/LayerFilter_LightLeak.md)</sub>, <sub>[LayerFilter: MotionBlur](node_examples/LayerFilter_MotionBlur.md)</sub>, <sub>[LayerFilter: Sharp & Soft](node_examples/LayerFilter_Sharp_&_Soft.md)</sub>, <sub>[LayerFilter: SkinBeauty](node_examples/LayerFilter_SkinBeauty.md)</sub>, <sub>[LayerFilter: SoftLight](node_examples/LayerFilter_SoftLight.md)</sub>, <sub>[LayerFilter: WaterColor](node_examples/LayerFilter_WaterColor.md)</sub>, <sub>[LayerMask: BiRefNetUltra](node_examples/LayerMask_BiRefNetUltra.md)</sub>, <sub>[LayerMask: BlendIf Mask](node_examples/LayerMask_BlendIf_Mask.md)</sub>, <sub>[LayerMask: CreateGradientMask](node_examples/LayerMask_CreateGradientMask.md)</sub>, <sub>LayerMask: ImageToMask</sub>, <sub>[LayerMask: MaskBoxDetect](node_examples/LayerMask_MaskBoxDetect.md)</sub>, <sub>[LayerMask: MaskByColor](node_examples/LayerMask_MaskByColor.md)</sub>, <sub>[LayerMask: MaskByDifferent](node_examples/LayerMask_MaskByDifferent.md)</sub>, <sub>[LayerMask: MaskEdgeShrink](node_examples/LayerMask_MaskEdgeShrink.md)</sub>, <sub>[LayerMask: MaskEdgeUltraDetail](node_examples/LayerMask_MaskEdgeUltraDetail.md)</sub>, <sub>[LayerMask: MaskEdgeUltraDetail V2](node_examples/LayerMask_MaskEdgeUltraDetail_V2.md)</sub>, <sub>[LayerMask: MaskGradient](node_examples/LayerMask_MaskGradient.md)</sub>, <sub>[LayerMask: MaskGrow](node_examples/LayerMask_MaskGrow.md)</sub>, <sub>[LayerMask: MaskInvert](node_examples/LayerMask_MaskInvert.md)</sub>, <sub>[LayerMask: MaskMotionBlur](node_examples/LayerMask_MaskMotionBlur.md)</sub>, <sub>[LayerMask: MaskPreview](node_examples/LayerMask_MaskPreview.md)</sub>, <sub>[LayerMask: MaskStroke](node_examples/LayerMask_MaskStroke.md)</sub>, <sub>LayerMask: MediapipeFacialSegment</sub>, <sub>[LayerMask: PersonMaskUltra](node_examples/LayerMask_PersonMaskUltra.md)</sub>, <sub>[LayerMask: PersonMaskUltra V2](node_examples/LayerMask_PersonMaskUltra_V2.md)</sub>, <sub>[LayerMask: PixelSpread](node_examples/LayerMask_PixelSpread.md)</sub>, <sub>[LayerMask: RemBgUltra](node_examples/LayerMask_RemBgUltra.md)</sub>, <sub>[LayerMask: RmBgUltra V2](node_examples/LayerMask_RmBgUltra_V2.md)</sub>, <sub>[LayerMask: SegformerB2ClothesUltra](node_examples/LayerMask_SegformerB2ClothesUltra.md)</sub>, <sub>[LayerMask: SegmentAnythingUltra](node_examples/LayerMask_SegmentAnythingUltra.md)</sub>, <sub>[LayerMask: SegmentAnythingUltra V2](node_examples/LayerMask_SegmentAnythingUltra_V2.md)</sub>, <sub>[LayerMask: Shadow & Highlight Mask](node_examples/LayerMask_Shadow_&_Highlight_Mask.md)</sub>, <sub>[LayerMask: YoloV8Detect](node_examples/LayerMask_YoloV8Detect.md)</sub>, <sub>[LayerStyle: ColorOverlay](node_examples/LayerStyle_ColorOverlay.md)</sub>, <sub>[LayerStyle: ColorOverlay V2](node_examples/LayerStyle_ColorOverlay_V2.md)</sub>, <sub>[LayerStyle: DropShadow](node_examples/LayerStyle_DropShadow.md)</sub>, <sub>[LayerStyle: DropShadow V2](node_examples/LayerStyle_DropShadow_V2.md)</sub>, <sub>[LayerStyle: GradientOverlay](node_examples/LayerStyle_GradientOverlay.md)</sub>, <sub>[LayerStyle: GradientOverlay V2](node_examples/LayerStyle_GradientOverlay_V2.md)</sub>, <sub>[LayerStyle: InnerGlow](node_examples/LayerStyle_InnerGlow.md)</sub>, <sub>[LayerStyle: InnerGlow V2](node_examples/LayerStyle_InnerGlow_V2.md)</sub>, <sub>[LayerStyle: InnerShadow](node_examples/LayerStyle_InnerShadow.md)</sub>, <sub>[LayerStyle: InnerShadow V2](node_examples/LayerStyle_InnerShadow_V2.md)</sub>, <sub>[LayerStyle: OuterGlow](node_examples/LayerStyle_OuterGlow.md)</sub>, <sub>[LayerStyle: OuterGlow V2](node_examples/LayerStyle_OuterGlow_V2.md)</sub>, <sub>[LayerStyle: Stroke](node_examples/LayerStyle_Stroke.md)</sub>, <sub>[LayerStyle: Stroke V2](node_examples/LayerStyle_Stroke_V2.md)</sub>, <sub>[LayerUtility: AddBlindWaterMark](node_examples/LayerUtility_AddBlindWaterMark.md)</sub>, <sub>[LayerUtility: BatchSelector](node_examples/LayerUtility_BatchSelector.md)</sub>, <sub>[LayerUtility: Boolean](node_examples/LayerUtility_Boolean.md)</sub>, <sub>[LayerUtility: BooleanOperator](node_examples/LayerUtility_BooleanOperator.md)</sub>, <sub>[LayerUtility: ColorImage](node_examples/LayerUtility_ColorImage.md)</sub>, <sub>[LayerUtility: ColorImage V2](node_examples/LayerUtility_ColorImage_V2.md)</sub>, <sub>[LayerUtility: ColorPicker](node_examples/LayerUtility_ColorPicker.md)</sub>, <sub>[LayerUtility: CreateQRCode](node_examples/LayerUtility_CreateQRCode.md)</sub>, <sub>[LayerUtility: CropBoxResolve](node_examples/LayerUtility_CropBoxResolve.md)</sub>, <sub>[LayerUtility: CropByMask](node_examples/LayerUtility_CropByMask.md)</sub>, <sub>[LayerUtility: CropByMask V2](node_examples/LayerUtility_CropByMask_V2.md)</sub>, <sub>[LayerUtility: DecodeQRCode](node_examples/LayerUtility_DecodeQRCode.md)</sub>, <sub>[LayerUtility: ExtendCanvas](node_examples/LayerUtility_ExtendCanvas.md)</sub>, <sub>[LayerUtility: ExtendCanvasV2](node_examples/LayerUtility_ExtendCanvasV2.md)</sub>, <sub>[LayerUtility: Float](node_examples/LayerUtility_Float.md)</sub>, <sub>[LayerUtility: GetColorTone](node_examples/LayerUtility_GetColorTone.md)</sub>, <sub>[LayerUtility: GetColorToneV2](node_examples/LayerUtility_GetColorToneV2.md)</sub>, <sub>[LayerUtility: GetImageSize](node_examples/LayerUtility_GetImageSize.md)</sub>, <sub>LayerUtility: GradientImage</sub>, <sub>[LayerUtility: GradientImage V2](node_examples/LayerUtility_GradientImage_V2.md)</sub>, <sub>[LayerUtility: ImageAutoCrop](node_examples/LayerUtility_ImageAutoCrop.md)</sub>, <sub>LayerUtility: ImageAutoCrop V2</sub>, <sub>[LayerUtility: ImageBlend](node_examples/LayerUtility_ImageBlend.md)</sub>, <sub>[LayerUtility: ImageBlend V2](node_examples/LayerUtility_ImageBlend_V2.md)</sub>, <sub>[LayerUtility: ImageBlendAdvance](node_examples/LayerUtility_ImageBlendAdvance.md)</sub>, <sub>[LayerUtility: ImageBlendAdvance V2](node_examples/LayerUtility_ImageBlendAdvance_V2.md)</sub>, <sub>[LayerUtility: ImageChannelMerge](node_examples/LayerUtility_ImageChannelMerge.md)</sub>, <sub>[LayerUtility: ImageChannelSplit](node_examples/LayerUtility_ImageChannelSplit.md)</sub>, <sub>[LayerUtility: ImageCombineAlpha](node_examples/LayerUtility_ImageCombineAlpha.md)</sub>, <sub>[LayerUtility: ImageHub](node_examples/LayerUtility_ImageHub.md)</sub>, <sub>[LayerUtility: ImageMaskScaleAs](node_examples/LayerUtility_ImageMaskScaleAs.md)</sub>, <sub>[LayerUtility: ImageOpacity](node_examples/LayerUtility_ImageOpacity.md)</sub>, <sub>[LayerUtility: ImageRemoveAlpha](node_examples/LayerUtility_ImageRemoveAlpha.md)</sub>, <sub>[LayerUtility: ImageRewardFilter](node_examples/LayerUtility_ImageRewardFilter.md)</sub>, <sub>LayerUtility: ImageScaleByAspectRatio</sub>, <sub>[LayerUtility: ImageScaleByAspectRatio V2](node_examples/LayerUtility_ImageScaleByAspectRatio_V2.md)</sub>, <sub>[LayerUtility: ImageScaleRestore](node_examples/LayerUtility_ImageScaleRestore.md)</sub>, <sub>[LayerUtility: ImageScaleRestore V2](node_examples/LayerUtility_ImageScaleRestore_V2.md)</sub>, <sub>[LayerUtility: ImageShift](node_examples/LayerUtility_ImageShift.md)</sub>, <sub>[LayerUtility: Integer](node_examples/LayerUtility_Integer.md)</sub>, <sub>[LayerUtility: LaMa](node_examples/LayerUtility_LaMa.md)</sub>, <sub>[LayerUtility: LayerImageTransform](node_examples/LayerUtility_LayerImageTransform.md)</sub>, <sub>[LayerUtility: LayerMaskTransform](node_examples/LayerUtility_LayerMaskTransform.md)</sub>, <sub>[LayerUtility: LoadPSD](node_examples/LayerUtility_LoadPSD.md)</sub>, <sub>[LayerUtility: NumberCalculator](node_examples/LayerUtility_NumberCalculator.md)</sub>, <sub>[LayerUtility: PrintInfo](node_examples/LayerUtility_PrintInfo.md)</sub>, <sub>[LayerUtility: PromptEmbellish](node_examples/LayerUtility_PromptEmbellish.md)</sub>, <sub>[LayerUtility: PromptTagger](node_examples/LayerUtility_PromptTagger.md)</sub>, <sub>[LayerUtility: PurgeVRAM](node_examples/LayerUtility_PurgeVRAM.md)</sub>, <sub>[LayerUtility: QWenImage2Prompt](node_examples/LayerUtility_QWenImage2Prompt.md)</sub>, <sub>[LayerUtility: RestoreCropBox](node_examples/LayerUtility_RestoreCropBox.md)</sub>, <sub>[LayerUtility: RGB Value](node_examples/LayerUtility_RGB_Value.md)</sub>, <sub>[LayerUtility: SaveImagePlus](node_examples/LayerUtility_SaveImagePlus.md)</sub>, <sub>[LayerUtility: Seed](node_examples/LayerUtility_Seed.md)</sub>, <sub>[LayerUtility: ShowBlindWaterMark](node_examples/LayerUtility_ShowBlindWaterMark.md)</sub>, <sub>[LayerUtility: SimpleTextImage](node_examples/LayerUtility_SimpleTextImage.md)</sub>, <sub>[LayerUtility: TextBox](node_examples/LayerUtility_TextBox.md)</sub>, <sub>[LayerUtility: TextImage](node_examples/LayerUtility_TextImage.md)</sub>, <sub>[LayerUtility: TextJoin](node_examples/LayerUtility_TextJoin.md)</sub>, <sub>[LayerUtility: XY to Percent](node_examples/LayerUtility_XY_to_Percent.md)</sub>
+ - <sub>[LayerColor: AutoAdjust](node_examples/LayerColor_AutoAdjust.md)</sub>, <sub>[LayerColor: AutoBrightness](node_examples/LayerColor_AutoBrightness.md)</sub>, <sub>[LayerColor: Brightness & Contrast](node_examples/LayerColor_Brightness_&_Contrast.md)</sub>, <sub>[LayerColor: Color of Shadow & Highlight](node_examples/LayerColor_Color_of_Shadow_&_Highlight.md)</sub>, <sub>[LayerColor: ColorAdapter](node_examples/LayerColor_ColorAdapter.md)</sub>, <sub>[LayerColor: ColorBalance](node_examples/LayerColor_ColorBalance.md)</sub>, <sub>[LayerColor: ColorTemperature](node_examples/LayerColor_ColorTemperature.md)</sub>, <sub>[LayerColor: Exposure](node_examples/LayerColor_Exposure.md)</sub>, <sub>[LayerColor: Gamma](node_examples/LayerColor_Gamma.md)</sub>, <sub>[LayerColor: HSV](node_examples/LayerColor_HSV.md)</sub>, <sub>[LayerColor: LAB](node_examples/LayerColor_LAB.md)</sub>, <sub>[LayerColor: Levels](node_examples/LayerColor_Levels.md)</sub>, <sub>[LayerColor: LUT Apply](node_examples/LayerColor_LUT_Apply.md)</sub>, <sub>[LayerColor: RGB](node_examples/LayerColor_RGB.md)</sub>, <sub>[LayerColor: YUV](node_examples/LayerColor_YUV.md)</sub>, <sub>LayerFilter: AddGrain</sub>, <sub>[LayerFilter: ChannelShake](node_examples/LayerFilter_ChannelShake.md)</sub>, <sub>[LayerFilter: ColorMap](node_examples/LayerFilter_ColorMap.md)</sub>, <sub>[LayerFilter: Film](node_examples/LayerFilter_Film.md)</sub>, <sub>LayerFilter: FilmV2</sub>, <sub>[LayerFilter: GaussianBlur](node_examples/LayerFilter_GaussianBlur.md)</sub>, <sub>[LayerFilter: HDREffects](node_examples/LayerFilter_HDREffects.md)</sub>, <sub>[LayerFilter: LightLeak](node_examples/LayerFilter_LightLeak.md)</sub>, <sub>[LayerFilter: MotionBlur](node_examples/LayerFilter_MotionBlur.md)</sub>, <sub>[LayerFilter: Sharp & Soft](node_examples/LayerFilter_Sharp_&_Soft.md)</sub>, <sub>[LayerFilter: SkinBeauty](node_examples/LayerFilter_SkinBeauty.md)</sub>, <sub>[LayerFilter: SoftLight](node_examples/LayerFilter_SoftLight.md)</sub>, <sub>[LayerFilter: WaterColor](node_examples/LayerFilter_WaterColor.md)</sub>, <sub>[LayerMask: BiRefNetUltra](node_examples/LayerMask_BiRefNetUltra.md)</sub>, <sub>[LayerMask: BlendIf Mask](node_examples/LayerMask_BlendIf_Mask.md)</sub>, <sub>[LayerMask: CreateGradientMask](node_examples/LayerMask_CreateGradientMask.md)</sub>, <sub>[LayerMask: ImageToMask](node_examples/LayerMask_ImageToMask.md)</sub>, <sub>[LayerMask: MaskBoxDetect](node_examples/LayerMask_MaskBoxDetect.md)</sub>, <sub>[LayerMask: MaskByColor](node_examples/LayerMask_MaskByColor.md)</sub>, <sub>[LayerMask: MaskByDifferent](node_examples/LayerMask_MaskByDifferent.md)</sub>, <sub>[LayerMask: MaskEdgeShrink](node_examples/LayerMask_MaskEdgeShrink.md)</sub>, <sub>[LayerMask: MaskEdgeUltraDetail](node_examples/LayerMask_MaskEdgeUltraDetail.md)</sub>, <sub>[LayerMask: MaskEdgeUltraDetail V2](node_examples/LayerMask_MaskEdgeUltraDetail_V2.md)</sub>, <sub>[LayerMask: MaskGradient](node_examples/LayerMask_MaskGradient.md)</sub>, <sub>LayerMask: MaskGrain</sub>, <sub>[LayerMask: MaskGrow](node_examples/LayerMask_MaskGrow.md)</sub>, <sub>[LayerMask: MaskInvert](node_examples/LayerMask_MaskInvert.md)</sub>, <sub>[LayerMask: MaskMotionBlur](node_examples/LayerMask_MaskMotionBlur.md)</sub>, <sub>[LayerMask: MaskPreview](node_examples/LayerMask_MaskPreview.md)</sub>, <sub>[LayerMask: MaskStroke](node_examples/LayerMask_MaskStroke.md)</sub>, <sub>LayerMask: MediapipeFacialSegment</sub>, <sub>[LayerMask: PersonMaskUltra](node_examples/LayerMask_PersonMaskUltra.md)</sub>, <sub>[LayerMask: PersonMaskUltra V2](node_examples/LayerMask_PersonMaskUltra_V2.md)</sub>, <sub>[LayerMask: PixelSpread](node_examples/LayerMask_PixelSpread.md)</sub>, <sub>[LayerMask: RemBgUltra](node_examples/LayerMask_RemBgUltra.md)</sub>, <sub>[LayerMask: RmBgUltra V2](node_examples/LayerMask_RmBgUltra_V2.md)</sub>, <sub>[LayerMask: SegformerB2ClothesUltra](node_examples/LayerMask_SegformerB2ClothesUltra.md)</sub>, <sub>[LayerMask: SegmentAnythingUltra](node_examples/LayerMask_SegmentAnythingUltra.md)</sub>, <sub>[LayerMask: SegmentAnythingUltra V2](node_examples/LayerMask_SegmentAnythingUltra_V2.md)</sub>, <sub>[LayerMask: Shadow & Highlight Mask](node_examples/LayerMask_Shadow_&_Highlight_Mask.md)</sub>, <sub>[LayerMask: YoloV8Detect](node_examples/LayerMask_YoloV8Detect.md)</sub>, <sub>[LayerStyle: ColorOverlay](node_examples/LayerStyle_ColorOverlay.md)</sub>, <sub>[LayerStyle: ColorOverlay V2](node_examples/LayerStyle_ColorOverlay_V2.md)</sub>, <sub>[LayerStyle: DropShadow](node_examples/LayerStyle_DropShadow.md)</sub>, <sub>[LayerStyle: DropShadow V2](node_examples/LayerStyle_DropShadow_V2.md)</sub>, <sub>[LayerStyle: GradientOverlay](node_examples/LayerStyle_GradientOverlay.md)</sub>, <sub>[LayerStyle: GradientOverlay V2](node_examples/LayerStyle_GradientOverlay_V2.md)</sub>, <sub>[LayerStyle: InnerGlow](node_examples/LayerStyle_InnerGlow.md)</sub>, <sub>[LayerStyle: InnerGlow V2](node_examples/LayerStyle_InnerGlow_V2.md)</sub>, <sub>[LayerStyle: InnerShadow](node_examples/LayerStyle_InnerShadow.md)</sub>, <sub>[LayerStyle: InnerShadow V2](node_examples/LayerStyle_InnerShadow_V2.md)</sub>, <sub>[LayerStyle: OuterGlow](node_examples/LayerStyle_OuterGlow.md)</sub>, <sub>[LayerStyle: OuterGlow V2](node_examples/LayerStyle_OuterGlow_V2.md)</sub>, <sub>[LayerStyle: Stroke](node_examples/LayerStyle_Stroke.md)</sub>, <sub>[LayerStyle: Stroke V2](node_examples/LayerStyle_Stroke_V2.md)</sub>, <sub>[LayerUtility: AddBlindWaterMark](node_examples/LayerUtility_AddBlindWaterMark.md)</sub>, <sub>[LayerUtility: BatchSelector](node_examples/LayerUtility_BatchSelector.md)</sub>, <sub>[LayerUtility: Boolean](node_examples/LayerUtility_Boolean.md)</sub>, <sub>[LayerUtility: BooleanOperator](node_examples/LayerUtility_BooleanOperator.md)</sub>, <sub>[LayerUtility: ColorImage](node_examples/LayerUtility_ColorImage.md)</sub>, <sub>[LayerUtility: ColorImage V2](node_examples/LayerUtility_ColorImage_V2.md)</sub>, <sub>[LayerUtility: ColorPicker](node_examples/LayerUtility_ColorPicker.md)</sub>, <sub>[LayerUtility: CreateQRCode](node_examples/LayerUtility_CreateQRCode.md)</sub>, <sub>[LayerUtility: CropBoxResolve](node_examples/LayerUtility_CropBoxResolve.md)</sub>, <sub>[LayerUtility: CropByMask](node_examples/LayerUtility_CropByMask.md)</sub>, <sub>[LayerUtility: CropByMask V2](node_examples/LayerUtility_CropByMask_V2.md)</sub>, <sub>[LayerUtility: DecodeQRCode](node_examples/LayerUtility_DecodeQRCode.md)</sub>, <sub>[LayerUtility: ExtendCanvas](node_examples/LayerUtility_ExtendCanvas.md)</sub>, <sub>[LayerUtility: ExtendCanvasV2](node_examples/LayerUtility_ExtendCanvasV2.md)</sub>, <sub>[LayerUtility: Float](node_examples/LayerUtility_Float.md)</sub>, <sub>[LayerUtility: GetColorTone](node_examples/LayerUtility_GetColorTone.md)</sub>, <sub>[LayerUtility: GetColorToneV2](node_examples/LayerUtility_GetColorToneV2.md)</sub>, <sub>[LayerUtility: GetImageSize](node_examples/LayerUtility_GetImageSize.md)</sub>, <sub>LayerUtility: GradientImage</sub>, <sub>[LayerUtility: GradientImage V2](node_examples/LayerUtility_GradientImage_V2.md)</sub>, <sub>LayerUtility: HLFrequencyDetailRestore</sub>, <sub>[LayerUtility: ImageAutoCrop](node_examples/LayerUtility_ImageAutoCrop.md)</sub>, <sub>LayerUtility: ImageAutoCrop V2</sub>, <sub>[LayerUtility: ImageBlend](node_examples/LayerUtility_ImageBlend.md)</sub>, <sub>[LayerUtility: ImageBlend V2](node_examples/LayerUtility_ImageBlend_V2.md)</sub>, <sub>[LayerUtility: ImageBlendAdvance](node_examples/LayerUtility_ImageBlendAdvance.md)</sub>, <sub>[LayerUtility: ImageBlendAdvance V2](node_examples/LayerUtility_ImageBlendAdvance_V2.md)</sub>, <sub>[LayerUtility: ImageChannelMerge](node_examples/LayerUtility_ImageChannelMerge.md)</sub>, <sub>[LayerUtility: ImageChannelSplit](node_examples/LayerUtility_ImageChannelSplit.md)</sub>, <sub>[LayerUtility: ImageCombineAlpha](node_examples/LayerUtility_ImageCombineAlpha.md)</sub>, <sub>[LayerUtility: ImageHub](node_examples/LayerUtility_ImageHub.md)</sub>, <sub>[LayerUtility: ImageMaskScaleAs](node_examples/LayerUtility_ImageMaskScaleAs.md)</sub>, <sub>[LayerUtility: ImageOpacity](node_examples/LayerUtility_ImageOpacity.md)</sub>, <sub>[LayerUtility: ImageRemoveAlpha](node_examples/LayerUtility_ImageRemoveAlpha.md)</sub>, <sub>[LayerUtility: ImageRewardFilter](node_examples/LayerUtility_ImageRewardFilter.md)</sub>, <sub>LayerUtility: ImageScaleByAspectRatio</sub>, <sub>[LayerUtility: ImageScaleByAspectRatio V2](node_examples/LayerUtility_ImageScaleByAspectRatio_V2.md)</sub>, <sub>[LayerUtility: ImageScaleRestore](node_examples/LayerUtility_ImageScaleRestore.md)</sub>, <sub>[LayerUtility: ImageScaleRestore V2](node_examples/LayerUtility_ImageScaleRestore_V2.md)</sub>, <sub>[LayerUtility: ImageShift](node_examples/LayerUtility_ImageShift.md)</sub>, <sub>[LayerUtility: Integer](node_examples/LayerUtility_Integer.md)</sub>, <sub>[LayerUtility: LaMa](node_examples/LayerUtility_LaMa.md)</sub>, <sub>[LayerUtility: LayerImageTransform](node_examples/LayerUtility_LayerImageTransform.md)</sub>, <sub>[LayerUtility: LayerMaskTransform](node_examples/LayerUtility_LayerMaskTransform.md)</sub>, <sub>[LayerUtility: LoadPSD](node_examples/LayerUtility_LoadPSD.md)</sub>, <sub>[LayerUtility: NumberCalculator](node_examples/LayerUtility_NumberCalculator.md)</sub>, <sub>[LayerUtility: PrintInfo](node_examples/LayerUtility_PrintInfo.md)</sub>, <sub>[LayerUtility: PromptEmbellish](node_examples/LayerUtility_PromptEmbellish.md)</sub>, <sub>[LayerUtility: PromptTagger](node_examples/LayerUtility_PromptTagger.md)</sub>, <sub>[LayerUtility: PurgeVRAM](node_examples/LayerUtility_PurgeVRAM.md)</sub>, <sub>[LayerUtility: QWenImage2Prompt](node_examples/LayerUtility_QWenImage2Prompt.md)</sub>, <sub>[LayerUtility: RestoreCropBox](node_examples/LayerUtility_RestoreCropBox.md)</sub>, <sub>[LayerUtility: RGB Value](node_examples/LayerUtility_RGB_Value.md)</sub>, <sub>[LayerUtility: SaveImagePlus](node_examples/LayerUtility_SaveImagePlus.md)</sub>, <sub>[LayerUtility: Seed](node_examples/LayerUtility_Seed.md)</sub>, <sub>[LayerUtility: ShowBlindWaterMark](node_examples/LayerUtility_ShowBlindWaterMark.md)</sub>, <sub>[LayerUtility: SimpleTextImage](node_examples/LayerUtility_SimpleTextImage.md)</sub>, <sub>[LayerUtility: TextBox](node_examples/LayerUtility_TextBox.md)</sub>, <sub>[LayerUtility: TextImage](node_examples/LayerUtility_TextImage.md)</sub>, <sub>[LayerUtility: TextJoin](node_examples/LayerUtility_TextJoin.md)</sub>, <sub>[LayerUtility: XY to Percent](node_examples/LayerUtility_XY_to_Percent.md)</sub>
 </details>
 
 
@@ -539,7 +539,7 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `576` | **Created at**: `2024-06-11`
+**Stars**: `578` | **Created at**: `2024-06-12`
 
 
 Using Gemini in ComfyUI
@@ -581,7 +581,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 
  - <sub>[GroundingDinoModelLoader (segment anything)](node_examples/GroundingDinoModelLoader_(segment_anything).md)</sub>, <sub>[GroundingDinoSAMSegment (segment anything)](node_examples/GroundingDinoSAMSegment_(segment_anything).md)</sub>
  - <sub>[InvertMask (segment anything)](node_examples/InvertMask_(segment_anything).md)</sub>, <sub>[IsMaskEmpty](node_examples/IsMaskEmpty.md)</sub>
- - <sub>SAMModelLoader (segment anything)</sub>
+ - <sub>[SAMModelLoader (segment anything)](node_examples/SAMModelLoader_(segment_anything).md)</sub>
 </details>
 
 
@@ -591,7 +591,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `463` | **Created at**: `2024-06-11`
+**Stars**: `468` | **Created at**: `2024-06-12`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -608,7 +608,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `458` | **Created at**: `2024-06-11`
+**Stars**: `460` | **Created at**: `2024-06-12`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -624,14 +624,14 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `444` | **Created at**: `2024-06-11`
+**Stars**: `446` | **Created at**: `2024-06-12`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
 <details><summary>Included Nodes (8)</summary>
 
  - <sub>[DownloadAndLoadCLIPModel](node_examples/DownloadAndLoadCLIPModel.md)</sub>, <sub>[DownloadAndLoadCLIPVisionModel](node_examples/DownloadAndLoadCLIPVisionModel.md)</sub>, <sub>[DownloadAndLoadDynamiCrafterModel](node_examples/DownloadAndLoadDynamiCrafterModel.md)</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>[DynamiCrafterI2V](node_examples/DynamiCrafterI2V.md)</sub>, <sub>[DynamiCrafterModelLoader](node_examples/DynamiCrafterModelLoader.md)</sub>
- - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
+ - <sub>[ToonCrafterDecode](node_examples/ToonCrafterDecode.md)</sub>, <sub>[ToonCrafterInterpolation](node_examples/ToonCrafterInterpolation.md)</sub>
 </details>
 
 
@@ -641,7 +641,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `442` | **Created at**: `2024-06-12`
+**Stars**: `444` | **Created at**: `2024-06-12`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
@@ -667,7 +667,7 @@ Custom node and script for sending webcam to ComfyUI
  - <sub>[CaptureWebcam](node_examples/CaptureWebcam.md)</sub>
  - <sub>ImageResize_Padding</sub>
  - <sub>LatentDelay</sub>, <sub>LoadWebcamImage</sub>
- - <sub>SaveImagetoPath</sub>
+ - <sub>[SaveImagetoPath](node_examples/SaveImagetoPath.md)</sub>
 </details>
 
 
@@ -700,25 +700,9 @@ An image/video/workflow browser and manager for ComfyUI.
 
  - <sub>DifyTextGenerator //Browser</sub>
  - <sub>LoadImageByUrl //Browser</sub>
- - <sub>SelectInputs //Browser</sub>
+ - <sub>[SelectInputs //Browser](node_examples/SelectInputs_Browser.md)</sub>
  - <sub>UploadToRemote //Browser</sub>
  - <sub>XyzPlot //Browser</sub>
-</details>
-
-
-## pythongosssss/ComfyUI-WD14-Tagger
-
-
-<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
-<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
-
-**Stars**: `399` | **Created at**: `2024-06-10`
-
-
-A ComfyUI extension allowing for the interrogation of booru tags from images.
-<details><summary>Included Nodes (1)</summary>
-
- - <sub>WD14Tagger|pysssss</sub>
 </details>
 
 
@@ -728,13 +712,50 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `399` | **Created at**: `2024-06-11`
+**Stars**: `402` | **Created at**: `2024-06-12`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
 <details><summary>Included Nodes (8)</summary>
 
  - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
+</details>
+
+
+## pythongosssss/ComfyUI-WD14-Tagger
+
+
+<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
+<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+
+**Stars**: `400` | **Created at**: `2024-06-12`
+
+
+A ComfyUI extension allowing for the interrogation of booru tags from images.
+<details><summary>Included Nodes (1)</summary>
+
+ - [WD14Tagger|pysssss🌟](node_examples/WD14Taggerpysssss.md)
+</details>
+
+
+## Kosinkadink/ComfyUI-Advanced-ControlNet
+
+
+<a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
+<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
+
+**Stars**: `400` | **Created at**: `2024-06-12`
+
+
+ControlNet scheduling and masking nodes with sliding context support
+<details><summary>Included Nodes (28)</summary>
+
+ - [ACN_AdvancedControlNetApply🌟](node_examples/ACN_AdvancedControlNetApply.md), <sub>ACN_ControlNetLoaderWithLoraAdvanced</sub>, <sub>ACN_DefaultUniversalWeights</sub>, <sub>[ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md)</sub>, <sub>ACN_ReferenceControlNetFinetune</sub>, <sub>ACN_ReferencePreprocessor</sub>, <sub>[ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md)</sub>, <sub>[ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md)</sub>, <sub>ACN_SparseCtrlMergedLoaderAdvanced</sub>, <sub>[ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md)</sub>, <sub>[ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md)</sub>, <sub>ACN_SparseCtrlWeightExtras</sub>, <sub>ACN_TimestepKeyframeFromStrengthList</sub>, <sub>ACN_TimestepKeyframeInterpolation</sub>
+ - [ControlNetLoaderAdvanced🌟](node_examples/ControlNetLoaderAdvanced.md), <sub>CustomControlNetWeights</sub>, <sub>CustomT2IAdapterWeights</sub>
+ - <sub>[DiffControlNetLoaderAdvanced](node_examples/DiffControlNetLoaderAdvanced.md)</sub>
+ - <sub>[LatentKeyframe](node_examples/LatentKeyframe.md)</sub>, <sub>[LatentKeyframeBatchedGroup](node_examples/LatentKeyframeBatchedGroup.md)</sub>, <sub>[LatentKeyframeGroup](node_examples/LatentKeyframeGroup.md)</sub>, <sub>[LatentKeyframeTiming](node_examples/LatentKeyframeTiming.md)</sub>, <sub>[LoadImagesFromDirectory](node_examples/LoadImagesFromDirectory.md)</sub>
+ - <sub>[ScaledSoftControlNetWeights](node_examples/ScaledSoftControlNetWeights.md)</sub>, <sub>ScaledSoftMaskedUniversalWeights</sub>, <sub>SoftControlNetWeights</sub>, <sub>SoftT2IAdapterWeights</sub>
+ - <sub>[TimestepKeyframe](node_examples/TimestepKeyframe.md)</sub>
 </details>
 
 
@@ -754,27 +775,6 @@ unofficial implementation of Comfyui magic clothing
 </details>
 
 
-## Kosinkadink/ComfyUI-Advanced-ControlNet
-
-
-<a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
-<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
-
-**Stars**: `398` | **Created at**: `2024-06-11`
-
-
-ControlNet scheduling and masking nodes with sliding context support
-<details><summary>Included Nodes (28)</summary>
-
- - [ACN_AdvancedControlNetApply🌟](node_examples/ACN_AdvancedControlNetApply.md), <sub>ACN_ControlNetLoaderWithLoraAdvanced</sub>, <sub>ACN_DefaultUniversalWeights</sub>, <sub>[ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md)</sub>, <sub>ACN_ReferenceControlNetFinetune</sub>, <sub>ACN_ReferencePreprocessor</sub>, <sub>[ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md)</sub>, <sub>[ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md)</sub>, <sub>ACN_SparseCtrlMergedLoaderAdvanced</sub>, <sub>[ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md)</sub>, <sub>[ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md)</sub>, <sub>ACN_SparseCtrlWeightExtras</sub>, <sub>ACN_TimestepKeyframeFromStrengthList</sub>, <sub>ACN_TimestepKeyframeInterpolation</sub>
- - [ControlNetLoaderAdvanced🌟](node_examples/ControlNetLoaderAdvanced.md), <sub>CustomControlNetWeights</sub>, <sub>CustomT2IAdapterWeights</sub>
- - <sub>[DiffControlNetLoaderAdvanced](node_examples/DiffControlNetLoaderAdvanced.md)</sub>
- - <sub>[LatentKeyframe](node_examples/LatentKeyframe.md)</sub>, <sub>[LatentKeyframeBatchedGroup](node_examples/LatentKeyframeBatchedGroup.md)</sub>, <sub>[LatentKeyframeGroup](node_examples/LatentKeyframeGroup.md)</sub>, <sub>[LatentKeyframeTiming](node_examples/LatentKeyframeTiming.md)</sub>, <sub>[LoadImagesFromDirectory](node_examples/LoadImagesFromDirectory.md)</sub>
- - <sub>ScaledSoftControlNetWeights</sub>, <sub>ScaledSoftMaskedUniversalWeights</sub>, <sub>SoftControlNetWeights</sub>, <sub>SoftT2IAdapterWeights</sub>
- - <sub>TimestepKeyframe</sub>
-</details>
-
-
 ## cubiq/PuLID_ComfyUI
 
 
@@ -788,7 +788,7 @@ PuLID native implementation for ComfyUI
 <details><summary>Included Nodes (5)</summary>
 
  - <sub>[ApplyPulid](node_examples/ApplyPulid.md)</sub>, <sub>ApplyPulidAdvanced</sub>
- - <sub>PulidEvaClipLoader</sub>, <sub>PulidInsightFaceLoader</sub>, <sub>PulidModelLoader</sub>
+ - <sub>[PulidEvaClipLoader](node_examples/PulidEvaClipLoader.md)</sub>, <sub>[PulidInsightFaceLoader](node_examples/PulidInsightFaceLoader.md)</sub>, <sub>[PulidModelLoader](node_examples/PulidModelLoader.md)</sub>
 </details>
 
 
@@ -798,13 +798,13 @@ PuLID native implementation for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `382` | **Created at**: `2024-06-11`
+**Stars**: `382` | **Created at**: `2024-06-12`
 
 
 Nodes related to video workflows
 <details><summary>Included Nodes (29)</summary>
 
- - <sub>VHS_BatchManager</sub>, <sub>VHS_DuplicateImages</sub>, <sub>VHS_DuplicateLatents</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>VHS_GetImageCount</sub>, <sub>VHS_GetLatentCount</sub>, <sub>VHS_GetMaskCount</sub>, <sub>VHS_LoadAudio</sub>, <sub>VHS_LoadAudioUpload</sub>, <sub>VHS_LoadImages</sub>, <sub>VHS_LoadImagesPath</sub>, <sub>VHS_LoadVideo</sub>, <sub>VHS_LoadVideoPath</sub>, <sub>VHS_MergeImages</sub>, <sub>VHS_MergeLatents</sub>, <sub>VHS_MergeMasks</sub>, <sub>VHS_PruneOutputs</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>VHS_SelectEveryNthMask</sub>, <sub>VHS_SplitImages</sub>, <sub>VHS_SplitLatents</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_VAEDecodeBatched</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VideoCombine</sub>, <sub>VHS_VideoInfo</sub>, <sub>VHS_VideoInfoLoaded</sub>, <sub>VHS_VideoInfoSource</sub>
+ - [VHS_BatchManager🌟](node_examples/VHS_BatchManager.md), <sub>[VHS_DuplicateImages](node_examples/VHS_DuplicateImages.md)</sub>, <sub>[VHS_DuplicateLatents](node_examples/VHS_DuplicateLatents.md)</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>[VHS_GetImageCount](node_examples/VHS_GetImageCount.md)</sub>, <sub>[VHS_GetLatentCount](node_examples/VHS_GetLatentCount.md)</sub>, <sub>VHS_GetMaskCount</sub>, <sub>[VHS_LoadAudio](node_examples/VHS_LoadAudio.md)</sub>, <sub>[VHS_LoadAudioUpload](node_examples/VHS_LoadAudioUpload.md)</sub>, <sub>[VHS_LoadImages](node_examples/VHS_LoadImages.md)</sub>, [VHS_LoadImagesPath🌟](node_examples/VHS_LoadImagesPath.md), [VHS_LoadVideo🌟](node_examples/VHS_LoadVideo.md), [VHS_LoadVideoPath🌟](node_examples/VHS_LoadVideoPath.md), <sub>[VHS_MergeImages](node_examples/VHS_MergeImages.md)</sub>, <sub>[VHS_MergeLatents](node_examples/VHS_MergeLatents.md)</sub>, <sub>VHS_MergeMasks</sub>, <sub>[VHS_PruneOutputs](node_examples/VHS_PruneOutputs.md)</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>[VHS_SelectEveryNthMask](node_examples/VHS_SelectEveryNthMask.md)</sub>, <sub>[VHS_SplitImages](node_examples/VHS_SplitImages.md)</sub>, <sub>[VHS_SplitLatents](node_examples/VHS_SplitLatents.md)</sub>, <sub>VHS_SplitMasks</sub>, <sub>[VHS_VAEDecodeBatched](node_examples/VHS_VAEDecodeBatched.md)</sub>, <sub>VHS_VAEEncodeBatched</sub>, [VHS_VideoCombine🌟](node_examples/VHS_VideoCombine.md), <sub>[VHS_VideoInfo](node_examples/VHS_VideoInfo.md)</sub>, <sub>[VHS_VideoInfoLoaded](node_examples/VHS_VideoInfoLoaded.md)</sub>, <sub>VHS_VideoInfoSource</sub>
 </details>
 
 
@@ -814,7 +814,7 @@ Nodes related to video workflows
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `373` | **Created at**: `2024-06-11`
+**Stars**: `379` | **Created at**: `2024-06-12`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -830,7 +830,7 @@ A Node for ComfyUI that does what you ask it to do
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `370` | **Created at**: `2024-06-11`
+**Stars**: `371` | **Created at**: `2024-06-12`
 
 
 Marigold depth estimation in ComfyUI
@@ -838,8 +838,8 @@ Marigold depth estimation in ComfyUI
 
  - <sub>[ColorizeDepthmap](node_examples/ColorizeDepthmap.md)</sub>
  - <sub>[MarigoldDepthEstimation](node_examples/MarigoldDepthEstimation.md)</sub>, <sub>[MarigoldDepthEstimation_v2](node_examples/MarigoldDepthEstimation_v2.md)</sub>, <sub>MarigoldDepthEstimation_v2_video</sub>, <sub>[MarigoldDepthEstimationVideo](node_examples/MarigoldDepthEstimationVideo.md)</sub>, <sub>[MarigoldModelLoader](node_examples/MarigoldModelLoader.md)</sub>
- - <sub>RemapDepth</sub>
- - <sub>SaveImageOpenEXR</sub>
+ - <sub>[RemapDepth](node_examples/RemapDepth.md)</sub>
+ - <sub>[SaveImageOpenEXR](node_examples/SaveImageOpenEXR.md)</sub>
 </details>
 
 
@@ -849,7 +849,7 @@ Marigold depth estimation in ComfyUI
 <a href='https://github.com/kijai/ComfyUI-IC-Light'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
 
-**Stars**: `367` | **Created at**: `2024-06-12`
+**Stars**: `368` | **Created at**: `2024-06-12`
 
 
 Using IC-LIght models in ComfyUI
@@ -876,7 +876,7 @@ ComfyUI native implementation of IC-Light
 <details><summary>Included Nodes (3)</summary>
 
  - <sub>[ICLightApplyMaskGrey](node_examples/ICLightApplyMaskGrey.md)</sub>, <sub>[ICLightAppply](node_examples/ICLightAppply.md)</sub>
- - <sub>VAEEncodeArgMax</sub>
+ - <sub>[VAEEncodeArgMax](node_examples/VAEEncodeArgMax.md)</sub>
 </details>
 
 
@@ -886,7 +886,7 @@ ComfyUI native implementation of IC-Light
 <a href='https://github.com/chaojie/ComfyUI-DragNUWA'>
 <img src="https://avatars.githubusercontent.com/u/701810?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chaojie/ComfyUI-DragNUWA
 
-**Stars**: `356` | **Created at**: `2024-06-11`
+**Stars**: `357` | **Created at**: `2024-06-12`
 
 
 None
@@ -898,7 +898,7 @@ None
  - <sub>Get First Image</sub>, <sub>[Get Last Image](node_examples/Get_Last_Image.md)</sub>
  - <sub>[InstantCameraMotionBrush](node_examples/InstantCameraMotionBrush.md)</sub>, <sub>[InstantObjectMotionBrush](node_examples/InstantObjectMotionBrush.md)</sub>
  - <sub>[Load CheckPoint DragNUWA](node_examples/Load_CheckPoint_DragNUWA.md)</sub>, <sub>Load MotionBrush From Optical Flow</sub>, <sub>Load MotionBrush From Optical Flow Directory</sub>, <sub>Load MotionBrush From Optical Flow Without Model</sub>, <sub>Load MotionBrush From Tracking Points</sub>, <sub>Load MotionBrush From Tracking Points Without Model</sub>, <sub>Load Pose KeyPoints</sub>, <sub>[Loop](node_examples/Loop.md)</sub>, <sub>LoopEnd_IMAGE</sub>, <sub>LoopStart_IMAGE</sub>
- - <sub>Split Tracking Points</sub>
+ - <sub>[Split Tracking Points](node_examples/Split_Tracking_Points.md)</sub>
 </details>
 
 
@@ -914,7 +914,27 @@ None
 TripoSR custom node for comfyui
 <details><summary>Included Nodes (3)</summary>
 
- - <sub>TripoSRModelLoader</sub>, <sub>TripoSRSampler</sub>, <sub>TripoSRViewer</sub>
+ - <sub>[TripoSRModelLoader](node_examples/TripoSRModelLoader.md)</sub>, <sub>[TripoSRSampler](node_examples/TripoSRSampler.md)</sub>, <sub>[TripoSRViewer](node_examples/TripoSRViewer.md)</sub>
+</details>
+
+
+## ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+
+
+<a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'>
+<img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+
+**Stars**: `343` | **Created at**: `2024-06-12`
+
+
+Prompt Visualization | Art Gallery
+<details><summary>Included Nodes (6)</summary>
+
+ - <sub>ArtGallery_Zho</sub>, <sub>[ArtistsImage_Zho](node_examples/ArtistsImage_Zho.md)</sub>
+ - <sub>[CamerasImage_Zho](node_examples/CamerasImage_Zho.md)</sub>
+ - <sub>[FilmsImage_Zho](node_examples/FilmsImage_Zho.md)</sub>
+ - <sub>[MovementsImage_Zho](node_examples/MovementsImage_Zho.md)</sub>
+ - <sub>[StylesImage_Zho](node_examples/StylesImage_Zho.md)</sub>
 </details>
 
 
@@ -924,7 +944,7 @@ TripoSR custom node for comfyui
 <a href='https://github.com/BlenderNeko/ComfyUI_Cutoff'>
 <img src="https://avatars.githubusercontent.com/u/126974546?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BlenderNeko/ComfyUI_Cutoff
 
-**Stars**: `328` | **Created at**: `2024-06-09`
+**Stars**: `329` | **Created at**: `2024-06-12`
 
 
 cutoff implementation for ComfyUI
@@ -940,7 +960,7 @@ cutoff implementation for ComfyUI
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `328` | **Created at**: `2024-06-11`
+**Stars**: `329` | **Created at**: `2024-06-12`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -953,8 +973,8 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
  - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
  - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>
- - <sub>RIFE VFI</sub>
- - <sub>Sepconv VFI</sub>, <sub>STMFNet VFI</sub>
+ - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
+ - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
 </details>
 
@@ -965,7 +985,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `327` | **Created at**: `2024-06-10`
+**Stars**: `328` | **Created at**: `2024-06-12`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -980,14 +1000,14 @@ Animation oriented nodes pack for ComfyUI
  - <sub>Get Batch From History (mtb)</sub>
  - <sub>[Image Compare (mtb)](node_examples/Image_Compare_(mtb).md)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>[Image Remove Background Rembg (mtb)](node_examples/Image_Remove_Background_Rembg_(mtb).md)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>[Image Tile Offset (mtb)](node_examples/Image_Tile_Offset_(mtb).md)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>[Int To Number (mtb)](node_examples/Int_To_Number_(mtb).md)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
  - <sub>Latent Lerp (mtb)</sub>, <sub>[Load Face Analysis Model (mtb)](node_examples/Load_Face_Analysis_Model_(mtb).md)</sub>, <sub>[Load Face Enhance Model (mtb)](node_examples/Load_Face_Enhance_Model_(mtb).md)</sub>, <sub>[Load Face Swap Model (mtb)](node_examples/Load_Face_Swap_Model_(mtb).md)</sub>, <sub>[Load Film Model (mtb)](node_examples/Load_Film_Model_(mtb).md)</sub>, <sub>[Load Image From Url (mtb)](node_examples/Load_Image_From_Url_(mtb).md)</sub>, <sub>Load Image Sequence (mtb)</sub>
- - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>Model Patch Seamless (mtb)</sub>
+ - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>[Model Patch Seamless (mtb)](node_examples/Model_Patch_Seamless_(mtb).md)</sub>
  - <sub>Pick From Batch (mtb)</sub>
  - <sub>Qr Code (mtb)</sub>
- - <sub>Restore Face (mtb)</sub>
- - <sub>Save Gif (mtb)</sub>, <sub>Save Image Grid (mtb)</sub>, <sub>Save Image Sequence (mtb)</sub>, <sub>Save Tensors (mtb)</sub>, <sub>Sharpen (mtb)</sub>, <sub>Smart Step (mtb)</sub>, <sub>Stack Images (mtb)</sub>, <sub>String Replace (mtb)</sub>, <sub>Styles Loader (mtb)</sub>
- - <sub>Text To Image (mtb)</sub>, <sub>Transform Image (mtb)</sub>
+ - <sub>[Restore Face (mtb)](node_examples/Restore_Face_(mtb).md)</sub>
+ - <sub>[Save Gif (mtb)](node_examples/Save_Gif_(mtb).md)</sub>, <sub>Save Image Grid (mtb)</sub>, <sub>[Save Image Sequence (mtb)](node_examples/Save_Image_Sequence_(mtb).md)</sub>, <sub>[Save Tensors (mtb)](node_examples/Save_Tensors_(mtb).md)</sub>, <sub>Sharpen (mtb)</sub>, <sub>Smart Step (mtb)</sub>, <sub>Stack Images (mtb)</sub>, <sub>[String Replace (mtb)](node_examples/String_Replace_(mtb).md)</sub>, <sub>Styles Loader (mtb)</sub>
+ - <sub>Text To Image (mtb)</sub>, <sub>[Transform Image (mtb)](node_examples/Transform_Image_(mtb).md)</sub>
  - <sub>Uncrop (mtb)</sub>, <sub>Unsplash Image (mtb)</sub>
- - <sub>Vae Decode (mtb)</sub>
+ - <sub>[Vae Decode (mtb)](node_examples/Vae_Decode_(mtb).md)</sub>
 </details>
 
 
@@ -1002,13 +1022,33 @@ Animation oriented nodes pack for ComfyUI
 
 ComfyUI custom node that simply integrates the OOTDiffusion.
 
+## nullquant/ComfyUI-BrushNet
+
+
+<a href='https://github.com/nullquant/ComfyUI-BrushNet'>
+<img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
+
+**Stars**: `327` | **Created at**: `2024-06-12`
+
+
+ComfyUI BrushNet nodes
+<details><summary>Included Nodes (8)</summary>
+
+ - <sub>[BlendInpaint](node_examples/BlendInpaint.md)</sub>, <sub>[BrushNet](node_examples/BrushNet.md)</sub>, <sub>[BrushNetLoader](node_examples/BrushNetLoader.md)</sub>
+ - <sub>CutForInpaint</sub>
+ - <sub>[PowerPaint](node_examples/PowerPaint.md)</sub>, <sub>[PowerPaintCLIPLoader](node_examples/PowerPaintCLIPLoader.md)</sub>
+ - <sub>[RAUNet](node_examples/RAUNet.md)</sub>
+ - <sub>Terminal</sub>
+</details>
+
+
 ## if-ai/ComfyUI-IF_AI_tools
 
 
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `325` | **Created at**: `2024-06-10`
+**Stars**: `326` | **Created at**: `2024-06-12`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -1018,33 +1058,13 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 </details>
 
 
-## nullquant/ComfyUI-BrushNet
-
-
-<a href='https://github.com/nullquant/ComfyUI-BrushNet'>
-<img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
-
-**Stars**: `324` | **Created at**: `2024-06-11`
-
-
-ComfyUI BrushNet nodes
-<details><summary>Included Nodes (8)</summary>
-
- - <sub>[BlendInpaint](node_examples/BlendInpaint.md)</sub>, <sub>[BrushNet](node_examples/BrushNet.md)</sub>, <sub>[BrushNetLoader](node_examples/BrushNetLoader.md)</sub>
- - <sub>CutForInpaint</sub>
- - <sub>PowerPaint</sub>, <sub>PowerPaintCLIPLoader</sub>
- - <sub>RAUNet</sub>
- - <sub>Terminal</sub>
-</details>
-
-
 ## xXAdonesXx/NodeGPT
 
 
 <a href='https://github.com/xXAdonesXx/NodeGPT'>
 <img src="https://avatars.githubusercontent.com/u/66518617?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xXAdonesXx/NodeGPT
 
-**Stars**: `322` | **Created at**: `2024-06-07`
+**Stars**: `323` | **Created at**: `2024-06-12`
 
 
 ComfyUI Extension Nodes for Automated Text Generation.
@@ -1058,31 +1078,11 @@ ComfyUI Extension Nodes for Automated Text Generation.
  - <sub>Image_generation_Conditioning</sub>
  - <sub>llama-cpp</sub>, <sub>llava</sub>, <sub>[LM_Studio](node_examples/LM_Studio.md)</sub>, <sub>LoadAPIconfig</sub>, <sub>LoadTXT</sub>
  - <sub>MemGPT</sub>, <sub>Memory_Excel</sub>, <sub>Model_1</sub>
- - <sub>Ollama</sub>, <sub>oobaboogaOpenAI</sub>, <sub>Output2String</sub>
- - <sub>Planner</sub>
- - <sub>Scientist</sub>
- - <sub>TextCombine</sub>, <sub>TextGeneration</sub>, <sub>TextGenerator</sub>, <sub>TextInput</sub>, <sub>TextOutput</sub>
- - <sub>UserProxy</sub>
-</details>
-
-
-## ZHO-ZHO-ZHO/ComfyUI-ArtGallery
-
-
-<a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'>
-<img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
-
-**Stars**: `321` | **Created at**: `2024-06-11`
-
-
-Prompt Visualization | Art Gallery
-<details><summary>Included Nodes (6)</summary>
-
- - <sub>ArtGallery_Zho</sub>, <sub>[ArtistsImage_Zho](node_examples/ArtistsImage_Zho.md)</sub>
- - <sub>[CamerasImage_Zho](node_examples/CamerasImage_Zho.md)</sub>
- - <sub>[FilmsImage_Zho](node_examples/FilmsImage_Zho.md)</sub>
- - <sub>MovementsImage_Zho</sub>
- - <sub>StylesImage_Zho</sub>
+ - <sub>Ollama</sub>, <sub>oobaboogaOpenAI</sub>, <sub>[Output2String](node_examples/Output2String.md)</sub>
+ - <sub>[Planner](node_examples/Planner.md)</sub>
+ - <sub>[Scientist](node_examples/Scientist.md)</sub>
+ - <sub>TextCombine</sub>, <sub>[TextGeneration](node_examples/TextGeneration.md)</sub>, <sub>TextGenerator</sub>, <sub>TextInput</sub>, <sub>TextOutput</sub>
+ - <sub>[UserProxy](node_examples/UserProxy.md)</sub>
 </details>
 
 
@@ -1092,7 +1092,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/kijai/ComfyUI-IC-Light-Wrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light-Wrapper
 
-**Stars**: `314` | **Created at**: `2024-06-11`
+**Stars**: `313` | **Created at**: `2024-06-12`
 
 
 Wraps the IC-Light Diffuser demo to a ComfyUI node
@@ -1103,7 +1103,7 @@ Wraps the IC-Light Diffuser demo to a ComfyUI node
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `310` | **Created at**: `2024-06-11`
+**Stars**: `311` | **Created at**: `2024-06-12`
 
 
 Various custom nodes for ComfyUI
@@ -1122,10 +1122,10 @@ Various custom nodes for ComfyUI
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelPassThrough</sub>
  - <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
- - <sub>PlotCoordinates</sub>, <sub>PreviewAnimation</sub>
- - <sub>RemapImageRange</sub>, <sub>RemapMaskRange</sub>, <sub>ReplaceImagesInBatch</sub>, <sub>ResizeMask</sub>, <sub>ReverseImageBatch</sub>, <sub>RoundMask</sub>
- - <sub>SaveImageWithAlpha</sub>, <sub>ScaleBatchPromptSchedule</sub>, <sub>Sleep</sub>, <sub>SomethingToString</sub>, <sub>SoundReactive</sub>, <sub>SplineEditor</sub>, <sub>SplitBboxes</sub>, <sub>SplitImageChannels</sub>, <sub>StabilityAPI_SD3</sub>, <sub>StableZero123_BatchSchedule</sub>, <sub>StringConstant</sub>, <sub>StringConstantMultiline</sub>, <sub>Superprompt</sub>, <sub>SV3D_BatchSchedule</sub>
- - <sub>VRAM_Debug</sub>
+ - <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>
+ - <sub>[RemapImageRange](node_examples/RemapImageRange.md)</sub>, <sub>[RemapMaskRange](node_examples/RemapMaskRange.md)</sub>, <sub>ReplaceImagesInBatch</sub>, <sub>[ResizeMask](node_examples/ResizeMask.md)</sub>, <sub>ReverseImageBatch</sub>, <sub>RoundMask</sub>
+ - <sub>SaveImageWithAlpha</sub>, <sub>ScaleBatchPromptSchedule</sub>, <sub>Sleep</sub>, <sub>[SomethingToString](node_examples/SomethingToString.md)</sub>, <sub>SoundReactive</sub>, <sub>[SplineEditor](node_examples/SplineEditor.md)</sub>, <sub>SplitBboxes</sub>, <sub>SplitImageChannels</sub>, <sub>StabilityAPI_SD3</sub>, <sub>[StableZero123_BatchSchedule](node_examples/StableZero123_BatchSchedule.md)</sub>, <sub>[StringConstant](node_examples/StringConstant.md)</sub>, <sub>[StringConstantMultiline](node_examples/StringConstantMultiline.md)</sub>, <sub>Superprompt</sub>, <sub>SV3D_BatchSchedule</sub>
+ - <sub>[VRAM_Debug](node_examples/VRAM_Debug.md)</sub>
  - <sub>WeightScheduleConvert</sub>, <sub>WeightScheduleExtend</sub>, <sub>WidgetToString</sub>
 </details>
 
@@ -1136,7 +1136,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/TinyTerra/ComfyUI_tinyterraNodes'>
 <img src="https://avatars.githubusercontent.com/u/115619949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TinyTerra/ComfyUI_tinyterraNodes
 
-**Stars**: `310` | **Created at**: `2024-06-10`
+**Stars**: `311` | **Created at**: `2024-06-12`
 
 
 A selection of nodes for Stable Diffusion ComfyUI
@@ -1152,7 +1152,7 @@ A selection of nodes for Stable Diffusion ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR
 
-**Stars**: `309` | **Created at**: `2024-06-10`
+**Stars**: `310` | **Created at**: `2024-06-12`
 
 
 Unofficial implementation of APISR for ComfyUI

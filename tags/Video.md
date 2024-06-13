@@ -7,7 +7,7 @@
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `731` | **Created at**: `2024-06-10`
+**Stars**: `736` | **Created at**: `2024-06-12`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -18,7 +18,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `626` | **Created at**: `2024-06-11`
+**Stars**: `627` | **Created at**: `2024-06-12`
 
 
 AnimateDiff for ComfyUI
@@ -36,14 +36,14 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `444` | **Created at**: `2024-06-11`
+**Stars**: `446` | **Created at**: `2024-06-12`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
 <details><summary>Included Nodes (8)</summary>
 
  - <sub>[DownloadAndLoadCLIPModel](node_examples/DownloadAndLoadCLIPModel.md)</sub>, <sub>[DownloadAndLoadCLIPVisionModel](node_examples/DownloadAndLoadCLIPVisionModel.md)</sub>, <sub>[DownloadAndLoadDynamiCrafterModel](node_examples/DownloadAndLoadDynamiCrafterModel.md)</sub>, <sub>DynamiCrafterBatchInterpolation</sub>, <sub>[DynamiCrafterI2V](node_examples/DynamiCrafterI2V.md)</sub>, <sub>[DynamiCrafterModelLoader](node_examples/DynamiCrafterModelLoader.md)</sub>
- - <sub>ToonCrafterDecode</sub>, <sub>ToonCrafterInterpolation</sub>
+ - <sub>[ToonCrafterDecode](node_examples/ToonCrafterDecode.md)</sub>, <sub>[ToonCrafterInterpolation](node_examples/ToonCrafterInterpolation.md)</sub>
 </details>
 
 
@@ -68,13 +68,13 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `382` | **Created at**: `2024-06-11`
+**Stars**: `382` | **Created at**: `2024-06-12`
 
 
 Nodes related to video workflows
 <details><summary>Included Nodes (29)</summary>
 
- - <sub>VHS_BatchManager</sub>, <sub>VHS_DuplicateImages</sub>, <sub>VHS_DuplicateLatents</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>VHS_GetImageCount</sub>, <sub>VHS_GetLatentCount</sub>, <sub>VHS_GetMaskCount</sub>, <sub>VHS_LoadAudio</sub>, <sub>VHS_LoadAudioUpload</sub>, <sub>VHS_LoadImages</sub>, <sub>VHS_LoadImagesPath</sub>, <sub>VHS_LoadVideo</sub>, <sub>VHS_LoadVideoPath</sub>, <sub>VHS_MergeImages</sub>, <sub>VHS_MergeLatents</sub>, <sub>VHS_MergeMasks</sub>, <sub>VHS_PruneOutputs</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>VHS_SelectEveryNthMask</sub>, <sub>VHS_SplitImages</sub>, <sub>VHS_SplitLatents</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_VAEDecodeBatched</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VideoCombine</sub>, <sub>VHS_VideoInfo</sub>, <sub>VHS_VideoInfoLoaded</sub>, <sub>VHS_VideoInfoSource</sub>
+ - [VHS_BatchManager🌟](node_examples/VHS_BatchManager.md), <sub>[VHS_DuplicateImages](node_examples/VHS_DuplicateImages.md)</sub>, <sub>[VHS_DuplicateLatents](node_examples/VHS_DuplicateLatents.md)</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>[VHS_GetImageCount](node_examples/VHS_GetImageCount.md)</sub>, <sub>[VHS_GetLatentCount](node_examples/VHS_GetLatentCount.md)</sub>, <sub>VHS_GetMaskCount</sub>, <sub>[VHS_LoadAudio](node_examples/VHS_LoadAudio.md)</sub>, <sub>[VHS_LoadAudioUpload](node_examples/VHS_LoadAudioUpload.md)</sub>, <sub>[VHS_LoadImages](node_examples/VHS_LoadImages.md)</sub>, [VHS_LoadImagesPath🌟](node_examples/VHS_LoadImagesPath.md), [VHS_LoadVideo🌟](node_examples/VHS_LoadVideo.md), [VHS_LoadVideoPath🌟](node_examples/VHS_LoadVideoPath.md), <sub>[VHS_MergeImages](node_examples/VHS_MergeImages.md)</sub>, <sub>[VHS_MergeLatents](node_examples/VHS_MergeLatents.md)</sub>, <sub>VHS_MergeMasks</sub>, <sub>[VHS_PruneOutputs](node_examples/VHS_PruneOutputs.md)</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>[VHS_SelectEveryNthMask](node_examples/VHS_SelectEveryNthMask.md)</sub>, <sub>[VHS_SplitImages](node_examples/VHS_SplitImages.md)</sub>, <sub>[VHS_SplitLatents](node_examples/VHS_SplitLatents.md)</sub>, <sub>VHS_SplitMasks</sub>, <sub>[VHS_VAEDecodeBatched](node_examples/VHS_VAEDecodeBatched.md)</sub>, <sub>VHS_VAEEncodeBatched</sub>, [VHS_VideoCombine🌟](node_examples/VHS_VideoCombine.md), <sub>[VHS_VideoInfo](node_examples/VHS_VideoInfo.md)</sub>, <sub>[VHS_VideoInfoLoaded](node_examples/VHS_VideoInfoLoaded.md)</sub>, <sub>VHS_VideoInfoSource</sub>
 </details>
 
 
@@ -84,7 +84,7 @@ Nodes related to video workflows
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `328` | **Created at**: `2024-06-11`
+**Stars**: `329` | **Created at**: `2024-06-12`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -97,8 +97,8 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
  - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
  - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>
- - <sub>RIFE VFI</sub>
- - <sub>Sepconv VFI</sub>, <sub>STMFNet VFI</sub>
+ - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
+ - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
 </details>
 
@@ -109,7 +109,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `327` | **Created at**: `2024-06-10`
+**Stars**: `328` | **Created at**: `2024-06-12`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -124,13 +124,13 @@ Animation oriented nodes pack for ComfyUI
  - <sub>Get Batch From History (mtb)</sub>
  - <sub>[Image Compare (mtb)](node_examples/Image_Compare_(mtb).md)</sub>, <sub>Image Premultiply (mtb)</sub>, <sub>[Image Remove Background Rembg (mtb)](node_examples/Image_Remove_Background_Rembg_(mtb).md)</sub>, <sub>Image Resize Factor (mtb)</sub>, <sub>[Image Tile Offset (mtb)](node_examples/Image_Tile_Offset_(mtb).md)</sub>, <sub>Int To Bool (mtb)</sub>, <sub>[Int To Number (mtb)](node_examples/Int_To_Number_(mtb).md)</sub>, <sub>Interpolate Clip Sequential (mtb)</sub>
  - <sub>Latent Lerp (mtb)</sub>, <sub>[Load Face Analysis Model (mtb)](node_examples/Load_Face_Analysis_Model_(mtb).md)</sub>, <sub>[Load Face Enhance Model (mtb)](node_examples/Load_Face_Enhance_Model_(mtb).md)</sub>, <sub>[Load Face Swap Model (mtb)](node_examples/Load_Face_Swap_Model_(mtb).md)</sub>, <sub>[Load Film Model (mtb)](node_examples/Load_Film_Model_(mtb).md)</sub>, <sub>[Load Image From Url (mtb)](node_examples/Load_Image_From_Url_(mtb).md)</sub>, <sub>Load Image Sequence (mtb)</sub>
- - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>Model Patch Seamless (mtb)</sub>
+ - <sub>Mask To Image (mtb)</sub>, <sub>Math Expression (mtb)</sub>, <sub>[Model Patch Seamless (mtb)](node_examples/Model_Patch_Seamless_(mtb).md)</sub>
  - <sub>Pick From Batch (mtb)</sub>
  - <sub>Qr Code (mtb)</sub>
- - <sub>Restore Face (mtb)</sub>
- - <sub>Save Gif (mtb)</sub>, <sub>Save Image Grid (mtb)</sub>, <sub>Save Image Sequence (mtb)</sub>, <sub>Save Tensors (mtb)</sub>, <sub>Sharpen (mtb)</sub>, <sub>Smart Step (mtb)</sub>, <sub>Stack Images (mtb)</sub>, <sub>String Replace (mtb)</sub>, <sub>Styles Loader (mtb)</sub>
- - <sub>Text To Image (mtb)</sub>, <sub>Transform Image (mtb)</sub>
+ - <sub>[Restore Face (mtb)](node_examples/Restore_Face_(mtb).md)</sub>
+ - <sub>[Save Gif (mtb)](node_examples/Save_Gif_(mtb).md)</sub>, <sub>Save Image Grid (mtb)</sub>, <sub>[Save Image Sequence (mtb)](node_examples/Save_Image_Sequence_(mtb).md)</sub>, <sub>[Save Tensors (mtb)](node_examples/Save_Tensors_(mtb).md)</sub>, <sub>Sharpen (mtb)</sub>, <sub>Smart Step (mtb)</sub>, <sub>Stack Images (mtb)</sub>, <sub>[String Replace (mtb)](node_examples/String_Replace_(mtb).md)</sub>, <sub>Styles Loader (mtb)</sub>
+ - <sub>Text To Image (mtb)</sub>, <sub>[Transform Image (mtb)](node_examples/Transform_Image_(mtb).md)</sub>
  - <sub>Uncrop (mtb)</sub>, <sub>Unsplash Image (mtb)</sub>
- - <sub>Vae Decode (mtb)</sub>
+ - <sub>[Vae Decode (mtb)](node_examples/Vae_Decode_(mtb).md)</sub>
 </details>
 

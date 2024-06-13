@@ -7,7 +7,7 @@
 <a href='https://github.com/ltdrdata/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
 
-**Stars**: `4.2k` | **Created at**: `2024-06-11`
+**Stars**: `4.2k` | **Created at**: `2024-06-12`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -18,7 +18,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.3k` | **Created at**: `2024-06-11`
+**Stars**: `1.3k` | **Created at**: `2024-06-12`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -26,10 +26,10 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
  - <sub>[CheckpointLoader|pysssss](node_examples/CheckpointLoaderpysssss.md)</sub>, <sub>[ConstrainImageforVideo|pysssss](node_examples/ConstrainImageforVideopysssss.md)</sub>, <sub>[ConstrainImage|pysssss](node_examples/ConstrainImagepysssss.md)</sub>
  - <sub>LoadText|pysssss</sub>, <sub>[LoraLoader|pysssss](node_examples/LoraLoaderpysssss.md)</sub>
- - <sub>MathExpression|pysssss</sub>, <sub>MultiPrimitive|pysssss</sub>
- - <sub>PlaySound|pysssss</sub>
- - <sub>Repeater|pysssss</sub>, <sub>ReroutePrimitive|pysssss</sub>
- - <sub>SaveText|pysssss</sub>, <sub>ShowText|pysssss</sub>, <sub>StringFunction|pysssss</sub>, <sub>SystemNotification|pysssss</sub>
+ - <sub>[MathExpression|pysssss](node_examples/MathExpressionpysssss.md)</sub>, <sub>MultiPrimitive|pysssss</sub>
+ - <sub>[PlaySound|pysssss](node_examples/PlaySoundpysssss.md)</sub>
+ - <sub>Repeater|pysssss</sub>, <sub>[ReroutePrimitive|pysssss](node_examples/ReroutePrimitivepysssss.md)</sub>
+ - <sub>SaveText|pysssss</sub>, [ShowText|pysssss🌟](node_examples/ShowTextpysssss.md), <sub>[StringFunction|pysssss](node_examples/StringFunctionpysssss.md)</sub>, <sub>SystemNotification|pysssss</sub>
 </details>
 
 
@@ -50,7 +50,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `760` | **Created at**: `2024-06-11`
+**Stars**: `762` | **Created at**: `2024-06-12`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -61,7 +61,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `447` | **Created at**: `2024-06-11`
+**Stars**: `451` | **Created at**: `2024-06-12`
 
 
 A powerful set of tools for ComfyUI
@@ -84,7 +84,7 @@ An image/video/workflow browser and manager for ComfyUI.
 
  - <sub>DifyTextGenerator //Browser</sub>
  - <sub>LoadImageByUrl //Browser</sub>
- - <sub>SelectInputs //Browser</sub>
+ - <sub>[SelectInputs //Browser](node_examples/SelectInputs_Browser.md)</sub>
  - <sub>UploadToRemote //Browser</sub>
  - <sub>XyzPlot //Browser</sub>
 </details>
@@ -96,7 +96,7 @@ An image/video/workflow browser and manager for ComfyUI.
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `379` | **Created at**: `2024-06-11`
+**Stars**: `381` | **Created at**: `2024-06-12`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -107,7 +107,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `357` | **Created at**: `2024-06-11`
+**Stars**: `358` | **Created at**: `2024-06-12`
 
 
 A simple sidebar for your ConfyUI!

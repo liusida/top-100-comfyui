@@ -129,6 +129,7 @@ AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
+ApplyCLIPSeg+: -1
 ApplyInstantID: 56
 ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: 0
@@ -167,6 +168,7 @@ Batch Shake (mtb): 0
 Batch Shape (mtb): 0
 Batch Transform (mtb): 4
 BatchCLIPSeg: 1
+BatchCount+: -1
 BatchCropFromMask: 2
 BatchCropFromMaskAdvanced: 0
 BatchUncrop: 1
@@ -215,6 +217,7 @@ CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
+CLIPTextEncodeSDXL+: -1
 CLIPTextEncodeSDXLRefiner: 95
 CLIPVisionEncode: 51
 CLIPVisionLoader: 99
@@ -454,6 +457,7 @@ ColorPreprocessor: 25
 ColorToMask: 7
 Colored Image (mtb): 0
 ColorizeDepthmap: 5
+CombineAudioVideo: -1
 CombineInput: 0
 CombineRegionalPrompts: 12
 ComfyDeployWebscoketImageInput: 0
@@ -481,6 +485,7 @@ Conditioning: 1
 Conditioning Input Switch: 2
 ConditioningAverage: 9
 ConditioningCombine: 97
+ConditioningCombineMultiple+: -1
 ConditioningConcat: 50
 ConditioningMultiCombine: 0
 ConditioningSetArea: 23
@@ -493,6 +498,7 @@ ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
 ConditioningZeroOut: 26
+ConsoleDebug+: -1
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
 ConstrainImage|pysssss: 17
@@ -541,6 +547,7 @@ DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
 Debug (mtb): 2
 Debug Number to Console: 1
+DebugTensorShape+: -1
 Deep Bump (mtb): 4
 DeepTranslatorCLIPTextEncodeNode: 0
 DeepTranslatorTextNode: 10
@@ -576,6 +583,7 @@ DownloadAndLoadDynamiCrafterModel: 4
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
+DrawText+: -1
 DualCFGGuider: 36
 DualCLIPLoader: 1
 DummyLatentOut: 0
@@ -604,6 +612,7 @@ Executor: 1
 ExponentialScheduler: 0
 Export API: 0
 Export With Ffmpeg (mtb): 0
+ExtractKeyframes+: -1
 FILM VFI: 40
 FLAVR VFI: 0
 Face Swap (mtb): 6
@@ -651,11 +660,13 @@ Gemini_API_Vsion_ImgURL_Zho: 0
 Gemini_API_Zho: 1
 Gemini_FileUpload_API_S_Zho: 0
 Gemini_File_API_S_Zho: 0
+GenerateFramesByCount: -1
 GenerateNoise: 1
 Get Batch From History (mtb): 0
 Get First Image: 0
 Get Last Image: 1
 GetImageRangeFromBatch: 9
+GetImageSize+: -1
 GetImageSizeAndCount: 4
 GetImageSize_: 10
 GetImagesFromBatchIndexed: 2
@@ -806,27 +817,41 @@ Image to Noise: 0
 Image to Seed: 0
 ImageAddMulti: 0
 ImageAndMaskPreview: 0
+ImageApplyLUT+: -1
 ImageBatch: 62
 ImageBatchMulti: 4
+ImageBatchMultiple+: -1
 ImageBatchRepeatInterleaving: 1
 ImageBatchTestPattern: 0
 ImageBlend: 53
 ImageBlur: 7
+ImageCASharpening+: -1
+ImageColorMatch+: -1
 ImageColorToMask: 8
 ImageColorTransfer: 0
+ImageCompositeFromMaskBatch+: -1
 ImageCompositeMasked: 77
 ImageConcanate: 14
 ImageCrop: 49
+ImageCrop+: -1
 ImageCropByAlpha: 4
+ImageDesaturate+: -1
+ImageEnhanceDifference+: -1
+ImageExpandBatch+: -1
+ImageFlip+: -1
 ImageFromBatch: 9
+ImageFromBatch+: -1
 ImageGenResolutionFromImage: 4
 ImageGenResolutionFromLatent: 4
 ImageGrabPIL: 0
 ImageGridComposite2x2: 0
 ImageGridComposite3x3: 0
+ImageHistogramMatch+: -1
 ImageIntensityDetector: 0
 ImageInvert: 73
 ImageListReplace_: 0
+ImageListToBatch+: -1
+ImageListToBatch_: -1
 ImageListToImageBatch: 37
 ImageLuminanceDetector: 0
 ImageMaskSwitch: 16
@@ -837,17 +862,25 @@ ImagePadForOutpaint: 55
 ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
 ImagePass: 0
+ImagePosterize+: -1
 ImageQuantize: 2
 ImageRGBA2RGB: 1
+ImageRandomTransform+: -1
 ImageReceiver: 16
+ImageRemoveAlpha+: -1
+ImageRemoveBackground+: -1
+ImageResize+: -1
 ImageResizeKJ: 4
 ImageResize_Padding: 0
 ImageScale: 70
 ImageScaleBy: 97
 ImageScaleToTotalPixels: 71
+ImageSeamCarving+: -1
 ImageSender: 16
 ImageSharpen: 13
 ImageSizeAndBatchSize: 8
+ImageTile+: -1
+ImageToDevice+: -1
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
 ImageUpscaleWithModel: 97
@@ -971,6 +1004,8 @@ KSamplerAdvanced: 95
 KSamplerAdvancedProvider: 25
 KSamplerProvider: 6
 KSamplerSelect: 80
+KSamplerVariationsStochastic+: -1
+KSamplerVariationsWithNoise+: -1
 KarrasScheduler: 1
 LM_Studio: 4
 Latent Batch: 0
@@ -1019,9 +1054,11 @@ LatentUpscaler: 0
 'LayerColor: Levels': 1
 'LayerColor: RGB': 5
 'LayerColor: YUV': 3
+'LayerFilter: AddGrain': -1
 'LayerFilter: ChannelShake': 1
 'LayerFilter: ColorMap': 1
 'LayerFilter: Film': 1
+'LayerFilter: FilmV2': -1
 'LayerFilter: GaussianBlur': 1
 'LayerFilter: HDREffects': 4
 'LayerFilter: LightLeak': 1
@@ -1041,6 +1078,7 @@ LatentUpscaler: 0
 'LayerMask: MaskEdgeUltraDetail': 2
 'LayerMask: MaskEdgeUltraDetail V2': 4
 'LayerMask: MaskGradient': 5
+'LayerMask: MaskGrain': -1
 'LayerMask: MaskGrow': 2
 'LayerMask: MaskInvert': 3
 'LayerMask: MaskMotionBlur': 1
@@ -1091,6 +1129,7 @@ LatentUpscaler: 0
 'LayerUtility: GetImageSize': 7
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
+'LayerUtility: HLFrequencyDetailRestore': -1
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
 'LayerUtility: ImageBlend': 11
@@ -1167,7 +1206,9 @@ Load Pose KeyPoints: 0
 Load Text File: 1
 LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
+LoadAndCombinedAudio_: -1
 LoadAndResizeImage: 0
+LoadCLIPSegModels+: -1
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
@@ -1234,15 +1275,28 @@ Mask Paste Region: 0
 Mask Smooth Region: 3
 Mask Threshold Region: 0
 Mask To Image (mtb): 0
+MaskBatch+: -1
 MaskBatchMulti: 0
+MaskBlur+: -1
+MaskBoundingBox+: -1
 MaskComposite: 63
 MaskDetailerPipe: 1
+MaskExpandBatch+: -1
+MaskFix+: -1
+MaskFlip+: -1
+MaskFromBatch+: -1
+MaskFromColor+: -1
+MaskFromList+: -1
+MaskFromRGBCMYBW+: -1
+MaskFromSegmentation+: -1
 MaskListMerge_: 0
 MaskListReplace_: 0
 MaskListToMaskBatch: 6
 MaskOptFlow: 0
 MaskOrImageToWeight: 0
 MaskPainter: 0
+MaskPreview+: -1
+MaskSmooth+: -1
 MaskToImage: 97
 MaskToSEGS: 59
 MaskToSEGS_for_AnimateDiff: 0
@@ -1271,6 +1325,7 @@ MiDaS-NormalMapPreprocessor: 35
 MirroredImage: 0
 Model Input Switch: 0
 Model Patch Seamless (mtb): 3
+ModelCompile+: -1
 ModelMergeAdd: 0
 ModelMergeBlocks: 1
 ModelMergeSD1: 0
@@ -1339,6 +1394,7 @@ Pick From Batch (mtb): 0
 PixelKSampleHookCombine: 7
 PixelKSampleUpscalerProvider: 13
 PixelKSampleUpscalerProviderPipe: 9
+PixelOEPixelize+: -1
 PixelPerfectResolution: 23
 PixelTiledKSampleUpscalerProvider: 2
 PixelTiledKSampleUpscalerProviderPipe: 2
@@ -1393,10 +1449,12 @@ Ref_Image_Preprocessing: 11
 RegionalPrompt: 12
 RegionalSampler: 12
 RegionalSamplerAdvanced: 0
+RemBGSession+: -1
 RemapDepth: 3
 RemapImageRange: 6
 RemapMaskRange: 7
 RemoveImageFromSEGS: 0
+RemoveLatentMask+: -1
 RemoveNoiseMask: 0
 RepeatImageBatch: 15
 RepeatLatentBatch: 40
@@ -1419,6 +1477,7 @@ SAMLoader: 98
 SAMModelLoader (segment anything): 33
 SAMPreprocessor: 17
 SDTurboScheduler: 24
+SDXLEmptyLatentSizePicker+: -1
 SDXLPromptStyler: 79
 SDXLPromptStylerAdvanced: 5
 SD_4XUpscale_Conditioning: 1
@@ -1481,6 +1540,7 @@ SaveTripoSRMesh: 0
 ScaleBatchPromptSchedule: 0
 ScaledSoftControlNetWeights: 18
 ScaledSoftMaskedUniversalWeights: 0
+ScenesNode_: -1
 Scientist: 1
 ScreenShare: 15
 ScribblePreprocessor: 46
@@ -1580,6 +1640,7 @@ ShowLayer: 4
 ShowTextForGPT: 12
 ShowText|pysssss: 99
 ShufflePreprocessor: 5
+SimpleMath+: -1
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
@@ -1693,6 +1754,7 @@ TomePatchModel: 3
 ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 Transform Image (mtb): 3
+TransitionMask+: -1
 TransparentImage: 6
 TripleCLIPLoader: 5
 TripoSRModelLoader: 14
