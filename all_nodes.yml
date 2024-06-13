@@ -2019,10 +2019,10 @@ ttN advPlot range: 0
 ttN advanced xyPlot: 0
 ttN compareInput: 0
 ttN concat: 1
-ttN conditioning: -1
-ttN debugInput: -1
-ttN float: -1
-ttN hiresfixScale: -1
+ttN conditioning: 0
+ttN debugInput: 0
+ttN float: 0
+ttN hiresfixScale: 14
 ttN imageOutput: -1
 ttN imageREMBG: -1
 ttN int: -1
