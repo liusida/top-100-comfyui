@@ -1959,10 +1959,10 @@ easy kSampler: 3
 easy kSamplerDownscaleUnet: 0
 easy kSamplerInpainting: 2
 easy kSamplerLayerDiffusion: 4
-easy kSamplerSDTurbo: -1
-easy kSamplerTiled: -1
-easy latentCompositeMaskedWithCond: -1
-easy latentNoisy: -1
+easy kSamplerSDTurbo: 0
+easy kSamplerTiled: 0
+easy latentCompositeMaskedWithCond: 0
+easy latentNoisy: 0
 easy loadImageBase64: -1
 easy loraStack: -1
 easy negative: -1
