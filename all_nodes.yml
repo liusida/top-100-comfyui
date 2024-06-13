@@ -1771,10 +1771,10 @@ VRAM_Debug: 1
 Vae Decode (mtb): 3
 VariationNoiseDetailerHookProvider: 0
 Video Dump Frames: 0
-VideoCombine_Adv: -1
-VideoLinearCFGGuidance: -1
-VideoTriangleCFGGuidance: -1
-WD14Tagger|pysssss: -1
+VideoCombine_Adv: 0
+VideoLinearCFGGuidance: 71
+VideoTriangleCFGGuidance: 2
+WD14Tagger|pysssss: 82
 WebcamCapture: -1
 WeightScheduleConvert: -1
 WeightScheduleExtend: -1
