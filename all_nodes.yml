@@ -2047,10 +2047,10 @@ ttN pipeOUT: 3
 ttN seed: 3
 ttN text: 6
 ttN text3BOX_3WAYconcat: 1
-ttN text7BOX_concat: -1
-ttN textCycleLine: -1
-ttN textDebug: -1
-ttN tinyLoader: -1
+ttN text7BOX_concat: 1
+ttN textCycleLine: 0
+ttN textDebug: 3
+ttN tinyLoader: 0
 ttN xyPlot: -1
 unCLIP Checkpoint Loader: -1
 unCLIPCheckpointLoader: -1
