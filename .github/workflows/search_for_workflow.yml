@@ -1,8 +1,6 @@
 name: Search for Workflows
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
   workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
