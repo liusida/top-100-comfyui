@@ -1955,10 +1955,10 @@ easy ipadapterApplyRegional: 0
 easy ipadapterStyleComposition: 0
 easy isSDXL: 0
 easy joinImageBatch: 0
-easy kSampler: -1
-easy kSamplerDownscaleUnet: -1
-easy kSamplerInpainting: -1
-easy kSamplerLayerDiffusion: -1
+easy kSampler: 3
+easy kSamplerDownscaleUnet: 0
+easy kSamplerInpainting: 2
+easy kSamplerLayerDiffusion: 4
 easy kSamplerSDTurbo: -1
 easy kSamplerTiled: -1
 easy latentCompositeMaskedWithCond: -1
