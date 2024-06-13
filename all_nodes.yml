@@ -1879,10 +1879,10 @@ easy LLLiteLoader: 0
 'easy XYInputs: ModelMergeBlocks': 0
 'easy XYInputs: NegativeCond': 0
 'easy XYInputs: NegativeCondList': 0
-'easy XYInputs: PositiveCond': -1
-'easy XYInputs: PositiveCondList': -1
-'easy XYInputs: PromptSR': -1
-'easy XYInputs: Sampler/Scheduler': -1
+'easy XYInputs: PositiveCond': 0
+'easy XYInputs: PositiveCondList': 0
+'easy XYInputs: PromptSR': 0
+'easy XYInputs: Sampler/Scheduler': 0
 'easy XYInputs: Seeds++ Batch': -1
 'easy XYInputs: Steps': -1
 easy XYPlot: -1
