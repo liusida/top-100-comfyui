@@ -1995,10 +1995,10 @@ easy rangeInt: 0
 easy removeLocalImage: 0
 easy samLoaderPipe: 1
 easy seed: 2
-easy showAnything: -1
-easy showLoaderSettingsNames: -1
-easy showSpentTime: -1
-easy showTensorShape: -1
+easy showAnything: 3
+easy showLoaderSettingsNames: 0
+easy showSpentTime: 0
+easy showTensorShape: 0
 easy stableDiffusion3API: -1
 easy string: -1
 easy styleAlignedBatchAlign: -1
