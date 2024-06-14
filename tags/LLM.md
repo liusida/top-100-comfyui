@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `578` | **Created at**: `2024-06-12`
+**Stars**: `579` | **Created at**: `2024-06-13`
 
 
 Using Gemini in ComfyUI
@@ -25,7 +25,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `379` | **Created at**: `2024-06-12`
+**Stars**: `380` | **Created at**: `2024-06-13`
 
 
 A Node for ComfyUI that does what you ask it to do
@@ -41,7 +41,7 @@ A Node for ComfyUI that does what you ask it to do
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `326` | **Created at**: `2024-06-12`
+**Stars**: `327` | **Created at**: `2024-06-13`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -69,7 +69,7 @@ ComfyUI Extension Nodes for Automated Text Generation.
  - <sub>[Engineer](node_examples/Engineer.md)</sub>, <sub>EVAL</sub>, <sub>[Executor](node_examples/Executor.md)</sub>
  - <sub>[GroupChat](node_examples/GroupChat.md)</sub>
  - <sub>Image_generation_Conditioning</sub>
- - <sub>llama-cpp</sub>, <sub>llava</sub>, <sub>[LM_Studio](node_examples/LM_Studio.md)</sub>, <sub>LoadAPIconfig</sub>, <sub>LoadTXT</sub>
+ - <sub>[llama-cpp](node_examples/llama-cpp.md)</sub>, <sub>llava</sub>, <sub>[LM_Studio](node_examples/LM_Studio.md)</sub>, <sub>LoadAPIconfig</sub>, <sub>LoadTXT</sub>
  - <sub>MemGPT</sub>, <sub>Memory_Excel</sub>, <sub>Model_1</sub>
  - <sub>Ollama</sub>, <sub>oobaboogaOpenAI</sub>, <sub>[Output2String](node_examples/Output2String.md)</sub>
  - <sub>[Planner](node_examples/Planner.md)</sub>
