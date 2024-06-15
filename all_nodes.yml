@@ -832,6 +832,7 @@ ImageColorTransfer: 0
 ImageCompositeFromMaskBatch+: 0
 ImageCompositeMasked: 77
 ImageConcanate: 14
+ImageConcatMulti: -1
 ImageCrop: 49
 ImageCrop+: 15
 ImageCropByAlpha: 4
