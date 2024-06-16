@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `3.7k` | **Created at**: `2024-06-14`
+**Stars**: `3.8k` | **Created at**: `2024-06-15`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.5k` | **Created at**: `2024-06-14`
+**Stars**: `1.5k` | **Created at**: `2024-06-15`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -34,7 +34,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.2k` | **Created at**: `2024-06-14`
+**Stars**: `1.2k` | **Created at**: `2024-06-15`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -54,10 +54,10 @@ Unofficial implementation of InstantID for ComfyUI
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
-<details><summary>Included Nodes (82)</summary>
+<details><summary>Included Nodes (80)</summary>
 
  - <sub>[3DImage](node_examples/3DImage.md)</sub>
- - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>
+ - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>, <sub>AudioPlay</sub>
  - <sub>CenterImage</sub>, <sub>[CharacterInText](node_examples/CharacterInText.md)</sub>, <sub>[ChatGPTOpenAI](node_examples/ChatGPTOpenAI.md)</sub>, <sub>[CkptNames_](node_examples/CkptNames_.md)</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>
  - <sub>[DynamicDelayProcessor](node_examples/DynamicDelayProcessor.md)</sub>
  - <sub>[EmbeddingPrompt](node_examples/EmbeddingPrompt.md)</sub>, <sub>[EnhanceImage](node_examples/EnhanceImage.md)</sub>
@@ -65,14 +65,14 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
  - <sub>[GetImageSize_](node_examples/GetImageSize_.md)</sub>, <sub>GLIGENTextBoxApply_Advanced</sub>, <sub>GradientImage</sub>, <sub>GridDisplayAndSave</sub>, <sub>GridInput</sub>, <sub>GridOutput</sub>
  - <sub>ImageColorTransfer</sub>, <sub>[ImageCropByAlpha](node_examples/ImageCropByAlpha.md)</sub>, <sub>ImageListToBatch_</sub>, <sub>ImagesPrompt_</sub>, <sub>IncrementingListNode_</sub>, <sub>[IntNumber](node_examples/IntNumber.md)</sub>
  - <sub>JoinWithDelimiter</sub>
- - <sub>[LimitNumber](node_examples/LimitNumber.md)</sub>, <sub>ListSplit_</sub>, <sub>[LoadImagesFromPath](node_examples/LoadImagesFromPath.md)</sub>, <sub>[LoadImagesFromURL](node_examples/LoadImagesFromURL.md)</sub>, <sub>LoadImagesToBatch</sub>, <sub>LoadTripoSRModel_</sub>, <sub>LoraNames_</sub>, <sub>LoraPrompt</sub>
+ - <sub>[LimitNumber](node_examples/LimitNumber.md)</sub>, <sub>ListSplit_</sub>, <sub>[LoadImagesFromPath](node_examples/LoadImagesFromPath.md)</sub>, <sub>[LoadImagesFromURL](node_examples/LoadImagesFromURL.md)</sub>, <sub>LoadImagesToBatch</sub>, <sub>LoraNames_</sub>, <sub>LoraPrompt</sub>
  - <sub>MaskListMerge_</sub>, <sub>MaskListReplace_</sub>, <sub>[MergeLayers](node_examples/MergeLayers.md)</sub>, <sub>MirroredImage</sub>, <sub>MultiplicationNode</sub>
  - <sub>[NewLayer](node_examples/NewLayer.md)</sub>, <sub>[NoiseImage](node_examples/NoiseImage.md)</sub>
  - <sub>OutlineMask</sub>
  - <sub>PreviewMask_</sub>, <sub>[PromptImage](node_examples/PromptImage.md)</sub>, <sub>PromptSimplification</sub>, <sub>[PromptSlide](node_examples/PromptSlide.md)</sub>
  - <sub>[RandomPrompt](node_examples/RandomPrompt.md)</sub>, <sub>[ResizeImageMixlab](node_examples/ResizeImageMixlab.md)</sub>
- - <sub>SamplerNames_</sub>, <sub>SaveImageAndMetadata_</sub>, <sub>SaveImageToLocal</sub>, <sub>SaveTripoSRMesh</sub>, <sub>[ScreenShare](node_examples/ScreenShare.md)</sub>, <sub>Seed_</sub>, <sub>[ShowLayer](node_examples/ShowLayer.md)</sub>, <sub>[ShowTextForGPT](node_examples/ShowTextForGPT.md)</sub>, <sub>SmoothMask</sub>, <sub>[SpeechRecognition](node_examples/SpeechRecognition.md)</sub>, <sub>[SpeechSynthesis](node_examples/SpeechSynthesis.md)</sub>, <sub>SplitImage</sub>, <sub>[SplitLongMask](node_examples/SplitLongMask.md)</sub>, <sub>StyleAlignedBatchAlign_</sub>, <sub>StyleAlignedReferenceSampler_</sub>, <sub>StyleAlignedSampleReferenceLatents_</sub>, <sub>[SvgImage](node_examples/SvgImage.md)</sub>, <sub>[SwitchByIndex](node_examples/SwitchByIndex.md)</sub>
- - <sub>TESTNODE_</sub>, <sub>TESTNODE_TOKEN</sub>, <sub>[TextImage](node_examples/TextImage.md)</sub>, <sub>[TextInput_](node_examples/TextInput_.md)</sub>, <sub>[TextSplitByDelimiter](node_examples/TextSplitByDelimiter.md)</sub>, <sub>TextToNumber</sub>, <sub>[TransparentImage](node_examples/TransparentImage.md)</sub>, <sub>TripoSRSampler_</sub>
+ - <sub>SamplerNames_</sub>, <sub>SaveImageAndMetadata_</sub>, <sub>SaveImageToLocal</sub>, <sub>[ScreenShare](node_examples/ScreenShare.md)</sub>, <sub>Seed_</sub>, <sub>[ShowLayer](node_examples/ShowLayer.md)</sub>, <sub>[ShowTextForGPT](node_examples/ShowTextForGPT.md)</sub>, <sub>SmoothMask</sub>, <sub>[SpeechRecognition](node_examples/SpeechRecognition.md)</sub>, <sub>[SpeechSynthesis](node_examples/SpeechSynthesis.md)</sub>, <sub>SplitImage</sub>, <sub>[SplitLongMask](node_examples/SplitLongMask.md)</sub>, <sub>StyleAlignedBatchAlign_</sub>, <sub>StyleAlignedReferenceSampler_</sub>, <sub>StyleAlignedSampleReferenceLatents_</sub>, <sub>[SvgImage](node_examples/SvgImage.md)</sub>, <sub>[SwitchByIndex](node_examples/SwitchByIndex.md)</sub>
+ - <sub>TESTNODE_</sub>, <sub>TESTNODE_TOKEN</sub>, <sub>[TextImage](node_examples/TextImage.md)</sub>, <sub>[TextInput_](node_examples/TextInput_.md)</sub>, <sub>[TextSplitByDelimiter](node_examples/TextSplitByDelimiter.md)</sub>, <sub>TextToNumber</sub>, <sub>[TransparentImage](node_examples/TransparentImage.md)</sub>
  - <sub>[VAEDecodeConsistencyDecoder](node_examples/VAEDecodeConsistencyDecoder.md)</sub>, <sub>[VAELoaderConsistencyDecoder](node_examples/VAELoaderConsistencyDecoder.md)</sub>
 </details>
 
@@ -103,7 +103,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `580` | **Created at**: `2024-06-14`
+**Stars**: `581` | **Created at**: `2024-06-15`
 
 
 Using Gemini in ComfyUI
@@ -121,7 +121,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `550` | **Created at**: `2024-06-14`
+**Stars**: `552` | **Created at**: `2024-06-15`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -137,7 +137,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `477` | **Created at**: `2024-06-14`
+**Stars**: `480` | **Created at**: `2024-06-15`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -154,7 +154,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `449` | **Created at**: `2024-06-14`
+**Stars**: `454` | **Created at**: `2024-06-15`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
@@ -182,7 +182,7 @@ Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 
-**Stars**: `345` | **Created at**: `2024-06-13`
+**Stars**: `346` | **Created at**: `2024-06-15`
 
 
 Prompt Visualization | Art Gallery
@@ -202,7 +202,7 @@ Prompt Visualization | Art Gallery
 <a href='https://github.com/AuroBit/ComfyUI-OOTDiffusion'>
 <img src="https://avatars.githubusercontent.com/u/135130495?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AuroBit/ComfyUI-OOTDiffusion
 
-**Stars**: `329` | **Created at**: `2024-06-14`
+**Stars**: `331` | **Created at**: `2024-06-15`
 
 
 ComfyUI custom node that simply integrates the OOTDiffusion.

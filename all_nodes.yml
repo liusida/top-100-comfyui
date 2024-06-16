@@ -142,6 +142,7 @@ ArgosTranslateTextNode: 0
 ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
 Assistant: 2
+AudioPlay: -1
 AutoNegativePrompt: 3
 BAE-NormalMapPreprocessor: 23
 BLIP Analyze Image: 10
@@ -448,6 +449,7 @@ CheckpointLoader: 0
 CheckpointLoaderSimple: 98
 CheckpointLoaderSimpleWithNoiseSelect: 64
 CheckpointLoader|pysssss: 15
+CheckpointPerturbWeights: -1
 CheckpointSave: 6
 CkptNames_: 2
 Color: 0
@@ -1478,6 +1480,7 @@ SAMDetectorSegmented: 14
 SAMLoader: 98
 SAMModelLoader (segment anything): 33
 SAMPreprocessor: 17
+SD3NegativeConditioning+: -1
 SDTurboScheduler: 24
 SDXLEmptyLatentSizePicker+: 3
 SDXLPromptStyler: 79
