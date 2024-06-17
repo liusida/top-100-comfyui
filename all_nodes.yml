@@ -557,6 +557,7 @@ DenoiseScheduleHookProvider: 10
 DenoiseSchedulerDetailerHookProvider: 1
 DensePosePreprocessor: 5
 DepthAnythingPreprocessor: 58
+DepthAnythingV2Preprocessor: -1
 DetailTransfer: 1
 DetailerForEach: 30
 DetailerForEachDebug: 30
@@ -604,6 +605,7 @@ Eff. Loader SDXL: 14
 Efficient Loader: 64
 EmbeddingPrompt: 2
 EmptyImage: 44
+EmptyLatentAudio: -1
 EmptyLatentImage: 93
 EmptyLatentImagePresets: 0
 EmptySD3LatentImage: 0
@@ -1116,6 +1118,7 @@ LatentUpscaler: 0
 'LayerUtility: BatchSelector': 1
 'LayerUtility: Boolean': 1
 'LayerUtility: BooleanOperator': 2
+'LayerUtility: BooleanOperatorV2': -1
 'LayerUtility: ColorImage': 1
 'LayerUtility: ColorImage V2': 3
 'LayerUtility: ColorPicker': 3
@@ -1133,6 +1136,7 @@ LatentUpscaler: 0
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
 'LayerUtility: HLFrequencyDetailRestore': 1
+'LayerUtility: If': -1
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
 'LayerUtility: ImageBlend': 11
@@ -1158,6 +1162,7 @@ LatentUpscaler: 0
 'LayerUtility: LayerMaskTransform': 3
 'LayerUtility: LoadPSD': 1
 'LayerUtility: NumberCalculator': 2
+'LayerUtility: NumberCalculatorV2': -1
 'LayerUtility: PrintInfo': 1
 'LayerUtility: PromptEmbellish': 1
 'LayerUtility: PromptTagger': 3
@@ -1170,6 +1175,7 @@ LatentUpscaler: 0
 'LayerUtility: Seed': 1
 'LayerUtility: ShowBlindWaterMark': 2
 'LayerUtility: SimpleTextImage': 5
+'LayerUtility: StringCondition': -1
 'LayerUtility: TextBox': 1
 'LayerUtility: TextImage': 6
 'LayerUtility: TextJoin': 1
@@ -1212,6 +1218,7 @@ LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
 LoadAndCombinedAudio_: 0
 LoadAndResizeImage: 0
+LoadAudio: -1
 LoadCLIPSegModels+: 0
 LoadHDRImage: 0
 LoadImage: 97
@@ -1321,6 +1328,7 @@ MeshGraphormer+ImpactDetector-DepthMapPreprocessor: 0
 MeshGraphormer-DepthMapPreprocessor: 12
 Metric3D-DepthMapPreprocessor: 0
 Metric3D-NormalMapPreprocessor: 0
+Metric_DepthAnythingV2Preprocessor: -1
 MiDaS Depth Approximation: 11
 MiDaS Mask Image: 0
 MiDaS Model Loader: 6
@@ -1339,6 +1347,7 @@ ModelMergeSimple: 13
 ModelMergeSubtract: 0
 ModelPassThrough: 0
 ModelSamplingContinuousEDM: 14
+ModelSamplingContinuousV: -1
 ModelSamplingDiscrete: 96
 ModelSamplingSD3: 0
 ModelSamplingStableCascade: 1
@@ -1530,6 +1539,7 @@ Save Tensors (mtb): 1
 Save Text File: 0
 SaveAnimatedPNG: 0
 SaveAnimatedWEBP: 33
+SaveAudio: -1
 SaveImage: 97
 SaveImageAndMetadata_: 0
 SaveImageOpenEXR: 1
@@ -1793,10 +1803,12 @@ UpscaleModelLoader: 97
 UserProxy: 3
 VAE Input Switch: 0
 VAEDecode: 96
+VAEDecodeAudio: -1
 VAEDecodeConsistencyDecoder: 1
 VAEDecodeTiled: 64
 VAEEncode: 92
 VAEEncodeArgMax: 8
+VAEEncodeAudio: -1
 VAEEncodeForInpaint: 100
 VAEEncodeForInpaint_Frames: 0
 VAEEncodeTiled: 26
@@ -1922,6 +1934,7 @@ easy hiresFix: 2
 easy humanSegmentation: 0
 easy icLightApply: 3
 easy if: 0
+easy imageBatchToImageList: -1
 easy imageChooser: 2
 easy imageColorMatch: 2
 easy imageConcat: 1
@@ -1930,6 +1943,7 @@ easy imageCropFromMask: 0
 easy imageDetailTransfer: 1
 easy imageInsetCrop: 1
 easy imageInterrogator: 2
+easy imageListToImageBatch: -1
 easy imagePixelPerfect: 4
 easy imageRatio: 0
 easy imageRemBg: 12
