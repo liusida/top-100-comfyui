@@ -39,6 +39,7 @@ ADE_AnimateDiffUnload: 5
 ADE_ApplyAnimateDiffModel: 65
 ADE_ApplyAnimateDiffModelSimple: 8
 ADE_ApplyAnimateDiffModelWithCameraCtrl: 0
+ADE_ApplyAnimateDiffModelWithPIA: -1
 ADE_ApplyAnimateLCMI2VModel: 0
 ADE_AttachLoraHookToCLIP: 0
 ADE_AttachLoraHookToConditioning: 0
@@ -58,6 +59,9 @@ ADE_CustomCFG: 0
 ADE_CustomCFGKeyframe: 0
 ADE_EmptyLatentImageLarge: 41
 ADE_InjectI2VIntoAnimateDiffModel: 0
+ADE_InjectPIAIntoAnimateDiffModel: -1
+ADE_InputPIA_Multival: -1
+ADE_InputPIA_PaperPresets: -1
 ADE_IterationOptsDefault: 0
 ADE_IterationOptsFreeInit: 14
 ADE_LoadAnimateDiffModel: 73
@@ -70,11 +74,16 @@ ADE_LoraHookKeyframe: 0
 ADE_LoraHookKeyframeFromStrengthList: 0
 ADE_LoraHookKeyframeInterpolation: 0
 ADE_MaskedLoadLora: 0
+ADE_MultivalConvertToMask: -1
 ADE_MultivalDynamic: 24
+ADE_MultivalDynamicFloatInput: -1
 ADE_MultivalScaledMask: 2
 ADE_NoiseLayerAdd: 0
 ADE_NoiseLayerAddWeighted: 0
 ADE_NoiseLayerReplace: 0
+ADE_NoisedImageInjectOptions: -1
+ADE_NoisedImageInjection: -1
+ADE_PIA_AnimateDiffKeyframe: -1
 ADE_PairedConditioningSetMask: 0
 ADE_PairedConditioningSetMaskAndCombine: 0
 ADE_PairedConditioningSetUnmaskedAndCombine: 0
@@ -1175,7 +1184,9 @@ LatentUpscaler: 0
 'LayerUtility: Seed': 1
 'LayerUtility: ShowBlindWaterMark': 2
 'LayerUtility: SimpleTextImage': 5
+'LayerUtility: String': -1
 'LayerUtility: StringCondition': -1
+'LayerUtility: SwitchCase': -1
 'LayerUtility: TextBox': 1
 'LayerUtility: TextImage': 6
 'LayerUtility: TextJoin': 1
@@ -1740,6 +1751,7 @@ Text Parse Tokens: 7
 Text Random Line: 3
 Text Random Prompt: 0
 Text Shuffle: 0
+Text Sort: -1
 Text String: 0
 Text String Truncate: 0
 Text To Image (mtb): 0
@@ -2035,6 +2047,7 @@ llava: 0
 oobaboogaOpenAI: 0
 ttN KSampler_v2: 0
 ttN advPlot range: 0
+ttN advPlot string: -1
 ttN advanced xyPlot: 0
 ttN compareInput: 0
 ttN concat: 1
