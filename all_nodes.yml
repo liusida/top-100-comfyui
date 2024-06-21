@@ -657,6 +657,7 @@ FromBasicPipe_v2: 30
 FromDetailerPipe: 14
 FromDetailerPipeSDXL: 12
 FromDetailerPipe_v2: 0
+GITSScheduler: -1
 GLIGENLoader: 6
 GLIGENTextBoxApply: 6
 GLIGENTextBoxApplyBatchCoords: 0
@@ -698,6 +699,8 @@ GroupChat: 2
 GrowMask: 56
 GrowMaskWithBlur: 49
 HEDPreprocessor: 58
+HSL to Hex: -1
+Hex to HSL: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyperTile: 2
@@ -1353,6 +1356,7 @@ ModelMergeAdd: 0
 ModelMergeBlocks: 1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
+ModelMergeSD3: -1
 ModelMergeSDXL: 0
 ModelMergeSimple: 13
 ModelMergeSubtract: 0
@@ -2046,6 +2050,7 @@ llama-cpp: 5
 llava: 0
 oobaboogaOpenAI: 0
 ttN KSampler_v2: 0
+ttN advPlot combo: -1
 ttN advPlot range: 0
 ttN advPlot string: -1
 ttN advanced xyPlot: 0
