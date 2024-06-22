@@ -468,6 +468,7 @@ ColorPreprocessor: 25
 ColorToMask: 7
 Colored Image (mtb): 0
 ColorizeDepthmap: 5
+ColorsCorrectNode: -1
 CombineAudioVideo: 0
 CombineInput: 0
 CombineRegionalPrompts: 12
@@ -658,6 +659,7 @@ FromDetailerPipe: 14
 FromDetailerPipeSDXL: 12
 FromDetailerPipe_v2: 0
 GITSScheduler: -1
+GITSSchedulerFuncProvider: -1
 GLIGENLoader: 6
 GLIGENTextBoxApply: 6
 GLIGENTextBoxApplyBatchCoords: 0
@@ -701,6 +703,7 @@ GrowMaskWithBlur: 49
 HEDPreprocessor: 58
 HSL to Hex: -1
 Hex to HSL: -1
+HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyperTile: 2
@@ -1357,6 +1360,7 @@ ModelMergeBlocks: 1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
 ModelMergeSD3: -1
+ModelMergeSD3_2B: -1
 ModelMergeSDXL: 0
 ModelMergeSimple: 13
 ModelMergeSubtract: 0
@@ -1484,6 +1488,8 @@ RemapMaskRange: 7
 RemoveImageFromSEGS: 0
 RemoveLatentMask+: 5
 RemoveNoiseMask: 0
+RenderAnimalKps: -1
+RenderPeopleKps: -1
 RepeatImageBatch: 15
 RepeatLatentBatch: 40
 Repeater|pysssss: 0
