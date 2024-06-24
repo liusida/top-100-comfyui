@@ -7,7 +7,7 @@
 <a href='https://github.com/nerdyrodent/AVeryComfyNerd'>
 <img src="https://avatars.githubusercontent.com/u/74688049?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nerdyrodent/AVeryComfyNerd
 
-**Stars**: `1.1k` | **Created at**: `2024-06-21`
+**Stars**: `1.1k` | **Created at**: `2024-06-23`
 
 
 ComfyUI related stuff and things
@@ -18,7 +18,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/WASasquatch/comfyui-plugins'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/comfyui-plugins
 
-**Stars**: `529` | **Created at**: `2024-06-21`
+**Stars**: `530` | **Created at**: `2024-06-23`
 
 
 Extensions, Custom Nodes, and other plugins for ComfyUI

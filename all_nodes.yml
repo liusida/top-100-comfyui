@@ -1400,6 +1400,15 @@ ONNXDetectorSEGS: 0
 OffsetMask: 0
 OffsetMaskByNormalizedAmplitude: 0
 Ollama: 0
+OmostDenseDiffusionLayoutNode: -1
+OmostGreedyBagsTextEmbeddingNode: -1
+OmostLLMChatNode: -1
+OmostLLMHTTPServerNode: -1
+OmostLLMLoaderNode: -1
+OmostLayoutCondNode: -1
+OmostLoadCanvasConditioningNode: -1
+OmostLoadCanvasPythonCodeNode: -1
+OmostRenderCanvasConditioningNode: -1
 OneButtonArtify: 1
 OneButtonFlufferize: 2
 OneButtonPreset: 0

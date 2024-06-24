@@ -7,7 +7,7 @@
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `742` | **Created at**: `2024-06-20`
+**Stars**: `743` | **Created at**: `2024-06-23`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -36,7 +36,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `468` | **Created at**: `2024-06-22`
+**Stars**: `470` | **Created at**: `2024-06-23`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -68,7 +68,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `396` | **Created at**: `2024-06-21`
+**Stars**: `398` | **Created at**: `2024-06-23`
 
 
 Nodes related to video workflows
@@ -84,7 +84,7 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `340` | **Created at**: `2024-06-21`
+**Stars**: `342` | **Created at**: `2024-06-23`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -116,7 +116,7 @@ Animation oriented nodes pack for ComfyUI
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `335` | **Created at**: `2024-06-21`
+**Stars**: `337` | **Created at**: `2024-06-24`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
