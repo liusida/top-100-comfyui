@@ -241,3 +241,10 @@ tags:
   kijai/ComfyUI-DynamiCrafterWrapper:
     - Custom Nodes
     - Video
+  huchenlei/ComfyUI_omost:
+    - Custom Nodes
+    - LLM
+  602387193c/ComfyUI-wiki:
+    - Resources
+  cubiq/ComfyUI_essentials:
+    - Custom Nodes
