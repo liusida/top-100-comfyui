@@ -18,7 +18,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.2k` | **Created at**: `2024-06-24`
+**Stars**: `3.2k` | **Created at**: `2024-06-25`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -29,7 +29,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `1.9k` | **Created at**: `2024-06-24`
+**Stars**: `1.9k` | **Created at**: `2024-06-25`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -40,7 +40,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `1.7k` | **Created at**: `2024-06-24`
+**Stars**: `1.7k` | **Created at**: `2024-06-25`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -51,7 +51,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `831` | **Created at**: `2024-06-24`
+**Stars**: `832` | **Created at**: `2024-06-25`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -73,7 +73,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `680` | **Created at**: `2024-06-24`
+**Stars**: `682` | **Created at**: `2024-06-25`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -122,7 +122,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `496` | **Created at**: `2024-06-24`
+**Stars**: `498` | **Created at**: `2024-06-25`
 
 
 FastAPI powered API for Fooocus
@@ -133,7 +133,7 @@ FastAPI powered API for Fooocus
 <a href='https://github.com/AlexanderDzhoganov/ComfyTextures'>
 <img src="https://avatars.githubusercontent.com/u/855464?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlexanderDzhoganov/ComfyTextures
 
-**Stars**: `464` | **Created at**: `2024-06-23`
+**Stars**: `465` | **Created at**: `2024-06-25`
 
 
 Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models 
@@ -144,7 +144,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 <a href='https://github.com/ModelSurge/sd-webui-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/120546502?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ModelSurge/sd-webui-comfyui
 
-**Stars**: `457` | **Created at**: `2024-06-23`
+**Stars**: `458` | **Created at**: `2024-06-25`
 
 
 An extension to integrate ComfyUI workflows into the Webui's pipeline
@@ -155,7 +155,7 @@ An extension to integrate ComfyUI workflows into the Webui's pipeline
 <a href='https://github.com/xingren23/ComfyFlowApp'>
 <img src="https://avatars.githubusercontent.com/u/3837202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `439` | **Created at**: `2024-06-23`
+**Stars**: `440` | **Created at**: `2024-06-25`
 
 
 From comfyui workflow to web app, in seconds

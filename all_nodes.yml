@@ -726,6 +726,7 @@ IF_SaveText: 0
 IF_saveText: 0
 INPAINT_ApplyFooocusInpaint: 19
 INPAINT_DenoiseToCompositingMask: 0
+INPAINT_ExpandMask: -1
 INPAINT_InpaintWithModel: 7
 INPAINT_LoadFooocusInpaint: 20
 INPAINT_LoadInpaintModel: 7
