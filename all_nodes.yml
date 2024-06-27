@@ -1821,6 +1821,7 @@ UNetCrossAttentionMultiply: 0
 UNetSelfAttentionMultiply: 0
 UNetTemporalAttentionMultiply: 0
 UltimateSDUpscale: 93
+UltimateSDUpscaleCustomSample: -1
 UltimateSDUpscaleNoUpscale: 4
 UltralyticsDetectorProvider: 100
 Uncrop (mtb): 0
@@ -2053,6 +2054,7 @@ easy showAnything: 3
 easy showLoaderSettingsNames: 0
 easy showSpentTime: 0
 easy showTensorShape: 0
+easy sliderControl: -1
 easy stableDiffusion3API: 1
 easy string: 0
 easy styleAlignedBatchAlign: 1

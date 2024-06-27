@@ -68,7 +68,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `399` | **Created at**: `2024-06-25`
+**Stars**: `400` | **Created at**: `2024-06-26`
 
 
 Nodes related to video workflows
@@ -84,7 +84,7 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `343` | **Created at**: `2024-06-24`
+**Stars**: `344` | **Created at**: `2024-06-26`
 
 
 Animation oriented nodes pack for ComfyUI
