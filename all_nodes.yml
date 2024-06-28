@@ -1186,6 +1186,7 @@ LatentUpscaler: 0
 'LayerUtility: PromptTagger': 3
 'LayerUtility: PurgeVRAM': 2
 'LayerUtility: QWenImage2Prompt': 1
+'LayerUtility: QueueStop': -1
 'LayerUtility: RGB Value': 1
 'LayerUtility: RestoreCropBox': 3
 'LayerUtility: SD3NegativeConditioning': -1
