@@ -130,6 +130,7 @@ AnimeLineArtPreprocessor: 15
 Any To String (mtb): 0
 AnyLineArtPreprocessor_aux: 8
 AnyNode: 5
+AnyNodeAnthropic: -1
 AnyNodeCodeViewer: 0
 AnyNodeExport: 0
 AnyNodeGemini: 0
@@ -518,6 +519,7 @@ Control Net Model Input Switch: 0
 Control Net Stacker: 29
 ControlNetApply: 36
 ControlNetApplyAdvanced: 99
+ControlNetApplySD3: -1
 ControlNetLoader: 80
 ControlNetLoaderAdvanced: 99
 ControlNetPreprocessorSelector: 0
@@ -751,6 +753,8 @@ IPAdapterLoadEmbeds: 0
 IPAdapterMS: 0
 IPAdapterModelLoader: 99
 IPAdapterNoise: 16
+IPAdapterPreciseStyleTransfer: -1
+IPAdapterPreciseStyleTransferBatch: -1
 IPAdapterPromptScheduleFromWeightsStrategy: 2
 IPAdapterRegionalConditioning: 4
 IPAdapterSaveEmbeds: 1
