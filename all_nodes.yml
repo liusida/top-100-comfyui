@@ -1459,6 +1459,7 @@ PowerPaint: 6
 PowerPaintCLIPLoader: 6
 PrepImageForClipVision: 98
 PreviewAnimation: 1
+PreviewAudio: -1
 PreviewBridge: 40
 PreviewBridgeLatent: 0
 PreviewDetailerHookProvider: 0
