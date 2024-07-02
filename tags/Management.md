@@ -7,7 +7,7 @@
 <a href='https://github.com/ltdrdata/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
 
-**Stars**: `4.5k` | **Created at**: `2024-06-30`
+**Stars**: `4.5k` | **Created at**: `2024-07-01`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -18,7 +18,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.4k` | **Created at**: `2024-06-30`
+**Stars**: `1.4k` | **Created at**: `2024-07-01`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -50,7 +50,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `803` | **Created at**: `2024-06-30`
+**Stars**: `805` | **Created at**: `2024-07-01`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -61,7 +61,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `493` | **Created at**: `2024-06-30`
+**Stars**: `496` | **Created at**: `2024-07-01`
 
 
 A powerful set of tools for ComfyUI
@@ -76,7 +76,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/talesofai/comfyui-browser'>
 <img src="https://avatars.githubusercontent.com/u/120728204?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/talesofai/comfyui-browser
 
-**Stars**: `422` | **Created at**: `2024-06-30`
+**Stars**: `424` | **Created at**: `2024-07-01`
 
 
 An image/video/workflow browser and manager for ComfyUI.
@@ -107,7 +107,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `390` | **Created at**: `2024-06-30`
+**Stars**: `393` | **Created at**: `2024-07-01`
 
 
 A simple sidebar for your ConfyUI!

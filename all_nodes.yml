@@ -604,6 +604,7 @@ DualCLIPLoader: 1
 DummyLatentOut: 0
 DynamiCrafterBatchInterpolation: 0
 DynamiCrafterI2V: 2
+DynamiCrafterLoadInitNoise: -1
 DynamiCrafterModelLoader: 1
 DynamicDelayProcessor: 2
 DynamicThresholdingFull: 1
@@ -888,6 +889,7 @@ ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
 ImagePass: 0
 ImagePosterize+: 4
+ImagePreviewFromLatent+: -1
 ImageQuantize: 2
 ImageRGBA2RGB: 1
 ImageRandomTransform+: 3
@@ -1482,6 +1484,7 @@ Random Number: 7
 RandomNoise: 46
 RandomPrompt: 4
 ReActorBuildFaceModel: 4
+ReActorFaceBoost: -1
 ReActorFaceSwap: 95
 ReActorFaceSwapOpt: 4
 ReActorImageDublicator: 0
@@ -1567,6 +1570,7 @@ SamplerDPMPP_2M_SDE: 0
 SamplerDPMPP_3M_SDE: 0
 SamplerDPMPP_SDE: 3
 SamplerEulerAncestral: 0
+SamplerEulerAncestralCFGPP: -1
 SamplerEulerCFGpp: -1
 SamplerLCMUpscale: 0
 SamplerLMS: 0
@@ -1974,6 +1978,7 @@ easy fullkSampler: 1
 easy globalSeed: 2
 easy hiresFix: 2
 easy humanSegmentation: 0
+easy hunyuanDiTLoader: -1
 easy icLightApply: 3
 easy if: 0
 easy imageBatchToImageList: -1
