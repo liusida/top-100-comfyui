@@ -2040,6 +2040,7 @@ easy pipeEdit: 6
 easy pipeIn: 3
 easy pipeOut: 4
 easy pipeToBasicPipe: 0
+easy pixArtLoader: -1
 easy portraitMaster: 0
 easy poseEditor: 0
 easy positive: 1
@@ -2059,6 +2060,8 @@ easy promptConcat: 1
 easy promptLine: 5
 easy promptList: 0
 easy promptReplace: 1
+easy pulIDApply: -1
+easy pulIDApplyADV: -1
 easy rangeFloat: 0
 easy rangeInt: 0
 easy removeLocalImage: 0
