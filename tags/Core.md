@@ -7,7 +7,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `41.2k` | **Created at**: `2024-07-06`
+**Stars**: `41.3k` | **Created at**: `2024-07-06`
 
 
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.

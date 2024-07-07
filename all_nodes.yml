@@ -1865,6 +1865,7 @@ VAELoader: 97
 VAELoaderConsistencyDecoder: 1
 VAESave: 0
 VFI FloatToInt: 0
+VHS_AudioToVHSAudio: -1
 VHS_BatchManager: 100
 VHS_DuplicateImages: 11
 VHS_DuplicateLatents: 2

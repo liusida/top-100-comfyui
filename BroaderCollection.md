@@ -7,7 +7,7 @@
 <a href='https://github.com/lllyasviel/Fooocus'>
 <img src="https://avatars.githubusercontent.com/u/19834515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lllyasviel/Fooocus
 
-**Stars**: `38.0k` | **Created at**: `2023-08-09` | **Last updated**: `2024-07-05`
+**Stars**: `38.0k` | **Created at**: `2023-08-09` | **Last updated**: `2024-07-06`
 
 
 Focus on prompting and generating
@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `30.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-06`
+**Stars**: `30.3k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-07`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -29,7 +29,7 @@ User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 <a href='https://github.com/hua1995116/awesome-ai-painting'>
 <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hua1995116/awesome-ai-painting
 
-**Stars**: `10.9k` | **Created at**: `2022-10-08` | **Last updated**: `2024-07-05`
+**Stars**: `10.9k` | **Created at**: `2022-10-08` | **Last updated**: `2024-07-06`
 
 
 AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -40,7 +40,7 @@ AI绘画资料合集（包含国内外可使用平台、使用教程、参数教
 <a href='https://github.com/InstantID/InstantID'>
 <img src="https://avatars.githubusercontent.com/u/153270516?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/InstantID/InstantID
 
-**Stars**: `10.4k` | **Created at**: `2023-12-11` | **Last updated**: `2024-07-05`
+**Stars**: `10.4k` | **Created at**: `2023-12-11` | **Last updated**: `2024-07-06`
 
 
 InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
@@ -51,7 +51,7 @@ InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 <a href='https://github.com/guoyww/AnimateDiff'>
 <img src="https://avatars.githubusercontent.com/u/93254373?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/guoyww/AnimateDiff
 
-**Stars**: `9.7k` | **Created at**: `2023-06-17` | **Last updated**: `2024-07-05`
+**Stars**: `9.7k` | **Created at**: `2023-06-17` | **Last updated**: `2024-07-06`
 
 
 Official implementation of AnimateDiff.
@@ -62,7 +62,7 @@ Official implementation of AnimateDiff.
 <a href='https://github.com/TencentARC/PhotoMaker'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/PhotoMaker
 
-**Stars**: `8.6k` | **Created at**: `2023-12-06` | **Last updated**: `2024-07-05`
+**Stars**: `8.6k` | **Created at**: `2023-12-06` | **Last updated**: `2024-07-06`
 
 
 PhotoMaker
@@ -73,7 +73,7 @@ PhotoMaker
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-07-05`
+**Stars**: `7.4k` | **Created at**: `2022-09-21` | **Last updated**: `2024-07-06`
 
 
 fast-stable-diffusion + DreamBooth
@@ -84,7 +84,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/LiheYoung/Depth-Anything'>
 <img src="https://avatars.githubusercontent.com/u/47178369?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LiheYoung/Depth-Anything
 
-**Stars**: `6.4k` | **Created at**: `2024-01-22` | **Last updated**: `2024-07-05`
+**Stars**: `6.4k` | **Created at**: `2024-01-22` | **Last updated**: `2024-07-06`
 
 
 [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
@@ -95,7 +95,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/AbdBarho/stable-diffusion-webui-docker'>
 <img src="https://avatars.githubusercontent.com/u/24505302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdBarho/stable-diffusion-webui-docker
 
-**Stars**: `6.3k` | **Created at**: `2022-08-27` | **Last updated**: `2024-07-05`
+**Stars**: `6.3k` | **Created at**: `2022-08-27` | **Last updated**: `2024-07-06`
 
 
 Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -106,7 +106,7 @@ Easy Docker setup for Stable Diffusion with user-friendly UI
 <a href='https://github.com/fudan-generative-vision/hallo'>
 <img src="https://avatars.githubusercontent.com/u/163619278?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fudan-generative-vision/hallo
 
-**Stars**: `6.1k` | **Created at**: `2024-06-12` | **Last updated**: `2024-07-05`
+**Stars**: `6.1k` | **Created at**: `2024-06-12` | **Last updated**: `2024-07-07`
 
 
 Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
@@ -117,7 +117,7 @@ Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 <a href='https://github.com/modelscope/DiffSynth-Studio'>
 <img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/modelscope/DiffSynth-Studio
 
-**Stars**: `5.6k` | **Created at**: `2023-12-07` | **Last updated**: `2024-07-05`
+**Stars**: `5.7k` | **Created at**: `2023-12-07` | **Last updated**: `2024-07-06`
 
 
 Enjoy the magic of Diffusion models!
@@ -139,7 +139,7 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/Acly/krita-ai-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/krita-ai-diffusion
 
-**Stars**: `5.6k` | **Created at**: `2023-09-01` | **Last updated**: `2024-07-05`
+**Stars**: `5.6k` | **Created at**: `2023-09-01` | **Last updated**: `2024-07-06`
 
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -150,7 +150,7 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 <a href='https://github.com/aigc-apps/sd-webui-EasyPhoto'>
 <img src="https://avatars.githubusercontent.com/u/141981933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/aigc-apps/sd-webui-EasyPhoto
 
-**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-07-05`
+**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-07-06`
 
 
 📷 EasyPhoto | Your Smart AI Photo Generator.
@@ -161,7 +161,7 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 <a href='https://github.com/tencent-ailab/IP-Adapter'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/IP-Adapter
 
-**Stars**: `4.5k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-05`
+**Stars**: `4.5k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-06`
 
 
 The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
@@ -172,7 +172,7 @@ The image prompt adapter is designed to enable a pretrained text-to-image diffus
 <a href='https://github.com/luosiallen/latent-consistency-model'>
 <img src="https://avatars.githubusercontent.com/u/47499850?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/luosiallen/latent-consistency-model
 
-**Stars**: `4.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-05`
+**Stars**: `4.2k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-06`
 
 
 Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
@@ -183,7 +183,7 @@ Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inf
 <a href='https://github.com/Stability-AI/StableSwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/100950301?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Stability-AI/StableSwarmUI
 
-**Stars**: `4.1k` | **Created at**: `2023-05-12` | **Last updated**: `2024-07-05`
+**Stars**: `4.1k` | **Created at**: `2023-05-12` | **Last updated**: `2024-07-06`
 
 
 StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -194,7 +194,7 @@ StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis o
 <a href='https://github.com/ParisNeo/lollms-webui'>
 <img src="https://avatars.githubusercontent.com/u/827993?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ParisNeo/lollms-webui
 
-**Stars**: `4.1k` | **Created at**: `2023-04-06` | **Last updated**: `2024-07-05`
+**Stars**: `4.1k` | **Created at**: `2023-04-06` | **Last updated**: `2024-07-06`
 
 
 Lord of Large Language Models Web User Interface
@@ -205,7 +205,7 @@ Lord of Large Language Models Web User Interface
 <a href='https://github.com/fudan-generative-vision/champ'>
 <img src="https://avatars.githubusercontent.com/u/163619278?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fudan-generative-vision/champ
 
-**Stars**: `3.4k` | **Created at**: `2024-03-17` | **Last updated**: `2024-07-05`
+**Stars**: `3.4k` | **Created at**: `2024-03-17` | **Last updated**: `2024-07-06`
 
 
 Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
@@ -216,7 +216,7 @@ Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guid
 <a href='https://github.com/philz1337x/clarity-upscaler'>
 <img src="https://avatars.githubusercontent.com/u/112502636?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/philz1337x/clarity-upscaler
 
-**Stars**: `3.2k` | **Created at**: `2024-03-15` | **Last updated**: `2024-07-05`
+**Stars**: `3.2k` | **Created at**: `2024-03-15` | **Last updated**: `2024-07-06`
 
 
 Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -227,7 +227,7 @@ Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Altern
 <a href='https://github.com/leejet/stable-diffusion.cpp'>
 <img src="https://avatars.githubusercontent.com/u/31925346?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/leejet/stable-diffusion.cpp
 
-**Stars**: `2.9k` | **Created at**: `2023-08-13` | **Last updated**: `2024-07-05`
+**Stars**: `2.9k` | **Created at**: `2023-08-13` | **Last updated**: `2024-07-06`
 
 
 Stable Diffusion in pure C/C++
@@ -238,7 +238,7 @@ Stable Diffusion in pure C/C++
 <a href='https://github.com/VinsonLaro/stable-diffusion-webui-chinese'>
 <img src="https://avatars.githubusercontent.com/u/85789178?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/VinsonLaro/stable-diffusion-webui-chinese
 
-**Stars**: `2.9k` | **Created at**: `2022-10-10` | **Last updated**: `2024-07-05`
+**Stars**: `2.9k` | **Created at**: `2022-10-10` | **Last updated**: `2024-07-06`
 
 
 stable-diffusion-webui 的汉化扩展
@@ -260,7 +260,7 @@ Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Graine
 <a href='https://github.com/TencentARC/InstantMesh'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/InstantMesh
 
-**Stars**: `2.6k` | **Created at**: `2024-04-10` | **Last updated**: `2024-07-05`
+**Stars**: `2.6k` | **Created at**: `2024-04-10` | **Last updated**: `2024-07-06`
 
 
 InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
@@ -271,7 +271,7 @@ InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view L
 <a href='https://github.com/PixArt-alpha/PixArt-alpha'>
 <img src="https://avatars.githubusercontent.com/u/146222014?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PixArt-alpha/PixArt-alpha
 
-**Stars**: `2.5k` | **Created at**: `2023-10-12` | **Last updated**: `2024-07-05`
+**Stars**: `2.5k` | **Created at**: `2023-10-12` | **Last updated**: `2024-07-06`
 
 
 PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
@@ -282,7 +282,7 @@ PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Ima
 <a href='https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper'>
 <img src="https://avatars.githubusercontent.com/u/5558722?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
 
-**Stars**: `2.4k` | **Created at**: `2023-03-07` | **Last updated**: `2024-07-05`
+**Stars**: `2.4k` | **Created at**: `2023-03-07` | **Last updated**: `2024-07-06`
 
 
 Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
@@ -293,7 +293,7 @@ Stable Diffusion Webui Extension for Civitai, to manage your model much more eas
 <a href='https://github.com/Gourieff/sd-webui-reactor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/sd-webui-reactor
 
-**Stars**: `2.3k` | **Created at**: `2023-06-18` | **Last updated**: `2024-07-05`
+**Stars**: `2.3k` | **Created at**: `2023-06-18` | **Last updated**: `2024-07-06`
 
 
 Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111 SD WebUI, SD WebUI Forge, SD.Next, Cagliostro)
@@ -304,7 +304,7 @@ Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111 SD WebUI, S
 <a href='https://github.com/DepthAnything/Depth-Anything-V2'>
 <img src="https://avatars.githubusercontent.com/u/172110102?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/DepthAnything/Depth-Anything-V2
 
-**Stars**: `2.2k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-06`
+**Stars**: `2.3k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-06`
 
 
 Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -315,7 +315,7 @@ Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimatio
 <a href='https://github.com/AiuniAI/Unique3D'>
 <img src="https://avatars.githubusercontent.com/u/170070530?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AiuniAI/Unique3D
 
-**Stars**: `2.1k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-05`
+**Stars**: `2.1k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-07`
 
 
 Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
@@ -326,7 +326,7 @@ Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generati
 <a href='https://github.com/TMElyralab/MuseV'>
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TMElyralab/MuseV
 
-**Stars**: `2.1k` | **Created at**: `2024-03-25` | **Last updated**: `2024-07-05`
+**Stars**: `2.1k` | **Created at**: `2024-03-25` | **Last updated**: `2024-07-06`
 
 
 MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
@@ -337,7 +337,7 @@ MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Vis
 <a href='https://github.com/xyflow/awesome-node-based-uis'>
 <img src="https://avatars.githubusercontent.com/u/7106853?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xyflow/awesome-node-based-uis
 
-**Stars**: `2.1k` | **Created at**: `2022-11-14` | **Last updated**: `2024-07-04`
+**Stars**: `2.1k` | **Created at**: `2022-11-14` | **Last updated**: `2024-07-06`
 
 
 A curated list with resources about node-based UIs
@@ -359,7 +359,7 @@ Lora beYond Conventional methods, Other Rank adaptation Implementations for Stab
 <a href='https://github.com/Doubiiu/DynamiCrafter'>
 <img src="https://avatars.githubusercontent.com/u/43002743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Doubiiu/DynamiCrafter
 
-**Stars**: `2.1k` | **Created at**: `2023-11-27` | **Last updated**: `2024-07-05`
+**Stars**: `2.1k` | **Created at**: `2023-11-27` | **Last updated**: `2024-07-06`
 
 
 [ECCV 2024] DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
@@ -370,7 +370,7 @@ Lora beYond Conventional methods, Other Rank adaptation Implementations for Stab
 <a href='https://github.com/tencent-ailab/V-Express'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/V-Express
 
-**Stars**: `2.0k` | **Created at**: `2024-05-21` | **Last updated**: `2024-07-05`
+**Stars**: `2.0k` | **Created at**: `2024-05-21` | **Last updated**: `2024-07-06`
 
 
 V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
@@ -381,7 +381,7 @@ V-Express aims to generate a talking head video under the control of a reference
 <a href='https://github.com/adieyal/sd-dynamic-prompts'>
 <img src="https://avatars.githubusercontent.com/u/420786?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/adieyal/sd-dynamic-prompts
 
-**Stars**: `2.0k` | **Created at**: `2022-10-08` | **Last updated**: `2024-07-03`
+**Stars**: `2.0k` | **Created at**: `2022-10-08` | **Last updated**: `2024-07-06`
 
 
 A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
@@ -392,7 +392,7 @@ A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny tem
 <a href='https://github.com/IceClear/StableSR'>
 <img src="https://avatars.githubusercontent.com/u/22350795?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/IceClear/StableSR
 
-**Stars**: `2.0k` | **Created at**: `2023-04-02` | **Last updated**: `2024-07-05`
+**Stars**: `2.0k` | **Created at**: `2023-04-02` | **Last updated**: `2024-07-06`
 
 
 [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution
@@ -414,7 +414,7 @@ Let us democratise high-resolution generation! (CVPR 2024)
 <a href='https://github.com/taishi-i/awesome-ChatGPT-repositories'>
 <img src="https://avatars.githubusercontent.com/u/12726223?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/taishi-i/awesome-ChatGPT-repositories
 
-**Stars**: `1.9k` | **Created at**: `2023-04-02` | **Last updated**: `2024-07-05`
+**Stars**: `1.9k` | **Created at**: `2023-04-02` | **Last updated**: `2024-07-06`
 
 
 A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
@@ -436,7 +436,7 @@ Transparent Image Layer Diffusion using Latent Transparency
 <a href='https://github.com/Alpha-VLLM/Lumina-T2X'>
 <img src="https://avatars.githubusercontent.com/u/140153551?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Alpha-VLLM/Lumina-T2X
 
-**Stars**: `1.9k` | **Created at**: `2024-03-28` | **Last updated**: `2024-07-05`
+**Stars**: `1.9k` | **Created at**: `2024-03-28` | **Last updated**: `2024-07-06`
 
 
 Lumina-T2X is a unified framework for Text to Any Modality Generation
@@ -447,7 +447,7 @@ Lumina-T2X is a unified framework for Text to Any Modality Generation
 <a href='https://github.com/TMElyralab/MusePose'>
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TMElyralab/MusePose
 
-**Stars**: `1.8k` | **Created at**: `2024-05-24` | **Last updated**: `2024-07-05`
+**Stars**: `1.9k` | **Created at**: `2024-05-24` | **Last updated**: `2024-07-06`
 
 
 MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
@@ -458,7 +458,7 @@ MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
 <a href='https://github.com/TMElyralab/MuseTalk'>
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TMElyralab/MuseTalk
 
-**Stars**: `1.8k` | **Created at**: `2024-03-26` | **Last updated**: `2024-07-05`
+**Stars**: `1.8k` | **Created at**: `2024-03-26` | **Last updated**: `2024-07-06`
 
 
 MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
@@ -469,7 +469,7 @@ MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 <a href='https://github.com/uhub/awesome-c'>
 <img src="https://avatars.githubusercontent.com/u/13760298?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/uhub/awesome-c
 
-**Stars**: `1.8k` | **Created at**: `2015-08-12` | **Last updated**: `2024-07-04`
+**Stars**: `1.8k` | **Created at**: `2015-08-12` | **Last updated**: `2024-07-06`
 
 
 A curated list of awesome C frameworks, libraries and software.
@@ -480,7 +480,7 @@ A curated list of awesome C frameworks, libraries and software.
 <a href='https://github.com/thisjam/sd-webui-oldsix-prompt'>
 <img src="https://avatars.githubusercontent.com/u/49298018?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/thisjam/sd-webui-oldsix-prompt
 
-**Stars**: `1.7k` | **Created at**: `2023-07-27` | **Last updated**: `2024-07-05`
+**Stars**: `1.7k` | **Created at**: `2023-07-27` | **Last updated**: `2024-07-06`
 
 
 sd-webui中文提示词插件、老手新手炼丹必备
@@ -502,7 +502,7 @@ FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 <a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
 <img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 
-**Stars**: `1.6k` | **Created at**: `2023-01-02` | **Last updated**: `2024-07-05`
+**Stars**: `1.6k` | **Created at**: `2023-01-02` | **Last updated**: `2024-07-06`
 
 
 None
@@ -513,21 +513,10 @@ None
 <a href='https://github.com/InstantStyle/InstantStyle'>
 <img src="https://avatars.githubusercontent.com/u/154572977?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/InstantStyle/InstantStyle
 
-**Stars**: `1.4k` | **Created at**: `2023-12-22` | **Last updated**: `2024-07-05`
+**Stars**: `1.5k` | **Created at**: `2023-12-22` | **Last updated**: `2024-07-06`
 
 
 InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
-
-## PixArt-alpha/PixArt-sigma
-
-
-<a href='https://github.com/PixArt-alpha/PixArt-sigma'>
-<img src="https://avatars.githubusercontent.com/u/146222014?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PixArt-alpha/PixArt-sigma
-
-**Stars**: `1.4k` | **Created at**: `2024-02-29` | **Last updated**: `2024-07-05`
-
-
-PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
 
 ## PeterH0323/Streamer-Sales
 
@@ -535,10 +524,21 @@ PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image
 <a href='https://github.com/PeterH0323/Streamer-Sales'>
 <img src="https://avatars.githubusercontent.com/u/25873202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PeterH0323/Streamer-Sales
 
-**Stars**: `1.4k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-05`
+**Stars**: `1.4k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-06`
 
 
 Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊、数字人生成 🦸、 Agent 使用网络查询实时信息🌐、ASR 语音转文字🎙️
+
+## PixArt-alpha/PixArt-sigma
+
+
+<a href='https://github.com/PixArt-alpha/PixArt-sigma'>
+<img src="https://avatars.githubusercontent.com/u/146222014?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PixArt-alpha/PixArt-sigma
+
+**Stars**: `1.4k` | **Created at**: `2024-02-29` | **Last updated**: `2024-07-06`
+
+
+PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
 
 ## dtlnor/stable-diffusion-webui-localization-zh_CN
 
@@ -546,7 +546,7 @@ Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够�
 <a href='https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN'>
 <img src="https://avatars.githubusercontent.com/u/21131439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 
-**Stars**: `1.4k` | **Created at**: `2022-11-06` | **Last updated**: `2024-07-03`
+**Stars**: `1.4k` | **Created at**: `2022-11-06` | **Last updated**: `2024-07-06`
 
 
 Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
@@ -568,7 +568,7 @@ Collection of google colaboratory notebooks for fast and easy experiments
 <a href='https://github.com/PKU-YuanGroup/MagicTime'>
 <img src="https://avatars.githubusercontent.com/u/135824553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PKU-YuanGroup/MagicTime
 
-**Stars**: `1.2k` | **Created at**: `2024-04-07` | **Last updated**: `2024-07-05`
+**Stars**: `1.2k` | **Created at**: `2024-04-07` | **Last updated**: `2024-07-06`
 
 
 MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -579,7 +579,7 @@ MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 <a href='https://github.com/bianchenglequ/NetCodeTop'>
 <img src="https://avatars.githubusercontent.com/u/108387401?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/bianchenglequ/NetCodeTop
 
-**Stars**: `1.2k` | **Created at**: `2023-01-01` | **Last updated**: `2024-07-05`
+**Stars**: `1.2k` | **Created at**: `2023-01-01` | **Last updated**: `2024-07-06`
 
 
 收集GitHub上有关.Net、.NetCore有趣、有用、热门的开源项目。
@@ -590,7 +590,7 @@ MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 <a href='https://github.com/TencentARC/BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/BrushNet
 
-**Stars**: `1.2k` | **Created at**: `2024-03-10` | **Last updated**: `2024-07-05`
+**Stars**: `1.2k` | **Created at**: `2024-03-10` | **Last updated**: `2024-07-06`
 
 
 [ECCV 2024] The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
@@ -606,27 +606,27 @@ MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 
 Wav2Lip UHQ extension for Automatic1111
 
-## janhq/awesome-local-ai
-
-
-<a href='https://github.com/janhq/awesome-local-ai'>
-<img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/janhq/awesome-local-ai
-
-**Stars**: `1.0k` | **Created at**: `2023-09-06` | **Last updated**: `2024-07-05`
-
-
-An awesome repository of local AI tools
-
 ## chengzeyi/stable-fast
 
 
 <a href='https://github.com/chengzeyi/stable-fast'>
 <img src="https://avatars.githubusercontent.com/u/23494160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chengzeyi/stable-fast
 
-**Stars**: `1.0k` | **Created at**: `2023-10-17` | **Last updated**: `2024-07-05`
+**Stars**: `1.0k` | **Created at**: `2023-10-17` | **Last updated**: `2024-07-06`
 
 
 Best inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs.
+
+## janhq/awesome-local-ai
+
+
+<a href='https://github.com/janhq/awesome-local-ai'>
+<img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/janhq/awesome-local-ai
+
+**Stars**: `1.0k` | **Created at**: `2023-09-06` | **Last updated**: `2024-07-06`
+
+
+An awesome repository of local AI tools
 
 ## panyanyany/Awesome-ChatTTS
 
@@ -634,7 +634,7 @@ Best inference performance optimization framework for HuggingFace Diffusers on N
 <a href='https://github.com/panyanyany/Awesome-ChatTTS'>
 <img src="https://avatars.githubusercontent.com/u/5880171?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/panyanyany/Awesome-ChatTTS
 
-**Stars**: `988` | **Created at**: `2024-06-08` | **Last updated**: `2024-07-05`
+**Stars**: `989` | **Created at**: `2024-06-08` | **Last updated**: `2024-07-06`
 
 
 ChatTTS资源大全，免费体验地址，音色库等
@@ -711,7 +711,7 @@ Focus on prompting and generating
 <a href='https://github.com/ali-vilab/MimicBrush'>
 <img src="https://avatars.githubusercontent.com/u/125999365?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ali-vilab/MimicBrush
 
-**Stars**: `775` | **Created at**: `2024-06-07` | **Last updated**: `2024-07-05`
+**Stars**: `782` | **Created at**: `2024-06-07` | **Last updated**: `2024-07-06`
 
 
 Official implementations for paper: Zero-shot Image Editing with Reference Imitation
@@ -722,7 +722,7 @@ Official implementations for paper: Zero-shot Image Editing with Reference Imita
 <a href='https://github.com/ThereforeGames/unprompted'>
 <img src="https://avatars.githubusercontent.com/u/95403634?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ThereforeGames/unprompted
 
-**Stars**: `765` | **Created at**: `2022-10-31` | **Last updated**: `2024-07-05`
+**Stars**: `767` | **Created at**: `2022-10-31` | **Last updated**: `2024-07-06`
 
 
 Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.
