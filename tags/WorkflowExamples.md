@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.0k` | **Created at**: `2024-07-06`
+**Stars**: `4.0k` | **Created at**: `2024-07-07`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Created at**: `2024-07-06`
+**Stars**: `1.2k` | **Created at**: `2024-07-07`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `726` | **Created at**: `2024-07-03`
+**Stars**: `728` | **Created at**: `2024-07-07`
 
 
 some wyrde workflows for comfyUI
@@ -89,7 +89,7 @@ Create images of a given character in different poses
 <a href='https://github.com/SytanSD/Sytan-SDXL-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/122675732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 
-**Stars**: `408` | **Created at**: `2024-06-07`
+**Stars**: `407` | **Created at**: `2024-07-07`
 
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI

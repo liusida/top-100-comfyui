@@ -596,6 +596,7 @@ DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadDynamiCrafterModel: 4
+DownloadAndLoadLivePortraitModels: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
@@ -828,6 +829,7 @@ Image Save: 3
 Image Seamless Texture: 0
 Image Select Channel: 0
 Image Select Color: 0
+Image Send HTTP: -1
 Image Shadows and Highlights: 2
 Image Size to Number: 3
 Image Stitch: 5
@@ -1222,6 +1224,7 @@ LimitNumber: 2
 LineArtPreprocessor: 72
 LineartStandardPreprocessor: 12
 ListSplit_: 0
+LivePortraitProcess: -1
 LoRA Stack to String converter: 0
 LoRA Stacker: 50
 LoRALoader: 1
@@ -1891,6 +1894,7 @@ VHS_SplitLatents: 1
 VHS_SplitMasks: 0
 VHS_VAEDecodeBatched: 2
 VHS_VAEEncodeBatched: 0
+VHS_VHSAudioToAudio: -1
 VHS_VideoCombine: 100
 VHS_VideoInfo: 3
 VHS_VideoInfoLoaded: 1
