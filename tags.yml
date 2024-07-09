@@ -248,3 +248,8 @@ tags:
     - Resources
   cubiq/ComfyUI_essentials:
     - Custom Nodes
+  kijai/ComfyUI-LivePortraitKJ:
+    - Custom Nodes
+    - Video
+  comfyanonymous/ComfyUI_TensorRT:
+    - Custom Nodes
