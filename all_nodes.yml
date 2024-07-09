@@ -913,6 +913,7 @@ ImageTile+: 0
 ImageToDevice+: 0
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
+ImageUntile+: -1
 ImageUpscaleWithModel: 97
 ImageUpscaleWithModelBatched: 0
 Image_generation_Conditioning: 0
@@ -1393,6 +1394,7 @@ NEW_PhotoMaker_Generation: 7
 NNLatentUpscale: 17
 NewLayer: 10
 Noise Control Script: 2
+NoiseFromImage+: -1
 NoiseImage: 2
 NoiseInjectionDetailerHookProvider: 4
 NoiseInjectionHookProvider: 0
