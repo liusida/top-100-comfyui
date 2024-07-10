@@ -18,7 +18,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.4k` | **Created at**: `2024-07-09`
+**Stars**: `3.4k` | **Created at**: `2024-07-10`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -62,7 +62,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `713` | **Created at**: `2024-07-09`
+**Stars**: `714` | **Created at**: `2024-07-10`
 
 
 An open source `vercel` like deployment platform for Comfy UI

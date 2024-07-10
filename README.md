@@ -1,7 +1,7 @@
 
 This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.
 
-### Automatically updated on: 2024-07-09
+### Automatically updated on: 2024-07-10
 ### Repositories by Tag:
 - [Core](tags/Core.md) (1)
 - [Custom Nodes](tags/CustomNodes.md) (62)
@@ -30,7 +30,7 @@ This repository automatically updates a list of the top 100 repositories related
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `41.6k` | **Created at**: `2023-01-17` | **Last updated**: `2024-07-09` | **Tags**: `Core`
+**Stars**: `41.6k` | **Created at**: `2023-01-17` | **Last updated**: `2024-07-10` | **Tags**: `Core`
 
 
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
@@ -98,7 +98,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.4k` | **Created at**: `2023-06-13` | **Last updated**: `2024-07-09` | **Tags**: `Integration`
+**Stars**: `3.4k` | **Created at**: `2023-06-13` | **Last updated**: `2024-07-10` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -703,7 +703,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `713` | **Created at**: `2023-12-08` | **Last updated**: `2024-07-09` | **Tags**: `Custom Nodes` `Integration`
+**Stars**: `714` | **Created at**: `2023-12-08` | **Last updated**: `2024-07-10` | **Tags**: `Custom Nodes` `Integration`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -734,7 +734,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `693` | **Created at**: `2024-01-17` | **Last updated**: `2024-07-09` | **Tags**: `Custom Nodes`
+**Stars**: `694` | **Created at**: `2024-01-17` | **Last updated**: `2024-07-10` | **Tags**: `Custom Nodes`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -1743,4 +1743,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2024-07-09 23:56:39 UTC
+### Automatically updated on: 2024-07-10 00:20:08 UTC

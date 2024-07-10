@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `30.7k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-09`
+**Stars**: `30.7k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-10`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -95,7 +95,7 @@ Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 <a href='https://github.com/LiheYoung/Depth-Anything'>
 <img src="https://avatars.githubusercontent.com/u/47178369?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LiheYoung/Depth-Anything
 
-**Stars**: `6.4k` | **Created at**: `2024-01-22` | **Last updated**: `2024-07-09`
+**Stars**: `6.4k` | **Created at**: `2024-01-22` | **Last updated**: `2024-07-10`
 
 
 [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
@@ -194,7 +194,7 @@ StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis o
 <a href='https://github.com/ParisNeo/lollms-webui'>
 <img src="https://avatars.githubusercontent.com/u/827993?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ParisNeo/lollms-webui
 
-**Stars**: `4.1k` | **Created at**: `2023-04-06` | **Last updated**: `2024-07-09`
+**Stars**: `4.1k` | **Created at**: `2023-04-06` | **Last updated**: `2024-07-10`
 
 
 Lord of Large Language Models Web User Interface
@@ -260,7 +260,7 @@ stable-diffusion-webui 的汉化扩展
 <a href='https://github.com/Tencent/HunyuanDiT'>
 <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent/HunyuanDiT
 
-**Stars**: `2.7k` | **Created at**: `2024-05-10` | **Last updated**: `2024-07-09`
+**Stars**: `2.7k` | **Created at**: `2024-05-10` | **Last updated**: `2024-07-10`
 
 
 Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
@@ -304,7 +304,7 @@ Stable Diffusion Webui Extension for Civitai, to manage your model much more eas
 <a href='https://github.com/DepthAnything/Depth-Anything-V2'>
 <img src="https://avatars.githubusercontent.com/u/172110102?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/DepthAnything/Depth-Anything-V2
 
-**Stars**: `2.3k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-09`
+**Stars**: `2.3k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-10`
 
 
 Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -326,7 +326,7 @@ Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111 SD WebUI, S
 <a href='https://github.com/AiuniAI/Unique3D'>
 <img src="https://avatars.githubusercontent.com/u/170070530?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AiuniAI/Unique3D
 
-**Stars**: `2.3k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-09`
+**Stars**: `2.3k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-10`
 
 
 Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
@@ -502,7 +502,7 @@ sd-webui中文提示词插件、老手新手炼丹必备
 <a href='https://github.com/PeterH0323/Streamer-Sales'>
 <img src="https://avatars.githubusercontent.com/u/25873202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PeterH0323/Streamer-Sales
 
-**Stars**: `1.6k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-09`
+**Stars**: `1.6k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-10`
 
 
 Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊、数字人生成 🦸、 Agent 使用网络查询实时信息🌐、ASR 语音转文字🎙️
@@ -529,6 +529,17 @@ FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 
 None
 
+## Kwai-Kolors/Kolors
+
+
+<a href='https://github.com/Kwai-Kolors/Kolors'>
+<img src="https://avatars.githubusercontent.com/u/171549236?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kwai-Kolors/Kolors
+
+**Stars**: `1.5k` | **Created at**: `2024-07-05` | **Last updated**: `2024-07-10`
+
+
+Kolors Team
+
 ## InstantStyle/InstantStyle
 
 
@@ -539,17 +550,6 @@ None
 
 
 InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
-
-## Kwai-Kolors/Kolors
-
-
-<a href='https://github.com/Kwai-Kolors/Kolors'>
-<img src="https://avatars.githubusercontent.com/u/171549236?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kwai-Kolors/Kolors
-
-**Stars**: `1.5k` | **Created at**: `2024-07-05` | **Last updated**: `2024-07-09`
-
-
-Kolors Team
 
 ## PixArt-alpha/PixArt-sigma
 

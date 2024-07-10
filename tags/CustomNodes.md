@@ -430,7 +430,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `713` | **Created at**: `2024-07-09`
+**Stars**: `714` | **Created at**: `2024-07-10`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -446,7 +446,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `693` | **Created at**: `2024-07-09`
+**Stars**: `694` | **Created at**: `2024-07-10`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
