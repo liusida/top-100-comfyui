@@ -44,6 +44,10 @@ ADE_ApplyAnimateLCMI2VModel: 0
 ADE_AttachLoraHookToCLIP: 0
 ADE_AttachLoraHookToConditioning: 0
 ADE_BatchedContextOptions: 1
+ADE_CFGExtrasPAG: -1
+ADE_CFGExtrasPAGSimple: -1
+ADE_CFGExtrasRescaleCFG: -1
+ADE_CFGExtrasRescaleCFGSimple: -1
 ADE_CameraCtrlAnimateDiffKeyframe: 0
 ADE_CameraManualPoseAppend: 0
 ADE_CameraPoseAdvanced: 0
@@ -57,6 +61,8 @@ ADE_ConditioningSetMaskAndCombine: 0
 ADE_ConditioningSetUnmaskedAndCombine: 0
 ADE_CustomCFG: 0
 ADE_CustomCFGKeyframe: 0
+ADE_CustomCFGKeyframeSimple: -1
+ADE_CustomCFGSimple: -1
 ADE_EmptyLatentImageLarge: 41
 ADE_InjectI2VIntoAnimateDiffModel: 0
 ADE_InjectPIAIntoAnimateDiffModel: -1
@@ -87,6 +93,7 @@ ADE_PIA_AnimateDiffKeyframe: -1
 ADE_PairedConditioningSetMask: 0
 ADE_PairedConditioningSetMaskAndCombine: 0
 ADE_PairedConditioningSetUnmaskedAndCombine: 0
+ADE_PerturbedAttentionGuidanceMultival: -1
 ADE_RawSigmaSchedule: 0
 ADE_RegisterLoraHook: 0
 ADE_RegisterLoraHookModelOnly: 0
@@ -94,6 +101,7 @@ ADE_RegisterModelAsLoraHook: 0
 ADE_RegisterModelAsLoraHookModelOnly: 0
 ADE_ReplaceCameraParameters: 0
 ADE_ReplaceOriginalPoseAspectRatio: 0
+ADE_RescaleCFGMultival: -1
 ADE_SetLoraHookKeyframe: 0
 ADE_SigmaSchedule: 0
 ADE_SigmaScheduleSplitAndCombine: 0
@@ -107,6 +115,7 @@ ADE_TimestepsConditioning: 0
 ADE_UpscaleAndVAEEncode: 0
 ADE_UseEvolvedSampling: 75
 ADE_ViewsOnlyContextOptions: 0
+ADE_VisualizeContextOptions: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APISR_Lterative_Zho: 2
