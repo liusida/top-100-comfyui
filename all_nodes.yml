@@ -116,6 +116,9 @@ ADE_UpscaleAndVAEEncode: 0
 ADE_UseEvolvedSampling: 75
 ADE_ViewsOnlyContextOptions: 0
 ADE_VisualizeContextOptions: -1
+ADE_VisualizeContextOptionsK: -1
+ADE_VisualizeContextOptionsKAdv: -1
+ADE_VisualizeContextOptionsSCustom: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APISR_Lterative_Zho: 2
@@ -728,6 +731,7 @@ ICLightConditioning: 8
 IDBaseModelLoader_fromhub: 8
 IDBaseModelLoader_local: 5
 IDControlNetLoader: 13
+IDENode: -1
 IDGenerationNode: 13
 ID_Prompt_Styler: 14
 IFRNet VFI: 2
@@ -765,6 +769,8 @@ IPAdapterLoadEmbeds: 0
 IPAdapterMS: 0
 IPAdapterModelLoader: 99
 IPAdapterNoise: 16
+IPAdapterPreciseComposition: -1
+IPAdapterPreciseCompositionBatch: -1
 IPAdapterPreciseStyleTransfer: -1
 IPAdapterPreciseStyleTransferBatch: -1
 IPAdapterPromptScheduleFromWeightsStrategy: 2
@@ -1002,6 +1008,7 @@ ImpactValueSender: 12
 ImpactWildcardEncode: 7
 ImpactWildcardProcessor: 16
 IncrementingListNode_: 0
+InjectLatentNoise+: -1
 InjectNoiseToLatent: 3
 InpaintModelConditioning: 39
 InpaintPreprocessor: 38
@@ -1080,6 +1087,7 @@ LatentUpscale: 51
 LatentUpscaleBy: 92
 LatentUpscaler: 0
 'LayerColor: AutoAdjust': 2
+'LayerColor: AutoAdjustV2': -1
 'LayerColor: AutoBrightness': 2
 'LayerColor: Brightness & Contrast': 5
 'LayerColor: Color of Shadow & Highlight': 3
@@ -2046,6 +2054,7 @@ easy kSamplerInpainting: 2
 easy kSamplerLayerDiffusion: 4
 easy kSamplerSDTurbo: 0
 easy kSamplerTiled: 0
+easy kolorsLoader: -1
 easy latentCompositeMaskedWithCond: 0
 easy latentNoisy: 0
 easy loadImageBase64: 17
