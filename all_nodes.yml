@@ -1397,6 +1397,7 @@ ModelMergeSDXL: 0
 ModelMergeSimple: 13
 ModelMergeSubtract: 0
 ModelPassThrough: 0
+ModelSamplingAuraFlow: -1
 ModelSamplingContinuousEDM: 14
 ModelSamplingContinuousV: -1
 ModelSamplingDiscrete: 96
@@ -1908,6 +1909,9 @@ VHS_PruneOutputs: 1
 VHS_SelectEveryNthImage: 0
 VHS_SelectEveryNthLatent: 0
 VHS_SelectEveryNthMask: 2
+VHS_SelectImages: -1
+VHS_SelectLatents: -1
+VHS_SelectMasks: -1
 VHS_SplitImages: 25
 VHS_SplitLatents: 1
 VHS_SplitMasks: 0
