@@ -18,7 +18,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `652` | **Created at**: `2024-07-13`
+**Stars**: `685` | **Created at**: `2024-07-14`
 
 
 ComfyUI nodes for LivePortrait
@@ -53,7 +53,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `517` | **Created at**: `2024-07-13`
+**Stars**: `519` | **Created at**: `2024-07-14`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -70,7 +70,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `447` | **Created at**: `2024-07-11`
+**Stars**: `448` | **Created at**: `2024-07-14`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
@@ -85,7 +85,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `427` | **Created at**: `2024-07-13`
+**Stars**: `428` | **Created at**: `2024-07-14`
 
 
 Nodes related to video workflows
@@ -133,7 +133,7 @@ Animation oriented nodes pack for ComfyUI
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `360` | **Created at**: `2024-07-13`
+**Stars**: `361` | **Created at**: `2024-07-14`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.

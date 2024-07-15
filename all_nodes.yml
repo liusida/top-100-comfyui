@@ -607,7 +607,9 @@ DisplayText_Zho: 20
 DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
+DownloadAndLoadChatGLM3: -1
 DownloadAndLoadDynamiCrafterModel: 4
+DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
@@ -737,6 +739,7 @@ ID_Prompt_Styler: 14
 IFRNet VFI: 2
 IFUnet VFI: 2
 IF_ChatPrompt: 4
+IF_DisplayOmni: -1
 IF_DisplayText: 4
 IF_ImagePrompt: 0
 IF_PromptMkr: 0
@@ -1054,6 +1057,8 @@ KSamplerSelect: 80
 KSamplerVariationsStochastic+: 0
 KSamplerVariationsWithNoise+: 0
 KarrasScheduler: 1
+KolorsSampler: -1
+KolorsTextEncode: -1
 LM_Studio: 4
 Latent Batch: 0
 Latent Input Switch: 0
@@ -1269,6 +1274,7 @@ LoadAndCombinedAudio_: 0
 LoadAndResizeImage: 0
 LoadAudio: -1
 LoadCLIPSegModels+: 0
+LoadChatGLM3: -1
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
@@ -1480,6 +1486,7 @@ PolyexponentialScheduler: 0
 PorterDuffImageComposite: 1
 PortraitMaster: 4
 PortraitMasterBaseCharacter: -1
+PortraitMasterMakeup: -1
 PortraitMasterSkinDetails: -1
 PortraitMasterStylePose: -1
 "PortraitMaster_\u4E2D\u6587\u7248": 6

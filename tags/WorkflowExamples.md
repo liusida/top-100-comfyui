@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.1k` | **Created at**: `2024-07-13`
+**Stars**: `4.1k` | **Created at**: `2024-07-14`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.3k` | **Created at**: `2024-07-13`
+**Stars**: `1.3k` | **Created at**: `2024-07-14`
 
 
 Examples of ComfyUI workflows
@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `737` | **Created at**: `2024-07-13`
+**Stars**: `738` | **Created at**: `2024-07-14`
 
 
 some wyrde workflows for comfyUI
@@ -67,7 +67,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/fofr/cog-face-to-sticker'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `590` | **Created at**: `2024-07-13`
+**Stars**: `591` | **Created at**: `2024-07-14`
 
 
 face-to-sticker
