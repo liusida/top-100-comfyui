@@ -1,5 +1,8 @@
 3DImage: 4
 ACN_AdvancedControlNetApply: 100
+ACN_ControlNet++InputNode: -1
+ACN_ControlNet++LoaderAdvanced: -1
+ACN_ControlNet++LoaderSingle: -1
 ACN_ControlNetLoaderWithLoraAdvanced: 0
 ACN_DefaultUniversalWeights: 0
 ACN_ReferenceControlNet: 1
