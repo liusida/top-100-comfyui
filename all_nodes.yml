@@ -59,11 +59,14 @@ ADE_CameraPoseCombo: 0
 ADE_CombineLoraHooks: 0
 ADE_CombineLoraHooksEight: 0
 ADE_CombineLoraHooksFour: 0
+ADE_ConditioningCombine: -1
 ADE_ConditioningSetMask: 0
 ADE_ConditioningSetMaskAndCombine: 0
 ADE_ConditioningSetUnmaskedAndCombine: 0
 ADE_CustomCFG: 0
 ADE_CustomCFGKeyframe: 0
+ADE_CustomCFGKeyframeFromList: -1
+ADE_CustomCFGKeyframeInterpolation: -1
 ADE_CustomCFGKeyframeSimple: -1
 ADE_CustomCFGSimple: -1
 ADE_EmptyLatentImageLarge: 41
@@ -77,6 +80,7 @@ ADE_LoadAnimateDiffModel: 73
 ADE_LoadAnimateDiffModelWithCameraCtrl: 0
 ADE_LoadAnimateLCMI2VModel: 0
 ADE_LoadCameraPoses: 0
+ADE_LoadCameraPosesFromPath: -1
 ADE_LoopedUniformContextOptions: 16
 ADE_LoopedUniformViewOptions: 0
 ADE_LoraHookKeyframe: 0
@@ -93,6 +97,7 @@ ADE_NoiseLayerReplace: 0
 ADE_NoisedImageInjectOptions: -1
 ADE_NoisedImageInjection: -1
 ADE_PIA_AnimateDiffKeyframe: -1
+ADE_PairedConditioningCombine: -1
 ADE_PairedConditioningSetMask: 0
 ADE_PairedConditioningSetMaskAndCombine: 0
 ADE_PairedConditioningSetUnmaskedAndCombine: 0
@@ -108,6 +113,7 @@ ADE_RescaleCFGMultival: -1
 ADE_SetLoraHookKeyframe: 0
 ADE_SigmaSchedule: 0
 ADE_SigmaScheduleSplitAndCombine: 0
+ADE_SigmaScheduleToSigmas: -1
 ADE_SigmaScheduleWeightedAverage: 0
 ADE_SigmaScheduleWeightedAverageInterp: 0
 ADE_StandardStaticContextOptions: 18
@@ -747,6 +753,7 @@ IF_DisplayText: 4
 IF_ImagePrompt: 0
 IF_PromptMkr: 0
 IF_SaveText: 0
+IF_TextTyper: -1
 IF_saveText: 0
 INPAINT_ApplyFooocusInpaint: 19
 INPAINT_DenoiseToCompositingMask: 0
@@ -1732,6 +1739,7 @@ SemSegPreprocessor: 25
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
 SetLatentNoiseMask: 86
+SetUnionControlNetType: -1
 Sharpen (mtb): 0
 ShowLayer: 4
 ShowTextForGPT: 12
