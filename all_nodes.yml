@@ -769,6 +769,7 @@ IPAAdapterFaceIDBatch: 0
 IPAdapter: 5
 IPAdapterAdvanced: 100
 IPAdapterBatch: 22
+IPAdapterClipVisionEnhancer: -1
 IPAdapterCombineEmbeds: 18
 IPAdapterCombineParams: 4
 IPAdapterCombineWeights: 0
