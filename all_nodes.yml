@@ -2018,6 +2018,7 @@ easy clearCacheKey: 0
 easy comfyLoader: 10
 easy compare: 1
 easy controlnetLoader: 2
+easy controlnetLoader++: -1
 easy controlnetLoaderADV: 1
 easy controlnetNames: 0
 easy controlnetStack: 1

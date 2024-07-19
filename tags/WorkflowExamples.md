@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.1k` | **Created at**: `2024-07-17`
+**Stars**: `4.2k` | **Created at**: `2024-07-19`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.3k` | **Created at**: `2024-07-17`
+**Stars**: `1.3k` | **Created at**: `2024-07-18`
 
 
 Examples of ComfyUI workflows
@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `743` | **Created at**: `2024-07-17`
+**Stars**: `744` | **Created at**: `2024-07-19`
 
 
 some wyrde workflows for comfyUI
@@ -78,7 +78,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `475` | **Created at**: `2024-07-17`
+**Stars**: `477` | **Created at**: `2024-07-19`
 
 
 Create images of a given character in different poses
