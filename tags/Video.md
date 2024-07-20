@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `768` | **Created at**: `2024-07-19`
+**Stars**: `773` | **Created at**: `2024-07-19`
 
 
 ComfyUI nodes for LivePortrait
@@ -24,7 +24,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `765` | **Created at**: `2024-07-18`
+**Stars**: `767` | **Created at**: `2024-07-19`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -35,7 +35,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `649` | **Created at**: `2024-07-18`
+**Stars**: `650` | **Created at**: `2024-07-19`
 
 
 AnimateDiff for ComfyUI
@@ -70,7 +70,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `449` | **Created at**: `2024-07-17`
+**Stars**: `450` | **Created at**: `2024-07-19`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
@@ -101,7 +101,7 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `373` | **Created at**: `2024-07-19`
+**Stars**: `375` | **Created at**: `2024-07-19`
 
 
 Animation oriented nodes pack for ComfyUI

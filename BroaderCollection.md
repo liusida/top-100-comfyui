@@ -18,7 +18,7 @@ Focus on prompting and generating
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `31.8k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-19`
+**Stars**: `31.9k` | **Created at**: `2023-10-06` | **Last updated**: `2024-07-20`
 
 
 User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -73,7 +73,7 @@ PhotoMaker
 <a href='https://github.com/NVIDIA/TensorRT-LLM'>
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NVIDIA/TensorRT-LLM
 
-**Stars**: `7.5k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-19`
+**Stars**: `7.6k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-19`
 
 
 TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
@@ -172,7 +172,7 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/aigc-apps/sd-webui-EasyPhoto'>
 <img src="https://avatars.githubusercontent.com/u/141981933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/aigc-apps/sd-webui-EasyPhoto
 
-**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-07-18`
+**Stars**: `4.7k` | **Created at**: `2023-08-28` | **Last updated**: `2024-07-19`
 
 
 📷 EasyPhoto | Your Smart AI Photo Generator.
@@ -183,7 +183,7 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/tencent-ailab/IP-Adapter'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/IP-Adapter
 
-**Stars**: `4.6k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-19`
+**Stars**: `4.6k` | **Created at**: `2023-08-16` | **Last updated**: `2024-07-20`
 
 
 The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
@@ -194,7 +194,7 @@ The image prompt adapter is designed to enable a pretrained text-to-image diffus
 <a href='https://github.com/Stability-AI/StableSwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/100950301?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Stability-AI/StableSwarmUI
 
-**Stars**: `4.3k` | **Created at**: `2023-05-12` | **Last updated**: `2024-07-18`
+**Stars**: `4.3k` | **Created at**: `2023-05-12` | **Last updated**: `2024-07-19`
 
 
 StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -271,7 +271,7 @@ Stable Diffusion in pure C/C++
 <a href='https://github.com/VinsonLaro/stable-diffusion-webui-chinese'>
 <img src="https://avatars.githubusercontent.com/u/85789178?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/VinsonLaro/stable-diffusion-webui-chinese
 
-**Stars**: `2.9k` | **Created at**: `2022-10-10` | **Last updated**: `2024-07-18`
+**Stars**: `2.9k` | **Created at**: `2022-10-10` | **Last updated**: `2024-07-19`
 
 
 stable-diffusion-webui 的汉化扩展
@@ -315,7 +315,7 @@ PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Ima
 <a href='https://github.com/DepthAnything/Depth-Anything-V2'>
 <img src="https://avatars.githubusercontent.com/u/172110102?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/DepthAnything/Depth-Anything-V2
 
-**Stars**: `2.5k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-19`
+**Stars**: `2.6k` | **Created at**: `2024-06-13` | **Last updated**: `2024-07-20`
 
 
 Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -337,7 +337,7 @@ Kolors Team
 <a href='https://github.com/AiuniAI/Unique3D'>
 <img src="https://avatars.githubusercontent.com/u/170070530?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AiuniAI/Unique3D
 
-**Stars**: `2.5k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-19`
+**Stars**: `2.5k` | **Created at**: `2024-05-30` | **Last updated**: `2024-07-20`
 
 
 Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
@@ -392,7 +392,7 @@ MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Vis
 <a href='https://github.com/xyflow/awesome-node-based-uis'>
 <img src="https://avatars.githubusercontent.com/u/7106853?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xyflow/awesome-node-based-uis
 
-**Stars**: `2.1k` | **Created at**: `2022-11-14` | **Last updated**: `2024-07-18`
+**Stars**: `2.1k` | **Created at**: `2022-11-14` | **Last updated**: `2024-07-19`
 
 
 A curated list with resources about node-based UIs
@@ -458,7 +458,7 @@ MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 <a href='https://github.com/PRIS-CV/DemoFusion'>
 <img src="https://avatars.githubusercontent.com/u/64245328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PRIS-CV/DemoFusion
 
-**Stars**: `1.9k` | **Created at**: `2023-10-29` | **Last updated**: `2024-07-18`
+**Stars**: `1.9k` | **Created at**: `2023-10-29` | **Last updated**: `2024-07-19`
 
 
 Let us democratise high-resolution generation! (CVPR 2024)
@@ -524,7 +524,7 @@ A curated list of awesome C frameworks, libraries and software.
 <a href='https://github.com/PeterH0323/Streamer-Sales'>
 <img src="https://avatars.githubusercontent.com/u/25873202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PeterH0323/Streamer-Sales
 
-**Stars**: `1.8k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-19`
+**Stars**: `1.8k` | **Created at**: `2024-04-05` | **Last updated**: `2024-07-20`
 
 
 Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊、数字人生成 🦸、 Agent 使用网络查询实时信息🌐、ASR 语音转文字🎙️
@@ -546,7 +546,7 @@ sd-webui中文提示词插件、老手新手炼丹必备
 <a href='https://github.com/ChenyangSi/FreeU'>
 <img src="https://avatars.githubusercontent.com/u/29878243?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ChenyangSi/FreeU
 
-**Stars**: `1.6k` | **Created at**: `2023-09-14` | **Last updated**: `2024-07-18`
+**Stars**: `1.6k` | **Created at**: `2023-09-14` | **Last updated**: `2024-07-19`
 
 
 FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
@@ -557,7 +557,7 @@ FreeU: Free Lunch in Diffusion U-Net (CVPR2024 Oral)
 <a href='https://github.com/Coyote-A/ultimate-upscale-for-automatic1111'>
 <img src="https://avatars.githubusercontent.com/u/11600962?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 
-**Stars**: `1.6k` | **Created at**: `2023-01-02` | **Last updated**: `2024-07-17`
+**Stars**: `1.6k` | **Created at**: `2023-01-02` | **Last updated**: `2024-07-19`
 
 
 None
@@ -606,17 +606,6 @@ Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion we
 
 Collection of google colaboratory notebooks for fast and easy experiments
 
-## PKU-YuanGroup/MagicTime
-
-
-<a href='https://github.com/PKU-YuanGroup/MagicTime'>
-<img src="https://avatars.githubusercontent.com/u/135824553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PKU-YuanGroup/MagicTime
-
-**Stars**: `1.2k` | **Created at**: `2024-04-07` | **Last updated**: `2024-07-19`
-
-
-MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
-
 ## xinsir6/ControlNetPlus
 
 
@@ -627,6 +616,17 @@ MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 
 
 ControlNet++: All-in-one ControlNet for image generations and editing!
+
+## PKU-YuanGroup/MagicTime
+
+
+<a href='https://github.com/PKU-YuanGroup/MagicTime'>
+<img src="https://avatars.githubusercontent.com/u/135824553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PKU-YuanGroup/MagicTime
+
+**Stars**: `1.2k` | **Created at**: `2024-04-07` | **Last updated**: `2024-07-19`
+
+
+MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 
 ## TencentARC/BrushNet
 
@@ -645,7 +645,7 @@ ControlNet++: All-in-one ControlNet for image generations and editing!
 <a href='https://github.com/bianchenglequ/NetCodeTop'>
 <img src="https://avatars.githubusercontent.com/u/108387401?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/bianchenglequ/NetCodeTop
 
-**Stars**: `1.2k` | **Created at**: `2023-01-01` | **Last updated**: `2024-07-17`
+**Stars**: `1.2k` | **Created at**: `2023-01-01` | **Last updated**: `2024-07-19`
 
 
 收集GitHub上有关.Net、.NetCore有趣、有用、热门的开源项目。
@@ -656,7 +656,7 @@ ControlNet++: All-in-one ControlNet for image generations and editing!
 <a href='https://github.com/numz/sd-wav2lip-uhq'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/sd-wav2lip-uhq
 
-**Stars**: `1.2k` | **Created at**: `2023-08-03` | **Last updated**: `2024-07-18`
+**Stars**: `1.2k` | **Created at**: `2023-08-03` | **Last updated**: `2024-07-19`
 
 
 Wav2Lip UHQ extension for Automatic1111
@@ -667,10 +667,21 @@ Wav2Lip UHQ extension for Automatic1111
 <a href='https://github.com/zhaoolee/garss'>
 <img src="https://avatars.githubusercontent.com/u/15868458?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zhaoolee/garss
 
-**Stars**: `1.1k` | **Created at**: `2021-02-20` | **Last updated**: `2024-07-18`
+**Stars**: `1.1k` | **Created at**: `2021-02-20` | **Last updated**: `2024-07-19`
 
 
 Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
+
+## janhq/awesome-local-ai
+
+
+<a href='https://github.com/janhq/awesome-local-ai'>
+<img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/janhq/awesome-local-ai
+
+**Stars**: `1.1k` | **Created at**: `2023-09-06` | **Last updated**: `2024-07-19`
+
+
+An awesome repository of local AI tools
 
 ## chengzeyi/stable-fast
 
@@ -682,17 +693,6 @@ Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏�
 
 
 Best inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs.
-
-## janhq/awesome-local-ai
-
-
-<a href='https://github.com/janhq/awesome-local-ai'>
-<img src="https://avatars.githubusercontent.com/u/102363196?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/janhq/awesome-local-ai
-
-**Stars**: `1.1k` | **Created at**: `2023-09-06` | **Last updated**: `2024-07-18`
-
-
-An awesome repository of local AI tools
 
 ## panyanyany/Awesome-ChatTTS
 
@@ -711,7 +711,7 @@ ChatTTS资源大全，免费体验地址，音色库等
 <a href='https://github.com/TencentQQGYLab/ELLA'>
 <img src="https://avatars.githubusercontent.com/u/163842438?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentQQGYLab/ELLA
 
-**Stars**: `992` | **Created at**: `2024-03-07` | **Last updated**: `2024-07-18`
+**Stars**: `994` | **Created at**: `2024-03-07` | **Last updated**: `2024-07-19`
 
 
 ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
@@ -722,7 +722,7 @@ ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
 <a href='https://github.com/receyuki/stable-diffusion-prompt-reader'>
 <img src="https://avatars.githubusercontent.com/u/28808141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/receyuki/stable-diffusion-prompt-reader
 
-**Stars**: `987` | **Created at**: `2023-03-24` | **Last updated**: `2024-07-19`
+**Stars**: `988` | **Created at**: `2023-03-24` | **Last updated**: `2024-07-19`
 
 
 A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
@@ -733,7 +733,7 @@ A simple standalone viewer for reading prompts from Stable Diffusion generated i
 <a href='https://github.com/ToTheBeginning/PuLID'>
 <img src="https://avatars.githubusercontent.com/u/11482921?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ToTheBeginning/PuLID
 
-**Stars**: `979` | **Created at**: `2024-04-17` | **Last updated**: `2024-07-19`
+**Stars**: `981` | **Created at**: `2024-04-17` | **Last updated**: `2024-07-19`
 
 
 Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -744,7 +744,7 @@ Official code for PuLID: Pure and Lightning ID Customization via Contrastive Ali
 <a href='https://github.com/JonathanFly/bark'>
 <img src="https://avatars.githubusercontent.com/u/163408?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/JonathanFly/bark
 
-**Stars**: `974` | **Created at**: `2023-04-21` | **Last updated**: `2024-07-11`
+**Stars**: `975` | **Created at**: `2023-04-21` | **Last updated**: `2024-07-19`
 
 
 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
@@ -755,7 +755,7 @@ Official code for PuLID: Pure and Lightning ID Customization via Contrastive Ali
 <a href='https://github.com/Sxela/WarpFusion'>
 <img src="https://avatars.githubusercontent.com/u/11751592?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Sxela/WarpFusion
 
-**Stars**: `947` | **Created at**: `2022-09-11` | **Last updated**: `2024-07-15`
+**Stars**: `948` | **Created at**: `2022-09-11` | **Last updated**: `2024-07-19`
 
 
 WarpFusion

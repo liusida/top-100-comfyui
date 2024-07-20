@@ -886,6 +886,7 @@ ImageCASharpening+: 20
 ImageColorMatch+: 0
 ImageColorToMask: 8
 ImageColorTransfer: 0
+ImageComposite+: -1
 ImageCompositeFromMaskBatch+: 0
 ImageCompositeMasked: 77
 ImageConcanate: 14
@@ -1863,6 +1864,7 @@ ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 Transform Image (mtb): 3
 TransitionMask+: 0
+TransparentBGSession+: -1
 TransparentImage: 6
 TripleCLIPLoader: 5
 TripoSRModelLoader: 14
