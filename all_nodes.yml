@@ -213,6 +213,7 @@ BboxDetectorForEach: 2
 BboxDetectorSEGS: 28
 BboxToInt: 0
 BboxVisualize: 0
+BetaSamplingScheduler: -1
 BinaryPreprocessor: 21
 BitwiseAndMask: 1
 BitwiseAndMaskForEach: 0
@@ -617,6 +618,7 @@ DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadChatGLM3: -1
+DownloadAndLoadDynamiCrafterCNModel: -1
 DownloadAndLoadDynamiCrafterModel: 4
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
@@ -628,6 +630,8 @@ DualCFGGuider: 36
 DualCLIPLoader: 1
 DummyLatentOut: 0
 DynamiCrafterBatchInterpolation: 0
+DynamiCrafterCNLoader: -1
+DynamiCrafterControlnetApply: -1
 DynamiCrafterI2V: 2
 DynamiCrafterLoadInitNoise: -1
 DynamiCrafterModelLoader: 1
