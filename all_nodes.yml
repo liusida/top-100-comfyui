@@ -1163,6 +1163,7 @@ LatentUpscaler: 0
 'LayerMask: SegmentAnythingUltra': 13
 'LayerMask: SegmentAnythingUltra V2': 6
 'LayerMask: Shadow & Highlight Mask': 1
+'LayerMask: TransparentBackgroundUltra': -1
 'LayerMask: YoloV8Detect': 1
 'LayerStyle: ColorOverlay': 2
 'LayerStyle: ColorOverlay V2': 1
