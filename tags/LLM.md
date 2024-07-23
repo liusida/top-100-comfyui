@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `616` | **Created at**: `2024-07-20`
+**Stars**: `617` | **Created at**: `2024-07-22`
 
 
 Using Gemini in ComfyUI
@@ -57,7 +57,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 <a href='https://github.com/huchenlei/ComfyUI_omost'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI_omost
 
-**Stars**: `371` | **Created at**: `2024-07-21`
+**Stars**: `372` | **Created at**: `2024-07-22`
 
 
 ComfyUI implementation of Omost
