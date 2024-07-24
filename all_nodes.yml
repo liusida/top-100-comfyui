@@ -1160,6 +1160,9 @@ LatentUpscaler: 0
 'LayerMask: RemBgUltra': 16
 'LayerMask: RmBgUltra V2': 3
 'LayerMask: SegformerB2ClothesUltra': 1
+'LayerMask: SegformerClothesPipelineLoader': -1
+'LayerMask: SegformerFashionPipelineLoader': -1
+'LayerMask: SegformerUltraV2': -1
 'LayerMask: SegmentAnythingUltra': 13
 'LayerMask: SegmentAnythingUltra V2': 6
 'LayerMask: Shadow & Highlight Mask': 1
@@ -1654,6 +1657,7 @@ ScaledSoftMaskedUniversalWeights: 0
 ScenesNode_: 0
 Scientist: 1
 ScreenShare: 15
+Screencap_mss: -1
 ScribblePreprocessor: 46
 Scribble_PiDiNet_Preprocessor: 0
 Scribble_XDoG_Preprocessor: 4

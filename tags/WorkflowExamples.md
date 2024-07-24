@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.2k` | **Created at**: `2024-07-22`
+**Stars**: `4.2k` | **Created at**: `2024-07-23`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.4k` | **Created at**: `2024-07-22`
+**Stars**: `1.4k` | **Created at**: `2024-07-23`
 
 
 Examples of ComfyUI workflows
@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Created at**: `2024-07-22`
+**Stars**: `1.2k` | **Created at**: `2024-07-23`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `757` | **Created at**: `2024-07-22`
+**Stars**: `757` | **Created at**: `2024-07-23`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
@@ -56,7 +56,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `746` | **Created at**: `2024-07-20`
+**Stars**: `747` | **Created at**: `2024-07-23`
 
 
 some wyrde workflows for comfyUI
@@ -67,7 +67,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/fofr/cog-face-to-sticker'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `592` | **Created at**: `2024-07-15`
+**Stars**: `594` | **Created at**: `2024-07-23`
 
 
 face-to-sticker
@@ -78,7 +78,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `477` | **Created at**: `2024-07-19`
+**Stars**: `478` | **Created at**: `2024-07-23`
 
 
 Create images of a given character in different poses
@@ -89,7 +89,7 @@ Create images of a given character in different poses
 <a href='https://github.com/SytanSD/Sytan-SDXL-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/122675732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 
-**Stars**: `409` | **Created at**: `2024-07-13`
+**Stars**: `410` | **Created at**: `2024-07-23`
 
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
