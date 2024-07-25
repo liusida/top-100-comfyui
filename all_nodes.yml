@@ -629,6 +629,7 @@ DrawText+: 0
 DualCFGGuider: 36
 DualCLIPLoader: 1
 DummyLatentOut: 0
+DummyOut: -1
 DynamiCrafterBatchInterpolation: 0
 DynamiCrafterCNLoader: -1
 DynamiCrafterControlnetApply: -1
@@ -1073,6 +1074,8 @@ KSamplerSelect: 80
 KSamplerVariationsStochastic+: 0
 KSamplerVariationsWithNoise+: 0
 KarrasScheduler: 1
+KeypointScaler: -1
+KeypointsToImage: -1
 KolorsSampler: -1
 KolorsTextEncode: -1
 LM_Studio: 4
@@ -1267,7 +1270,12 @@ LimitNumber: 2
 LineArtPreprocessor: 72
 LineartStandardPreprocessor: 12
 ListSplit_: 0
+LivePortraitComposite: -1
+LivePortraitCropper: -1
+LivePortraitLoadCropper: -1
+LivePortraitLoadMediaPipeCropper: -1
 LivePortraitProcess: -1
+LivePortraitRetargeting: -1
 LoRA Stack to String converter: 0
 LoRA Stacker: 50
 LoRALoader: 1
@@ -1965,6 +1973,7 @@ VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 WD14Tagger|pysssss: 82
 WebcamCapture: 1
+WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
 WeightScheduleExtend: 0
 WidgetToString: 0
