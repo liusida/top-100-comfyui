@@ -1273,6 +1273,7 @@ ListSplit_: 0
 LivePortraitComposite: -1
 LivePortraitCropper: -1
 LivePortraitLoadCropper: -1
+LivePortraitLoadFaceAlignmentCropper: -1
 LivePortraitLoadMediaPipeCropper: -1
 LivePortraitProcess: -1
 LivePortraitRetargeting: -1

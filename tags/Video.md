@@ -7,15 +7,15 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `848` | **Created at**: `2024-07-24`
+**Stars**: `924` | **Created at**: `2024-07-26`
 
 
 ComfyUI nodes for LivePortrait
-<details><summary>Included Nodes (9)</summary>
+<details><summary>Included Nodes (10)</summary>
 
  - <sub>DownloadAndLoadLivePortraitModels</sub>
  - <sub>KeypointScaler</sub>, <sub>KeypointsToImage</sub>
- - <sub>LivePortraitComposite</sub>, <sub>LivePortraitCropper</sub>, <sub>LivePortraitLoadCropper</sub>, <sub>LivePortraitLoadMediaPipeCropper</sub>, <sub>LivePortraitProcess</sub>, <sub>LivePortraitRetargeting</sub>
+ - <sub>LivePortraitComposite</sub>, <sub>LivePortraitCropper</sub>, <sub>LivePortraitLoadCropper</sub>, <sub>LivePortraitLoadFaceAlignmentCropper</sub>, <sub>LivePortraitLoadMediaPipeCropper</sub>, <sub>LivePortraitProcess</sub>, <sub>LivePortraitRetargeting</sub>
 </details>
 
 
@@ -25,7 +25,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `771` | **Created at**: `2024-07-23`
+**Stars**: `774` | **Created at**: `2024-07-25`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -54,7 +54,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `538` | **Created at**: `2024-07-24`
+**Stars**: `539` | **Created at**: `2024-07-25`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -71,7 +71,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `451` | **Created at**: `2024-07-22`
+**Stars**: `452` | **Created at**: `2024-07-25`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
@@ -86,7 +86,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `443` | **Created at**: `2024-07-24`
+**Stars**: `445` | **Created at**: `2024-07-25`
 
 
 Nodes related to video workflows
@@ -102,7 +102,7 @@ Nodes related to video workflows
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `379` | **Created at**: `2024-07-23`
+**Stars**: `380` | **Created at**: `2024-07-25`
 
 
 Animation oriented nodes pack for ComfyUI
@@ -134,7 +134,7 @@ Animation oriented nodes pack for ComfyUI
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `373` | **Created at**: `2024-07-24`
+**Stars**: `375` | **Created at**: `2024-07-25`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
