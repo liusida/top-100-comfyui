@@ -248,6 +248,7 @@ CLIPTextEncode: 86
 CLIPTextEncode (BlenderNeko Advanced + NSP): 0
 CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
+CLIPTextEncodeHunyuanDiT: -1
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
 CLIPTextEncodeSDXL+: 1
