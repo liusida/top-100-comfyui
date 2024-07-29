@@ -1144,7 +1144,9 @@ LatentUpscaler: 0
 'LayerMask: BiRefNetUltra': 6
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
+'LayerMask: Florence2Ultra': -1
 'LayerMask: ImageToMask': 2
+'LayerMask: LoadFlorence2Model': -1
 'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': 2
 'LayerMask: MaskByDifferent': 1
@@ -1204,6 +1206,7 @@ LatentUpscaler: 0
 'LayerUtility: ExtendCanvas': 2
 'LayerUtility: ExtendCanvasV2': 1
 'LayerUtility: Float': 2
+'LayerUtility: Florence2Image2Prompt': -1
 'LayerUtility: GetColorTone': 1
 'LayerUtility: GetColorToneV2': 2
 'LayerUtility: GetImageSize': 7
@@ -1633,6 +1636,7 @@ SamplerCustom: 48
 SamplerCustomAdvanced: 46
 SamplerDPMAdaptative: 0
 SamplerDPMPP_2M_SDE: 0
+SamplerDPMPP_2S_Ancestral: -1
 SamplerDPMPP_3M_SDE: 0
 SamplerDPMPP_SDE: 3
 SamplerEulerAncestral: 0
