@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `621` | **Created at**: `2024-07-27`
+**Stars**: `622` | **Created at**: `2024-07-30`
 
 
 Using Gemini in ComfyUI
@@ -41,7 +41,7 @@ A Node for ComfyUI that does what you ask it to do
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `425` | **Created at**: `2024-07-29`
+**Stars**: `427` | **Created at**: `2024-07-30`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -57,7 +57,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 <a href='https://github.com/huchenlei/ComfyUI_omost'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI_omost
 
-**Stars**: `382` | **Created at**: `2024-07-29`
+**Stars**: `384` | **Created at**: `2024-07-30`
 
 
 ComfyUI implementation of Omost

@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `43.6k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `43.7k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
@@ -91,7 +91,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `636` | **Created at**: `2023-02-28` | **Tags**: `Integration`
+**Stars**: `637` | **Created at**: `2023-02-28` | **Tags**: `Integration`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -223,7 +223,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `752` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
+**Stars**: `754` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
 
 
 some wyrde workflows for comfyUI
@@ -256,7 +256,7 @@ A collection of ComfyUI custom nodes. ⚠️ WARNING: This repo is no longer mai
 <a href='https://github.com/WASasquatch/comfyui-plugins'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/comfyui-plugins
 
-**Stars**: `560` | **Created at**: `2023-04-10` | **Tags**: `Resources`
+**Stars**: `561` | **Created at**: `2023-04-10` | **Tags**: `Resources`
 
 
 Extensions, Custom Nodes, and other plugins for ComfyUI
@@ -278,7 +278,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `626` | **Created at**: `2023-04-24` | **Tags**: `Integration` `3D`
+**Stars**: `629` | **Created at**: `2023-04-24` | **Tags**: `Integration` `3D`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -300,7 +300,7 @@ Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI
 <a href='https://github.com/ltdrdata/ComfyUI-extension-tutorials'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-extension-tutorials
 
-**Stars**: `483` | **Created at**: `2023-05-04` | **Tags**: `Tutorials`
+**Stars**: `488` | **Created at**: `2023-05-04` | **Tags**: `Tutorials`
 
 
 None
@@ -311,7 +311,7 @@ None
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `728` | **Created at**: `2023-05-10` | **Tags**: `Custom Nodes`
+**Stars**: `731` | **Created at**: `2023-05-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -333,7 +333,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `490` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
+**Stars**: `491` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -349,7 +349,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `695` | **Created at**: `2023-05-16` | **Tags**: `Custom Nodes`
+**Stars**: `697` | **Created at**: `2023-05-16` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -413,7 +413,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `3.7k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `3.9k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -451,7 +451,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `656` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `657` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes` `Video`
 
 
 AnimateDiff for ComfyUI
@@ -485,7 +485,7 @@ Custom prompt styler node for SDXL in ComfyUI
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `890` | **Created at**: `2023-07-30` | **Tags**: `Integration`
+**Stars**: `891` | **Created at**: `2023-07-30` | **Tags**: `Integration`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -496,7 +496,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `379` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `381` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -521,7 +521,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `491` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `492` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -559,7 +559,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese
 
-**Stars**: `420` | **Created at**: `2023-08-03` | **Tags**: `Translation` `Chinese Language`
+**Stars**: `421` | **Created at**: `2023-08-03` | **Tags**: `Translation` `Chinese Language`
 
 
 简体中文版 ComfyUI
@@ -570,7 +570,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `801` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
+**Stars**: `805` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -666,7 +666,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `3.4k` | **Created at**: `2023-08-30` | **Tags**: `Custom Nodes`
+**Stars**: `3.5k` | **Created at**: `2023-08-30` | **Tags**: `Custom Nodes`
 
 
 None
@@ -712,7 +712,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `537` | **Created at**: `2023-09-19` | **Tags**: `Integration`
+**Stars**: `538` | **Created at**: `2023-09-19` | **Tags**: `Integration`
 
 
 FastAPI powered API for Fooocus
@@ -723,7 +723,7 @@ FastAPI powered API for Fooocus
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `397` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `398` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -753,7 +753,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `450` | **Created at**: `2023-09-23` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `452` | **Created at**: `2023-09-23` | **Tags**: `Custom Nodes` `Video`
 
 
 Nodes related to video workflows
@@ -802,7 +802,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `589` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
+**Stars**: `590` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -820,7 +820,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/xingren23/ComfyFlowApp'>
 <img src="https://avatars.githubusercontent.com/u/3837202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `470` | **Created at**: `2023-10-08` | **Tags**: `Integration`
+**Stars**: `473` | **Created at**: `2023-10-08` | **Tags**: `Integration`
 
 
 From comfyui workflow to web app, in seconds
@@ -831,7 +831,7 @@ From comfyui workflow to web app, in seconds
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `996` | **Created at**: `2023-10-18` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `999` | **Created at**: `2023-10-18` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -875,7 +875,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/6174/comflowy'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowy
 
-**Stars**: `866` | **Created at**: `2023-11-20` | **Tags**: `Website`
+**Stars**: `868` | **Created at**: `2023-11-20` | **Tags**: `Website`
 
 
 Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users. 
@@ -936,7 +936,7 @@ An image/video/workflow browser and manager for ComfyUI.
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `894` | **Created at**: `2023-12-02` | **Tags**: `Management`
+**Stars**: `898` | **Created at**: `2023-12-02` | **Tags**: `Management`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -947,7 +947,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `795` | **Created at**: `2023-12-08` | **Tags**: `Custom Nodes` `Integration`
+**Stars**: `798` | **Created at**: `2023-12-08` | **Tags**: `Custom Nodes` `Integration`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -963,14 +963,14 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `680` | **Created at**: `2023-12-10` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `688` | **Created at**: `2023-12-10` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
-<details><summary>Included Nodes (151)</summary>
+<details><summary>Included Nodes (152)</summary>
 
  - <sub>dynamicThresholdingFull</sub>
- - <sub>[easy a1111Loader](node_examples/easy_a1111Loader.md)</sub>, <sub>[easy applyBrushNet](node_examples/easy_applyBrushNet.md)</sub>, <sub>[easy applyFooocusInpaint](node_examples/easy_applyFooocusInpaint.md)</sub>, <sub>easy applyInpaint</sub>, <sub>[easy applyPowerPaint](node_examples/easy_applyPowerPaint.md)</sub>, <sub>[easy boolean](node_examples/easy_boolean.md)</sub>, <sub>easy cascadeKSampler</sub>, <sub>[easy cascadeLoader](node_examples/easy_cascadeLoader.md)</sub>, <sub>[easy ckptNames](node_examples/easy_ckptNames.md)</sub>, <sub>[easy cleanGpuUsed](node_examples/easy_cleanGpuUsed.md)</sub>, <sub>easy clearCacheAll</sub>, <sub>easy clearCacheKey</sub>, <sub>[easy comfyLoader](node_examples/easy_comfyLoader.md)</sub>, <sub>[easy compare](node_examples/easy_compare.md)</sub>, <sub>[easy controlnetLoader](node_examples/easy_controlnetLoader.md)</sub>, <sub>easy controlnetLoader++</sub>, <sub>[easy controlnetLoaderADV](node_examples/easy_controlnetLoaderADV.md)</sub>, <sub>easy controlnetNames</sub>, <sub>[easy controlnetStack](node_examples/easy_controlnetStack.md)</sub>, <sub>easy convertAnything</sub>, <sub>[easy detailerFix](node_examples/easy_detailerFix.md)</sub>, <sub>easy dynamiCrafterLoader</sub>, <sub>easy float</sub>, <sub>[easy fullCascadeKSampler](node_examples/easy_fullCascadeKSampler.md)</sub>, <sub>[easy fullkSampler](node_examples/easy_fullkSampler.md)</sub>, <sub>[easy fullLoader](node_examples/easy_fullLoader.md)</sub>, <sub>[easy globalSeed](node_examples/easy_globalSeed.md)</sub>, <sub>[easy hiresFix](node_examples/easy_hiresFix.md)</sub>, <sub>easy humanSegmentation</sub>, <sub>easy hunyuanDiTLoader</sub>, <sub>[easy icLightApply](node_examples/easy_icLightApply.md)</sub>, <sub>easy if</sub>, <sub>easy imageBatchToImageList</sub>, <sub>[easy imageChooser](node_examples/easy_imageChooser.md)</sub>, <sub>[easy imageColorMatch](node_examples/easy_imageColorMatch.md)</sub>, <sub>[easy imageConcat](node_examples/easy_imageConcat.md)</sub>, <sub>easy imageCount</sub>, <sub>easy imageCropFromMask</sub>, <sub>[easy imageDetailTransfer](node_examples/easy_imageDetailTransfer.md)</sub>, <sub>[easy imageInsetCrop](node_examples/easy_imageInsetCrop.md)</sub>, <sub>[easy imageInterrogator](node_examples/easy_imageInterrogator.md)</sub>, <sub>easy imageListToImageBatch</sub>, <sub>[easy imagePixelPerfect](node_examples/easy_imagePixelPerfect.md)</sub>, <sub>easy imageRatio</sub>, <sub>[easy imageRemBg](node_examples/easy_imageRemBg.md)</sub>, <sub>easy imageSave</sub>, <sub>easy imageScaleDown</sub>, <sub>easy imageScaleDownBy</sub>, <sub>[easy imageScaleDownToSize](node_examples/easy_imageScaleDownToSize.md)</sub>, <sub>[easy imageSize](node_examples/easy_imageSize.md)</sub>, <sub>easy imageSizeByLongerSide</sub>, <sub>easy imageSizeBySide</sub>, <sub>[easy imageSplitGrid](node_examples/easy_imageSplitGrid.md)</sub>, <sub>[easy imageSplitList](node_examples/easy_imageSplitList.md)</sub>, <sub>[easy imagesSplitImage](node_examples/easy_imagesSplitImage.md)</sub>, <sub>[easy imageSwitch](node_examples/easy_imageSwitch.md)</sub>, <sub>easy imageToBase64</sub>, <sub>[easy imageToMask](node_examples/easy_imageToMask.md)</sub>, <sub>easy imageUncropFromBBOX</sub>, <sub>easy injectNoiseToLatent</sub>, <sub>[easy instantIDApply](node_examples/easy_instantIDApply.md)</sub>, <sub>easy instantIDApplyADV</sub>, <sub>easy int</sub>, <sub>[easy ipadapterApply](node_examples/easy_ipadapterApply.md)</sub>, <sub>easy ipadapterApplyADV</sub>, <sub>easy ipadapterApplyEmbeds</sub>, <sub>easy ipadapterApplyEncoder</sub>, <sub>easy ipadapterApplyFromParams</sub>, <sub>easy ipadapterApplyRegional</sub>, <sub>easy ipadapterStyleComposition</sub>, <sub>easy isSDXL</sub>, <sub>easy joinImageBatch</sub>, <sub>easy kolorsLoader</sub>, <sub>[easy kSampler](node_examples/easy_kSampler.md)</sub>, <sub>easy kSamplerDownscaleUnet</sub>, <sub>[easy kSamplerInpainting](node_examples/easy_kSamplerInpainting.md)</sub>, <sub>[easy kSamplerLayerDiffusion](node_examples/easy_kSamplerLayerDiffusion.md)</sub>, <sub>easy kSamplerSDTurbo</sub>, <sub>easy kSamplerTiled</sub>, <sub>easy latentCompositeMaskedWithCond</sub>, <sub>easy latentNoisy</sub>, <sub>easy LLLiteLoader</sub>, <sub>[easy loadImageBase64](node_examples/easy_loadImageBase64.md)</sub>, <sub>[easy loraStack](node_examples/easy_loraStack.md)</sub>, <sub>[easy negative](node_examples/easy_negative.md)</sub>, <sub>easy pipeBatchIndex</sub>, <sub>[easy pipeEdit](node_examples/easy_pipeEdit.md)</sub>, <sub>[easy pipeIn](node_examples/easy_pipeIn.md)</sub>, <sub>[easy pipeOut](node_examples/easy_pipeOut.md)</sub>, <sub>easy pipeToBasicPipe</sub>, <sub>easy pixArtLoader</sub>, <sub>easy portraitMaster</sub>, <sub>easy poseEditor</sub>, <sub>[easy positive](node_examples/easy_positive.md)</sub>, <sub>[easy preDetailerFix](node_examples/easy_preDetailerFix.md)</sub>, <sub>easy preMaskDetailerFix</sub>, <sub>[easy preSampling](node_examples/easy_preSampling.md)</sub>, <sub>easy preSamplingAdvanced</sub>, <sub>easy preSamplingCascade</sub>, <sub>[easy preSamplingCustom](node_examples/easy_preSamplingCustom.md)</sub>, <sub>[easy preSamplingDynamicCFG](node_examples/easy_preSamplingDynamicCFG.md)</sub>, <sub>[easy preSamplingLayerDiffusion](node_examples/easy_preSamplingLayerDiffusion.md)</sub>, <sub>[easy preSamplingLayerDiffusionADDTL](node_examples/easy_preSamplingLayerDiffusionADDTL.md)</sub>, <sub>[easy preSamplingNoiseIn](node_examples/easy_preSamplingNoiseIn.md)</sub>, <sub>easy preSamplingSdTurbo</sub>, <sub>[easy prompt](node_examples/easy_prompt.md)</sub>, <sub>[easy promptConcat](node_examples/easy_promptConcat.md)</sub>, <sub>[easy promptLine](node_examples/easy_promptLine.md)</sub>, <sub>easy promptList</sub>, <sub>[easy promptReplace](node_examples/easy_promptReplace.md)</sub>, <sub>easy pulIDApply</sub>, <sub>easy pulIDApplyADV</sub>, <sub>easy rangeFloat</sub>, <sub>easy rangeInt</sub>, <sub>easy removeLocalImage</sub>, <sub>[easy samLoaderPipe](node_examples/easy_samLoaderPipe.md)</sub>, <sub>[easy seed](node_examples/easy_seed.md)</sub>, <sub>[easy showAnything](node_examples/easy_showAnything.md)</sub>, <sub>easy showLoaderSettingsNames</sub>, <sub>easy showSpentTime</sub>, <sub>easy showTensorShape</sub>, <sub>easy sliderControl</sub>, <sub>[easy stableDiffusion3API](node_examples/easy_stableDiffusion3API.md)</sub>, <sub>easy string</sub>, <sub>[easy styleAlignedBatchAlign](node_examples/easy_styleAlignedBatchAlign.md)</sub>, <sub>[easy stylesSelector](node_examples/easy_stylesSelector.md)</sub>, <sub>easy sv3dLoader</sub>, <sub>easy svdLoader</sub>, <sub>easy textSwitch</sub>, <sub>[easy ultralyticsDetectorPipe](node_examples/easy_ultralyticsDetectorPipe.md)</sub>, <sub>easy unSampler</sub>, <sub>[easy wildcards](node_examples/easy_wildcards.md)</sub>, <sub>easy xyAny</sub>, <sub>easy XYInputs: CFG Scale</sub>, <sub>easy XYInputs: Checkpoint</sub>, <sub>easy XYInputs: ControlNet</sub>, <sub>easy XYInputs: Denoise</sub>, <sub>easy XYInputs: Lora</sub>, <sub>easy XYInputs: ModelMergeBlocks</sub>, <sub>easy XYInputs: NegativeCond</sub>, <sub>easy XYInputs: NegativeCondList</sub>, <sub>easy XYInputs: PositiveCond</sub>, <sub>easy XYInputs: PositiveCondList</sub>, <sub>easy XYInputs: PromptSR</sub>, <sub>easy XYInputs: Sampler/Scheduler</sub>, <sub>[easy XYInputs: Seeds++ Batch](node_examples/easy_XYInputs_Seeds++_Batch.md)</sub>, <sub>[easy XYInputs: Steps](node_examples/easy_XYInputs_Steps.md)</sub>, <sub>easy XYPlot</sub>, <sub>[easy XYPlotAdvanced](node_examples/easy_XYPlotAdvanced.md)</sub>, <sub>easy zero123Loader</sub>
+ - <sub>[easy a1111Loader](node_examples/easy_a1111Loader.md)</sub>, <sub>[easy applyBrushNet](node_examples/easy_applyBrushNet.md)</sub>, <sub>[easy applyFooocusInpaint](node_examples/easy_applyFooocusInpaint.md)</sub>, <sub>easy applyInpaint</sub>, <sub>[easy applyPowerPaint](node_examples/easy_applyPowerPaint.md)</sub>, <sub>[easy boolean](node_examples/easy_boolean.md)</sub>, <sub>easy cascadeKSampler</sub>, <sub>[easy cascadeLoader](node_examples/easy_cascadeLoader.md)</sub>, <sub>[easy ckptNames](node_examples/easy_ckptNames.md)</sub>, <sub>[easy cleanGpuUsed](node_examples/easy_cleanGpuUsed.md)</sub>, <sub>easy clearCacheAll</sub>, <sub>easy clearCacheKey</sub>, <sub>[easy comfyLoader](node_examples/easy_comfyLoader.md)</sub>, <sub>[easy compare](node_examples/easy_compare.md)</sub>, <sub>[easy controlnetLoader](node_examples/easy_controlnetLoader.md)</sub>, <sub>easy controlnetLoader++</sub>, <sub>[easy controlnetLoaderADV](node_examples/easy_controlnetLoaderADV.md)</sub>, <sub>easy controlnetNames</sub>, <sub>[easy controlnetStack](node_examples/easy_controlnetStack.md)</sub>, <sub>easy convertAnything</sub>, <sub>[easy detailerFix](node_examples/easy_detailerFix.md)</sub>, <sub>easy dynamiCrafterLoader</sub>, <sub>easy float</sub>, <sub>[easy fullCascadeKSampler](node_examples/easy_fullCascadeKSampler.md)</sub>, <sub>[easy fullkSampler](node_examples/easy_fullkSampler.md)</sub>, <sub>[easy fullLoader](node_examples/easy_fullLoader.md)</sub>, <sub>[easy globalSeed](node_examples/easy_globalSeed.md)</sub>, <sub>[easy hiresFix](node_examples/easy_hiresFix.md)</sub>, <sub>easy humanSegmentation</sub>, <sub>easy hunyuanDiTLoader</sub>, <sub>[easy icLightApply](node_examples/easy_icLightApply.md)</sub>, <sub>easy if</sub>, <sub>easy imageBatchToImageList</sub>, <sub>[easy imageChooser](node_examples/easy_imageChooser.md)</sub>, <sub>[easy imageColorMatch](node_examples/easy_imageColorMatch.md)</sub>, <sub>[easy imageConcat](node_examples/easy_imageConcat.md)</sub>, <sub>easy imageCount</sub>, <sub>easy imageCropFromMask</sub>, <sub>[easy imageDetailTransfer](node_examples/easy_imageDetailTransfer.md)</sub>, <sub>[easy imageInsetCrop](node_examples/easy_imageInsetCrop.md)</sub>, <sub>[easy imageInterrogator](node_examples/easy_imageInterrogator.md)</sub>, <sub>easy imageListToImageBatch</sub>, <sub>[easy imagePixelPerfect](node_examples/easy_imagePixelPerfect.md)</sub>, <sub>easy imageRatio</sub>, <sub>[easy imageRemBg](node_examples/easy_imageRemBg.md)</sub>, <sub>easy imageSave</sub>, <sub>easy imageScaleDown</sub>, <sub>easy imageScaleDownBy</sub>, <sub>[easy imageScaleDownToSize](node_examples/easy_imageScaleDownToSize.md)</sub>, <sub>[easy imageSize](node_examples/easy_imageSize.md)</sub>, <sub>easy imageSizeByLongerSide</sub>, <sub>easy imageSizeBySide</sub>, <sub>[easy imageSplitGrid](node_examples/easy_imageSplitGrid.md)</sub>, <sub>[easy imageSplitList](node_examples/easy_imageSplitList.md)</sub>, <sub>[easy imagesSplitImage](node_examples/easy_imagesSplitImage.md)</sub>, <sub>[easy imageSwitch](node_examples/easy_imageSwitch.md)</sub>, <sub>easy imageToBase64</sub>, <sub>[easy imageToMask](node_examples/easy_imageToMask.md)</sub>, <sub>easy imageUncropFromBBOX</sub>, <sub>easy injectNoiseToLatent</sub>, <sub>[easy instantIDApply](node_examples/easy_instantIDApply.md)</sub>, <sub>easy instantIDApplyADV</sub>, <sub>easy int</sub>, <sub>[easy ipadapterApply](node_examples/easy_ipadapterApply.md)</sub>, <sub>easy ipadapterApplyADV</sub>, <sub>easy ipadapterApplyEmbeds</sub>, <sub>easy ipadapterApplyEncoder</sub>, <sub>easy ipadapterApplyFromParams</sub>, <sub>easy ipadapterApplyRegional</sub>, <sub>easy ipadapterStyleComposition</sub>, <sub>easy isSDXL</sub>, <sub>easy joinImageBatch</sub>, <sub>easy kolorsLoader</sub>, <sub>[easy kSampler](node_examples/easy_kSampler.md)</sub>, <sub>easy kSamplerDownscaleUnet</sub>, <sub>[easy kSamplerInpainting](node_examples/easy_kSamplerInpainting.md)</sub>, <sub>[easy kSamplerLayerDiffusion](node_examples/easy_kSamplerLayerDiffusion.md)</sub>, <sub>easy kSamplerSDTurbo</sub>, <sub>easy kSamplerTiled</sub>, <sub>easy latentCompositeMaskedWithCond</sub>, <sub>easy latentNoisy</sub>, <sub>easy LLLiteLoader</sub>, <sub>[easy loadImageBase64](node_examples/easy_loadImageBase64.md)</sub>, <sub>[easy loraStack](node_examples/easy_loraStack.md)</sub>, <sub>[easy negative](node_examples/easy_negative.md)</sub>, <sub>easy pipeBatchIndex</sub>, <sub>[easy pipeEdit](node_examples/easy_pipeEdit.md)</sub>, <sub>easy pipeEditPrompt</sub>, <sub>[easy pipeIn](node_examples/easy_pipeIn.md)</sub>, <sub>[easy pipeOut](node_examples/easy_pipeOut.md)</sub>, <sub>easy pipeToBasicPipe</sub>, <sub>easy pixArtLoader</sub>, <sub>easy portraitMaster</sub>, <sub>easy poseEditor</sub>, <sub>[easy positive](node_examples/easy_positive.md)</sub>, <sub>[easy preDetailerFix](node_examples/easy_preDetailerFix.md)</sub>, <sub>easy preMaskDetailerFix</sub>, <sub>[easy preSampling](node_examples/easy_preSampling.md)</sub>, <sub>easy preSamplingAdvanced</sub>, <sub>easy preSamplingCascade</sub>, <sub>[easy preSamplingCustom](node_examples/easy_preSamplingCustom.md)</sub>, <sub>[easy preSamplingDynamicCFG](node_examples/easy_preSamplingDynamicCFG.md)</sub>, <sub>[easy preSamplingLayerDiffusion](node_examples/easy_preSamplingLayerDiffusion.md)</sub>, <sub>[easy preSamplingLayerDiffusionADDTL](node_examples/easy_preSamplingLayerDiffusionADDTL.md)</sub>, <sub>[easy preSamplingNoiseIn](node_examples/easy_preSamplingNoiseIn.md)</sub>, <sub>easy preSamplingSdTurbo</sub>, <sub>[easy prompt](node_examples/easy_prompt.md)</sub>, <sub>[easy promptConcat](node_examples/easy_promptConcat.md)</sub>, <sub>[easy promptLine](node_examples/easy_promptLine.md)</sub>, <sub>easy promptList</sub>, <sub>[easy promptReplace](node_examples/easy_promptReplace.md)</sub>, <sub>easy pulIDApply</sub>, <sub>easy pulIDApplyADV</sub>, <sub>easy rangeFloat</sub>, <sub>easy rangeInt</sub>, <sub>easy removeLocalImage</sub>, <sub>[easy samLoaderPipe](node_examples/easy_samLoaderPipe.md)</sub>, <sub>[easy seed](node_examples/easy_seed.md)</sub>, <sub>[easy showAnything](node_examples/easy_showAnything.md)</sub>, <sub>easy showLoaderSettingsNames</sub>, <sub>easy showSpentTime</sub>, <sub>easy showTensorShape</sub>, <sub>easy sliderControl</sub>, <sub>[easy stableDiffusion3API](node_examples/easy_stableDiffusion3API.md)</sub>, <sub>easy string</sub>, <sub>[easy styleAlignedBatchAlign](node_examples/easy_styleAlignedBatchAlign.md)</sub>, <sub>[easy stylesSelector](node_examples/easy_stylesSelector.md)</sub>, <sub>easy sv3dLoader</sub>, <sub>easy svdLoader</sub>, <sub>easy textSwitch</sub>, <sub>[easy ultralyticsDetectorPipe](node_examples/easy_ultralyticsDetectorPipe.md)</sub>, <sub>easy unSampler</sub>, <sub>[easy wildcards](node_examples/easy_wildcards.md)</sub>, <sub>easy xyAny</sub>, <sub>easy XYInputs: CFG Scale</sub>, <sub>easy XYInputs: Checkpoint</sub>, <sub>easy XYInputs: ControlNet</sub>, <sub>easy XYInputs: Denoise</sub>, <sub>easy XYInputs: Lora</sub>, <sub>easy XYInputs: ModelMergeBlocks</sub>, <sub>easy XYInputs: NegativeCond</sub>, <sub>easy XYInputs: NegativeCondList</sub>, <sub>easy XYInputs: PositiveCond</sub>, <sub>easy XYInputs: PositiveCondList</sub>, <sub>easy XYInputs: PromptSR</sub>, <sub>easy XYInputs: Sampler/Scheduler</sub>, <sub>[easy XYInputs: Seeds++ Batch](node_examples/easy_XYInputs_Seeds++_Batch.md)</sub>, <sub>[easy XYInputs: Steps](node_examples/easy_XYInputs_Steps.md)</sub>, <sub>easy XYPlot</sub>, <sub>[easy XYPlotAdvanced](node_examples/easy_XYPlotAdvanced.md)</sub>, <sub>easy zero123Loader</sub>
 </details>
 
 
@@ -980,7 +980,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/kijai/ComfyUI-Marigold'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Marigold
 
-**Stars**: `415` | **Created at**: `2023-12-12` | **Tags**: `Custom Nodes`
+**Stars**: `417` | **Created at**: `2023-12-12` | **Tags**: `Custom Nodes`
 
 
 Marigold depth estimation in ComfyUI
@@ -999,7 +999,7 @@ Marigold depth estimation in ComfyUI
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'>
 <img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: `795` | **Created at**: `2023-12-13` | **Tags**: `Custom Nodes`
+**Stars**: `797` | **Created at**: `2023-12-13` | **Tags**: `Custom Nodes`
 
 
 This node was designed to help AI image creators to generate prompts for human portraits.
@@ -1031,7 +1031,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `621` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
+**Stars**: `622` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
 
 
 Using Gemini in ComfyUI
@@ -1049,7 +1049,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `567` | **Created at**: `2023-12-23` | **Tags**: `Management`
+**Stars**: `570` | **Created at**: `2023-12-23` | **Tags**: `Management`
 
 
 A powerful set of tools for ComfyUI
@@ -1099,7 +1099,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/fofr/cog-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-comfyui
 
-**Stars**: `399` | **Created at**: `2024-01-12` | **Tags**: `Integration`
+**Stars**: `401` | **Created at**: `2024-01-12` | **Tags**: `Integration`
 
 
 Run ComfyUI with an API
@@ -1130,7 +1130,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `807` | **Created at**: `2024-01-17` | **Tags**: `Custom Nodes`
+**Stars**: `813` | **Created at**: `2024-01-17` | **Tags**: `Custom Nodes`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -1177,7 +1177,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `519` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
+**Stars**: `521` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -1193,7 +1193,7 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 <a href='https://github.com/AlexanderDzhoganov/ComfyTextures'>
 <img src="https://avatars.githubusercontent.com/u/855464?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlexanderDzhoganov/ComfyTextures
 
-**Stars**: `482` | **Created at**: `2024-01-25` | **Tags**: `Integration` `3D`
+**Stars**: `483` | **Created at**: `2024-01-25` | **Tags**: `Integration` `3D`
 
 
 Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models 
@@ -1222,7 +1222,7 @@ None
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `610` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `613` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -1314,22 +1314,6 @@ Layer Diffuse custom nodes
 </details>
 
 
-## flowtyone/ComfyUI-Flowty-TripoSR
-
-
-<a href='https://github.com/flowtyone/ComfyUI-Flowty-TripoSR'>
-<img src="https://avatars.githubusercontent.com/u/145925146?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flowtyone/ComfyUI-Flowty-TripoSR
-
-**Stars**: `376` | **Created at**: `2024-03-05` | **Tags**: `Custom Nodes`
-
-
-TripoSR custom node for comfyui
-<details><summary>Included Nodes (3)</summary>
-
- - <sub>[TripoSRModelLoader](node_examples/TripoSRModelLoader.md)</sub>, <sub>[TripoSRSampler](node_examples/TripoSRSampler.md)</sub>, <sub>[TripoSRViewer](node_examples/TripoSRViewer.md)</sub>
-</details>
-
-
 ## fofr/cog-face-to-many
 
 
@@ -1358,7 +1342,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/if-ai/ComfyUI-IF_AI_tools'>
 <img src="https://avatars.githubusercontent.com/u/21185218?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/if-ai/ComfyUI-IF_AI_tools
 
-**Stars**: `425` | **Created at**: `2024-03-12` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `427` | **Created at**: `2024-03-12` | **Tags**: `Custom Nodes` `LLM`
 
 
 ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models.
@@ -1374,7 +1358,7 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `543` | **Created at**: `2024-03-15` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `545` | **Created at**: `2024-03-15` | **Tags**: `Custom Nodes` `Video`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -1391,7 +1375,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `445` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+**Stars**: `448` | **Created at**: `2024-03-18` | **Tags**: `Resources`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
@@ -1402,7 +1386,7 @@ Everything about ComfyUI, including workflow sharing, resource sharing, knowledg
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `449` | **Created at**: `2024-03-20` | **Tags**: `Management`
+**Stars**: `451` | **Created at**: `2024-03-20` | **Tags**: `Management`
 
 
 A simple sidebar for your ConfyUI!
@@ -1413,7 +1397,7 @@ A simple sidebar for your ConfyUI!
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `459` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `465` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1449,7 +1433,7 @@ unofficial implementation of Comfyui magic clothing
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `471` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `474` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1466,7 +1450,7 @@ PuLID native implementation for ComfyUI
 <a href='https://github.com/huchenlei/ComfyUI-IC-Light-Native'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-IC-Light-Native
 
-**Stars**: `450` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `454` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 ComfyUI native implementation of IC-Light
@@ -1483,7 +1467,7 @@ ComfyUI native implementation of IC-Light
 <a href='https://github.com/kijai/ComfyUI-IC-Light'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
 
-**Stars**: `545` | **Created at**: `2024-05-09` | **Tags**: `Custom Nodes`
+**Stars**: `550` | **Created at**: `2024-05-09` | **Tags**: `Custom Nodes`
 
 
 Using IC-LIght models in ComfyUI
@@ -1503,7 +1487,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `519` | **Created at**: `2024-05-09`
+**Stars**: `529` | **Created at**: `2024-05-09`
 
 
 使用AI大模型技术,一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,支持云语音：Azure,阿里云,腾讯云。后续支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,Azure,tencent Cloud,Ali Cloud.
@@ -1559,7 +1543,7 @@ None
 <a href='https://github.com/huchenlei/ComfyUI_omost'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI_omost
 
-**Stars**: `382` | **Created at**: `2024-06-03` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `384` | **Created at**: `2024-06-03` | **Tags**: `Custom Nodes` `LLM`
 
 
 ComfyUI implementation of Omost
@@ -1569,13 +1553,30 @@ ComfyUI implementation of Omost
 </details>
 
 
+## kijai/ComfyUI-Florence2
+
+
+<a href='https://github.com/kijai/ComfyUI-Florence2'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Florence2
+
+**Stars**: `382` | **Created at**: `2024-06-19`
+
+
+Inference Microsoft Florence2 VLM
+<details><summary>Included Nodes (2)</summary>
+
+ - <sub>DownloadAndLoadFlorence2Model</sub>
+ - <sub>Florence2Run</sub>
+</details>
+
+
 ## mcmonkeyprojects/SwarmUI
 
 
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `410` | **Created at**: `2024-06-21`
+**Stars**: `416` | **Created at**: `2024-06-21`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1604,7 +1605,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/kijai/ComfyUI-KwaiKolorsWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KwaiKolorsWrapper
 
-**Stars**: `458` | **Created at**: `2024-07-06`
+**Stars**: `459` | **Created at**: `2024-07-06`
 
 
 Diffusers wrapper to run Kwai-Kolors model
