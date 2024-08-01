@@ -1518,6 +1518,7 @@ PixelTiledKSampleUpscalerProviderPipe: 2
 Planner: 1
 PlaySound|pysssss: 5
 PlotCoordinates: 1
+PointsEditor: -1
 PolyexponentialScheduler: 0
 PorterDuffImageComposite: 1
 PortraitMaster: 4
