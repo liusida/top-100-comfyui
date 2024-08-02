@@ -7,10 +7,10 @@
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `43.8k` | **Created at**: `2024-07-31`
+**Stars**: `43.9k` | **Created at**: `2024-08-02`
 
 
-The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 <details><summary>Included Nodes (200)</summary>
 
  - <sub>AddNoise</sub>, <sub>[AlignYourStepsScheduler](node_examples/AlignYourStepsScheduler.md)</sub>
