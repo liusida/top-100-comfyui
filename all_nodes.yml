@@ -248,6 +248,7 @@ CLIPTextEncode: 86
 CLIPTextEncode (BlenderNeko Advanced + NSP): 0
 CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
+CLIPTextEncodeFlux: -1
 CLIPTextEncodeHunyuanDiT: -1
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
@@ -686,6 +687,7 @@ FloatToMask: 0
 FloatToSigmas: 0
 FloatingVideo: 15
 Florence2Run: -1
+FluxGuidance: -1
 Font: 1
 FreeU: 19
 FreeU_V2: 97
@@ -786,6 +788,7 @@ IPAdapterEmbeds: 18
 IPAdapterEmbedsBatch: 4
 IPAdapterEncoder: 57
 IPAdapterFaceID: 51
+IPAdapterFaceIDKolors: -1
 IPAdapterFromParams: 4
 IPAdapterInsightFaceLoader: 23
 IPAdapterLoadEmbeds: 0
@@ -1002,6 +1005,7 @@ ImpactMakeImageList: 5
 ImpactMakeTileSEGS: 3
 ImpactMinMax: 12
 ImpactNeg: 12
+ImpactNegativeConditioningPlaceholder: -1
 ImpactNodeSetMuteState: 0
 ImpactQueueTrigger: 0
 ImpactQueueTriggerCountdown: 0
@@ -1078,6 +1082,7 @@ KSamplerSelect: 80
 KSamplerVariationsStochastic+: 0
 KSamplerVariationsWithNoise+: 0
 KarrasScheduler: 1
+KeyInput: -1
 KeypointScaler: -1
 KeypointsToImage: -1
 KolorsSampler: -1
