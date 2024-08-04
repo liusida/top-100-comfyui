@@ -1436,6 +1436,7 @@ Model Patch Seamless (mtb): 3
 ModelCompile+: 0
 ModelMergeAdd: 0
 ModelMergeBlocks: 1
+ModelMergeFlux1: -1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
 ModelMergeSD3: -1
@@ -1448,6 +1449,7 @@ ModelSamplingAuraFlow: -1
 ModelSamplingContinuousEDM: 14
 ModelSamplingContinuousV: -1
 ModelSamplingDiscrete: 96
+ModelSamplingFlux: -1
 ModelSamplingSD3: 0
 ModelSamplingStableCascade: 1
 Model_1: 0
@@ -2105,6 +2107,7 @@ easy ipadapterApply: 2
 easy ipadapterApplyADV: 0
 easy ipadapterApplyEmbeds: 0
 easy ipadapterApplyEncoder: 0
+easy ipadapterApplyFaceIDKolors: -1
 easy ipadapterApplyFromParams: 0
 easy ipadapterApplyRegional: 0
 easy ipadapterStyleComposition: 0

@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.4k` | **Created at**: `2024-08-02`
+**Stars**: `1.4k` | **Created at**: `2024-08-03`
 
 
 Examples of ComfyUI workflows
@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Created at**: `2024-08-02`
+**Stars**: `1.2k` | **Created at**: `2024-08-03`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `759` | **Created at**: `2024-08-02`
+**Stars**: `760` | **Created at**: `2024-08-03`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
@@ -67,7 +67,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/fofr/cog-face-to-sticker'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `597` | **Created at**: `2024-08-01`
+**Stars**: `599` | **Created at**: `2024-08-03`
 
 
 face-to-sticker
@@ -89,7 +89,7 @@ Create images of a given character in different poses
 <a href='https://github.com/SytanSD/Sytan-SDXL-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/122675732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 
-**Stars**: `411` | **Created at**: `2024-08-02`
+**Stars**: `412` | **Created at**: `2024-08-03`
 
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
