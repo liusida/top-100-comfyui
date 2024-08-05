@@ -892,6 +892,7 @@ ImageBatchMulti: 4
 ImageBatchMultiple+: 4
 ImageBatchRepeatInterleaving: 1
 ImageBatchTestPattern: 0
+ImageBatchToList_: -1
 ImageBlend: 53
 ImageBlur: 7
 ImageCASharpening+: 20

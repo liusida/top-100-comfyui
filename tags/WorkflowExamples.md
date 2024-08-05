@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.3k` | **Created at**: `2024-08-03`
+**Stars**: `4.3k` | **Created at**: `2024-08-04`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.4k` | **Created at**: `2024-08-03`
+**Stars**: `1.4k` | **Created at**: `2024-08-04`
 
 
 Examples of ComfyUI workflows
@@ -89,7 +89,7 @@ Create images of a given character in different poses
 <a href='https://github.com/SytanSD/Sytan-SDXL-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/122675732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 
-**Stars**: `412` | **Created at**: `2024-08-03`
+**Stars**: `413` | **Created at**: `2024-08-04`
 
 
 A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
