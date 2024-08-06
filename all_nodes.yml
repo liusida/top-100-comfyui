@@ -622,6 +622,7 @@ DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadChatGLM3: -1
 DownloadAndLoadDynamiCrafterCNModel: -1
 DownloadAndLoadDynamiCrafterModel: 4
+DownloadAndLoadFlorence2Lora: -1
 DownloadAndLoadFlorence2Model: -1
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
@@ -686,6 +687,7 @@ FloatSlider: 4
 FloatToMask: 0
 FloatToSigmas: 0
 FloatingVideo: 15
+Florence2ModelLoader: -1
 Florence2Run: -1
 FluxGuidance: -1
 Font: 1
@@ -1503,6 +1505,7 @@ OneFormer-COCO-SemSegPreprocessor: 20
 OpenposePreprocessor: 92
 OutlineMask: 0
 Output2String: 1
+P5Input: -1
 Pack SDXL Tuple: 8
 PainterNode: 17
 PatchModelAddDownscale: 24
@@ -2222,3 +2225,8 @@ ttN xyPlot: 3
 unCLIP Checkpoint Loader: 0
 unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
+"\U0001F539 Photoshop RemoteConnection": -1
+"\U0001F539ClipPass": -1
+"\U0001F539Photoshop ComfyUI Plugin": -1
+"\U0001F539SendTo Photoshop Plugin": -1
+"\U0001F539modelPass": -1
