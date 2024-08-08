@@ -509,6 +509,7 @@ ComfyUIDeployExternalNumber: 1
 ComfyUIDeployExternalNumberInt: 0
 ComfyUIDeployExternalNumberSlider: 0
 ComfyUIDeployExternalText: 1
+ComfyUIDeployExternalTextList: -1
 ComfyUIDeployExternalVid: 0
 ComfyUIDeployExternalVideo: 0
 ComparingTwoFrames_: 0
@@ -626,6 +627,7 @@ DownloadAndLoadFlorence2Lora: -1
 DownloadAndLoadFlorence2Model: -1
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
+DownloadAndLoadSAM2Model: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
@@ -689,6 +691,7 @@ FloatToSigmas: 0
 FloatingVideo: 15
 Florence2ModelLoader: -1
 Florence2Run: -1
+Florence2toCoordinates: -1
 FluxGuidance: -1
 Font: 1
 FreeU: 19
@@ -1646,6 +1649,10 @@ SUPIR_tiles: 3
 SV3D_BatchSchedule: 0
 SV3D_Conditioning: 2
 SVD_img2vid_Conditioning: 72
+Sam2AutoSegmentation: -1
+Sam2Segmentation: -1
+Sam2VideoSegmentation: -1
+Sam2VideoSegmentationAddPoints: -1
 SamplerCustom: 48
 SamplerCustomAdvanced: 46
 SamplerDPMAdaptative: 0
