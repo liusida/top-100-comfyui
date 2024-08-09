@@ -63,6 +63,20 @@ ADE_ConditioningCombine: -1
 ADE_ConditioningSetMask: 0
 ADE_ConditioningSetMaskAndCombine: 0
 ADE_ConditioningSetUnmaskedAndCombine: 0
+ADE_ContextExtras_ContextRef: -1
+ADE_ContextExtras_ContextRef_Keyframe: -1
+ADE_ContextExtras_ContextRef_KeyframeFromList: -1
+ADE_ContextExtras_ContextRef_KeyframeInterpolation: -1
+ADE_ContextExtras_ContextRef_ModeFirst: -1
+ADE_ContextExtras_ContextRef_ModeIndexes: -1
+ADE_ContextExtras_ContextRef_ModeSliding: -1
+ADE_ContextExtras_ContextRef_TuneAttn: -1
+ADE_ContextExtras_ContextRef_TuneAttnAdain: -1
+ADE_ContextExtras_NaiveReuse: -1
+ADE_ContextExtras_NaiveReuse_Keyframe: -1
+ADE_ContextExtras_NaiveReuse_KeyframeFromList: -1
+ADE_ContextExtras_NaiveReuse_KeyframeInterpolation: -1
+ADE_ContextExtras_Set: -1
 ADE_CustomCFG: 0
 ADE_CustomCFGKeyframe: 0
 ADE_CustomCFGKeyframeFromList: -1
@@ -238,6 +252,7 @@ CLIPLoader: 13
 CLIPMergeAdd: 0
 CLIPMergeSimple: 5
 CLIPMergeSubtract: 0
+CLIPSEG2: -1
 CLIPSave: 0
 CLIPSeg Batch Masking: 0
 CLIPSeg Masking: 6
@@ -693,6 +708,7 @@ Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
 FluxGuidance: -1
+FluxSamplerParams+: -1
 Font: 1
 FreeU: 19
 FreeU_V2: 97
@@ -902,6 +918,7 @@ ImageBlend: 53
 ImageBlur: 7
 ImageCASharpening+: 20
 ImageColorMatch+: 0
+ImageColorMatchAdobe+: -1
 ImageColorToMask: 8
 ImageColorTransfer: 0
 ImageComposite+: -1
@@ -1532,6 +1549,7 @@ PixelTiledKSampleUpscalerProviderPipe: 2
 Planner: 1
 PlaySound|pysssss: 5
 PlotCoordinates: 1
+PlotParameters+: -1
 PointsEditor: -1
 PolyexponentialScheduler: 0
 PorterDuffImageComposite: 1
