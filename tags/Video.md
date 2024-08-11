@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.2k` | **Created at**: `2024-08-09`
+**Stars**: `1.2k` | **Created at**: `2024-08-10`
 
 
 ComfyUI nodes for LivePortrait
@@ -25,7 +25,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `788` | **Created at**: `2024-08-07`
+**Stars**: `788` | **Created at**: `2024-08-10`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -54,7 +54,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `559` | **Created at**: `2024-08-09`
+**Stars**: `561` | **Created at**: `2024-08-10`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -102,7 +102,7 @@ Improved AnimateAnyone implementation that allows you to use the opse image sequ
 <a href='https://github.com/melMass/comfy_mtb'>
 <img src="https://avatars.githubusercontent.com/u/7041726?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/melMass/comfy_mtb
 
-**Stars**: `397` | **Created at**: `2024-08-09`
+**Stars**: `396` | **Created at**: `2024-08-10`
 
 
 Animation oriented nodes pack for ComfyUI
