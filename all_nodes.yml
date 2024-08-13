@@ -150,6 +150,7 @@ APISR_Zho: 1
 AddLabel: 2
 AddMask: 4
 AddNoise: 0
+AdvancedLivePortrait: -1
 AlignYourStepsScheduler: 2
 AnimalPosePreprocessor: 0
 AnimateDiff Script: 0
@@ -679,9 +680,11 @@ EmptySegs: 0
 Engineer: 1
 EnhanceImage: 6
 Executor: 1
+ExpData: -1
 ExponentialScheduler: 0
 Export API: 0
 Export With Ffmpeg (mtb): 0
+ExpressionEditor: -1
 ExtractKeyframes+: 0
 FILM VFI: 40
 FLAVR VFI: 0
@@ -1343,6 +1346,7 @@ LoadAndResizeImage: 0
 LoadAudio: -1
 LoadCLIPSegModels+: 0
 LoadChatGLM3: -1
+LoadExpData: -1
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
@@ -1575,6 +1579,7 @@ PreviewDetailerHookProvider: 0
 PreviewImage: 98
 PreviewMask_: 0
 PreviewTextNode: 19
+'PrintExpData:': -1
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
 PromptImage: 2
@@ -1698,6 +1703,7 @@ Save Text File: 0
 SaveAnimatedPNG: 0
 SaveAnimatedWEBP: 33
 SaveAudio: -1
+SaveExpData: -1
 SaveImage: 97
 SaveImageAndMetadata_: 0
 SaveImageOpenEXR: 1

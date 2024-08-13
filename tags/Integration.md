@@ -7,7 +7,7 @@
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `6.6k` | **Created at**: `2024-08-11`
+**Stars**: `6.6k` | **Created at**: `2024-08-12`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -18,7 +18,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `4.0k` | **Created at**: `2024-08-11`
+**Stars**: `4.1k` | **Created at**: `2024-08-13`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -29,7 +29,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.0k` | **Created at**: `2024-08-11`
+**Stars**: `2.0k` | **Created at**: `2024-08-12`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -40,7 +40,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `1.8k` | **Created at**: `2024-08-11`
+**Stars**: `1.8k` | **Created at**: `2024-08-12`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -51,7 +51,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `925` | **Created at**: `2024-08-11`
+**Stars**: `930` | **Created at**: `2024-08-12`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -62,7 +62,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `828` | **Created at**: `2024-08-10`
+**Stars**: `832` | **Created at**: `2024-08-12`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -78,7 +78,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/diStyApps/seait'>
 <img src="https://avatars.githubusercontent.com/u/3084832?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diStyApps/seait
 
-**Stars**: `707` | **Created at**: `2024-08-08`
+**Stars**: `708` | **Created at**: `2024-08-12`
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -89,7 +89,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `676` | **Created at**: `2024-08-11`
+**Stars**: `676` | **Created at**: `2024-08-12`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -111,7 +111,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/space-nuko/ComfyBox'>
 <img src="https://avatars.githubusercontent.com/u/24979496?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/space-nuko/ComfyBox
 
-**Stars**: `593` | **Created at**: `2024-08-10`
+**Stars**: `596` | **Created at**: `2024-08-12`
 
 
 Customizable Stable Diffusion frontend for ComfyUI
@@ -144,7 +144,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 <a href='https://github.com/ModelSurge/sd-webui-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/120546502?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ModelSurge/sd-webui-comfyui
 
-**Stars**: `483` | **Created at**: `2024-08-11`
+**Stars**: `482` | **Created at**: `2024-08-12`
 
 
 An extension to integrate ComfyUI workflows into the Webui's pipeline
@@ -166,7 +166,7 @@ From comfyui workflow to web app, in seconds
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `436` | **Created at**: `2024-08-11`
+**Stars**: `437` | **Created at**: `2024-08-12`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
