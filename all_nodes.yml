@@ -2220,6 +2220,9 @@ easy zero123Loader: 0
 llama-cpp: 5
 llava: 0
 oobaboogaOpenAI: 0
+sdBxb: -1
+sdBxb_saveImage: -1
+sdBxb_textInput: -1
 ttN KSampler_v2: 0
 ttN advPlot combo: -1
 ttN advPlot range: 0
