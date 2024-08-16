@@ -104,6 +104,7 @@ ADE_MaskedLoadLora: 0
 ADE_MultivalConvertToMask: -1
 ADE_MultivalDynamic: 24
 ADE_MultivalDynamicFloatInput: -1
+ADE_MultivalDynamicFloats: -1
 ADE_MultivalScaledMask: 2
 ADE_NoiseLayerAdd: 0
 ADE_NoiseLayerAddWeighted: 0
@@ -147,11 +148,14 @@ AMT VFI: 2
 APISR_Lterative_Zho: 2
 APISR_ModelLoader_Zho: 3
 APISR_Zho: 1
+About_us: -1
 AddLabel: 2
 AddMask: 4
 AddNoise: 0
 AdvancedLivePortrait: -1
 AlignYourStepsScheduler: 2
+AmapRegeoTool: -1
+AmapWeatherTool: -1
 AnimalPosePreprocessor: 0
 AnimateDiff Script: 0
 AnimateDiffCombine: 21
@@ -270,6 +274,7 @@ CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
 CLIPTextEncodeSDXL+: 1
 CLIPTextEncodeSDXLRefiner: 95
+CLIPTextEncode_party: -1
 CLIPVisionEncode: 51
 CLIPVisionLoader: 99
 CR 8 Channel In: 0
@@ -493,6 +498,7 @@ CharacterInText: 2
 Chat: 3
 ChatGPT: 0
 ChatGPTOpenAI: 10
+ChatTTS_Node: -1
 Checkpoint Loader: 0
 Checkpoint Loader (Simple): 0
 CheckpointLoader: 0
@@ -569,6 +575,7 @@ CoreMLDetailerHookProvider: 1
 CostumeAgent_1: 0
 CostumeAgent_2: 0
 CostumeMaster_1: 0
+CosyVoice: -1
 Create Grid Image: 0
 Create Grid Image from Batch: 1
 Create Morph Image: 0
@@ -630,6 +637,8 @@ Diffusers Model Loader: 0
 DiffusersLoader: 5
 DiffusionEdge_Preprocessor: 0
 DifyTextGenerator //Browser: 0
+Dingding: -1
+Dingding_tool: -1
 Direct Screen Capture: -1
 DisableNoise: 0
 DisplayString: 6
@@ -697,6 +706,13 @@ FacialPartColoringFromPoseKps: 0
 FakeScribblePreprocessor: 45
 FeatherMask: 42
 FeatheredMask: 2
+FeishuDownloadAudio: -1
+FeishuDownloadImage: -1
+FeishuGetHistory: -1
+FeishuSendMsg: -1
+FileOnlineDelete_gitee: -1
+FileOnlineStorage_gitee: -1
+FilePathExists: -1
 Film Interpolation (mtb): 3
 FilmsImage_Zho: 2
 FilterZeroMasksAndCorrespondingImages: 0
@@ -742,6 +758,7 @@ Gemini_FileUpload_API_S_Zho: 0
 Gemini_File_API_S_Zho: 0
 GenerateFramesByCount: 0
 GenerateNoise: 1
+GeocodeTool: -1
 Get Batch From History (mtb): 0
 Get First Image: 0
 Get Last Image: 1
@@ -990,6 +1007,7 @@ ImageUpscaleWithModelBatched: 0
 Image_generation_Conditioning: 0
 Images to Linear: 0
 Images to RGB: 12
+Images2Image: -1
 ImagesPrompt_: 0
 ImpactAssembleSEGS: 4
 ImpactCombineConditionings: 0
@@ -1098,6 +1116,12 @@ JoinImageWithAlpha: 21
 JoinStringMulti: 0
 JoinStrings: 1
 JoinWithDelimiter: 0
+KG_csv_toolkit_developer: -1
+KG_csv_toolkit_user: -1
+KG_json_toolkit_developer: -1
+KG_json_toolkit_user: -1
+KG_neo_toolkit_developer: -1
+KG_neo_toolkit_user: -1
 KSampler: 74
 KSampler (Efficient): 68
 KSampler (WAS): 4
@@ -1111,12 +1135,18 @@ KSamplerProvider: 6
 KSamplerSelect: 80
 KSamplerVariationsStochastic+: 0
 KSamplerVariationsWithNoise+: 0
+KSampler_party: -1
 KarrasScheduler: 1
 KeyInput: -1
 KeypointScaler: -1
 KeypointsToImage: -1
 KolorsSampler: -1
 KolorsTextEncode: -1
+LLM: -1
+LLM_api_loader: -1
+LLM_local: -1
+LLM_local_loader: -1
+LLavaLoader: -1
 LM_Studio: 4
 Latent Batch: 0
 Latent Input Switch: 0
@@ -1956,6 +1986,7 @@ UNETLoader: 37
 UNetCrossAttentionMultiply: 0
 UNetSelfAttentionMultiply: 0
 UNetTemporalAttentionMultiply: 0
+URL2IMG: -1
 UltimateSDUpscale: 93
 UltimateSDUpscaleCustomSample: -1
 UltimateSDUpscaleNoUpscale: 4
@@ -1978,6 +2009,7 @@ VAEDecode: 96
 VAEDecodeAudio: -1
 VAEDecodeConsistencyDecoder: 1
 VAEDecodeTiled: 64
+VAEDecode_party: -1
 VAEEncode: 92
 VAEEncodeArgMax: 8
 VAEEncodeAudio: -1
@@ -2064,6 +2096,26 @@ Yoloworld_ESAM_Zho: 19
 Yoloworld_ModelLoader_Zho: 20
 Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
+accuweather_tool: -1
+advance_ebd_tool: -1
+api_function: -1
+api_tool: -1
+arxiv_tool: -1
+bing_loader: -1
+bing_tool: -1
+bool_logic: -1
+check_web_tool: -1
+classify_function: -1
+classify_function_plus: -1
+classify_persona: -1
+classify_persona_plus: -1
+clear_model: -1
+custom_persona: -1
+discord_bot: -1
+discord_file_monitor: -1
+discord_send: -1
+duckduckgo_loader: -1
+duckduckgo_tool: -1
 dynamicThresholdingFull: 0
 easy LLLiteLoader: 0
 'easy XYInputs: CFG Scale': 0
@@ -2218,12 +2270,78 @@ easy unSampler: 0
 easy wildcards: 3
 easy xyAny: 0
 easy zero123Loader: 0
+ebd_tool: -1
+embeddings_function: -1
+end_dialog: -1
+end_workflow: -1
+extra_parameters: -1
+feishu: -1
+feishu_tool: -1
+file_combine: -1
+file_combine_plus: -1
+flux_persona: -1
+get_string: -1
+github_tool: -1
+google_loader: -1
+google_tool: -1
+image_iterator: -1
+img2path: -1
+interpreter_function: -1
+interpreter_tool: -1
+json2text: -1
+json_get_value: -1
+json_parser: -1
+keyword_tool: -1
+list_append: -1
+list_append_plus: -1
+list_extend: -1
+list_extend_plus: -1
+listen_audio: -1
 llama-cpp: 5
 llava: 0
+load_ebd: -1
+load_excel: -1
+load_file: -1
+load_file_folder: -1
+load_img_path: -1
+load_int: -1
+load_keyword: -1
+load_name: -1
+load_openai_ebd: -1
+load_persona: -1
+load_url: -1
+load_wikipedia: -1
+new_interpreter_tool: -1
+none2false: -1
+omost_decode: -1
+omost_json2py: -1
+omost_setting: -1
 oobaboogaOpenAI: 0
+openai_ebd_tool: -1
+openai_tts: -1
+openai_whisper: -1
+parameter_combine: -1
+parameter_combine_plus: -1
+parameter_function: -1
+replace_string: -1
+save_ebd_database: -1
+save_openai_ebd: -1
 sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
+show_text_party: -1
+start_dialog: -1
+start_workflow: -1
+story_json_tool: -1
+string_logic: -1
+substring: -1
+text2json: -1
+text2parameters: -1
+text_iterator: -1
+time_tool: -1
+tool_combine: -1
+tool_combine_plus: -1
+translate_persona: -1
 ttN KSampler_v2: 0
 ttN advPlot combo: -1
 ttN advPlot range: 0
@@ -2267,6 +2385,13 @@ ttN xyPlot: 3
 unCLIP Checkpoint Loader: 0
 unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
+weather_tool: -1
+weekday_tool: -1
+wikipedia_tool: -1
+work_wechat: -1
+work_wechat_tool: -1
+workflow_tool: -1
+workflow_transfer: -1
 "\U0001F539 Photoshop RemoteConnection": -1
 "\U0001F539ClipPass": -1
 "\U0001F539Photoshop ComfyUI Plugin": -1
