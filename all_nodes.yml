@@ -567,6 +567,7 @@ Control Net Stacker: 29
 ControlNetApply: 36
 ControlNetApplyAdvanced: 99
 ControlNetApplySD3: -1
+ControlNetAuxSimpleAddText: -1
 ControlNetLoader: 80
 ControlNetLoaderAdvanced: 99
 ControlNetPreprocessorSelector: 0
@@ -688,6 +689,7 @@ EmptySD3LatentImage: 0
 EmptySegs: 0
 Engineer: 1
 EnhanceImage: 6
+ExecuteAllControlNetPreprocessors: -1
 Executor: 1
 ExpData: -1
 ExponentialScheduler: 0
@@ -1382,6 +1384,7 @@ LoadImage: 97
 LoadImageByUrl //Browser: 0
 LoadImageMask: 72
 LoadImagesFromDirectory: 2
+LoadImagesFromFolderKJ: -1
 LoadImagesFromPath: 4
 LoadImagesFromURL: 4
 LoadImagesToBatch: 0
@@ -1888,6 +1891,10 @@ StringConstant: 6
 StringConstantMultiline: 4
 StringFunction|pysssss: 35
 StringListToString: 4
+StubFloat: -1
+StubImage: -1
+StubInt: -1
+StubMask: -1
 StyleAlignedBatchAlign_: 0
 StyleAlignedReferenceSampler_: 0
 StyleAlignedSampleReferenceLatents_: 0
@@ -1909,6 +1916,36 @@ TTPlanet_TileSimple_Preprocessor: 0
 Tensor Batch to Image: 0
 TensorRTLoader: -1
 Terminal: 0
+TestAccumulateNode: -1
+TestAccumulationGetItemNode: -1
+TestAccumulationGetLengthNode: -1
+TestAccumulationHeadNode: -1
+TestAccumulationSetItemNode: -1
+TestAccumulationTailNode: -1
+TestAccumulationToListNode: -1
+TestBoolOperationNode: -1
+TestCustomIsChanged: -1
+TestCustomValidation1: -1
+TestCustomValidation2: -1
+TestCustomValidation3: -1
+TestCustomValidation4: -1
+TestCustomValidation5: -1
+TestDynamicDependencyCycle: -1
+TestExecutionBlocker: -1
+TestFloatConditions: -1
+TestForLoopClose: -1
+TestForLoopOpen: -1
+TestIntConditions: -1
+TestIntMathOperation: -1
+TestLazyMixImages: -1
+TestListToAccumulationNode: -1
+TestMakeListNode: -1
+TestMixedExpansionReturns: -1
+TestStringConditions: -1
+TestToBoolNode: -1
+TestVariadicAverage: -1
+TestWhileLoopClose: -1
+TestWhileLoopOpen: -1
 Text Add Token by Input: 1
 Text Add Tokens: 0
 Text Compare: 0
@@ -2109,6 +2146,7 @@ classify_function: -1
 classify_function_plus: -1
 classify_persona: -1
 classify_persona_plus: -1
+clear_file: -1
 clear_model: -1
 custom_persona: -1
 discord_bot: -1

@@ -7,7 +7,7 @@
 <a href='https://github.com/nerdyrodent/AVeryComfyNerd'>
 <img src="https://avatars.githubusercontent.com/u/74688049?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nerdyrodent/AVeryComfyNerd
 
-**Stars**: `1.2k` | **Created at**: `2024-08-13`
+**Stars**: `1.2k` | **Created at**: `2024-08-16`
 
 
 ComfyUI related stuff and things
@@ -29,7 +29,7 @@ Extensions, Custom Nodes, and other plugins for ComfyUI
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `498` | **Created at**: `2024-08-15`
+**Stars**: `504` | **Created at**: `2024-08-16`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
