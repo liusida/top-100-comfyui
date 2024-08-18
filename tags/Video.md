@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.3k` | **Created at**: `2024-08-16`
+**Stars**: `1.3k` | **Created at**: `2024-08-18`
 
 
 ComfyUI nodes for LivePortrait
@@ -25,7 +25,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `793` | **Created at**: `2024-08-16`
+**Stars**: `794` | **Created at**: `2024-08-17`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -36,7 +36,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `661` | **Created at**: `2024-08-13`
+**Stars**: `662` | **Created at**: `2024-08-17`
 
 
 AnimateDiff for ComfyUI
@@ -54,7 +54,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `568` | **Created at**: `2024-08-16`
+**Stars**: `569` | **Created at**: `2024-08-17`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -71,7 +71,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `473` | **Created at**: `2024-08-16`
+**Stars**: `475` | **Created at**: `2024-08-17`
 
 
 Nodes related to video workflows
@@ -87,7 +87,7 @@ Nodes related to video workflows
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `465` | **Created at**: `2024-08-12`
+**Stars**: `466` | **Created at**: `2024-08-17`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
