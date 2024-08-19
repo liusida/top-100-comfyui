@@ -1516,6 +1516,7 @@ ModelSamplingDiscrete: 96
 ModelSamplingFlux: -1
 ModelSamplingSD3: 0
 ModelSamplingStableCascade: 1
+ModelSave: -1
 Model_1: 0
 Morphology: 0
 MovementsImage_Zho: 8
