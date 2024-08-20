@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `641` | **Created at**: `2024-08-18`
+**Stars**: `641` | **Created at**: `2024-08-19`
 
 
 Using Gemini in ComfyUI
@@ -25,7 +25,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/lks-ai/anynode'>
 <img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
 
-**Stars**: `468` | **Created at**: `2024-08-18`
+**Stars**: `469` | **Created at**: `2024-08-19`
 
 
 A Node for ComfyUI that does what you ask it to do

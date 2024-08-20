@@ -1856,7 +1856,14 @@ ShowLayer: 4
 ShowTextForGPT: 12
 ShowText|pysssss: 99
 ShufflePreprocessor: 5
+SimpleComparison+: -1
+SimpleCondition+: -1
 SimpleMath+: 29
+SimpleMathCondition+: -1
+SimpleMathFloat+: -1
+SimpleMathInt+: -1
+SimpleMathPercent+: -1
+SimpleMathSlider+: -1
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
