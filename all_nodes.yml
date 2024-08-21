@@ -1859,6 +1859,7 @@ ShufflePreprocessor: 5
 SimpleComparison+: -1
 SimpleCondition+: -1
 SimpleMath+: 29
+SimpleMathBoolean+: -1
 SimpleMathCondition+: -1
 SimpleMathFloat+: -1
 SimpleMathInt+: -1
