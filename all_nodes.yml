@@ -949,6 +949,7 @@ ImageComposite+: -1
 ImageCompositeFromMaskBatch+: 0
 ImageCompositeMasked: 77
 ImageConcanate: 14
+ImageConcatFromBatch: -1
 ImageConcatMulti: -1
 ImageCrop: 49
 ImageCrop+: 15
