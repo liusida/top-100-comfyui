@@ -1901,6 +1901,7 @@ StringConstant: 6
 StringConstantMultiline: 4
 StringFunction|pysssss: 35
 StringListToString: 4
+StubConstantImage: -1
 StubFloat: -1
 StubImage: -1
 StubInt: -1
@@ -1947,6 +1948,7 @@ TestForLoopClose: -1
 TestForLoopOpen: -1
 TestIntConditions: -1
 TestIntMathOperation: -1
+TestIsChangedWithConstants: -1
 TestLazyMixImages: -1
 TestListToAccumulationNode: -1
 TestMakeListNode: -1
