@@ -254,6 +254,7 @@ CLIP Input Switch: 1
 CLIP Vision Input Switch: 0
 CLIPAttentionMultiply: 0
 CLIPLoader: 13
+CLIPLoaderGGUF: -1
 CLIPMergeAdd: 0
 CLIPMergeSimple: 5
 CLIPMergeSubtract: 0
@@ -662,6 +663,7 @@ DrawInstanceDiffusionTracking: 0
 DrawText+: 0
 DualCFGGuider: 36
 DualCLIPLoader: 1
+DualCLIPLoaderGGUF: -1
 DummyLatentOut: 0
 DummyOut: -1
 DynamiCrafterBatchInterpolation: 0
@@ -2022,6 +2024,7 @@ TransitionMask+: 0
 TransparentBGSession+: -1
 TransparentImage: 6
 TripleCLIPLoader: 5
+TripleCLIPLoaderGGUF: -1
 TripoSRModelLoader: 14
 TripoSRSampler: 14
 TripoSRSampler_: 0
@@ -2041,6 +2044,7 @@ UltimateSDUpscaleCustomSample: -1
 UltimateSDUpscaleNoUpscale: 4
 UltralyticsDetectorProvider: 100
 Uncrop (mtb): 0
+UnetLoaderGGUF: -1
 UniFormer-SemSegPreprocessor: 15
 Unimatch_OptFlowPreprocessor: 0
 Unpack SDXL Tuple: 10
