@@ -180,6 +180,8 @@ AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
 ApplyCLIPSeg+: 0
+ApplyFluxControlNet: -1
+ApplyFluxIPAdapter: -1
 ApplyInstantID: 56
 ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: 0
@@ -733,6 +735,7 @@ Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
 FluxGuidance: -1
+FluxLoraLoader: -1
 FluxSamplerParams+: -1
 Font: 1
 FreeU: 19
@@ -967,6 +970,7 @@ ImageGenResolutionFromLatent: 4
 ImageGrabPIL: 0
 ImageGridComposite2x2: 0
 ImageGridComposite3x3: 0
+ImageGridtoBatch: -1
 ImageHistogramMatch+: 0
 ImageIntensityDetector: 0
 ImageInvert: 73
@@ -1267,6 +1271,7 @@ LatentUpscaler: 0
 'LayerUtility: BooleanOperator': 2
 'LayerUtility: BooleanOperatorV2': -1
 'LayerUtility: CheckMask': -1
+'LayerUtility: CheckMaskV2': -1
 'LayerUtility: ColorImage': 1
 'LayerUtility: ColorImage V2': 3
 'LayerUtility: ColorPicker': 3
@@ -1299,6 +1304,8 @@ LatentUpscaler: 0
 'LayerUtility: ImageHub': 2
 'LayerUtility: ImageMaskScaleAs': 5
 'LayerUtility: ImageOpacity': 1
+'LayerUtility: ImageReel': -1
+'LayerUtility: ImageReelComposit': -1
 'LayerUtility: ImageRemoveAlpha': 4
 'LayerUtility: ImageRewardFilter': 2
 'LayerUtility: ImageScaleByAspectRatio': 0
@@ -1382,6 +1389,8 @@ LoadAudio: -1
 LoadCLIPSegModels+: 0
 LoadChatGLM3: -1
 LoadExpData: -1
+LoadFluxControlNet: -1
+LoadFluxIPAdapter: -1
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
@@ -2094,12 +2103,14 @@ VHS_PruneOutputs: 1
 VHS_SelectEveryNthImage: 0
 VHS_SelectEveryNthLatent: 0
 VHS_SelectEveryNthMask: 2
+VHS_SelectFilename: -1
 VHS_SelectImages: -1
 VHS_SelectLatents: -1
 VHS_SelectMasks: -1
 VHS_SplitImages: 25
 VHS_SplitLatents: 1
 VHS_SplitMasks: 0
+VHS_Unbatch: -1
 VHS_VAEDecodeBatched: 2
 VHS_VAEEncodeBatched: 0
 VHS_VHSAudioToAudio: -1
@@ -2143,6 +2154,7 @@ Write to Video: 0
 'XY Input: Steps': 10
 'XY Input: VAE': 0
 XY Plot: 21
+XlabsSampler: -1
 XyzPlot //Browser: 1
 Yoloworld_ESAM_DetectorProvider_Zho: 0
 Yoloworld_ESAM_Zho: 19
@@ -2189,10 +2201,12 @@ easy LLLiteLoader: 0
 easy XYPlot: 0
 easy XYPlotAdvanced: 1
 easy a1111Loader: 26
+easy anythingIndexSwitch: -1
 easy applyBrushNet: 1
 easy applyFooocusInpaint: 1
 easy applyInpaint: 0
 easy applyPowerPaint: 2
+easy batchAnything: -1
 easy boolean: 1
 easy cascadeKSampler: 0
 easy cascadeLoader: 3
@@ -2202,6 +2216,7 @@ easy clearCacheAll: 0
 easy clearCacheKey: 0
 easy comfyLoader: 10
 easy compare: 1
+easy conditioningIndexSwitch: -1
 easy controlnetLoader: 2
 easy controlnetLoader++: -1
 easy controlnetLoaderADV: 1
@@ -2212,6 +2227,8 @@ easy detailerFix: 1
 easy dynamiCrafterLoader: 0
 easy float: 0
 easy fluxLoader: -1
+easy forLoopEnd: -1
+easy forLoopStart: -1
 easy fullCascadeKSampler: 3
 easy fullLoader: 1
 easy fullkSampler: 1
@@ -2221,6 +2238,7 @@ easy humanSegmentation: 0
 easy hunyuanDiTLoader: -1
 easy icLightApply: 3
 easy if: 0
+easy ifElse: -1
 easy imageBatchToImageList: -1
 easy imageChooser: 2
 easy imageColorMatch: 2
@@ -2228,6 +2246,7 @@ easy imageConcat: 1
 easy imageCount: 0
 easy imageCropFromMask: 0
 easy imageDetailTransfer: 1
+easy imageIndexSwitch: -1
 easy imageInsetCrop: 1
 easy imageInterrogator: 2
 easy imageListToImageBatch: -1
@@ -2260,6 +2279,7 @@ easy ipadapterApplyFaceIDKolors: -1
 easy ipadapterApplyFromParams: 0
 easy ipadapterApplyRegional: 0
 easy ipadapterStyleComposition: 0
+easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
 easy kSampler: 3
@@ -2273,7 +2293,11 @@ easy latentCompositeMaskedWithCond: 0
 easy latentNoisy: 0
 easy loadImageBase64: 17
 easy loraStack: 4
+easy mathFloat: -1
+easy mathInt: -1
+easy mathString: -1
 easy negative: 1
+easy outputToList: -1
 easy pipeBatchIndex: 0
 easy pipeEdit: 6
 easy pipeEditPrompt: -1
@@ -2318,9 +2342,12 @@ easy styleAlignedBatchAlign: 1
 easy stylesSelector: 3
 easy sv3dLoader: 0
 easy svdLoader: 0
+easy textIndexSwitch: -1
 easy textSwitch: 0
 easy ultralyticsDetectorPipe: 1
 easy unSampler: 0
+easy whileLoopEnd: -1
+easy whileLoopStart: -1
 easy wildcards: 3
 easy xyAny: 0
 easy zero123Loader: 0
@@ -2446,6 +2473,7 @@ work_wechat: -1
 work_wechat_tool: -1
 workflow_tool: -1
 workflow_transfer: -1
+workflow_transfer_v2: -1
 "\U0001F539 Photoshop RemoteConnection": -1
 "\U0001F539ClipPass": -1
 "\U0001F539Photoshop ComfyUI Plugin": -1
