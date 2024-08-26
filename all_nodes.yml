@@ -1294,6 +1294,7 @@ LatentUpscaler: 0
 'LayerUtility: If': -1
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
+'LayerUtility: ImageAutoCrop V3': -1
 'LayerUtility: ImageBlend': 11
 'LayerUtility: ImageBlend V2': 3
 'LayerUtility: ImageBlendAdvance': 15
@@ -1313,6 +1314,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageScaleRestore': 4
 'LayerUtility: ImageScaleRestore V2': 1
 'LayerUtility: ImageShift': 1
+'LayerUtility: ImageTaggerSave': -1
 'LayerUtility: Integer': 2
 'LayerUtility: LaMa': 4
 'LayerUtility: LayerImageTransform': 3
@@ -1873,6 +1875,7 @@ SimpleCondition+: -1
 SimpleMath+: 29
 SimpleMathBoolean+: -1
 SimpleMathCondition+: -1
+SimpleMathDual+: -1
 SimpleMathFloat+: -1
 SimpleMathInt+: -1
 SimpleMathPercent+: -1
@@ -2054,6 +2057,7 @@ UltimateSDUpscaleNoUpscale: 4
 UltralyticsDetectorProvider: 100
 Uncrop (mtb): 0
 UnetLoaderGGUF: -1
+UnetLoaderGGUFAdvanced: -1
 UniFormer-SemSegPreprocessor: 15
 Unimatch_OptFlowPreprocessor: 0
 Unpack SDXL Tuple: 10
