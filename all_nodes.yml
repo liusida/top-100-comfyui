@@ -179,6 +179,7 @@ AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
+ApplyAdvancedFluxIPAdapter: -1
 ApplyCLIPSeg+: 0
 ApplyFluxControlNet: -1
 ApplyFluxIPAdapter: -1
