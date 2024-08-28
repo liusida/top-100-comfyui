@@ -1881,6 +1881,7 @@ SimpleMathFloat+: -1
 SimpleMathInt+: -1
 SimpleMathPercent+: -1
 SimpleMathSlider+: -1
+SimpleMathSliderLowRes+: -1
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
@@ -2376,6 +2377,7 @@ interpreter_function: -1
 interpreter_tool: -1
 json2text: -1
 json_get_value: -1
+json_iterator: -1
 json_parser: -1
 keyword_tool: -1
 list_append: -1
@@ -2419,6 +2421,7 @@ show_text_party: -1
 start_dialog: -1
 start_workflow: -1
 story_json_tool: -1
+str2float: -1
 string_logic: -1
 substring: -1
 text2json: -1
