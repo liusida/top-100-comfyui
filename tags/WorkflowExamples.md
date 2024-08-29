@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.6k` | **Created at**: `2024-08-27`
+**Stars**: `4.6k` | **Created at**: `2024-08-28`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.2k` | **Created at**: `2024-08-27`
+**Stars**: `1.2k` | **Created at**: `2024-08-28`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `785` | **Created at**: `2024-08-24`
+**Stars**: `786` | **Created at**: `2024-08-28`
 
 
 some wyrde workflows for comfyUI
@@ -78,7 +78,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `529` | **Created at**: `2024-08-27`
+**Stars**: `531` | **Created at**: `2024-08-28`
 
 
 Create images of a given character in different poses

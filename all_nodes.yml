@@ -943,6 +943,7 @@ ImageBatchMulti: 4
 ImageBatchMultiple+: 4
 ImageBatchRepeatInterleaving: 1
 ImageBatchTestPattern: 0
+ImageBatchToList+: -1
 ImageBatchToList_: -1
 ImageBlend: 53
 ImageBlur: 7
@@ -1221,6 +1222,7 @@ LatentUpscaler: 0
 'LayerMask: BiRefNetUltra': 6
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
+'LayerMask: EVFSAMUltra': -1
 'LayerMask: Florence2Ultra': -1
 'LayerMask: ImageToMask': 2
 'LayerMask: LoadFlorence2Model': -1
