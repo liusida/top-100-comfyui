@@ -1,13 +1,20 @@
 3DImage: 4
 ACN_AdvancedControlNetApply: 100
+ACN_AdvancedControlNetApplySingle: -1
 ACN_ControlNet++InputNode: -1
 ACN_ControlNet++LoaderAdvanced: -1
 ACN_ControlNet++LoaderSingle: -1
 ACN_ControlNetLoaderWithLoraAdvanced: 0
+ACN_CustomControlNetWeightsFlux: -1
+ACN_CustomControlNetWeightsSD15: -1
+ACN_CustomT2IAdapterWeights: -1
 ACN_DefaultUniversalWeights: 0
 ACN_ReferenceControlNet: 1
 ACN_ReferenceControlNetFinetune: 0
 ACN_ReferencePreprocessor: 0
+ACN_ScaledSoftControlNetWeights: -1
+ACN_SoftControlNetWeightsSD15: -1
+ACN_SoftT2IAdapterWeights: -1
 ACN_SparseCtrlIndexMethodNode: 8
 ACN_SparseCtrlLoaderAdvanced: 25
 ACN_SparseCtrlMergedLoaderAdvanced: 0
@@ -637,6 +644,7 @@ Dictionary to Console: 0
 DiffControlNetLoader: 27
 DiffControlNetLoaderAdvanced: 28
 DifferentialDiffusion: 21
+DifferentialDiffusionAdvanced: -1
 Diffusers Hub Model Down-Loader: 0
 Diffusers Model Loader: 0
 DiffusersLoader: 5
@@ -1332,6 +1340,7 @@ LatentUpscaler: 0
 'LayerUtility: QWenImage2Prompt': 1
 'LayerUtility: QueueStop': -1
 'LayerUtility: RGB Value': 1
+'LayerUtility: RandomGenerator': -1
 'LayerUtility: RestoreCropBox': 3
 'LayerUtility: SD3NegativeConditioning': -1
 'LayerUtility: SaveImagePlus': 1
@@ -1429,6 +1438,7 @@ LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraNames_: 0
 LoraPrompt: 0
+Lorebook: -1
 M-LSDPreprocessor: 44
 M2M VFI: 2
 MMDetDetectorProvider: 34
