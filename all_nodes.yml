@@ -743,6 +743,8 @@ FloatingVideo: 15
 Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
+FluxBlockLoraLoader: -1
+FluxBlockLoraSelect: -1
 FluxGuidance: -1
 FluxLoraLoader: -1
 FluxSamplerParams+: -1
@@ -1266,6 +1268,7 @@ LatentUpscaler: 0
 'LayerStyle: ColorOverlay V2': 1
 'LayerStyle: DropShadow': 11
 'LayerStyle: DropShadow V2': 1
+'LayerStyle: Gradient Map': -1
 'LayerStyle: GradientOverlay': 2
 'LayerStyle: GradientOverlay V2': 1
 'LayerStyle: InnerGlow': 2

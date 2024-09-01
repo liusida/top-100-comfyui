@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.3k` | **Created at**: `2024-08-30`
+**Stars**: `1.3k` | **Created at**: `2024-08-31`
 
 
 ComfyUI nodes for LivePortrait
@@ -25,7 +25,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `804` | **Created at**: `2024-08-30`
+**Stars**: `806` | **Created at**: `2024-08-31`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -36,7 +36,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `670` | **Created at**: `2024-08-30`
+**Stars**: `671` | **Created at**: `2024-08-31`
 
 
 AnimateDiff for ComfyUI
@@ -71,7 +71,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `502` | **Created at**: `2024-08-30`
+**Stars**: `503` | **Created at**: `2024-08-31`
 
 
 Nodes related to video workflows
