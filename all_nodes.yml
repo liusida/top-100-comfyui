@@ -2382,6 +2382,7 @@ feishu_tool: -1
 file_combine: -1
 file_combine_plus: -1
 flux_persona: -1
+genai_api_loader: -1
 get_string: -1
 github_tool: -1
 google_loader: -1
