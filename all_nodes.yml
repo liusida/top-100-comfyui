@@ -1229,6 +1229,7 @@ LatentUpscaler: 0
 'LayerFilter: SkinBeauty': 2
 'LayerFilter: SoftLight': 1
 'LayerFilter: WaterColor': 1
+'LayerMask: BBoxJoin': -1
 'LayerMask: BiRefNetUltra': 6
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
@@ -1250,11 +1251,17 @@ LatentUpscaler: 0
 'LayerMask: MaskPreview': 30
 'LayerMask: MaskStroke': 1
 'LayerMask: MediapipeFacialSegment': 0
+'LayerMask: ObjectDetectorFL2': -1
+'LayerMask: ObjectDetectorMask': -1
+'LayerMask: ObjectDetectorYOLO8': -1
+'LayerMask: ObjectDetectorYOLOWorld': -1
 'LayerMask: PersonMaskUltra': 4
 'LayerMask: PersonMaskUltra V2': 4
 'LayerMask: PixelSpread': 5
 'LayerMask: RemBgUltra': 16
 'LayerMask: RmBgUltra V2': 3
+'LayerMask: SAM2Ultra': -1
+'LayerMask: SAM2VideoUltra': -1
 'LayerMask: SegformerB2ClothesUltra': 1
 'LayerMask: SegformerClothesPipelineLoader': -1
 'LayerMask: SegformerFashionPipelineLoader': -1
@@ -1441,6 +1448,7 @@ LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraNames_: 0
 LoraPrompt: 0
+LorasForFluxParams+: -1
 Lorebook: -1
 M-LSDPreprocessor: 44
 M2M VFI: 2
