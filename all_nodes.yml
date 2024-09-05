@@ -186,6 +186,7 @@ AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
 Apply ControlNet Stack: 0
+ApplyAdvancedFluxControlNet: -1
 ApplyAdvancedFluxIPAdapter: -1
 ApplyCLIPSeg+: 0
 ApplyFluxControlNet: -1
@@ -1362,6 +1363,7 @@ LatentUpscaler: 0
 'LayerUtility: SwitchCase': -1
 'LayerUtility: TextBox': 1
 'LayerUtility: TextImage': 6
+'LayerUtility: TextImage V2': -1
 'LayerUtility: TextJoin': 1
 'LayerUtility: XY to Percent': 3
 LayeredDiffusionApply: 25
