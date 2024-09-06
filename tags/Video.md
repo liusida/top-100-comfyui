@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.4k` | **Created at**: `2024-09-04`
+**Stars**: `1.4k` | **Created at**: `2024-09-06`
 
 
 ComfyUI nodes for LivePortrait
@@ -36,7 +36,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `672` | **Created at**: `2024-09-02`
+**Stars**: `674` | **Created at**: `2024-09-05`
 
 
 AnimateDiff for ComfyUI
@@ -54,7 +54,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `583` | **Created at**: `2024-09-03`
+**Stars**: `585` | **Created at**: `2024-09-05`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -71,7 +71,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `513` | **Created at**: `2024-09-04`
+**Stars**: `514` | **Created at**: `2024-09-05`
 
 
 Nodes related to video workflows
@@ -87,7 +87,7 @@ Nodes related to video workflows
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `475` | **Created at**: `2024-09-03`
+**Stars**: `476` | **Created at**: `2024-09-05`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 

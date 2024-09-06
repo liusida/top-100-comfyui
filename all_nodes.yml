@@ -1232,11 +1232,13 @@ LatentUpscaler: 0
 'LayerFilter: WaterColor': 1
 'LayerMask: BBoxJoin': -1
 'LayerMask: BiRefNetUltra': 6
+'LayerMask: BiRefNetUltraV2': -1
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
 'LayerMask: EVFSAMUltra': -1
 'LayerMask: Florence2Ultra': -1
 'LayerMask: ImageToMask': 2
+'LayerMask: LoadBiRefNetModel': -1
 'LayerMask: LoadFlorence2Model': -1
 'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': 2
@@ -1450,6 +1452,7 @@ LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraNames_: 0
 LoraPrompt: 0
+LoraSave: -1
 LorasForFluxParams+: -1
 Lorebook: -1
 M-LSDPreprocessor: 44

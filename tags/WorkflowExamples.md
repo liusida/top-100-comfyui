@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.7k` | **Created at**: `2024-09-04`
+**Stars**: `4.7k` | **Created at**: `2024-09-05`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.6k` | **Created at**: `2024-09-04`
+**Stars**: `1.7k` | **Created at**: `2024-09-05`
 
 
 Examples of ComfyUI workflows
@@ -78,7 +78,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `543` | **Created at**: `2024-09-04`
+**Stars**: `542` | **Created at**: `2024-09-05`
 
 
 Create images of a given character in different poses
