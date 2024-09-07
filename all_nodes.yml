@@ -1051,6 +1051,7 @@ ImpactDilate_Mask_SEG_ELT: 0
 ImpactDummyInput: 0
 ImpactEdit_SEG_ELT: 4
 ImpactExecutionOrderController: -1
+ImpactFlattenMask: -1
 ImpactFloat: 3
 ImpactFrom_SEG_ELT: 4
 ImpactFrom_SEG_ELT_bbox: 0
@@ -1072,6 +1073,8 @@ ImpactLogger: 0
 ImpactLogicalOperators: 0
 ImpactMakeImageBatch: 24
 ImpactMakeImageList: 5
+ImpactMakeMaskBatch: -1
+ImpactMakeMaskList: -1
 ImpactMakeTileSEGS: 3
 ImpactMinMax: 12
 ImpactNeg: 12
@@ -2256,6 +2259,7 @@ easy controlnetLoader++: -1
 easy controlnetLoaderADV: 1
 easy controlnetNames: 0
 easy controlnetStack: 1
+easy controlnetStackApply: -1
 easy convertAnything: 0
 easy detailerFix: 1
 easy dynamiCrafterLoader: 0
@@ -2327,6 +2331,7 @@ easy latentCompositeMaskedWithCond: 0
 easy latentNoisy: 0
 easy loadImageBase64: 17
 easy loraStack: 4
+easy loraStackApply: -1
 easy mathFloat: -1
 easy mathInt: -1
 easy mathString: -1
