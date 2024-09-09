@@ -655,6 +655,7 @@ Dingding: -1
 Dingding_tool: -1
 Direct Screen Capture: -1
 DisableNoise: 0
+DisplayAny: -1
 DisplayString: 6
 DisplayTextAsImage: 0
 DisplayText_Zho: 20
@@ -744,8 +745,10 @@ FloatingVideo: 15
 Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
+FluxAttentionSeeker+: -1
 FluxBlockLoraLoader: -1
 FluxBlockLoraSelect: -1
+FluxBlocksBuster+: -1
 FluxGuidance: -1
 FluxLoraLoader: -1
 FluxSamplerParams+: -1
@@ -1723,6 +1726,8 @@ SAMDetectorSegmented: 14
 SAMLoader: 98
 SAMModelLoader (segment anything): 33
 SAMPreprocessor: 17
+SD3AttentionSeekerLG+: -1
+SD3AttentionSeekerT5+: -1
 SD3NegativeConditioning+: -1
 SDTurboScheduler: 24
 SDXLEmptyLatentSizePicker+: 3
@@ -2461,6 +2466,7 @@ substring: -1
 text2json: -1
 text2parameters: -1
 text_iterator: -1
+text_writing: -1
 time_tool: -1
 tool_combine: -1
 tool_combine_plus: -1
