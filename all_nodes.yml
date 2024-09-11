@@ -2458,6 +2458,7 @@ sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
 show_text_party: -1
+sql_tool: -1
 start_dialog: -1
 start_workflow: -1
 story_json_tool: -1
