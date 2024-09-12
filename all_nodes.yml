@@ -2211,6 +2211,7 @@ arxiv_tool: -1
 bing_loader: -1
 bing_tool: -1
 bool_logic: -1
+bxbSwitch: -1
 check_web_tool: -1
 classify_function: -1
 classify_function_plus: -1
@@ -2297,14 +2298,17 @@ easy imagePixelPerfect: 4
 easy imageRatio: 0
 easy imageRemBg: 12
 easy imageSave: 0
+easy imageSaveWithText: -1
 easy imageScaleDown: 0
 easy imageScaleDownBy: 0
 easy imageScaleDownToSize: 1
+easy imageScaleToNormPixels: -1
 easy imageSize: 5
 easy imageSizeByLongerSide: 0
 easy imageSizeBySide: 0
 easy imageSplitGrid: 1
 easy imageSplitList: 3
+easy imageSplitTiles: -1
 easy imageSwitch: 1
 easy imageToBase64: 0
 easy imageToMask: 2
@@ -2326,6 +2330,7 @@ easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
 easy kSampler: 3
+easy kSamplerCustom: -1
 easy kSamplerDownscaleUnet: 0
 easy kSamplerInpainting: 2
 easy kSamplerLayerDiffusion: 4
@@ -2350,6 +2355,7 @@ easy pipeIn: 3
 easy pipeOut: 4
 easy pipeToBasicPipe: 0
 easy pixArtLoader: -1
+easy pixels: -1
 easy portraitMaster: 0
 easy poseEditor: 0
 easy positive: 1
