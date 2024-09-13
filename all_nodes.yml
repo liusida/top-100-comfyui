@@ -1350,6 +1350,7 @@ LatentUpscaler: 0
 'LayerUtility: LayerImageTransform': 3
 'LayerUtility: LayerMaskTransform': 3
 'LayerUtility: LoadPSD': 1
+'LayerUtility: LoadVQAModel': -1
 'LayerUtility: NumberCalculator': 2
 'LayerUtility: NumberCalculatorV2': -1
 'LayerUtility: PrintInfo': 1
@@ -1373,6 +1374,7 @@ LatentUpscaler: 0
 'LayerUtility: TextImage': 6
 'LayerUtility: TextImage V2': -1
 'LayerUtility: TextJoin': 1
+'LayerUtility: VQAPrompt': -1
 'LayerUtility: XY to Percent': 3
 LayeredDiffusionApply: 25
 LayeredDiffusionCondApply: 12
@@ -2069,6 +2071,7 @@ ToDetailerPipeSDXL: 14
 TomePatchModel: 3
 ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
+TorchCompileModel: -1
 Transform Image (mtb): 3
 TransitionMask+: 0
 TransparentBGSession+: -1
@@ -2417,6 +2420,7 @@ get_string: -1
 github_tool: -1
 google_loader: -1
 google_tool: -1
+html2img_function: -1
 image_iterator: -1
 img2path: -1
 interpreter_function: -1
