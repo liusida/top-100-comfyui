@@ -2449,6 +2449,7 @@ load_openai_ebd: -1
 load_persona: -1
 load_url: -1
 load_wikipedia: -1
+md_to_html: -1
 new_interpreter_tool: -1
 none2false: -1
 omost_decode: -1

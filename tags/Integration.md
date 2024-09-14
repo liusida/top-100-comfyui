@@ -7,7 +7,7 @@
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `6.7k` | **Created at**: `2024-09-12`
+**Stars**: `6.7k` | **Created at**: `2024-09-13`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -18,7 +18,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `4.3k` | **Created at**: `2024-09-12`
+**Stars**: `4.3k` | **Created at**: `2024-09-13`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -29,7 +29,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.0k` | **Created at**: `2024-09-11`
+**Stars**: `2.0k` | **Created at**: `2024-09-13`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -40,7 +40,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `1.9k` | **Created at**: `2024-09-12`
+**Stars**: `1.9k` | **Created at**: `2024-09-13`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -51,7 +51,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.0k` | **Created at**: `2024-09-12`
+**Stars**: `1.0k` | **Created at**: `2024-09-13`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -78,7 +78,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `757` | **Created at**: `2024-09-12`
+**Stars**: `758` | **Created at**: `2024-09-13`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -89,7 +89,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/diStyApps/seait'>
 <img src="https://avatars.githubusercontent.com/u/3084832?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diStyApps/seait
 
-**Stars**: `715` | **Created at**: `2024-09-08`
+**Stars**: `716` | **Created at**: `2024-09-13`
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -100,7 +100,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `657` | **Created at**: `2024-09-12`
+**Stars**: `659` | **Created at**: `2024-09-13`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -111,7 +111,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/space-nuko/ComfyBox'>
 <img src="https://avatars.githubusercontent.com/u/24979496?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/space-nuko/ComfyBox
 
-**Stars**: `607` | **Created at**: `2024-09-11`
+**Stars**: `608` | **Created at**: `2024-09-13`
 
 
 Customizable Stable Diffusion frontend for ComfyUI
@@ -122,7 +122,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `561` | **Created at**: `2024-09-12`
+**Stars**: `562` | **Created at**: `2024-09-13`
 
 
 FastAPI powered API for Fooocus
@@ -155,7 +155,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 <a href='https://github.com/xingren23/ComfyFlowApp'>
 <img src="https://avatars.githubusercontent.com/u/3837202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/xingren23/ComfyFlowApp
 
-**Stars**: `500` | **Created at**: `2024-09-11`
+**Stars**: `501` | **Created at**: `2024-09-13`
 
 
 From comfyui workflow to web app, in seconds
