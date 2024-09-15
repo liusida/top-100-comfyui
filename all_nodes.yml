@@ -2247,12 +2247,15 @@ easy LLLiteLoader: 0
 easy XYPlot: 0
 easy XYPlotAdvanced: 1
 easy a1111Loader: 26
+easy ab: -1
 easy anythingIndexSwitch: -1
+easy anythingInversedSwitch: -1
 easy applyBrushNet: 1
 easy applyFooocusInpaint: 1
 easy applyInpaint: 0
 easy applyPowerPaint: 2
 easy batchAnything: -1
+easy blocker: -1
 easy boolean: 1
 easy cascadeKSampler: 0
 easy cascadeLoader: 3
@@ -2420,6 +2423,7 @@ get_string: -1
 github_tool: -1
 google_loader: -1
 google_tool: -1
+gpt_sovits: -1
 html2img_function: -1
 image_iterator: -1
 img2path: -1
