@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.4k` | **Created at**: `2024-09-15`
+**Stars**: `1.4k` | **Created at**: `2024-09-16`
 
 
 ComfyUI nodes for LivePortrait
@@ -54,7 +54,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `597` | **Created at**: `2024-09-15`
+**Stars**: `599` | **Created at**: `2024-09-16`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI

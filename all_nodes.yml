@@ -580,6 +580,7 @@ ControlNetApply: 36
 ControlNetApplyAdvanced: 99
 ControlNetApplySD3: -1
 ControlNetAuxSimpleAddText: -1
+ControlNetInpaintingAliMamaApply: -1
 ControlNetLoader: 80
 ControlNetLoaderAdvanced: 99
 ControlNetPreprocessorSelector: 0
@@ -1211,10 +1212,12 @@ LatentUpscaler: 0
 'LayerColor: AutoAdjustV2': -1
 'LayerColor: AutoBrightness': 2
 'LayerColor: Brightness & Contrast': 5
+'LayerColor: BrightnessContrastV2': -1
 'LayerColor: Color of Shadow & Highlight': 3
 'LayerColor: ColorAdapter': 6
 'LayerColor: ColorBalance': 1
 'LayerColor: ColorTemperature': 2
+'LayerColor: ColorofShadowHighlightV2': -1
 'LayerColor: Exposure': 3
 'LayerColor: Gamma': 3
 'LayerColor: HSV': 6
@@ -1304,6 +1307,7 @@ LatentUpscaler: 0
 'LayerUtility: CheckMaskV2': -1
 'LayerUtility: ColorImage': 1
 'LayerUtility: ColorImage V2': 3
+'LayerUtility: ColorName': -1
 'LayerUtility: ColorPicker': 3
 'LayerUtility: CreateQRCode': 2
 'LayerUtility: CropBoxResolve': 1
@@ -1317,6 +1321,7 @@ LatentUpscaler: 0
 'LayerUtility: GetColorTone': 1
 'LayerUtility: GetColorToneV2': 2
 'LayerUtility: GetImageSize': 7
+'LayerUtility: GetMainColors': -1
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
 'LayerUtility: HLFrequencyDetailRestore': 1
@@ -2208,6 +2213,7 @@ Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
 accuweather_tool: -1
 advance_ebd_tool: -1
+any2str: -1
 api_function: -1
 api_tool: -1
 arxiv_tool: -1
@@ -2410,6 +2416,7 @@ easy xyAny: 0
 easy zero123Loader: 0
 ebd_tool: -1
 embeddings_function: -1
+end_anything: -1
 end_dialog: -1
 end_workflow: -1
 extra_parameters: -1
@@ -2424,6 +2431,7 @@ github_tool: -1
 google_loader: -1
 google_tool: -1
 gpt_sovits: -1
+graph_md_to_html: -1
 html2img_function: -1
 image_iterator: -1
 img2path: -1
@@ -2474,12 +2482,15 @@ sdBxb_saveImage: -1
 sdBxb_textInput: -1
 show_text_party: -1
 sql_tool: -1
+start_anything: -1
 start_dialog: -1
 start_workflow: -1
 story_json_tool: -1
 str2float: -1
+str2int: -1
 string_logic: -1
 substring: -1
+svg2img_function: -1
 text2json: -1
 text2parameters: -1
 text_iterator: -1
