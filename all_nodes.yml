@@ -700,6 +700,7 @@ EmbeddingPrompt: 2
 EmptyImage: 44
 EmptyLatentAudio: -1
 EmptyLatentImage: 93
+EmptyLatentImageCustomPresets: -1
 EmptyLatentImagePresets: 0
 EmptySD3LatentImage: 0
 EmptySegs: 0
@@ -1281,6 +1282,7 @@ LatentUpscaler: 0
 'LayerMask: SegmentAnythingUltra': 13
 'LayerMask: SegmentAnythingUltra V2': 6
 'LayerMask: Shadow & Highlight Mask': 1
+'LayerMask: ShadowHighlightMaskV2': -1
 'LayerMask: TransparentBackgroundUltra': -1
 'LayerMask: YoloV8Detect': 1
 'LayerStyle: ColorOverlay': 2
@@ -1358,6 +1360,7 @@ LatentUpscaler: 0
 'LayerUtility: LoadVQAModel': -1
 'LayerUtility: NumberCalculator': 2
 'LayerUtility: NumberCalculatorV2': -1
+'LayerUtility: PhiPrompt': -1
 'LayerUtility: PrintInfo': 1
 'LayerUtility: PromptEmbellish': 1
 'LayerUtility: PromptTagger': 3
@@ -1379,6 +1382,8 @@ LatentUpscaler: 0
 'LayerUtility: TextImage': 6
 'LayerUtility: TextImage V2': -1
 'LayerUtility: TextJoin': 1
+'LayerUtility: UserPromptGeneratorReplaceWord': -1
+'LayerUtility: UserPromptGeneratorTxt2ImgPrompt': -1
 'LayerUtility: VQAPrompt': -1
 'LayerUtility: XY to Percent': 3
 LayeredDiffusionApply: 25
