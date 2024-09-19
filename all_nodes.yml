@@ -2485,6 +2485,7 @@ save_openai_ebd: -1
 sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
+selenium_tool: -1
 show_text_party: -1
 sql_tool: -1
 start_anything: -1
