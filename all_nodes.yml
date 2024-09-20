@@ -535,6 +535,7 @@ ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
+ComfyUIDeployExternalFaceModel: -1
 ComfyUIDeployExternalImage: 1
 ComfyUIDeployExternalImageAlpha: 0
 ComfyUIDeployExternalImageBatch: 0
@@ -615,6 +616,7 @@ Crop (mtb): 0
 CropMask: 0
 CrossFadeImages: 0
 CustomControlNetWeights: 0
+CustomControlNetWeightsFluxFromList: -1
 CustomNoiseDetailerHookProvider: 0
 CustomSigmas: 9
 CustomT2IAdapterWeights: 0
@@ -1940,6 +1942,7 @@ SomethingToString: 6
 SoundReactive: 0
 SpeechRecognition: 6
 SpeechSynthesis: 6
+SpeedChange: -1
 SplineEditor: 4
 Split Tracking Points: 1
 SplitBboxes: 0
