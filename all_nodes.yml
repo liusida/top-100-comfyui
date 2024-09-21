@@ -1180,6 +1180,7 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LaplaceScheduler: -1
 Latent Batch: 0
 Latent Input Switch: 0
 Latent Lerp (mtb): 0
