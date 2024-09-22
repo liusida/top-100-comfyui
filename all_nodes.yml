@@ -531,6 +531,7 @@ ColorsCorrectNode: -1
 CombineAudioVideo: 0
 CombineInput: 0
 CombineRegionalPrompts: 12
+CombineVideos: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalBoolean: 0
@@ -953,6 +954,7 @@ Image fDOF Filter: 0
 Image to Latent Mask: 0
 Image to Noise: 0
 Image to Seed: 0
+Image2Video: -1
 ImageAddMulti: 0
 ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
@@ -2446,6 +2448,7 @@ image_iterator: -1
 img2path: -1
 interpreter_function: -1
 interpreter_tool: -1
+interrupt_loop: -1
 json2text: -1
 json_get_value: -1
 json_iterator: -1
@@ -2470,6 +2473,7 @@ load_openai_ebd: -1
 load_persona: -1
 load_url: -1
 load_wikipedia: -1
+md_to_excel: -1
 md_to_html: -1
 new_interpreter_tool: -1
 none2false: -1
@@ -2490,6 +2494,7 @@ sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
 selenium_tool: -1
+send_to_wechat_official: -1
 show_text_party: -1
 sql_tool: -1
 start_anything: -1

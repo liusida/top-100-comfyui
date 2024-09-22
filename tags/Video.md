@@ -71,7 +71,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `531` | **Created at**: `2024-09-20`
+**Stars**: `531` | **Created at**: `2024-09-21`
 
 
 Nodes related to video workflows
@@ -87,7 +87,7 @@ Nodes related to video workflows
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `483` | **Created at**: `2024-09-19`
+**Stars**: `483` | **Created at**: `2024-09-21`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 
