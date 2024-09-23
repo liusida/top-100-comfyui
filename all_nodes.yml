@@ -545,6 +545,7 @@ ComfyUIDeployExternalNumber: 1
 ComfyUIDeployExternalNumberInt: 0
 ComfyUIDeployExternalNumberSlider: 0
 ComfyUIDeployExternalText: 1
+ComfyUIDeployExternalTextAny: -1
 ComfyUIDeployExternalTextList: -1
 ComfyUIDeployExternalVid: 0
 ComfyUIDeployExternalVideo: 0
@@ -604,6 +605,7 @@ CreateFluidMask: 0
 CreateGradientFromCoords: 0
 CreateGradientMask: 1
 CreateInstanceDiffusionTracking: 1
+CreateJsonNode: -1
 CreateMagicMask: 0
 CreatePromptVariant: 3
 CreateShapeImageOnPath: 0
@@ -694,6 +696,8 @@ DynamicThresholdingFull: 1
 DynamicThresholdingSimple: 3
 ESAM_ModelLoader_Zho: 20
 EVAL: 0
+EasyOCR_advance: -1
+EasyOCR_choose: -1
 EditBasicPipe: 68
 EditDetailerPipe: 13
 EditDetailerPipeSDXL: 0
@@ -1250,8 +1254,10 @@ LatentUpscaler: 0
 'LayerMask: BiRefNetUltraV2': -1
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
+'LayerMask: DrawBBoxMask': -1
 'LayerMask: EVFSAMUltra': -1
 'LayerMask: Florence2Ultra': -1
+'LayerMask: HumanPartsUltra': -1
 'LayerMask: ImageToMask': 2
 'LayerMask: LoadBiRefNetModel': -1
 'LayerMask: LoadFlorence2Model': -1
@@ -1918,6 +1924,7 @@ SemSegPreprocessor: 25
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
 SetLatentNoiseMask: 86
+SetShakkerLabsUnionControlNetType: -1
 SetUnionControlNetType: -1
 Sharpen (mtb): 0
 ShowLayer: 4
