@@ -761,6 +761,7 @@ FluxBlocksBuster+: -1
 FluxGuidance: -1
 FluxLoraLoader: -1
 FluxSamplerParams+: -1
+FolderCleaner: -1
 Font: 1
 FreeU: 19
 FreeU_V2: 97
@@ -769,6 +770,7 @@ FromBasicPipe_v2: 30
 FromDetailerPipe: 14
 FromDetailerPipeSDXL: 12
 FromDetailerPipe_v2: 0
+GGUFLoader: -1
 GITSScheduler: -1
 GITSSchedulerFuncProvider: -1
 GLIGENLoader: 6
@@ -1337,6 +1339,7 @@ LatentUpscaler: 0
 'LayerUtility: GetMainColors': -1
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
+'LayerUtility: GrayValue': -1
 'LayerUtility: HLFrequencyDetailRestore': 1
 'LayerUtility: HSV Value': -1
 'LayerUtility: If': -1
@@ -2482,6 +2485,12 @@ load_url: -1
 load_wikipedia: -1
 md_to_excel: -1
 md_to_html: -1
+mini_flux_prompt: -1
+mini_flux_tag: -1
+mini_party: -1
+mini_sd_prompt: -1
+mini_sd_tag: -1
+mini_translate: -1
 new_interpreter_tool: -1
 none2false: -1
 omost_decode: -1
