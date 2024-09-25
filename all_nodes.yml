@@ -182,6 +182,7 @@ AnyNodeCodeViewer: 0
 AnyNodeExport: 0
 AnyNodeGemini: 0
 AnyNodeLocal: 1
+AnyPipeToBasic: -1
 AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
@@ -212,6 +213,7 @@ BNK_CutoffBasePrompt: 8
 BNK_CutoffRegionsToConditioning: 8
 BNK_CutoffRegionsToConditioning_ADV: 0
 BNK_CutoffSetRegions: 8
+BOOLConstant: -1
 BRIA_RMBG_ModelLoader_Zho: 11
 BRIA_RMBG_Zho: 11
 BackgroundScaler: 0
@@ -1086,6 +1088,7 @@ ImpactKSamplerBasicPipe: 14
 ImpactLatentInfo: 1
 ImpactLogger: 0
 ImpactLogicalOperators: 0
+ImpactMakeAnyList: -1
 ImpactMakeImageBatch: 24
 ImpactMakeImageList: 5
 ImpactMakeMaskBatch: -1
@@ -1701,6 +1704,8 @@ PulidModelLoader: 12
 Qr Code (mtb): 0
 RAUNet: 4
 RIFE VFI: 98
+RSS_loader: -1
+RSS_tool: -1
 Random Number: 7
 RandomNoise: 46
 RandomPrompt: 4
@@ -1817,6 +1822,7 @@ SaveAudio: -1
 SaveExpData: -1
 SaveImage: 97
 SaveImageAndMetadata_: 0
+SaveImageKJ: -1
 SaveImageOpenEXR: 1
 SaveImageToLocal: 0
 SaveImageWebsocket: 0
@@ -2485,11 +2491,15 @@ load_url: -1
 load_wikipedia: -1
 md_to_excel: -1
 md_to_html: -1
+mini_error_correction: -1
 mini_flux_prompt: -1
 mini_flux_tag: -1
+mini_ocr: -1
 mini_party: -1
 mini_sd_prompt: -1
 mini_sd_tag: -1
+mini_story: -1
+mini_summary: -1
 mini_translate: -1
 new_interpreter_tool: -1
 none2false: -1
@@ -2497,6 +2507,7 @@ omost_decode: -1
 omost_json2py: -1
 omost_setting: -1
 oobaboogaOpenAI: 0
+open_url_tool: -1
 openai_ebd_tool: -1
 openai_tts: -1
 openai_whisper: -1
