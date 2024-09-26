@@ -257,6 +257,7 @@ Bounded Image Blend: 0
 Bounded Image Blend with Mask: 0
 Bounded Image Crop: 0
 Bounded Image Crop with Mask: 1
+Browser_display: -1
 BrushMotion: 1
 BrushNet: 9
 BrushNetLoader: 19
@@ -1595,6 +1596,7 @@ ModelSamplingFlux: -1
 ModelSamplingSD3: 0
 ModelSamplingStableCascade: 1
 ModelSave: -1
+ModelSaveKJ: -1
 Model_1: 0
 Morphology: 0
 MovementsImage_Zho: 8
@@ -2507,6 +2509,7 @@ omost_decode: -1
 omost_json2py: -1
 omost_setting: -1
 oobaboogaOpenAI: 0
+open_url_function: -1
 open_url_tool: -1
 openai_ebd_tool: -1
 openai_tts: -1
