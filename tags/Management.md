@@ -18,7 +18,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.7k` | **Created at**: `2024-09-25`
+**Stars**: `1.7k` | **Created at**: `2024-09-26`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -39,7 +39,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `1.0k` | **Created at**: `2024-09-25`
+**Stars**: `1.0k` | **Created at**: `2024-09-26`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -61,7 +61,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `714` | **Created at**: `2024-09-25`
+**Stars**: `718` | **Created at**: `2024-09-26`
 
 
 A powerful set of tools for ComfyUI
@@ -76,7 +76,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `533` | **Created at**: `2024-09-25`
+**Stars**: `535` | **Created at**: `2024-09-26`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -87,7 +87,7 @@ Run any ComfyUI workflow w/ ZERO setup.
 <a href='https://github.com/Nuked88/ComfyUI-N-Sidebar'>
 <img src="https://avatars.githubusercontent.com/u/1554140?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Nuked88/ComfyUI-N-Sidebar
 
-**Stars**: `500` | **Created at**: `2024-09-25`
+**Stars**: `501` | **Created at**: `2024-09-26`
 
 
 A simple sidebar for your ConfyUI!
