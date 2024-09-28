@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.5k` | **Created at**: `2024-09-26`
+**Stars**: `1.5k` | **Created at**: `2024-09-27`
 
 
 ComfyUI nodes for LivePortrait
@@ -25,7 +25,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `820` | **Created at**: `2024-09-26`
+**Stars**: `821` | **Created at**: `2024-09-27`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -36,7 +36,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `676` | **Created at**: `2024-09-26`
+**Stars**: `677` | **Created at**: `2024-09-27`
 
 
 AnimateDiff for ComfyUI

@@ -1248,6 +1248,7 @@ LatentUpscaler: 0
 'LayerFilter: Film': 1
 'LayerFilter: FilmV2': 0
 'LayerFilter: GaussianBlur': 1
+'LayerFilter: GaussianBlurV2': -1
 'LayerFilter: HDREffects': 4
 'LayerFilter: LightLeak': 1
 'LayerFilter: MotionBlur': 1
@@ -1402,6 +1403,7 @@ LatentUpscaler: 0
 'LayerUtility: TextJoin': 1
 'LayerUtility: UserPromptGeneratorReplaceWord': -1
 'LayerUtility: UserPromptGeneratorTxt2ImgPrompt': -1
+'LayerUtility: UserPromptGeneratorTxt2ImgPromptWithReference': -1
 'LayerUtility: VQAPrompt': -1
 'LayerUtility: XY to Percent': 3
 LayeredDiffusionApply: 25
@@ -2459,6 +2461,7 @@ get_string: -1
 github_tool: -1
 google_loader: -1
 google_tool: -1
+got_ocr: -1
 gpt_sovits: -1
 graph_md_to_html: -1
 html2img_function: -1
@@ -2587,6 +2590,7 @@ ttN xyPlot: 3
 unCLIP Checkpoint Loader: 0
 unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
+vlmLoader: -1
 weather_tool: -1
 weekday_tool: -1
 wikipedia_tool: -1
