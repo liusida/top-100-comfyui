@@ -552,6 +552,7 @@ ComfyUIDeployExternalTextAny: -1
 ComfyUIDeployExternalTextList: -1
 ComfyUIDeployExternalVid: 0
 ComfyUIDeployExternalVideo: 0
+ComfyUIDeployModelList: -1
 ComparingTwoFrames_: 0
 CompositeImages_: 0
 CompositeMotionBrush: 1
@@ -1050,6 +1051,7 @@ Images to RGB: 12
 Images2Image: -1
 ImagesPrompt_: 0
 ImpactAssembleSEGS: 4
+ImpactBoolean: -1
 ImpactCombineConditionings: 0
 ImpactCompare: 14
 ImpactConcatConditionings: 0
@@ -1107,6 +1109,7 @@ ImpactSEGSClassify: 0
 ImpactSEGSConcat: 0
 ImpactSEGSLabelAssign: 0
 ImpactSEGSLabelFilter: 0
+ImpactSEGSMerge: -1
 ImpactSEGSOrderedFilter: 11
 ImpactSEGSPicker: 0
 ImpactSEGSRangeFilter: 0
@@ -1401,6 +1404,7 @@ LatentUpscaler: 0
 'LayerUtility: TextImage': 6
 'LayerUtility: TextImage V2': -1
 'LayerUtility: TextJoin': 1
+'LayerUtility: TextJoinV2': -1
 'LayerUtility: UserPromptGeneratorReplaceWord': -1
 'LayerUtility: UserPromptGeneratorTxt2ImgPrompt': -1
 'LayerUtility: UserPromptGeneratorTxt2ImgPromptWithReference': -1
@@ -2260,6 +2264,7 @@ classify_persona_plus: -1
 clear_file: -1
 clear_model: -1
 custom_persona: -1
+dall_e_tool: -1
 discord_bot: -1
 discord_file_monitor: -1
 discord_send: -1
@@ -2514,6 +2519,7 @@ omost_setting: -1
 oobaboogaOpenAI: 0
 open_url_function: -1
 open_url_tool: -1
+openai_dall_e: -1
 openai_ebd_tool: -1
 openai_tts: -1
 openai_whisper: -1
