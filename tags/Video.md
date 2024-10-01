@@ -7,7 +7,7 @@
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `1.5k` | **Created at**: `2024-09-29`
+**Stars**: `1.5k` | **Created at**: `2024-09-30`
 
 
 ComfyUI nodes for LivePortrait
@@ -87,7 +87,7 @@ Nodes related to video workflows
 <a href='https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-AnimateAnyone-Evolved
 
-**Stars**: `483` | **Created at**: `2024-09-26`
+**Stars**: `484` | **Created at**: `2024-09-30`
 
 
 Improved AnimateAnyone implementation that allows you to use the opse image sequence and reference image to generate stylized video 

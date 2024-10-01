@@ -34,19 +34,3 @@ ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to gene
  - <sub>[IF_ChatPrompt](node_examples/IF_ChatPrompt.md)</sub>, <sub>IF_DisplayOmni</sub>, <sub>[IF_DisplayText](node_examples/IF_DisplayText.md)</sub>, <sub>IF_ImagePrompt</sub>, <sub>IF_PromptMkr</sub>, <sub>IF_SaveText</sub>, <sub>IF_saveText</sub>, <sub>IF_TextTyper</sub>
 </details>
 
-
-## lks-ai/anynode
-
-
-<a href='https://github.com/lks-ai/anynode'>
-<img src="https://avatars.githubusercontent.com/u/163685473?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lks-ai/anynode
-
-**Stars**: `483` | **Created at**: `2024-09-29`
-
-
-A Node for ComfyUI that does what you ask it to do
-<details><summary>Included Nodes (6)</summary>
-
- - <sub>[AnyNode](node_examples/AnyNode.md)</sub>, <sub>AnyNodeAnthropic</sub>, <sub>AnyNodeCodeViewer</sub>, <sub>AnyNodeExport</sub>, <sub>AnyNodeGemini</sub>, <sub>[AnyNodeLocal](node_examples/AnyNodeLocal.md)</sub>
-</details>
-

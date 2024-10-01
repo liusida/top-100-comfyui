@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.8k` | **Created at**: `2024-09-29`
+**Stars**: `4.9k` | **Created at**: `2024-09-30`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.6k` | **Created at**: `2024-09-28`
+**Stars**: `1.6k` | **Created at**: `2024-09-30`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -34,7 +34,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.3k` | **Created at**: `2024-09-28`
+**Stars**: `1.3k` | **Created at**: `2024-09-30`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -50,7 +50,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `1.2k` | **Created at**: `2024-09-28`
+**Stars**: `1.2k` | **Created at**: `2024-09-30`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -84,7 +84,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `924` | **Created at**: `2024-09-29`
+**Stars**: `927` | **Created at**: `2024-09-30`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -101,7 +101,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `781` | **Created at**: `2024-09-29`
+**Stars**: `782` | **Created at**: `2024-09-30`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -112,6 +112,22 @@ Unofficial implementation of PhotoMaker for ComfyUI
  - <sub>[NEW_PhotoMaker_Generation](node_examples/NEW_PhotoMaker_Generation.md)</sub>
  - <sub>[PhotoMaker_Generation](node_examples/PhotoMaker_Generation.md)</sub>, <sub>[PhotoMakerAdapter_Loader_fromhub](node_examples/PhotoMakerAdapter_Loader_fromhub.md)</sub>, <sub>[PhotoMakerAdapter_Loader_local](node_examples/PhotoMakerAdapter_Loader_local.md)</sub>, <sub>[Prompt_Styler](node_examples/Prompt_Styler.md)</sub>
  - <sub>[Ref_Image_Preprocessing](node_examples/Ref_Image_Preprocessing.md)</sub>
+</details>
+
+
+## ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
+
+
+<a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
+<img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
+
+**Stars**: `660` | **Created at**: `2024-09-30`
+
+
+Unofficial implementation of BRIA RMBG Model for ComfyUI
+<details><summary>Included Nodes (2)</summary>
+
+ - <sub>[BRIA_RMBG_ModelLoader_Zho](node_examples/BRIA_RMBG_ModelLoader_Zho.md)</sub>, <sub>[BRIA_RMBG_Zho](node_examples/BRIA_RMBG_Zho.md)</sub>
 </details>
 
 
@@ -130,22 +146,6 @@ Using Gemini in ComfyUI
  - <sub>[ConcatText_Zho](node_examples/ConcatText_Zho.md)</sub>
  - <sub>[DisplayText_Zho](node_examples/DisplayText_Zho.md)</sub>
  - <sub>[Gemini_15P_API_S_Advance_Zho](node_examples/Gemini_15P_API_S_Advance_Zho.md)</sub>, <sub>Gemini_15P_API_S_Chat_Advance_Zho</sub>, <sub>Gemini_API_Chat_Zho</sub>, <sub>[Gemini_API_S_Chat_Zho](node_examples/Gemini_API_S_Chat_Zho.md)</sub>, <sub>Gemini_API_S_Vsion_ImgURL_Zho</sub>, <sub>[Gemini_API_S_Zho](node_examples/Gemini_API_S_Zho.md)</sub>, <sub>Gemini_API_Vsion_ImgURL_Zho</sub>, <sub>[Gemini_API_Zho](node_examples/Gemini_API_Zho.md)</sub>, <sub>Gemini_File_API_S_Zho</sub>, <sub>Gemini_FileUpload_API_S_Zho</sub>
-</details>
-
-
-## ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
-
-
-<a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
-<img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
-
-**Stars**: `658` | **Created at**: `2024-09-29`
-
-
-Unofficial implementation of BRIA RMBG Model for ComfyUI
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>[BRIA_RMBG_ModelLoader_Zho](node_examples/BRIA_RMBG_ModelLoader_Zho.md)</sub>, <sub>[BRIA_RMBG_Zho](node_examples/BRIA_RMBG_Zho.md)</sub>
 </details>
 
 
