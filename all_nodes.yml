@@ -2495,6 +2495,7 @@ load_img_path: -1
 load_int: -1
 load_keyword: -1
 load_name: -1
+load_name_v2: -1
 load_openai_ebd: -1
 load_persona: -1
 load_url: -1
@@ -2526,6 +2527,7 @@ openai_whisper: -1
 parameter_combine: -1
 parameter_combine_plus: -1
 parameter_function: -1
+path2img_tool: -1
 replace_string: -1
 save_ebd_database: -1
 save_openai_ebd: -1
@@ -2596,6 +2598,7 @@ ttN xyPlot: 3
 unCLIP Checkpoint Loader: 0
 unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
+url2img_tool: -1
 vlmLoader: -1
 weather_tool: -1
 weekday_tool: -1
