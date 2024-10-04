@@ -2534,6 +2534,7 @@ save_openai_ebd: -1
 sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
+searxng_tool: -1
 selenium_tool: -1
 send_to_wechat_official: -1
 show_text_party: -1
@@ -2546,6 +2547,7 @@ str2float: -1
 str2int: -1
 string_logic: -1
 substring: -1
+svg2html: -1
 svg2img_function: -1
 text2json: -1
 text2parameters: -1
