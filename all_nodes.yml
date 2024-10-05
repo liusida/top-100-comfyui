@@ -523,6 +523,18 @@ CheckpointLoader|pysssss: 15
 CheckpointPerturbWeights: -1
 CheckpointSave: 6
 CkptNames_: 2
+CogVideoControlImageEncode: -1
+CogVideoDecode: -1
+CogVideoDualTextEncode_311: -1
+CogVideoImageEncode: -1
+CogVideoPABConfig: -1
+CogVideoSampler: -1
+CogVideoTextEncode: -1
+CogVideoTextEncodeCombine: -1
+CogVideoTransformerEdit: -1
+CogVideoXFunControlSampler: -1
+CogVideoXFunSampler: -1
+CogVideoXFunVid2VidSampler: -1
 Color: 0
 Color Correct (mtb): 6
 ColorMatch: 19
@@ -673,6 +685,8 @@ DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadChatGLM3: -1
+DownloadAndLoadCogVideoGGUFModel: -1
+DownloadAndLoadCogVideoModel: -1
 DownloadAndLoadDynamiCrafterCNModel: -1
 DownloadAndLoadDynamiCrafterModel: 4
 DownloadAndLoadFlorence2Lora: -1
