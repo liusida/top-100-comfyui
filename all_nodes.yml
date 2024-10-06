@@ -527,6 +527,7 @@ CogVideoControlImageEncode: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
 CogVideoImageEncode: -1
+CogVideoLoraSelect: -1
 CogVideoPABConfig: -1
 CogVideoSampler: -1
 CogVideoTextEncode: -1
