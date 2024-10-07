@@ -523,6 +523,7 @@ CheckpointLoader|pysssss: 15
 CheckpointPerturbWeights: -1
 CheckpointSave: 6
 CkptNames_: 2
+CogVideoContextOptions: -1
 CogVideoControlImageEncode: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
@@ -2279,6 +2280,7 @@ classify_persona_plus: -1
 clear_file: -1
 clear_model: -1
 custom_persona: -1
+custom_string_format: -1
 dall_e_tool: -1
 discord_bot: -1
 discord_file_monitor: -1
@@ -2389,6 +2391,7 @@ easy ipadapterApplyFaceIDKolors: -1
 easy ipadapterApplyFromParams: 0
 easy ipadapterApplyRegional: 0
 easy ipadapterStyleComposition: 0
+easy isFileExist: -1
 easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
@@ -2404,6 +2407,7 @@ easy latentCompositeMaskedWithCond: 0
 easy latentNoisy: 0
 easy lengthAnything: -1
 easy loadImageBase64: 17
+easy loadImagesForLoop: -1
 easy loraStack: 4
 easy loraStackApply: -1
 easy mathFloat: -1
@@ -2444,6 +2448,7 @@ easy rangeFloat: 0
 easy rangeInt: 0
 easy removeLocalImage: 0
 easy samLoaderPipe: 1
+easy saveText: -1
 easy seed: 2
 easy showAnything: 3
 easy showLoaderSettingsNames: 0
@@ -2543,6 +2548,7 @@ parameter_combine: -1
 parameter_combine_plus: -1
 parameter_function: -1
 path2img_tool: -1
+red_book_text_persona: -1
 replace_string: -1
 save_ebd_database: -1
 save_openai_ebd: -1
@@ -2554,6 +2560,7 @@ selenium_tool: -1
 send_to_wechat_official: -1
 show_text_party: -1
 sql_tool: -1
+srt2txt: -1
 start_anything: -1
 start_dialog: -1
 start_workflow: -1
@@ -2612,6 +2619,7 @@ ttN textCycleLine: 0
 ttN textDebug: 3
 ttN tinyLoader: 0
 ttN xyPlot: 3
+txt2srt: -1
 unCLIP Checkpoint Loader: 0
 unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
