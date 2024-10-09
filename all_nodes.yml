@@ -2449,8 +2449,10 @@ easy rangeInt: 0
 easy removeLocalImage: 0
 easy samLoaderPipe: 1
 easy saveText: -1
+easy saveTextLazy: -1
 easy seed: 2
 easy showAnything: 3
+easy showAnythingLazy: -1
 easy showLoaderSettingsNames: 0
 easy showSpentTime: 0
 easy showTensorShape: 0
@@ -2552,6 +2554,7 @@ red_book_text_persona: -1
 replace_string: -1
 save_ebd_database: -1
 save_openai_ebd: -1
+savepersona: -1
 sdBxb: -1
 sdBxb_saveImage: -1
 sdBxb_textInput: -1
