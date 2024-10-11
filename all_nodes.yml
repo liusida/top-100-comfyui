@@ -525,6 +525,7 @@ CheckpointSave: 6
 CkptNames_: 2
 CogVideoContextOptions: -1
 CogVideoControlImageEncode: -1
+CogVideoControlNet: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
 CogVideoImageEncode: -1
@@ -687,6 +688,7 @@ DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
 DownloadAndLoadChatGLM3: -1
+DownloadAndLoadCogVideoControlNet: -1
 DownloadAndLoadCogVideoGGUFModel: -1
 DownloadAndLoadCogVideoModel: -1
 DownloadAndLoadDynamiCrafterCNModel: -1
@@ -834,6 +836,7 @@ GroundingDinoSAMSegment (segment anything): 43
 GroupChat: 2
 GrowMask: 56
 GrowMaskWithBlur: 49
+GuidanceTimestepping+: -1
 HEDPreprocessor: 58
 HSL to Hex: -1
 Hex to HSL: -1
@@ -1391,9 +1394,12 @@ LatentUpscaler: 0
 'LayerUtility: ImageShift': 1
 'LayerUtility: ImageTaggerSave': -1
 'LayerUtility: Integer': 2
+'LayerUtility: JoyCaption2': -1
+'LayerUtility: JoyCaption2ExtraOptions': -1
 'LayerUtility: LaMa': 4
 'LayerUtility: LayerImageTransform': 3
 'LayerUtility: LayerMaskTransform': 3
+'LayerUtility: LlamaVision': -1
 'LayerUtility: LoadPSD': 1
 'LayerUtility: LoadVQAModel': -1
 'LayerUtility: NumberCalculator': 2
@@ -1407,6 +1413,7 @@ LatentUpscaler: 0
 'LayerUtility: QueueStop': -1
 'LayerUtility: RGB Value': 1
 'LayerUtility: RandomGenerator': -1
+'LayerUtility: RandomGeneratorV2': -1
 'LayerUtility: RestoreCropBox': 3
 'LayerUtility: SD3NegativeConditioning': -1
 'LayerUtility: SaveImagePlus': 1
@@ -2448,6 +2455,7 @@ easy rangeFloat: 0
 easy rangeInt: 0
 easy removeLocalImage: 0
 easy samLoaderPipe: 1
+easy saveImageLazy: -1
 easy saveText: -1
 easy saveTextLazy: -1
 easy seed: 2
@@ -2472,6 +2480,12 @@ easy whileLoopStart: -1
 easy wildcards: 3
 easy xyAny: 0
 easy zero123Loader: 0
+easy_GGUFLoader: -1
+easy_LLM_api_loader: -1
+easy_LLM_local_loader: -1
+easy_LLavaLoader: -1
+easy_load_llm_lora: -1
+easy_vlmLoader: -1
 ebd_tool: -1
 embeddings_function: -1
 end_anything: -1
@@ -2516,6 +2530,7 @@ load_file_folder: -1
 load_img_path: -1
 load_int: -1
 load_keyword: -1
+load_llm_lora: -1
 load_name: -1
 load_name_v2: -1
 load_openai_ebd: -1
@@ -2578,6 +2593,7 @@ text2json: -1
 text2parameters: -1
 text_iterator: -1
 text_writing: -1
+time_sleep: -1
 time_tool: -1
 tool_combine: -1
 tool_combine_plus: -1
