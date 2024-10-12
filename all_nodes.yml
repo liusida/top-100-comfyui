@@ -550,6 +550,7 @@ CombineAudioVideo: 0
 CombineInput: 0
 CombineRegionalPrompts: 12
 CombineVideos: -1
+Combine_Videos_party: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalBoolean: 0
@@ -2300,6 +2301,7 @@ easy LLLiteLoader: 0
 'easy XYInputs: Checkpoint': 0
 'easy XYInputs: ControlNet': 0
 'easy XYInputs: Denoise': 0
+'easy XYInputs: FluxGuidance': -1
 'easy XYInputs: Lora': 0
 'easy XYInputs: ModelMergeBlocks': 0
 'easy XYInputs: NegativeCond': 0
