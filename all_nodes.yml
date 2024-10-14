@@ -163,6 +163,7 @@ AdvancedLivePortrait: -1
 AlignYourStepsScheduler: 2
 AmapRegeoTool: -1
 AmapWeatherTool: -1
+AnalyzeAudio: -1
 AnimalPosePreprocessor: 0
 AnimateDiff Script: 0
 AnimateDiffCombine: 21
@@ -753,6 +754,7 @@ FaceKeypointsPreprocessor: 8
 FaceToMask: 0
 FacialPartColoringFromPoseKps: 0
 FakeScribblePreprocessor: 45
+FastPreview: -1
 FeatherMask: 42
 FeatheredMask: 2
 FeishuDownloadAudio: -1
@@ -1680,6 +1682,7 @@ Output2String: 1
 P5Input: -1
 Pack SDXL Tuple: 8
 PainterNode: 17
+PatchCublasLinear: -1
 PatchModelAddDownscale: 24
 PerpNeg: 0
 PerpNegGuider: 0

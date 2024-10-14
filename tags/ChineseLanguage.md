@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `4.9k` | **Created at**: `2024-10-12`
+**Stars**: `4.9k` | **Created at**: `2024-10-13`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -34,7 +34,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.3k` | **Created at**: `2024-10-12`
+**Stars**: `1.3k` | **Created at**: `2024-10-13`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -50,14 +50,14 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `1.2k` | **Created at**: `2024-10-12`
+**Stars**: `1.2k` | **Created at**: `2024-10-13`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
-<details><summary>Included Nodes (81)</summary>
+<details><summary>Included Nodes (82)</summary>
 
  - <sub>[3DImage](node_examples/3DImage.md)</sub>
- - <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>, <sub>AudioPlay</sub>
+ - <sub>AnalyzeAudio</sub>, <sub>[AppInfo](node_examples/AppInfo.md)</sub>, <sub>ApplyVisualStylePrompting_</sub>, <sub>AreaToMask</sub>, <sub>AudioPlay</sub>
  - <sub>CenterImage</sub>, <sub>[CkptNames_](node_examples/CkptNames_.md)</sub>, <sub>Color</sub>, <sub>ComparingTwoFrames_</sub>, <sub>CompositeImages_</sub>, <sub>CreateJsonNode</sub>
  - <sub>DepthViewer</sub>, <sub>[DynamicDelayProcessor](node_examples/DynamicDelayProcessor.md)</sub>
  - <sub>[EmbeddingPrompt](node_examples/EmbeddingPrompt.md)</sub>, <sub>[EnhanceImage](node_examples/EnhanceImage.md)</sub>
@@ -84,7 +84,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `952` | **Created at**: `2024-10-12`
+**Stars**: `954` | **Created at**: `2024-10-13`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -121,7 +121,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `668` | **Created at**: `2024-10-12`
+**Stars**: `669` | **Created at**: `2024-10-13`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -155,7 +155,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `596` | **Created at**: `2024-10-11`
+**Stars**: `597` | **Created at**: `2024-10-13`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI
