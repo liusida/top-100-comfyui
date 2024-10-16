@@ -639,6 +639,7 @@ Critic: 1
 Crop (mtb): 0
 CropMask: 0
 CrossFadeImages: 0
+CrossFadeImagesMulti: -1
 CustomControlNetWeights: 0
 CustomControlNetWeightsFluxFromList: -1
 CustomNoiseDetailerHookProvider: 0
@@ -2140,6 +2141,7 @@ ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 TorchCompileModel: -1
 Transform Image (mtb): 3
+TransitionImagesMulti: -1
 TransitionMask+: 0
 TransparentBGSession+: -1
 TransparentImage: 6
@@ -2283,6 +2285,7 @@ bing_loader: -1
 bing_tool: -1
 bool_logic: -1
 bxbSwitch: -1
+check_text: -1
 check_web_tool: -1
 classify_function: -1
 classify_function_plus: -1
@@ -2520,6 +2523,7 @@ json2text: -1
 json_get_value: -1
 json_iterator: -1
 json_parser: -1
+json_writing: -1
 keyword_tool: -1
 list_append: -1
 list_append_plus: -1
