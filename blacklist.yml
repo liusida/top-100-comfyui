@@ -1,3 +1,7 @@
 blacklist:
   bleedline/aimoneyhunter:
     - only cares about making money
+  ddean2009/MoneyPrinterPlus:
+    - only cares about making money
+  zhulu111/ComfyUI_Bxb:
+    - only cares about making money

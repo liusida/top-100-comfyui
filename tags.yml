@@ -248,8 +248,31 @@ tags:
     - Resources
   cubiq/ComfyUI_essentials:
     - Custom Nodes
-  kijai/ComfyUI-LivePortraitKJ:
+  TheLastBen/fast-stable-diffusion:
+    - Integration
+  PowerHouseMan/ComfyUI-AdvancedLivePortrait:
     - Custom Nodes
     - Video
-  comfyanonymous/ComfyUI_TensorRT:
+  mcmonkeyprojects/SwarmUI:
+    - Integration
+  XLabs-AI/x-flux-comfyui:
     - Custom Nodes
+  heshengtao/comfyui_LLM_party:
+    - Custom Nodes
+    - LLM
+  city96/ComfyUI-GGUF:
+    - Custom Nodes
+  yolain/ComfyUI-Yolain-Workflows:
+    - Workflow Examples
+  kijai/ComfyUI-Florence2:
+    - Custom Nodes
+  kijai/ComfyUI-segment-anything-2:
+    - Custom Nodes
+  kijai/ComfyUI-CogVideoXWrapper:
+    - Custom Nodes
+  NimaNzrii/comfyui-photoshop:
+    - Integration
+  kijai/ComfyUI-KwaiKolorsWrapper:
+    - Custom Nodes
+  Comfy-Org/ComfyUI_frontend:
+    - Core
