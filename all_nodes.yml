@@ -1014,6 +1014,7 @@ ImageConcatMulti: -1
 ImageCrop: 49
 ImageCrop+: 15
 ImageCropByAlpha: 4
+ImageCropByMaskAndResize: -1
 ImageDesaturate+: 4
 ImageEnhanceDifference+: 1
 ImageExpandBatch+: 0
@@ -1065,6 +1066,7 @@ ImageTile+: 0
 ImageToDevice+: 0
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
+ImageUncropByMask: -1
 ImageUntile+: -1
 ImageUpscaleWithModel: 97
 ImageUpscaleWithModelBatched: 0
@@ -1226,6 +1228,8 @@ Latent Noise Injection: 2
 Latent Size to Number: 0
 Latent Upscale by Factor (WAS): 15
 LatentAdd: 1
+LatentApplyOperation: -1
+LatentApplyOperationCFG: -1
 LatentBatch: 3
 LatentBatchSeedBehavior: 4
 LatentBlend: 4
@@ -1241,6 +1245,7 @@ LatentKeyframeBatchedGroup: 1
 LatentKeyframeGroup: 1
 LatentKeyframeTiming: 11
 LatentMultiply: 0
+LatentOperationTonemapReinhard: -1
 LatentPixelScale: 2
 LatentReceiver: 2
 LatentRotate: 0
