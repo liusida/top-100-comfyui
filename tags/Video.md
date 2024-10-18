@@ -1,21 +1,23 @@
 # Repositories tagged with `Video`
 
 
-## kijai/ComfyUI-LivePortraitKJ
+## PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
 
-<a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
+<a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
+<img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `1.5k` | **Created at**: `2024-10-16`
+**Stars**: `1.7k` | **Created at**: `2024-10-17`
 
 
-ComfyUI nodes for LivePortrait
-<details><summary>Included Nodes (10)</summary>
+None
+<details><summary>Included Nodes (6)</summary>
 
- - <sub>DownloadAndLoadLivePortraitModels</sub>
- - <sub>KeypointScaler</sub>, <sub>KeypointsToImage</sub>
- - <sub>LivePortraitComposite</sub>, <sub>LivePortraitCropper</sub>, <sub>LivePortraitLoadCropper</sub>, <sub>LivePortraitLoadFaceAlignmentCropper</sub>, <sub>LivePortraitLoadMediaPipeCropper</sub>, <sub>LivePortraitProcess</sub>, <sub>LivePortraitRetargeting</sub>
+ - <sub>AdvancedLivePortrait</sub>
+ - <sub>ExpData</sub>, <sub>ExpressionEditor</sub>
+ - <sub>LoadExpData</sub>
+ - <sub>PrintExpData:</sub>
+ - <sub>SaveExpData</sub>
 </details>
 
 
@@ -25,7 +27,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `829` | **Created at**: `2024-10-16`
+**Stars**: `830` | **Created at**: `2024-10-17`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -54,7 +56,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `616` | **Created at**: `2024-10-14`
+**Stars**: `617` | **Created at**: `2024-10-17`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -71,7 +73,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `555` | **Created at**: `2024-10-16`
+**Stars**: `556` | **Created at**: `2024-10-17`
 
 
 Nodes related to video workflows
