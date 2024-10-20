@@ -518,6 +518,7 @@ ChatTTS_Node: -1
 Checkpoint Loader: 0
 Checkpoint Loader (Simple): 0
 CheckpointLoader: 0
+CheckpointLoaderKJ: -1
 CheckpointLoaderSimple: 98
 CheckpointLoaderSimpleWithNoiseSelect: 64
 CheckpointLoader|pysssss: 15
@@ -530,6 +531,7 @@ CogVideoControlNet: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
 CogVideoImageEncode: -1
+CogVideoImageInterpolationEncode: -1
 CogVideoLoraSelect: -1
 CogVideoPABConfig: -1
 CogVideoSampler: -1
@@ -1245,6 +1247,7 @@ LatentKeyframeBatchedGroup: 1
 LatentKeyframeGroup: 1
 LatentKeyframeTiming: 11
 LatentMultiply: 0
+LatentOperationSharpen: -1
 LatentOperationTonemapReinhard: -1
 LatentPixelScale: 2
 LatentReceiver: 2
@@ -1405,10 +1408,12 @@ LatentUpscaler: 0
 'LayerUtility: Integer': 2
 'LayerUtility: JoyCaption2': -1
 'LayerUtility: JoyCaption2ExtraOptions': -1
+'LayerUtility: JoyCaption2Split': -1
 'LayerUtility: LaMa': 4
 'LayerUtility: LayerImageTransform': 3
 'LayerUtility: LayerMaskTransform': 3
 'LayerUtility: LlamaVision': -1
+'LayerUtility: LoadJoyCaption2Model': -1
 'LayerUtility: LoadPSD': 1
 'LayerUtility: LoadVQAModel': -1
 'LayerUtility: NumberCalculator': 2
@@ -1742,6 +1747,7 @@ Prompt_Styler: 5
 PulidEvaClipLoader: 12
 PulidInsightFaceLoader: 11
 PulidModelLoader: 12
+PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
 RAUNet: 4
 RIFE VFI: 98
@@ -1980,6 +1986,7 @@ Sharpen (mtb): 0
 ShowLayer: 4
 ShowTextForGPT: 12
 ShowText|pysssss: 99
+ShuffleImageBatch: -1
 ShufflePreprocessor: 5
 SimpleComparison+: -1
 SimpleCondition+: -1
@@ -2146,6 +2153,7 @@ ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 TorchCompileModel: -1
 Transform Image (mtb): 3
+TransitionImagesInBatch: -1
 TransitionImagesMulti: -1
 TransitionMask+: 0
 TransparentBGSession+: -1
@@ -2579,6 +2587,7 @@ parameter_combine: -1
 parameter_combine_plus: -1
 parameter_function: -1
 path2img_tool: -1
+red_book: -1
 red_book_text_persona: -1
 replace_string: -1
 save_ebd_database: -1
