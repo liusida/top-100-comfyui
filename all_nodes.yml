@@ -187,6 +187,7 @@ AnyPipeToBasic: -1
 AppInfo: 11
 AppendAgent: 0
 AppendInstanceDiffusionTracking: 1
+AppendStringsToList: -1
 Apply ControlNet Stack: 0
 ApplyAdvancedFluxControlNet: -1
 ApplyAdvancedFluxIPAdapter: -1
@@ -703,6 +704,7 @@ DownloadAndLoadFlorence2Model: -1
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
 DownloadAndLoadSAM2Model: -1
+DownloadAndLoadToraModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
@@ -2151,6 +2153,8 @@ ToDetailerPipeSDXL: 14
 TomePatchModel: 3
 ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
+ToraEncodeOpticalFlow: -1
+ToraEncodeTrajectory: -1
 TorchCompileModel: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
