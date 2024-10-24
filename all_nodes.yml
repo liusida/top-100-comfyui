@@ -1639,6 +1639,7 @@ ModelSamplingContinuousV: -1
 ModelSamplingDiscrete: 96
 ModelSamplingFlux: -1
 ModelSamplingSD3: 0
+ModelSamplingSD3Advanced+: -1
 ModelSamplingStableCascade: 1
 ModelSave: -1
 ModelSaveKJ: -1
