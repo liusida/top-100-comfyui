@@ -661,6 +661,7 @@ DeepTranslatorTextNode: 10
 DenoiseScheduleHookProvider: 10
 DenoiseSchedulerDetailerHookProvider: 1
 DensePosePreprocessor: 5
+Depth to normal: -1
 DepthAnythingPreprocessor: 58
 DepthAnythingV2Preprocessor: -1
 DepthViewer: -1
@@ -1628,6 +1629,7 @@ ModelMergeFlux1: -1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
 ModelMergeSD3: -1
+ModelMergeSD35_Large: -1
 ModelMergeSD3_2B: -1
 ModelMergeSDXL: 0
 ModelMergeSimple: 13
@@ -2412,6 +2414,7 @@ easy imageToBase64: 0
 easy imageToMask: 2
 easy imageUncropFromBBOX: 0
 easy imagesSplitImage: 1
+easy indexAnything: -1
 easy injectNoiseToLatent: 0
 easy instantIDApply: 3
 easy instantIDApplyADV: 0
