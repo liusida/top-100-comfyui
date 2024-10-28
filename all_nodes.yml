@@ -739,6 +739,7 @@ EmptyLatentAudio: -1
 EmptyLatentImage: 93
 EmptyLatentImageCustomPresets: -1
 EmptyLatentImagePresets: 0
+EmptyMochiLatentVideo: -1
 EmptySD3LatentImage: 0
 EmptySegs: 0
 Engineer: 1
@@ -2159,6 +2160,7 @@ ToonCrafterInterpolation: 3
 ToraEncodeOpticalFlow: -1
 ToraEncodeTrajectory: -1
 TorchCompileModel: -1
+TorchCompileModelFluxAdvanced: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
 TransitionImagesMulti: -1
@@ -2298,6 +2300,7 @@ Zoe_DepthAnythingPreprocessor: 6
 accuweather_tool: -1
 advance_ebd_tool: -1
 any2str: -1
+any_switcher: -1
 api_function: -1
 api_tool: -1
 arxiv_tool: -1
@@ -2572,6 +2575,7 @@ md_to_html: -1
 mini_error_correction: -1
 mini_flux_prompt: -1
 mini_flux_tag: -1
+mini_intent_recognition: -1
 mini_ocr: -1
 mini_party: -1
 mini_sd_prompt: -1
