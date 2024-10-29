@@ -7,7 +7,7 @@
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.5k` | **Created at**: `2024-10-27`
+**Stars**: `7.5k` | **Created at**: `2024-10-28`
 
 
 fast-stable-diffusion + DreamBooth
@@ -18,7 +18,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `6.8k` | **Created at**: `2024-10-27`
+**Stars**: `6.8k` | **Created at**: `2024-10-28`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `4.6k` | **Created at**: `2024-10-27`
+**Stars**: `4.6k` | **Created at**: `2024-10-28`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -62,7 +62,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `1.3k` | **Created at**: `2024-10-27`
+**Stars**: `1.3k` | **Created at**: `2024-10-28`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -73,7 +73,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.2k` | **Created at**: `2024-10-27`
+**Stars**: `1.2k` | **Created at**: `2024-10-28`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -84,7 +84,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.0k` | **Created at**: `2024-10-27`
+**Stars**: `1.0k` | **Created at**: `2024-10-28`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -100,7 +100,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `865` | **Created at**: `2024-10-27`
+**Stars**: `867` | **Created at**: `2024-10-28`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -111,7 +111,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/diStyApps/seait'>
 <img src="https://avatars.githubusercontent.com/u/3084832?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diStyApps/seait
 
-**Stars**: `722` | **Created at**: `2024-10-26`
+**Stars**: `723` | **Created at**: `2024-10-28`
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -122,7 +122,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `678` | **Created at**: `2024-10-27`
+**Stars**: `679` | **Created at**: `2024-10-28`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -133,7 +133,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `621` | **Created at**: `2024-10-27`
+**Stars**: `625` | **Created at**: `2024-10-28`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -160,7 +160,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `595` | **Created at**: `2024-10-27`
+**Stars**: `596` | **Created at**: `2024-10-28`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -171,7 +171,7 @@ ComfyUI docker images for use in GPU cloud and local environments. Includes AI-D
 <a href='https://github.com/mrhan1993/Fooocus-API'>
 <img src="https://avatars.githubusercontent.com/u/50648276?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mrhan1993/Fooocus-API
 
-**Stars**: `577` | **Created at**: `2024-10-23`
+**Stars**: `578` | **Created at**: `2024-10-28`
 
 
 FastAPI powered API for Fooocus
@@ -193,7 +193,7 @@ Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion mo
 <a href='https://github.com/fofr/cog-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-comfyui
 
-**Stars**: `524` | **Created at**: `2024-10-27`
+**Stars**: `525` | **Created at**: `2024-10-28`
 
 
 Run ComfyUI with an API
@@ -215,7 +215,7 @@ From comfyui workflow to web app, in seconds
 <a href='https://github.com/ModelSurge/sd-webui-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/120546502?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ModelSurge/sd-webui-comfyui
 
-**Stars**: `511` | **Created at**: `2024-10-22`
+**Stars**: `513` | **Created at**: `2024-10-28`
 
 
 An extension to integrate ComfyUI workflows into the Webui's pipeline
