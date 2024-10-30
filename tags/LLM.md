@@ -7,11 +7,11 @@
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `938` | **Created at**: `2024-10-28`
+**Stars**: `939` | **Created at**: `2024-10-29`
 
 
 Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.2, Linkage neo4j KG, graphRAG / RAG / html 2 img
-<details><summary>Included Nodes (188)</summary>
+<details><summary>Included Nodes (189)</summary>
 
  - <sub>About_us</sub>, <sub>accuweather_tool</sub>, <sub>advance_ebd_tool</sub>, <sub>AmapRegeoTool</sub>, <sub>AmapWeatherTool</sub>, <sub>any2str</sub>, <sub>any_switcher</sub>, <sub>api_function</sub>, <sub>api_tool</sub>, <sub>arxiv_tool</sub>
  - <sub>bing_loader</sub>, <sub>bing_tool</sub>, <sub>bool_logic</sub>, <sub>Browser_display</sub>
@@ -34,7 +34,7 @@ Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt n
  - <sub>text2json</sub>, <sub>text2parameters</sub>, <sub>text_iterator</sub>, <sub>text_writing</sub>, <sub>time_sleep</sub>, <sub>time_tool</sub>, <sub>tool_combine</sub>, <sub>tool_combine_plus</sub>, <sub>translate_persona</sub>, <sub>txt2srt</sub>
  - <sub>URL2IMG</sub>, <sub>url2img_tool</sub>
  - <sub>VAEDecode_party</sub>, <sub>vlmLoader</sub>
- - <sub>weekday_tool</sub>, <sub>wikipedia_tool</sub>, <sub>work_wechat</sub>, <sub>work_wechat_tool</sub>, <sub>workflow_tool</sub>, <sub>workflow_transfer</sub>, <sub>workflow_transfer_v2</sub>
+ - <sub>weekday_tool</sub>, <sub>whisper_local</sub>, <sub>wikipedia_tool</sub>, <sub>work_wechat</sub>, <sub>work_wechat_tool</sub>, <sub>workflow_tool</sub>, <sub>workflow_transfer</sub>, <sub>workflow_transfer_v2</sub>
 </details>
 
 

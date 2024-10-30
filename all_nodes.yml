@@ -539,6 +539,7 @@ CogVideoSampler: -1
 CogVideoTextEncode: -1
 CogVideoTextEncodeCombine: -1
 CogVideoTransformerEdit: -1
+CogVideoXFasterCache: -1
 CogVideoXFunControlSampler: -1
 CogVideoXFunSampler: -1
 CogVideoXFunVid2VidSampler: -1
@@ -2005,6 +2006,7 @@ SimpleMathInt+: -1
 SimpleMathPercent+: -1
 SimpleMathSlider+: -1
 SimpleMathSliderLowRes+: -1
+SkipLayerGuidanceSD3: -1
 Sleep: 0
 Smart Step (mtb): 0
 SmoothMask: 0
@@ -2159,8 +2161,10 @@ ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
 ToraEncodeOpticalFlow: -1
 ToraEncodeTrajectory: -1
+TorchCompileControlNet: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
+TorchCompileVAE: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
 TransitionImagesMulti: -1
@@ -2413,6 +2417,7 @@ easy imageSplitGrid: 1
 easy imageSplitList: 3
 easy imageSplitTiles: -1
 easy imageSwitch: 1
+easy imageTilesFromBatch: -1
 easy imageToBase64: 0
 easy imageToMask: 2
 easy imageUncropFromBBOX: 0
@@ -2681,6 +2686,7 @@ url2img_tool: -1
 vlmLoader: -1
 weather_tool: -1
 weekday_tool: -1
+whisper_local: -1
 wikipedia_tool: -1
 work_wechat: -1
 work_wechat_tool: -1

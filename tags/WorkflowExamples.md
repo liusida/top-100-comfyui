@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `5.0k` | **Created at**: `2024-10-28`
+**Stars**: `5.0k` | **Created at**: `2024-10-29`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.9k` | **Created at**: `2024-10-28`
+**Stars**: `1.9k` | **Created at**: `2024-10-29`
 
 
 Examples of ComfyUI workflows
@@ -51,7 +51,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `804` | **Created at**: `2024-10-28`
+**Stars**: `808` | **Created at**: `2024-10-29`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -89,7 +89,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `575` | **Created at**: `2024-10-27`
+**Stars**: `576` | **Created at**: `2024-10-29`
 
 
 Create images of a given character in different poses
