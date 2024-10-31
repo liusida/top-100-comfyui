@@ -156,6 +156,7 @@ APISR_Lterative_Zho: 2
 APISR_ModelLoader_Zho: 3
 APISR_Zho: 1
 About_us: -1
+AddFluxFlow: -1
 AddLabel: 2
 AddMask: 4
 AddNoise: 0
@@ -194,11 +195,13 @@ ApplyAdvancedFluxIPAdapter: -1
 ApplyCLIPSeg+: 0
 ApplyFluxControlNet: -1
 ApplyFluxIPAdapter: -1
+ApplyFluxRaveAttention: -1
 ApplyInstantID: 56
 ApplyInstantIDAdvanced: 2
 ApplyInstantIDControlNet: 0
 ApplyPulid: 11
 ApplyPulidAdvanced: 0
+ApplyRefFlux: -1
 ApplyVisualStylePrompting_: 0
 AreaToMask: 0
 ArgosTranslateCLIPTextEncodeNode: 0
@@ -598,6 +601,7 @@ ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
 ConditioningZeroOut: 26
+ConfigureRefFlux: -1
 ConsoleDebug+: 5
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
@@ -791,8 +795,13 @@ FluxAttentionSeeker+: -1
 FluxBlockLoraLoader: -1
 FluxBlockLoraSelect: -1
 FluxBlocksBuster+: -1
+FluxDeGuidance: -1
+FluxForwardODESampler: -1
 FluxGuidance: -1
+FluxInverseSampler: -1
 FluxLoraLoader: -1
+FluxNoiseMixer: -1
+FluxReverseODESampler: -1
 FluxSamplerParams+: -1
 FolderCleaner: -1
 Font: 1
@@ -1162,6 +1171,8 @@ ImpactValueReceiver: 12
 ImpactValueSender: 12
 ImpactWildcardEncode: 7
 ImpactWildcardProcessor: 16
+InFluxFlipSigmas: -1
+InFluxModelSamplingPred: -1
 IncrementingListNode_: 0
 InjectLatentNoise+: -1
 InjectNoiseToLatent: 3
@@ -1695,6 +1706,7 @@ OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
 OneFormer-COCO-SemSegPreprocessor: 20
 OpenposePreprocessor: 92
+OutFluxModelSamplingPred: -1
 OutlineMask: 0
 Output2String: 1
 P5Input: -1
