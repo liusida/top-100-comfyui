@@ -516,6 +516,8 @@ CenterImage: 0
 CfgScheduleHookProvider: 11
 CharacterInText: 2
 Chat: 3
+ChatGLM4TranslateCLIPTextEncodeNode: -1
+ChatGLM4TranslateTextNode: -1
 ChatGPT: 0
 ChatGPTOpenAI: 10
 ChatTTS_Node: -1
@@ -544,6 +546,7 @@ CogVideoTextEncodeCombine: -1
 CogVideoTransformerEdit: -1
 CogVideoXFasterCache: -1
 CogVideoXFunControlSampler: -1
+CogVideoXFunResizeToClosestBucket: -1
 CogVideoXFunSampler: -1
 CogVideoXFunVid2VidSampler: -1
 Color: 0
@@ -2244,9 +2247,12 @@ VHS_GetLatentCount: 8
 VHS_GetMaskCount: 0
 VHS_LoadAudio: 14
 VHS_LoadAudioUpload: 4
+VHS_LoadImagePath: -1
 VHS_LoadImages: 20
 VHS_LoadImagesPath: 79
 VHS_LoadVideo: 81
+VHS_LoadVideoFFmpeg: -1
+VHS_LoadVideoFFmpegPath: -1
 VHS_LoadVideoPath: 64
 VHS_MergeImages: 6
 VHS_MergeLatents: 1
