@@ -1801,6 +1801,7 @@ RemBGSession+: 33
 RemapDepth: 3
 RemapImageRange: 6
 RemapMaskRange: 7
+Remove noise: -1
 RemoveImageFromSEGS: 0
 RemoveLatentMask+: 5
 RemoveNoiseMask: 0
