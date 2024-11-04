@@ -758,6 +758,7 @@ ExpData: -1
 ExponentialScheduler: 0
 Export API: 0
 Export With Ffmpeg (mtb): 0
+Export glb: -1
 ExpressionEditor: -1
 ExtractKeyframes+: 0
 FILM VFI: 40
@@ -2011,6 +2012,7 @@ ShowTextForGPT: 12
 ShowText|pysssss: 99
 ShuffleImageBatch: -1
 ShufflePreprocessor: 5
+SigmasToFloat: -1
 SimpleComparison+: -1
 SimpleCondition+: -1
 SimpleMath+: 29
