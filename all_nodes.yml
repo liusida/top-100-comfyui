@@ -1718,6 +1718,7 @@ Pack SDXL Tuple: 8
 PainterNode: 17
 PatchCublasLinear: -1
 PatchModelAddDownscale: 24
+PatchModelPatcherOrder: -1
 PerpNeg: 0
 PerpNegGuider: 0
 PerturbedAttentionGuidance: 6
