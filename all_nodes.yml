@@ -538,6 +538,7 @@ CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
 CogVideoImageEncode: -1
 CogVideoImageInterpolationEncode: -1
+CogVideoLatentPreview: -1
 CogVideoLoraSelect: -1
 CogVideoPABConfig: -1
 CogVideoSampler: -1
@@ -1134,6 +1135,7 @@ ImpactIsNotEmptySEGS: 0
 ImpactKSamplerAdvancedBasicPipe: 5
 ImpactKSamplerBasicPipe: 14
 ImpactLatentInfo: 1
+ImpactListBridge: -1
 ImpactLogger: 0
 ImpactLogicalOperators: 0
 ImpactMakeAnyList: -1
@@ -2523,6 +2525,7 @@ easy showAnythingLazy: -1
 easy showLoaderSettingsNames: 0
 easy showSpentTime: 0
 easy showTensorShape: 0
+easy sleep: -1
 easy sliderControl: -1
 easy stableDiffusion3API: 1
 easy string: 0
