@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `1.9k` | **Created at**: `2024-11-07`
+**Stars**: `1.9k` | **Created at**: `2024-11-08`
 
 
 Examples of ComfyUI workflows
@@ -34,27 +34,27 @@ Examples of ComfyUI workflows
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
 
-## wyrde/wyrde-comfyui-workflows
-
-
-<a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
-<img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
-
-**Stars**: `846` | **Created at**: `2024-11-06`
-
-
-some wyrde workflows for comfyUI
-
 ## yolain/ComfyUI-Yolain-Workflows
 
 
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `844` | **Created at**: `2024-11-07`
+**Stars**: `847` | **Created at**: `2024-11-08`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
+
+## wyrde/wyrde-comfyui-workflows
+
+
+<a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
+<img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
+
+**Stars**: `847` | **Created at**: `2024-11-08`
+
+
+some wyrde workflows for comfyUI
 
 ## SeargeDP/SeargeSDXL
 
@@ -62,7 +62,7 @@ Some awesome comfyui workflows in here, and they are built using the comfyui-eas
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `791` | **Created at**: `2024-11-06`
+**Stars**: `792` | **Created at**: `2024-11-08`
 
 
 Custom nodes and workflows for SDXL in ComfyUI

@@ -550,6 +550,7 @@ CogVideoXFunControlSampler: -1
 CogVideoXFunResizeToClosestBucket: -1
 CogVideoXFunSampler: -1
 CogVideoXFunVid2VidSampler: -1
+CogVideoXTorchCompileSettings: -1
 Color: 0
 Color Correct (mtb): 6
 ColorMatch: 19
