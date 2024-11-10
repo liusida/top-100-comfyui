@@ -2482,6 +2482,7 @@ easy loraStackApply: -1
 easy mathFloat: -1
 easy mathInt: -1
 easy mathString: -1
+easy mochiLoader: -1
 easy negative: 1
 easy outputToList: -1
 easy pipeBatchIndex: 0
