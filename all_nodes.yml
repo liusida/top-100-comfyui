@@ -2570,6 +2570,7 @@ got_ocr: -1
 gpt_sovits: -1
 graph_md_to_html: -1
 html2img_function: -1
+ic_lora_persona: -1
 image_iterator: -1
 img2path: -1
 interpreter_function: -1
@@ -2588,10 +2589,12 @@ list_extend_plus: -1
 listen_audio: -1
 llama-cpp: 5
 llava: 0
+load_bool: -1
 load_ebd: -1
 load_excel: -1
 load_file: -1
 load_file_folder: -1
+load_float: -1
 load_img_path: -1
 load_int: -1
 load_keyword: -1
