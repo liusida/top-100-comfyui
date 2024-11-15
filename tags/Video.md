@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `1.9k` | **Created at**: `2024-11-13`
+**Stars**: `1.9k` | **Created at**: `2024-11-14`
 
 
 None
@@ -27,7 +27,7 @@ None
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `838` | **Created at**: `2024-11-09`
+**Stars**: `839` | **Created at**: `2024-11-14`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -38,7 +38,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `696` | **Created at**: `2024-11-13`
+**Stars**: `698` | **Created at**: `2024-11-14`
 
 
 AnimateDiff for ComfyUI
@@ -56,7 +56,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `630` | **Created at**: `2024-11-11`
+**Stars**: `631` | **Created at**: `2024-11-14`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
@@ -73,7 +73,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `597` | **Created at**: `2024-11-13`
+**Stars**: `601` | **Created at**: `2024-11-14`
 
 
 Nodes related to video workflows
