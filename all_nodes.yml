@@ -606,6 +606,7 @@ ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
 ConditioningZeroOut: 26
+ConfigureModifiedFlux: -1
 ConfigureRefFlux: -1
 ConsoleDebug+: 5
 Constant Number: 15
@@ -797,6 +798,8 @@ FloatingVideo: 15
 Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
+FlowEditForwardSampler: -1
+FlowEditReverseSampler: -1
 FluxAttentionSeeker+: -1
 FluxBlockLoraLoader: -1
 FluxBlockLoraSelect: -1
@@ -885,10 +888,15 @@ IFUnet VFI: 2
 IF_ChatPrompt: 4
 IF_DisplayOmni: -1
 IF_DisplayText: 4
+IF_DisplayTextWildcard: -1
 IF_ImagePrompt: 0
+IF_JoinText: -1
+IF_LoadImagesS: -1
 IF_PromptMkr: 0
 IF_SaveText: 0
+IF_StepCounter: -1
 IF_TextTyper: -1
+IF_VisualizeGraph: -1
 IF_saveText: 0
 INPAINT_ApplyFooocusInpaint: 19
 INPAINT_DenoiseToCompositingMask: 0
@@ -1510,6 +1518,7 @@ Load MotionBrush From Optical Flow Without Model: 0
 Load MotionBrush From Tracking Points: 0
 Load MotionBrush From Tracking Points Without Model: 0
 Load Pose KeyPoints: 0
+Load Random Text From File: -1
 Load Text File: 1
 LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
@@ -1644,8 +1653,10 @@ Model Input Switch: 0
 Model Patch Seamless (mtb): 3
 ModelCompile+: 0
 ModelMergeAdd: 0
+ModelMergeAuraflow: -1
 ModelMergeBlocks: 1
 ModelMergeFlux1: -1
+ModelMergeMochiPreview: -1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
 ModelMergeSD3: -1
@@ -1756,6 +1767,7 @@ PoseNode: 5
 PowerPaint: 6
 PowerPaintCLIPLoader: 6
 PrepImageForClipVision: 98
+PrepareAttnBank: -1
 PreviewAnimation: 1
 PreviewAudio: -1
 PreviewBridge: 40
@@ -1777,6 +1789,8 @@ PulidModelLoader: 12
 PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
 RAUNet: 4
+RFDoubleBlocksOverride: -1
+RFSingleBlocksOverride: -1
 RIFE VFI: 98
 RSS_loader: -1
 RSS_tool: -1
@@ -2560,6 +2574,7 @@ feishu: -1
 feishu_tool: -1
 file_combine: -1
 file_combine_plus: -1
+file_path_iterator: -1
 flux_persona: -1
 genai_api_loader: -1
 get_string: -1
