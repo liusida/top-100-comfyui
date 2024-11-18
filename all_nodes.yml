@@ -1332,6 +1332,7 @@ LatentUpscaler: 0
 'LayerMask: HumanPartsUltra': -1
 'LayerMask: ImageToMask': 2
 'LayerMask: LoadBiRefNetModel': -1
+'LayerMask: LoadBiRefNetModelV2': -1
 'LayerMask: LoadFlorence2Model': -1
 'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': 2
@@ -2592,6 +2593,7 @@ interpreter_function: -1
 interpreter_tool: -1
 interrupt_loop: -1
 json2text: -1
+json_extractor: -1
 json_get_value: -1
 json_iterator: -1
 json_parser: -1
