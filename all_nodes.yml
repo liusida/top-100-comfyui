@@ -801,6 +801,7 @@ Florence2toCoordinates: -1
 FlowEditForwardSampler: -1
 FlowEditReverseSampler: -1
 FluxAttentionSeeker+: -1
+FluxAttnOverride: -1
 FluxBlockLoraLoader: -1
 FluxBlockLoraSelect: -1
 FluxBlocksBuster+: -1
@@ -1322,6 +1323,7 @@ LatentUpscaler: 0
 'LayerFilter: SoftLight': 1
 'LayerFilter: WaterColor': 1
 'LayerMask: BBoxJoin': -1
+'LayerMask: BenUltra': -1
 'LayerMask: BiRefNetUltra': 6
 'LayerMask: BiRefNetUltraV2': -1
 'LayerMask: BlendIf Mask': 2
@@ -1331,6 +1333,7 @@ LatentUpscaler: 0
 'LayerMask: Florence2Ultra': -1
 'LayerMask: HumanPartsUltra': -1
 'LayerMask: ImageToMask': 2
+'LayerMask: LoadBenModel': -1
 'LayerMask: LoadBiRefNetModel': -1
 'LayerMask: LoadBiRefNetModelV2': -1
 'LayerMask: LoadFlorence2Model': -1
@@ -1729,6 +1732,7 @@ OutFluxModelSamplingPred: -1
 OutlineMask: 0
 Output2String: 1
 P5Input: -1
+PAGAttention: -1
 Pack SDXL Tuple: 8
 PainterNode: 17
 PatchCublasLinear: -1
@@ -1855,6 +1859,7 @@ SDXLEmptyLatentSizePicker+: 3
 SDXLPromptStyler: 79
 SDXLPromptStylerAdvanced: 5
 SD_4XUpscale_Conditioning: 1
+SEGAttention: -1
 SEGSDetailer: 0
 SEGSDetailerForAnimateDiff: 25
 SEGSLabelFilterDetailerHookProvider: 0
@@ -2043,6 +2048,7 @@ SimpleMathInt+: -1
 SimpleMathPercent+: -1
 SimpleMathSlider+: -1
 SimpleMathSliderLowRes+: -1
+SkipLayerGuidanceDiT: -1
 SkipLayerGuidanceSD3: -1
 Sleep: 0
 Smart Step (mtb): 0
@@ -2418,6 +2424,7 @@ easy detailerFix: 1
 easy dynamiCrafterLoader: 0
 easy float: 0
 easy fluxLoader: -1
+easy fluxPromptGenAPI: -1
 easy forLoopEnd: -1
 easy forLoopStart: -1
 easy fullCascadeKSampler: 3
