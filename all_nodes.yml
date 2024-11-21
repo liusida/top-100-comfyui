@@ -537,6 +537,7 @@ CogVideoControlNet: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
 CogVideoImageEncode: -1
+CogVideoImageEncodeFunInP: -1
 CogVideoImageInterpolationEncode: -1
 CogVideoLatentPreview: -1
 CogVideoLoraSelect: -1
@@ -550,7 +551,9 @@ CogVideoXFunControlSampler: -1
 CogVideoXFunResizeToClosestBucket: -1
 CogVideoXFunSampler: -1
 CogVideoXFunVid2VidSampler: -1
+CogVideoXModelLoader: -1
 CogVideoXTorchCompileSettings: -1
+CogVideoXVAELoader: -1
 Color: 0
 Color Correct (mtb): 6
 ColorMatch: 19
