@@ -749,6 +749,7 @@ Eff. Loader SDXL: 14
 Efficient Loader: 64
 EmbeddingPrompt: 2
 EmptyImage: 44
+EmptyLTXVLatentVideo: -1
 EmptyLatentAudio: -1
 EmptyLatentImage: 93
 EmptyLatentImageCustomPresets: -1
@@ -1257,6 +1258,9 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTXVConditioning: -1
+LTXVImgToVideo: -1
+LTXVScheduler: -1
 LaplaceScheduler: -1
 Latent Batch: 0
 Latent Input Switch: 0
@@ -1678,6 +1682,7 @@ ModelSamplingContinuousEDM: 14
 ModelSamplingContinuousV: -1
 ModelSamplingDiscrete: 96
 ModelSamplingFlux: -1
+ModelSamplingLTXV: -1
 ModelSamplingSD3: 0
 ModelSamplingSD3Advanced+: -1
 ModelSamplingStableCascade: 1
@@ -2210,6 +2215,7 @@ ToonCrafterInterpolation: 3
 ToraEncodeOpticalFlow: -1
 ToraEncodeTrajectory: -1
 TorchCompileControlNet: -1
+TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
 TorchCompileVAE: -1
@@ -2629,6 +2635,7 @@ load_img_path: -1
 load_int: -1
 load_keyword: -1
 load_llm_lora: -1
+load_memo: -1
 load_name: -1
 load_name_v2: -1
 load_openai_ebd: -1
@@ -2668,6 +2675,7 @@ red_book: -1
 red_book_text_persona: -1
 replace_string: -1
 save_ebd_database: -1
+save_memo: -1
 save_openai_ebd: -1
 savepersona: -1
 sdBxb: -1
