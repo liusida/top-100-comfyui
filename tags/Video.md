@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `1.9k` | **Created at**: `2024-11-24`
+**Stars**: `1.9k` | **Created at**: `2024-11-25`
 
 
 None
@@ -38,7 +38,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `700` | **Created at**: `2024-11-23`
+**Stars**: `701` | **Created at**: `2024-11-25`
 
 
 AnimateDiff for ComfyUI
@@ -73,7 +73,7 @@ Wrapper to use DynamiCrafter models in ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `613` | **Created at**: `2024-11-25`
+**Stars**: `615` | **Created at**: `2024-11-25`
 
 
 Nodes related to video workflows

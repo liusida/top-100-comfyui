@@ -202,6 +202,7 @@ ApplyInstantIDControlNet: 0
 ApplyPulid: 11
 ApplyPulidAdvanced: 0
 ApplyRefFlux: -1
+ApplyRegionalConds: -1
 ApplyVisualStylePrompting_: 0
 AreaToMask: 0
 ArgosTranslateCLIPTextEncodeNode: 0
@@ -646,6 +647,7 @@ CreateInstanceDiffusionTracking: 1
 CreateJsonNode: -1
 CreateMagicMask: 0
 CreatePromptVariant: 3
+CreateRegionalCond: -1
 CreateShapeImageOnPath: 0
 CreateShapeMask: 6
 CreateShapeMaskOnPath: 3
@@ -696,6 +698,7 @@ Diffusers Hub Model Down-Loader: 0
 Diffusers Model Loader: 0
 DiffusersLoader: 5
 DiffusionEdge_Preprocessor: 0
+DiffusionModelLoaderKJ: -1
 DifyTextGenerator //Browser: 0
 Dingding: -1
 Dingding_tool: -1
@@ -1830,6 +1833,7 @@ Ref_Image_Preprocessing: 11
 RegionalPrompt: 12
 RegionalSampler: 12
 RegionalSamplerAdvanced: 0
+RegionalStyleModelApply: -1
 RemBGSession+: 33
 RemapDepth: 3
 RemapImageRange: 6
