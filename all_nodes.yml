@@ -2498,6 +2498,7 @@ easy ipadapterApplyFromParams: 0
 easy ipadapterApplyRegional: 0
 easy ipadapterStyleComposition: 0
 easy isFileExist: -1
+easy isMaskEmpty: -1
 easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
@@ -2629,6 +2630,7 @@ list_extend_plus: -1
 listen_audio: -1
 llama-cpp: 5
 llava: 0
+load_SQL_memo: -1
 load_bool: -1
 load_ebd: -1
 load_excel: -1
@@ -2644,6 +2646,7 @@ load_name: -1
 load_name_v2: -1
 load_openai_ebd: -1
 load_persona: -1
+load_redis_memo: -1
 load_url: -1
 load_wikipedia: -1
 md_to_excel: -1
@@ -2678,9 +2681,11 @@ path2img_tool: -1
 red_book: -1
 red_book_text_persona: -1
 replace_string: -1
+save_SQL_memo: -1
 save_ebd_database: -1
 save_memo: -1
 save_openai_ebd: -1
+save_redis_memo: -1
 savepersona: -1
 sdBxb: -1
 sdBxb_saveImage: -1
