@@ -1386,6 +1386,7 @@ LatentUpscaler: 0
 'LayerStyle: ColorOverlay V2': 1
 'LayerStyle: DropShadow': 11
 'LayerStyle: DropShadow V2': 1
+'LayerStyle: DropShadow V3': -1
 'LayerStyle: Gradient Map': -1
 'LayerStyle: GradientOverlay': 2
 'LayerStyle: GradientOverlay V2': 1
@@ -1412,6 +1413,7 @@ LatentUpscaler: 0
 'LayerUtility: CropBoxResolve': 1
 'LayerUtility: CropByMask': 2
 'LayerUtility: CropByMask V2': 1
+'LayerUtility: CropByMask V3': -1
 'LayerUtility: DecodeQRCode': 2
 'LayerUtility: ExtendCanvas': 2
 'LayerUtility: ExtendCanvasV2': 1
@@ -1434,6 +1436,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageBlend V2': 3
 'LayerUtility: ImageBlendAdvance': 15
 'LayerUtility: ImageBlendAdvance V2': 2
+'LayerUtility: ImageBlendAdvance V3': -1
 'LayerUtility: ImageChannelMerge': 1
 'LayerUtility: ImageChannelSplit': 1
 'LayerUtility: ImageCombineAlpha': 3
@@ -1670,6 +1673,7 @@ ModelMergeAdd: 0
 ModelMergeAuraflow: -1
 ModelMergeBlocks: 1
 ModelMergeFlux1: -1
+ModelMergeLTXV: -1
 ModelMergeMochiPreview: -1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
@@ -2121,6 +2125,8 @@ SystemNotification|pysssss: 0
 TEEDPreprocessor: 1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
+TTP_Expand_And_Mask: -1
+TTP_text_mix: -1
 TTPlanet_TileGF_Preprocessor: 0
 TTPlanet_TileSimple_Preprocessor: 0
 Tensor Batch to Image: 0
