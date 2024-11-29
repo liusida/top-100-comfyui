@@ -542,6 +542,7 @@ CogVideoImageEncodeFunInP: -1
 CogVideoImageInterpolationEncode: -1
 CogVideoLatentPreview: -1
 CogVideoLoraSelect: -1
+CogVideoLoraSelectComfy: -1
 CogVideoPABConfig: -1
 CogVideoSampler: -1
 CogVideoTextEncode: -1
@@ -2523,11 +2524,13 @@ easy loadImageBase64: 17
 easy loadImagesForLoop: -1
 easy loraStack: 4
 easy loraStackApply: -1
+easy makeImageForICLora: -1
 easy mathFloat: -1
 easy mathInt: -1
 easy mathString: -1
 easy mochiLoader: -1
 easy negative: 1
+easy ominiControlApply: -1
 easy outputToList: -1
 easy pipeBatchIndex: 0
 easy pipeEdit: 6
