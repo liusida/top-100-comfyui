@@ -2371,6 +2371,7 @@ Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
 accuweather_tool: -1
 advance_ebd_tool: -1
+aisuite_loader: -1
 any2str: -1
 any_switcher: -1
 api_function: -1
