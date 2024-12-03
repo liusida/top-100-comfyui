@@ -2610,6 +2610,8 @@ file_combine: -1
 file_combine_plus: -1
 file_path_iterator: -1
 files_read_tool: -1
+fish_tts: -1
+fish_whisper: -1
 flux_persona: -1
 genai_api_loader: -1
 get_string: -1
