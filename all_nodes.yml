@@ -1,14 +1,20 @@
 3DImage: 4
 ACN_AdvancedControlNetApply: 100
 ACN_AdvancedControlNetApplySingle: -1
+ACN_AdvancedControlNetApplySingle_v2: -1
+ACN_AdvancedControlNetApply_v2: -1
 ACN_ControlNet++InputNode: -1
 ACN_ControlNet++LoaderAdvanced: -1
 ACN_ControlNet++LoaderSingle: -1
+ACN_ControlNetLoaderAdvanced: -1
 ACN_ControlNetLoaderWithLoraAdvanced: 0
+ACN_CtrLoRALoader: -1
 ACN_CustomControlNetWeightsFlux: -1
 ACN_CustomControlNetWeightsSD15: -1
 ACN_CustomT2IAdapterWeights: -1
 ACN_DefaultUniversalWeights: 0
+ACN_DiffControlNetLoaderAdvanced: -1
+ACN_ExtrasMiddleMult: -1
 ACN_ReferenceControlNet: 1
 ACN_ReferenceControlNetFinetune: 0
 ACN_ReferencePreprocessor: 0
@@ -113,6 +119,7 @@ ADE_MultivalDynamic: 24
 ADE_MultivalDynamicFloatInput: -1
 ADE_MultivalDynamicFloats: -1
 ADE_MultivalScaledMask: 2
+ADE_NoiseCalibration: -1
 ADE_NoiseLayerAdd: 0
 ADE_NoiseLayerAddWeighted: 0
 ADE_NoiseLayerReplace: 0
@@ -1582,6 +1589,7 @@ LoraLoader|pysssss: 11
 LoraNames_: 0
 LoraPrompt: 0
 LoraSave: -1
+LorapathLoader: -1
 LorasForFluxParams+: -1
 Lorebook: -1
 M-LSDPreprocessor: 44
