@@ -524,6 +524,7 @@ CenterImage: 0
 CfgScheduleHookProvider: 11
 CharacterInText: 2
 Chat: 3
+ChatGLM4InstructNode: -1
 ChatGLM4TranslateCLIPTextEncodeNode: -1
 ChatGLM4TranslateTextNode: -1
 ChatGPT: 0
