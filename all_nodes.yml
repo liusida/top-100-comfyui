@@ -524,6 +524,7 @@ CenterImage: 0
 CfgScheduleHookProvider: 11
 CharacterInText: 2
 Chat: 3
+ChatGLM4InstructMediaNode: -1
 ChatGLM4InstructNode: -1
 ChatGLM4TranslateCLIPTextEncodeNode: -1
 ChatGLM4TranslateTextNode: -1
@@ -728,6 +729,7 @@ DownloadAndLoadDynamiCrafterCNModel: -1
 DownloadAndLoadDynamiCrafterModel: 4
 DownloadAndLoadFlorence2Lora: -1
 DownloadAndLoadFlorence2Model: -1
+DownloadAndLoadHyVideoTextEncoder: -1
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
 DownloadAndLoadSAM2Model: -1
@@ -889,6 +891,15 @@ Hex to HSL: -1
 HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
+HyVideoBlockSwap: -1
+HyVideoDecode: -1
+HyVideoEncode: -1
+HyVideoModelLoader: -1
+HyVideoSTG: -1
+HyVideoSampler: -1
+HyVideoTextEncode: -1
+HyVideoTorchCompileSettings: -1
+HyVideoVAELoader: -1
 HyperTile: 2
 HypernetworkLoader: 3
 ICLightApplyMaskGrey: 8
@@ -2723,6 +2734,8 @@ start_workflow: -1
 story_json_tool: -1
 str2float: -1
 str2int: -1
+string_combine: -1
+string_combine_plus: -1
 string_logic: -1
 substring: -1
 svg2html: -1
