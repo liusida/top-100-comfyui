@@ -596,6 +596,7 @@ ComfyUIDeployExternalTextList: -1
 ComfyUIDeployExternalVid: 0
 ComfyUIDeployExternalVideo: 0
 ComfyUIDeployModelList: -1
+ComfyUIDeployStringCombine: -1
 ComparingTwoFrames_: 0
 CompositeImages_: 0
 CompositeMotionBrush: 1
@@ -892,6 +893,7 @@ HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyVideoBlockSwap: -1
+HyVideoCustomPromptTemplate: -1
 HyVideoDecode: -1
 HyVideoEncode: -1
 HyVideoModelLoader: -1
