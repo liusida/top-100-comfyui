@@ -782,6 +782,7 @@ Export API: 0
 Export With Ffmpeg (mtb): 0
 Export glb: -1
 ExpressionEditor: -1
+ExtractFluxLoRA: -1
 ExtractKeyframes+: 0
 FILM VFI: 40
 FLAVR VFI: 0
@@ -828,10 +829,21 @@ FluxDeGuidance: -1
 FluxForwardODESampler: -1
 FluxGuidance: -1
 FluxInverseSampler: -1
+FluxKohyaInferenceSampler: -1
 FluxLoraLoader: -1
 FluxNoiseMixer: -1
 FluxReverseODESampler: -1
 FluxSamplerParams+: -1
+FluxTrainAndValidateLoop: -1
+FluxTrainBlockSelect: -1
+FluxTrainEnd: -1
+FluxTrainLoop: -1
+FluxTrainModelSelect: -1
+FluxTrainResume: -1
+FluxTrainSave: -1
+FluxTrainSaveModel: -1
+FluxTrainValidate: -1
+FluxTrainValidationSettings: -1
 FolderCleaner: -1
 Font: 1
 FreeU: 19
@@ -1219,6 +1231,8 @@ ImpactWildcardProcessor: 16
 InFluxFlipSigmas: -1
 InFluxModelSamplingPred: -1
 IncrementingListNode_: 0
+InitFluxLoRATraining: -1
+InitFluxTraining: -1
 InjectLatentNoise+: -1
 InjectNoiseToLatent: 3
 InpaintModelConditioning: 39
@@ -1766,6 +1780,10 @@ OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
 OneFormer-COCO-SemSegPreprocessor: 20
 OpenposePreprocessor: 92
+OptimizerConfig: -1
+OptimizerConfigAdafactor: -1
+OptimizerConfigProdigy: -1
+OptimizerConfigProdigyPlusScheduleFree: -1
 OutFluxModelSamplingPred: -1
 OutlineMask: 0
 Output2String: 1
@@ -2252,6 +2270,9 @@ TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
 TorchCompileVAE: -1
+TrainDatasetAdd: -1
+TrainDatasetGeneralConfig: -1
+TrainDatasetRegularization: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
 TransitionImagesMulti: -1
@@ -2287,6 +2308,7 @@ Unpack SDXL Tuple: 10
 UnsamplerDetailerHookProvider: 1
 UnsamplerHookProvider: 0
 Unsplash Image (mtb): 0
+UploadToHuggingFace: -1
 UploadToRemote //Browser: 0
 UpperBodyTrackingFromPoseKps: 0
 Upscale Model Loader: 6
@@ -2356,6 +2378,7 @@ Video Dump Frames: 0
 VideoCombine_Adv: 0
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
+VisualizeLoss: -1
 WD14Tagger|pysssss: 82
 WebcamCapture: 1
 WebcamCaptureCV2: -1
