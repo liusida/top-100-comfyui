@@ -905,12 +905,21 @@ HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyVideoBlockSwap: -1
+HyVideoCFG: -1
 HyVideoCustomPromptTemplate: -1
 HyVideoDecode: -1
+HyVideoEmptyTextEmbeds: -1
 HyVideoEncode: -1
+HyVideoInverseSampler: -1
+HyVideoLatentPreview: -1
+HyVideoLoraBlockEdit: -1
+HyVideoLoraSelect: -1
 HyVideoModelLoader: -1
+HyVideoReSampler: -1
 HyVideoSTG: -1
 HyVideoSampler: -1
+HyVideoTextEmbedsLoad: -1
+HyVideoTextEmbedsSave: -1
 HyVideoTextEncode: -1
 HyVideoTorchCompileSettings: -1
 HyVideoVAELoader: -1
@@ -1459,11 +1468,14 @@ LatentUpscaler: 0
 'LayerUtility: GetColorToneV2': 2
 'LayerUtility: GetImageSize': 7
 'LayerUtility: GetMainColors': -1
+'LayerUtility: GetMainColorsV2': -1
 'LayerUtility: GradientImage': 0
 'LayerUtility: GradientImage V2': 2
 'LayerUtility: GrayValue': -1
 'LayerUtility: HLFrequencyDetailRestore': 1
 'LayerUtility: HSV Value': -1
+'LayerUtility: ICMask': -1
+'LayerUtility: ICMaskCropBack': -1
 'LayerUtility: If': -1
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
@@ -1573,6 +1585,8 @@ Load MotionBrush From Tracking Points Without Model: 0
 Load Pose KeyPoints: 0
 Load Random Text From File: -1
 Load Text File: 1
+Load3D: -1
+Load3DAnimation: -1
 LoadAPIconfig: 0
 LoadAndApplyICLightUnet: 8
 LoadAndCombinedAudio_: 0
@@ -1627,6 +1641,7 @@ MMDetLoader: 2
 MagicClothing_Animatediff: 2
 MagicClothing_Generate: 11
 MagicClothing_Inpainting: 2
+Mahiro: -1
 Make Interpolation State List: 0
 Manga2Anime_LineArt_Preprocessor: 5
 Manual XY Entry Info: 0
