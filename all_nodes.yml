@@ -217,6 +217,7 @@ ArgosTranslateTextNode: 0
 ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
 Assistant: 2
+AudioConcatenate: -1
 AudioPlay: -1
 AutoNegativePrompt: 3
 BAE-NormalMapPreprocessor: 23
@@ -915,6 +916,7 @@ HyVideoLatentPreview: -1
 HyVideoLoraBlockEdit: -1
 HyVideoLoraSelect: -1
 HyVideoModelLoader: -1
+HyVideoPromptMixSampler: -1
 HyVideoReSampler: -1
 HyVideoSTG: -1
 HyVideoSampler: -1
@@ -1444,6 +1446,7 @@ LatentUpscaler: 0
 'LayerStyle: Stroke': 3
 'LayerStyle: Stroke V2': 1
 'LayerUtility: AddBlindWaterMark': 2
+'LayerUtility: AnyRerouter': -1
 'LayerUtility: BatchSelector': 1
 'LayerUtility: Boolean': 1
 'LayerUtility: BooleanOperator': 2
@@ -1525,6 +1528,7 @@ LatentUpscaler: 0
 'LayerUtility: RandomGenerator': -1
 'LayerUtility: RandomGeneratorV2': -1
 'LayerUtility: RestoreCropBox': 3
+'LayerUtility: RoundedRectangle': -1
 'LayerUtility: SD3NegativeConditioning': -1
 'LayerUtility: SaveImagePlus': 1
 'LayerUtility: Seed': 1
