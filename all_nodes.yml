@@ -764,6 +764,7 @@ EditDetailerPipeSDXL: 0
 Eff. Loader SDXL: 14
 Efficient Loader: 64
 EmbeddingPrompt: 2
+EmptyHunyuanLatentVideo: -1
 EmptyImage: 44
 EmptyLTXVLatentVideo: -1
 EmptyLatentAudio: -1
@@ -923,6 +924,7 @@ HyVideoSampler: -1
 HyVideoTextEmbedsLoad: -1
 HyVideoTextEmbedsSave: -1
 HyVideoTextEncode: -1
+HyVideoTextImageEncode: -1
 HyVideoTorchCompileSettings: -1
 HyVideoVAELoader: -1
 HyperTile: 2
