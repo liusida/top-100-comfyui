@@ -821,7 +821,9 @@ Florence2ModelLoader: -1
 Florence2Run: -1
 Florence2toCoordinates: -1
 FlowEditForwardSampler: -1
+FlowEditGuider: -1
 FlowEditReverseSampler: -1
+FlowEditSampler: -1
 FluxAttentionSeeker+: -1
 FluxAttnOverride: -1
 FluxBlockLoraLoader: -1
@@ -1850,6 +1852,7 @@ PowerPaint: 6
 PowerPaintCLIPLoader: 6
 PrepImageForClipVision: 98
 PrepareAttnBank: -1
+Preview3D: -1
 PreviewAnimation: 1
 PreviewAudio: -1
 PreviewBridge: 40
