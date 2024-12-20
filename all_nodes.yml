@@ -621,6 +621,7 @@ ConditioningSetMaskAndCombine3: 0
 ConditioningSetMaskAndCombine4: 0
 ConditioningSetMaskAndCombine5: 0
 ConditioningSetTimestepRange: 18
+ConditioningStableAudio: -1
 ConditioningZeroOut: 26
 ConfigureModifiedFlux: -1
 ConfigureRefFlux: -1
@@ -910,6 +911,7 @@ HighRes-Fix Script: 25
 HintImageEnchance: 3
 HyVideoBlockSwap: -1
 HyVideoCFG: -1
+HyVideoContextOptions: -1
 HyVideoCustomPromptTemplate: -1
 HyVideoDecode: -1
 HyVideoEmptyTextEmbeds: -1
@@ -1497,6 +1499,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageCombineAlpha': 3
 'LayerUtility: ImageHub': 2
 'LayerUtility: ImageMaskScaleAs': 5
+'LayerUtility: ImageMaskScaleAsV2': -1
 'LayerUtility: ImageOpacity': 1
 'LayerUtility: ImageReel': -1
 'LayerUtility: ImageReelComposit': -1
@@ -1519,6 +1522,7 @@ LatentUpscaler: 0
 'LayerUtility: LoadJoyCaption2Model': -1
 'LayerUtility: LoadPSD': 1
 'LayerUtility: LoadVQAModel': -1
+'LayerUtility: NameToColor': -1
 'LayerUtility: NumberCalculator': 2
 'LayerUtility: NumberCalculatorV2': -1
 'LayerUtility: PhiPrompt': -1
