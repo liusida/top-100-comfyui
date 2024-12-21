@@ -1702,6 +1702,8 @@ MaskOptFlow: 0
 MaskOrImageToWeight: 0
 MaskPainter: 0
 MaskPreview+: 55
+MaskRectArea: -1
+MaskRectAreaAdvanced: -1
 MaskSmooth+: 0
 MaskToImage: 97
 MaskToSEGS: 59
