@@ -299,6 +299,7 @@ CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeFlux: -1
 CLIPTextEncodeHunyuanDiT: -1
+CLIPTextEncodePixArtAlpha: -1
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
 CLIPTextEncodeSDXL+: 1
@@ -916,6 +917,7 @@ HyVideoCustomPromptTemplate: -1
 HyVideoDecode: -1
 HyVideoEmptyTextEmbeds: -1
 HyVideoEncode: -1
+HyVideoEnhanceAVideo: -1
 HyVideoInverseSampler: -1
 HyVideoLatentPreview: -1
 HyVideoLoraBlockEdit: -1
@@ -1678,6 +1680,8 @@ Mask Gaussian Region: 1
 Mask Invert: 1
 Mask Minority Region: 0
 Mask Paste Region: 0
+Mask Rect Area: -1
+Mask Rect Area (Advanced): -1
 Mask Smooth Region: 3
 Mask Threshold Region: 0
 Mask To Image (mtb): 0
@@ -2455,6 +2459,7 @@ arxiv_tool: -1
 bing_loader: -1
 bing_tool: -1
 bool_logic: -1
+browser_use_tool: -1
 bxbSwitch: -1
 check_text: -1
 check_web_tool: -1
