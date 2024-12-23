@@ -548,6 +548,7 @@ CogVideoControlImageEncode: -1
 CogVideoControlNet: -1
 CogVideoDecode: -1
 CogVideoDualTextEncode_311: -1
+CogVideoEnhanceAVideo: -1
 CogVideoImageEncode: -1
 CogVideoImageEncodeFunInP: -1
 CogVideoImageInterpolationEncode: -1
