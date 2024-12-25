@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.1k` | **Created at**: `2024-12-23`
+**Stars**: `2.1k` | **Created at**: `2024-12-24`
 
 
 None
@@ -38,7 +38,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/ArtVentureX/comfyui-animatediff'>
 <img src="https://avatars.githubusercontent.com/u/133736036?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ArtVentureX/comfyui-animatediff
 
-**Stars**: `708` | **Created at**: `2024-12-19`
+**Stars**: `709` | **Created at**: `2024-12-24`
 
 
 AnimateDiff for ComfyUI
@@ -56,7 +56,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `675` | **Created at**: `2024-12-23`
+**Stars**: `678` | **Created at**: `2024-12-24`
 
 
 Nodes related to video workflows
@@ -72,7 +72,7 @@ Nodes related to video workflows
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `638` | **Created at**: `2024-12-21`
+**Stars**: `640` | **Created at**: `2024-12-24`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
