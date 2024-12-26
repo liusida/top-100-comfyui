@@ -7,7 +7,7 @@
 <a href='https://github.com/ltdrdata/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
 
-**Stars**: `7.6k` | **Created at**: `2024-12-25`
+**Stars**: `7.6k` | **Created at**: `2024-12-26`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -18,7 +18,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `1.9k` | **Created at**: `2024-12-24`
+**Stars**: `2.0k` | **Created at**: `2024-12-25`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -50,7 +50,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
 
-**Stars**: `1.0k` | **Created at**: `2024-12-23`
+**Stars**: `1.0k` | **Created at**: `2024-12-25`
 
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
@@ -61,7 +61,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `878` | **Created at**: `2024-12-24`
+**Stars**: `880` | **Created at**: `2024-12-25`
 
 
 A powerful set of tools for ComfyUI
@@ -76,7 +76,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `616` | **Created at**: `2024-12-23`
+**Stars**: `617` | **Created at**: `2024-12-25`
 
 
 Run any ComfyUI workflow w/ ZERO setup.

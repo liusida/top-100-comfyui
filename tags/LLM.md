@@ -7,10 +7,10 @@
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `1.1k` | **Created at**: `2024-12-24`
+**Stars**: `1.2k` | **Created at**: `2024-12-25`
 
 
-LLM Agent Framework in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.2, Linkage graphRAG / RAG
+LLM Agent Framework in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.3, Linkage graphRAG / RAG
 <details><summary>Included Nodes (207)</summary>
 
  - <sub>About_us</sub>, <sub>accuweather_tool</sub>, <sub>advance_ebd_tool</sub>, <sub>aisuite_loader</sub>, <sub>AmapRegeoTool</sub>, <sub>AmapWeatherTool</sub>, <sub>any2str</sub>, <sub>any_switcher</sub>, <sub>api_function</sub>, <sub>api_tool</sub>, <sub>arxiv_tool</sub>

@@ -1462,6 +1462,7 @@ LatentUpscaler: 0
 'LayerUtility: BooleanOperatorV2': -1
 'LayerUtility: CheckMask': -1
 'LayerUtility: CheckMaskV2': -1
+'LayerUtility: ChoiceTextPreset': -1
 'LayerUtility: ColorImage': 1
 'LayerUtility: ColorImage V2': 3
 'LayerUtility: ColorName': -1
@@ -1553,6 +1554,7 @@ LatentUpscaler: 0
 'LayerUtility: TextImage V2': -1
 'LayerUtility: TextJoin': 1
 'LayerUtility: TextJoinV2': -1
+'LayerUtility: TextPreseter': -1
 'LayerUtility: UserPromptGeneratorReplaceWord': -1
 'LayerUtility: UserPromptGeneratorTxt2ImgPrompt': -1
 'LayerUtility: UserPromptGeneratorTxt2ImgPromptWithReference': -1
@@ -1828,6 +1830,7 @@ PainterNode: 17
 PatchCublasLinear: -1
 PatchModelAddDownscale: 24
 PatchModelPatcherOrder: -1
+PathchSageAttentionKJ: -1
 PerpNeg: 0
 PerpNegGuider: 0
 PerturbedAttentionGuidance: 6
