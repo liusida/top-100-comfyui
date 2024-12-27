@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `5.5k` | **Created at**: `2024-12-25`
+**Stars**: `5.5k` | **Created at**: `2024-12-26`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.2k` | **Created at**: `2024-12-25`
+**Stars**: `2.2k` | **Created at**: `2024-12-26`
 
 
 Examples of ComfyUI workflows
@@ -51,7 +51,7 @@ Some awesome comfyui workflows in here, and they are built using the comfyui-eas
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `880` | **Created at**: `2024-12-25`
+**Stars**: `882` | **Created at**: `2024-12-26`
 
 
 some wyrde workflows for comfyUI
@@ -62,7 +62,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `812` | **Created at**: `2024-12-25`
+**Stars**: `811` | **Created at**: `2024-12-26`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
@@ -78,7 +78,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/fofr/cog-face-to-sticker'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `626` | **Created at**: `2024-12-16`
+**Stars**: `627` | **Created at**: `2024-12-26`
 
 
 face-to-sticker
@@ -89,7 +89,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `616` | **Created at**: `2024-12-18`
+**Stars**: `617` | **Created at**: `2024-12-26`
 
 
 Create images of a given character in different poses
