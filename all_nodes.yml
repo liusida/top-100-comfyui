@@ -960,6 +960,7 @@ IF_StepCounter: -1
 IF_TextTyper: -1
 IF_VisualizeGraph: -1
 IF_saveText: 0
+IF_tools_LoadImagesS: -1
 INPAINT_ApplyFooocusInpaint: 19
 INPAINT_DenoiseToCompositingMask: 0
 INPAINT_ExpandMask: -1
