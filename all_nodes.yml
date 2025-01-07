@@ -928,6 +928,7 @@ HyVideoPromptMixSampler: -1
 HyVideoReSampler: -1
 HyVideoSTG: -1
 HyVideoSampler: -1
+HyVideoTeaCache: -1
 HyVideoTextEmbedsLoad: -1
 HyVideoTextEmbedsSave: -1
 HyVideoTextEncode: -1
