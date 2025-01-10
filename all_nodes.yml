@@ -1082,6 +1082,7 @@ Image to Latent Mask: 0
 Image to Noise: 0
 Image to Seed: 0
 Image2Video: -1
+Image2Video_party: -1
 ImageAddMulti: 0
 ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
