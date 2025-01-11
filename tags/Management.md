@@ -18,7 +18,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.0k` | **Created at**: `2025-01-09`
+**Stars**: `2.0k` | **Created at**: `2025-01-10`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -50,7 +50,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
 
-**Stars**: `1.0k` | **Created at**: `2025-01-08`
+**Stars**: `1.0k` | **Created at**: `2025-01-10`
 
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
@@ -61,7 +61,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `909` | **Created at**: `2025-01-09`
+**Stars**: `910` | **Created at**: `2025-01-10`
 
 
 A powerful set of tools for ComfyUI
@@ -76,7 +76,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `638` | **Created at**: `2025-01-09`
+**Stars**: `639` | **Created at**: `2025-01-10`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
