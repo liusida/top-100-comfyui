@@ -759,6 +759,13 @@ DynamicThresholdingFull: 1
 DynamicThresholdingSimple: 3
 ESAM_ModelLoader_Zho: 20
 EVAL: 0
+EasyAnimateI2VSampler: -1
+EasyAnimateT2VSampler: -1
+EasyAnimateV2VSampler: -1
+EasyAnimateV5_I2VSampler: -1
+EasyAnimateV5_T2VSampler: -1
+EasyAnimateV5_V2VSampler: -1
+EasyAnimate_TextBox: -1
 EasyOCR_advance: -1
 EasyOCR_choose: -1
 EditBasicPipe: 68
@@ -767,6 +774,7 @@ EditDetailerPipeSDXL: 0
 Eff. Loader SDXL: 14
 Efficient Loader: 64
 EmbeddingPrompt: 2
+EmptyCosmosLatentVideo: -1
 EmptyHunyuanLatentVideo: -1
 EmptyImage: 44
 EmptyLTXVLatentVideo: -1
@@ -851,6 +859,7 @@ FluxTrainSave: -1
 FluxTrainSaveModel: -1
 FluxTrainValidate: -1
 FluxTrainValidationSettings: -1
+FluxTrainerLossConfig: -1
 FolderCleaner: -1
 Font: 1
 FreeU: 19
@@ -1256,6 +1265,8 @@ InFluxModelSamplingPred: -1
 IncrementingListNode_: 0
 InitFluxLoRATraining: -1
 InitFluxTraining: -1
+InitSD3LoRATraining: -1
+InitSDXLLoRATraining: -1
 InjectLatentNoise+: -1
 InjectNoiseToLatent: 3
 InpaintModelConditioning: 39
@@ -1614,6 +1625,8 @@ LoadAndResizeImage: 0
 LoadAudio: -1
 LoadCLIPSegModels+: 0
 LoadChatGLM3: -1
+LoadEasyAnimateLora: -1
+LoadEasyAnimateModel: -1
 LoadExpData: -1
 LoadFluxControlNet: -1
 LoadFluxIPAdapter: -1
@@ -1953,11 +1966,16 @@ SAMModelLoader (segment anything): 33
 SAMPreprocessor: 17
 SD3AttentionSeekerLG+: -1
 SD3AttentionSeekerT5+: -1
+SD3ModelSelect: -1
 SD3NegativeConditioning+: -1
+SD3TrainValidationSettings: -1
 SDTurboScheduler: 24
 SDXLEmptyLatentSizePicker+: 3
+SDXLModelSelect: -1
 SDXLPromptStyler: 79
 SDXLPromptStylerAdvanced: 5
+SDXLTrainValidate: -1
+SDXLTrainValidationSettings: -1
 SD_4XUpscale_Conditioning: 1
 SEGAttention: -1
 SEGSDetailer: 0
@@ -2283,6 +2301,7 @@ Text to Conditioning: 1
 Text to Console: 9
 Text to Number: 1
 Text to String: 0
+TextBox: -1
 TextCombine: 0
 TextEncodeForSamplerParams+: -1
 TextGeneration: 6
