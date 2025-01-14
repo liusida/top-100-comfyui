@@ -279,6 +279,7 @@ Bus Node: 4
 CAIN VFI: 0
 CFGGuider: 10
 CLIP Input Switch: 1
+CLIP Text Encode PS Regional: -1
 CLIP Vision Input Switch: 0
 CLIPAttentionMultiply: 0
 CLIPLoader: 13
@@ -893,6 +894,7 @@ GenerateNoise: 1
 GeocodeTool: -1
 Get Batch From History (mtb): 0
 Get First Image: 0
+Get Image From Photoshop Layer: -1
 Get Last Image: 1
 GetImageRangeFromBatch: 9
 GetImageSize+: 37
@@ -2143,6 +2145,7 @@ SegsToCombinedMask: 21
 SelectInputs //Browser: 1
 SelfAttentionGuidance: 38
 SemSegPreprocessor: 25
+Send Images To Photoshop: -1
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
 SetLatentNoiseMask: 86
@@ -2327,6 +2330,7 @@ ToonCrafterInterpolation: 3
 ToraEncodeOpticalFlow: -1
 ToraEncodeTrajectory: -1
 TorchCompileControlNet: -1
+TorchCompileCosmosModel: -1
 TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
