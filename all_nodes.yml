@@ -644,6 +644,7 @@ ControlNetLoaderAdvanced: 99
 ControlNetPreprocessorSelector: 0
 Convert Masks to Images: 11
 CoreMLDetailerHookProvider: 1
+CosmosImageToVideoLatent: -1
 CostumeAgent_1: 0
 CostumeAgent_2: 0
 CostumeMaster_1: 0
@@ -2148,6 +2149,7 @@ SemSegPreprocessor: 25
 Send Images To Photoshop: -1
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
+SetFirstSigma: -1
 SetLatentNoiseMask: 86
 SetShakkerLabsUnionControlNetType: -1
 SetUnionControlNetType: -1
