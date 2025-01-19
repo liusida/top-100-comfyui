@@ -681,6 +681,7 @@ CustomControlNetWeightsFluxFromList: -1
 CustomNoiseDetailerHookProvider: 0
 CustomSigmas: 9
 CustomT2IAdapterWeights: 0
+CutAndDragOnPath: -1
 CutForInpaint: 0
 DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
@@ -2340,6 +2341,7 @@ TorchCompileVAE: -1
 TrainDatasetAdd: -1
 TrainDatasetGeneralConfig: -1
 TrainDatasetRegularization: -1
+TrainNetworkConfig: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
 TransitionImagesMulti: -1
