@@ -582,6 +582,7 @@ CombineInput: 0
 CombineRegionalPrompts: 12
 CombineVideos: -1
 Combine_Videos_party: -1
+ComfyDeployOutputImage: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalBoolean: 0
