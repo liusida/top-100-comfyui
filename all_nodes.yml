@@ -518,7 +518,11 @@ CR XYZ Index: 0
 CR_Aspect Ratio For Print: 0
 Cache Node: 0
 CalculateNormalsFromImages: 0
+CameraBasicFromChaoJie: -1
+CameraCombineFromChaoJie: -1
+CameraJoinFromChaoJie: -1
 CameraPoseVisualizer: 0
+CameraTrajectoryFromChaoJie: -1
 CamerasImage_Zho: 2
 Canny: 33
 CannyEdgePreprocessor: 85
@@ -567,6 +571,7 @@ CogVideoXFunResizeToClosestBucket: -1
 CogVideoXFunSampler: -1
 CogVideoXFunVid2VidSampler: -1
 CogVideoXModelLoader: -1
+CogVideoXTeaCache: -1
 CogVideoXTorchCompileSettings: -1
 CogVideoXVAELoader: -1
 Color: 0
@@ -671,6 +676,7 @@ CreateShapeMask: 6
 CreateShapeMaskOnPath: 3
 CreateTextMask: 1
 CreateTextOnPath: 0
+CreateTrajectoryBasedOnKJNodes: -1
 CreateVoronoiMask: 0
 Critic: 1
 Crop (mtb): 0
@@ -845,6 +851,7 @@ FluxBlockLoraLoader: -1
 FluxBlockLoraSelect: -1
 FluxBlocksBuster+: -1
 FluxDeGuidance: -1
+FluxDisableGuidance: -1
 FluxForwardODESampler: -1
 FluxGuidance: -1
 FluxInverseSampler: -1
@@ -1145,6 +1152,7 @@ ImageListToBatch_: 0
 ImageListToImageBatch: 37
 ImageLuminanceDetector: 0
 ImageMaskSwitch: 16
+ImageMaximumNode: -1
 ImageNormalize_Neg1_To_1: 0
 ImageOnlyCheckpointLoader: 79
 ImageOnlyCheckpointSave: 0
