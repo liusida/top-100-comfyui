@@ -122,6 +122,7 @@ ADE_MultivalScaledMask: 2
 ADE_NoiseCalibration: -1
 ADE_NoiseLayerAdd: 0
 ADE_NoiseLayerAddWeighted: 0
+ADE_NoiseLayerNormalizedSum: -1
 ADE_NoiseLayerReplace: 0
 ADE_NoisedImageInjectOptions: -1
 ADE_NoisedImageInjection: -1
@@ -2615,6 +2616,7 @@ easy imageTilesFromBatch: -1
 easy imageToBase64: 0
 easy imageToMask: 2
 easy imageUncropFromBBOX: 0
+easy imagesCountInDirectory: -1
 easy imagesSplitImage: 1
 easy indexAnything: -1
 easy injectNoiseToLatent: 0
@@ -2749,6 +2751,7 @@ html2img_function: -1
 ic_lora_persona: -1
 image_iterator: -1
 img2path: -1
+img_hosting: -1
 interpreter_function: -1
 interpreter_tool: -1
 interrupt_loop: -1
