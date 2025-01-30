@@ -38,6 +38,7 @@ ADE_AdjustWeightIndivAdd: 0
 ADE_AdjustWeightIndivAttnAdd: 0
 ADE_AdjustWeightIndivAttnMult: 0
 ADE_AdjustWeightIndivMult: 0
+ADE_AncestralOptions: -1
 ADE_AnimateDiffCombine: 11
 ADE_AnimateDiffKeyframe: 2
 ADE_AnimateDiffLoRALoader: 61
