@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `5.7k` | **Created at**: `2025-01-29`
+**Stars**: `5.7k` | **Created at**: `2025-01-30`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.3k` | **Created at**: `2025-01-29`
+**Stars**: `2.3k` | **Created at**: `2025-01-30`
 
 
 Examples of ComfyUI workflows
@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.3k` | **Created at**: `2025-01-29`
+**Stars**: `1.3k` | **Created at**: `2025-01-30`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.0k` | **Created at**: `2025-01-28`
+**Stars**: `1.0k` | **Created at**: `2025-01-30`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -78,7 +78,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/fofr/cog-face-to-sticker'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
 
-**Stars**: `631` | **Created at**: `2025-01-20`
+**Stars**: `632` | **Created at**: `2025-01-30`
 
 
 face-to-sticker
@@ -89,7 +89,7 @@ face-to-sticker
 <a href='https://github.com/fofr/cog-consistent-character'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
 
-**Stars**: `630` | **Created at**: `2025-01-28`
+**Stars**: `631` | **Created at**: `2025-01-30`
 
 
 Create images of a given character in different poses
