@@ -38,7 +38,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `735` | **Created at**: `2025-01-28`
+**Stars**: `736` | **Created at**: `2025-01-31`
 
 
 Nodes related to video workflows
@@ -54,7 +54,7 @@ Nodes related to video workflows
 <a href='https://github.com/kijai/ComfyUI-DynamiCrafterWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 
-**Stars**: `646` | **Created at**: `2025-01-09`
+**Stars**: `647` | **Created at**: `2025-01-31`
 
 
 Wrapper to use DynamiCrafter models in ComfyUI
