@@ -1899,6 +1899,7 @@ PowerPaintCLIPLoader: 6
 PrepImageForClipVision: 98
 PrepareAttnBank: -1
 Preview3D: -1
+Preview3DAnimation: -1
 PreviewAnimation: 1
 PreviewAudio: -1
 PreviewBridge: 40
