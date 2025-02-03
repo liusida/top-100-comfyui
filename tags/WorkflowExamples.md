@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `5.7k` | **Created at**: `2025-02-01`
+**Stars**: `5.7k` | **Created at**: `2025-02-02`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.3k` | **Created at**: `2025-02-01`
+**Stars**: `2.3k` | **Created at**: `2025-02-02`
 
 
 Examples of ComfyUI workflows
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.0k` | **Created at**: `2025-01-31`
+**Stars**: `1.0k` | **Created at**: `2025-02-02`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -72,6 +72,17 @@ Custom nodes and workflows for SDXL in ComfyUI
 </details>
 
 
+## fofr/cog-consistent-character
+
+
+<a href='https://github.com/fofr/cog-consistent-character'>
+<img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
+
+**Stars**: `643` | **Created at**: `2025-02-03`
+
+
+Create images of a given character in different poses
+
 ## fofr/cog-face-to-sticker
 
 
@@ -82,14 +93,3 @@ Custom nodes and workflows for SDXL in ComfyUI
 
 
 face-to-sticker
-
-## fofr/cog-consistent-character
-
-
-<a href='https://github.com/fofr/cog-consistent-character'>
-<img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-consistent-character
-
-**Stars**: `631` | **Created at**: `2025-01-30`
-
-
-Create images of a given character in different poses

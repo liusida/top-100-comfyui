@@ -913,6 +913,7 @@ GetImageSize+: 37
 GetImageSizeAndCount: 4
 GetImageSize_: 10
 GetImagesFromBatchIndexed: 2
+GetLatentRangeFromBatch: -1
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
 GoogleTranslateCLIPTextEncodeNode: 0
@@ -1155,6 +1156,7 @@ ImageListToImageBatch: 37
 ImageLuminanceDetector: 0
 ImageMaskSwitch: 16
 ImageMaximumNode: -1
+ImageNoiseAugmentation: -1
 ImageNormalize_Neg1_To_1: 0
 ImageOnlyCheckpointLoader: 79
 ImageOnlyCheckpointSave: 0
@@ -1598,6 +1600,7 @@ LayeredDiffusionDecodeSplit: 8
 LayeredDiffusionDiffApply: 17
 LayeredDiffusionJointApply: 4
 LeReS-DepthMapPreprocessor: 54
+LeapfusionHunyuanI2VPatcher: -1
 LightSource: 10
 LimitNumber: 2
 LineArtPreprocessor: 72
