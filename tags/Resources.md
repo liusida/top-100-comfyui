@@ -29,7 +29,7 @@ Everything about ComfyUI, including workflow sharing, resource sharing, knowledg
 <a href='https://github.com/WASasquatch/comfyui-plugins'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/comfyui-plugins
 
-**Stars**: `654` | **Created at**: `2025-01-31`
+**Stars**: `655` | **Created at**: `2025-02-03`
 
 
 Extensions, Custom Nodes, and other plugins for ComfyUI

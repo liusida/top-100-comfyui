@@ -1780,6 +1780,8 @@ ModelCompile+: 0
 ModelMergeAdd: 0
 ModelMergeAuraflow: -1
 ModelMergeBlocks: 1
+ModelMergeCosmos14B: -1
+ModelMergeCosmos7B: -1
 ModelMergeFlux1: -1
 ModelMergeLTXV: -1
 ModelMergeMochiPreview: -1
