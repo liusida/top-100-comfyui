@@ -592,6 +592,7 @@ Combine_Videos_party: -1
 ComfyDeployOutputImage: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
+ComfyUIDeployExternalAudio: -1
 ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
 ComfyUIDeployExternalFaceModel: -1
@@ -2643,6 +2644,7 @@ easy isMaskEmpty: -1
 easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
+easy joyCaption2API: -1
 easy kSampler: 3
 easy kSamplerCustom: -1
 easy kSamplerDownscaleUnet: 0
