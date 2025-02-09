@@ -1135,6 +1135,7 @@ ImageCrop: 49
 ImageCrop+: 15
 ImageCropByAlpha: 4
 ImageCropByMaskAndResize: -1
+ImageCropByMaskBatch: -1
 ImageDesaturate+: 4
 ImageEnhanceDifference+: 1
 ImageExpandBatch+: 0
@@ -1184,6 +1185,7 @@ ImageSender: 16
 ImageSharpen: 13
 ImageSizeAndBatchSize: 8
 ImageSmartSharpen+: -1
+ImageTensorList: -1
 ImageTile+: 0
 ImageToDevice+: 0
 ImageToMask: 96
@@ -2166,6 +2168,7 @@ SelectInputs //Browser: 1
 SelfAttentionGuidance: 38
 SemSegPreprocessor: 25
 Send Images To Photoshop: -1
+SeparateMasks: -1
 Sepconv VFI: 2
 SetDefaultImageForSEGS: 0
 SetFirstSigma: -1
