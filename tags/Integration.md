@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `5.4k` | **Created at**: `2025-02-12`
+**Stars**: `5.4k` | **Created at**: `2025-02-13`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -40,7 +40,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.2k` | **Created at**: `2025-02-12`
+**Stars**: `2.2k` | **Created at**: `2025-02-13`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -62,7 +62,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `1.9k` | **Created at**: `2025-02-12`
+**Stars**: `1.9k` | **Created at**: `2025-02-13`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -73,7 +73,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.5k` | **Created at**: `2025-02-12`
+**Stars**: `1.5k` | **Created at**: `2025-02-13`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -84,7 +84,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.2k` | **Created at**: `2025-02-12`
+**Stars**: `1.2k` | **Created at**: `2025-02-13`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -111,7 +111,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `832` | **Created at**: `2025-02-12`
+**Stars**: `835` | **Created at**: `2025-02-13`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -127,7 +127,7 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `769` | **Created at**: `2025-02-11`
+**Stars**: `771` | **Created at**: `2025-02-13`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -149,7 +149,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `715` | **Created at**: `2025-02-11`
+**Stars**: `716` | **Created at**: `2025-02-13`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -171,7 +171,7 @@ Customizable Stable Diffusion frontend for ComfyUI
 <a href='https://github.com/fofr/cog-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-comfyui
 
-**Stars**: `616` | **Created at**: `2025-02-12`
+**Stars**: `617` | **Created at**: `2025-02-13`
 
 
 Run ComfyUI with an API

@@ -1293,6 +1293,7 @@ InpaintModelConditioning: 39
 InpaintPreprocessor: 38
 InsertImageBatchByIndexes: 0
 InsertImagesToBatchIndexed: 0
+InsertLatentToIndexed: -1
 Inset Image Bounds: 0
 InsightFaceLoader_Zho: 7
 InstantCameraMotionBrush: 1
@@ -1568,6 +1569,7 @@ LatentUpscaler: 0
 'LayerUtility: PromptEmbellish': 1
 'LayerUtility: PromptTagger': 3
 'LayerUtility: PurgeVRAM': 2
+'LayerUtility: PurgeVRAM V2': -1
 'LayerUtility: QWenImage2Prompt': 1
 'LayerUtility: QueueStop': -1
 'LayerUtility: RGB Value': 1
@@ -2068,6 +2070,7 @@ SaveImagetoPath: 4
 SaveLatent: 0
 SavePoseKpsAsJsonFile: 1
 SavePromptToFile: 10
+SaveStringKJ: -1
 SaveText|pysssss: 0
 SaveTripoSRMesh: 0
 ScaleBatchPromptSchedule: 0
