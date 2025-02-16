@@ -34,7 +34,7 @@
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `1.4k` | **Created at**: `2025-02-14`
+**Stars**: `1.4k` | **Created at**: `2025-02-15`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -68,7 +68,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.4k` | **Created at**: `2025-02-13`
+**Stars**: `1.4k` | **Created at**: `2025-02-15`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -84,7 +84,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `1.3k` | **Created at**: `2025-02-14`
+**Stars**: `1.3k` | **Created at**: `2025-02-15`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -101,7 +101,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `801` | **Created at**: `2025-02-13`
+**Stars**: `802` | **Created at**: `2025-02-15`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -121,7 +121,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `757` | **Created at**: `2025-02-14`
+**Stars**: `758` | **Created at**: `2025-02-15`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -137,7 +137,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `697` | **Created at**: `2025-02-11`
+**Stars**: `698` | **Created at**: `2025-02-15`
 
 
 Using Gemini in ComfyUI
@@ -155,7 +155,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `672` | **Created at**: `2025-02-14`
+**Stars**: `674` | **Created at**: `2025-02-15`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI

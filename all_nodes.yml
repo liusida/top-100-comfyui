@@ -595,6 +595,7 @@ ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalAudio: -1
 ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
+ComfyUIDeployExternalEXR: -1
 ComfyUIDeployExternalFaceModel: -1
 ComfyUIDeployExternalImage: 1
 ComfyUIDeployExternalImageAlpha: 0
