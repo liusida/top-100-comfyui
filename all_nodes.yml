@@ -1783,6 +1783,7 @@ MirroredImage: 0
 Model Input Switch: 0
 Model Patch Seamless (mtb): 3
 ModelCompile+: 0
+ModelComputeDtype: -1
 ModelMergeAdd: 0
 ModelMergeAuraflow: -1
 ModelMergeBlocks: 1
@@ -2362,6 +2363,7 @@ TorchCompileCosmosModel: -1
 TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
+TorchCompileModelHyVideo: -1
 TorchCompileVAE: -1
 TrainDatasetAdd: -1
 TrainDatasetGeneralConfig: -1
