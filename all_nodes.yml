@@ -302,6 +302,7 @@ CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeFlux: -1
 CLIPTextEncodeHunyuanDiT: -1
+CLIPTextEncodeLumina2: -1
 CLIPTextEncodePixArtAlpha: -1
 CLIPTextEncodeSD3: 0
 CLIPTextEncodeSDXL: 93
@@ -1135,6 +1136,7 @@ ImageConcatMulti: -1
 ImageCrop: 49
 ImageCrop+: 15
 ImageCropByAlpha: 4
+ImageCropByMask: -1
 ImageCropByMaskAndResize: -1
 ImageCropByMaskBatch: -1
 ImageDesaturate+: 4
@@ -1168,6 +1170,7 @@ ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
 ImagePass: 0
 ImagePosterize+: 4
+ImagePrepForICLora: -1
 ImagePreviewFromLatent+: -1
 ImageQuantize: 2
 ImageRGBA2RGB: 1
@@ -1972,6 +1975,7 @@ RemoveLatentMask+: 5
 RemoveNoiseMask: 0
 RenderAnimalKps: -1
 RenderPeopleKps: -1
+RenormCFG: -1
 RepeatImageBatch: 15
 RepeatLatentBatch: 40
 Repeater|pysssss: 0
