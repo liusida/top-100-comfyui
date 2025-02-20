@@ -1661,6 +1661,7 @@ LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
 LoadImageMask: 72
+LoadImageOutput: -1
 LoadImagesFromDirectory: 2
 LoadImagesFromFolderKJ: -1
 LoadImagesFromPath: 4
@@ -2079,6 +2080,7 @@ SavePromptToFile: 10
 SaveStringKJ: -1
 SaveText|pysssss: 0
 SaveTripoSRMesh: 0
+SaveWEBM: -1
 ScaleBatchPromptSchedule: 0
 ScaledSoftControlNetWeights: 18
 ScaledSoftMaskedUniversalWeights: 0
