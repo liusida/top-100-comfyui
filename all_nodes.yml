@@ -1168,6 +1168,7 @@ ImageOnlyCheckpointSave: 0
 ImagePadForOutpaint: 55
 ImagePadForOutpaintMasked: 2
 ImagePadForOutpaintTargetSize: 0
+ImagePadKJ: -1
 ImagePass: 0
 ImagePosterize+: 4
 ImagePrepForICLora: -1
@@ -2431,6 +2432,7 @@ VAEEncodeForInpaint_Frames: 0
 VAEEncodeTiled: 26
 VAELoader: 97
 VAELoaderConsistencyDecoder: 1
+VAELoaderKJ: -1
 VAESave: 0
 VFI FloatToInt: 0
 VHS_AudioToVHSAudio: -1
