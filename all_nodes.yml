@@ -2086,6 +2086,7 @@ ScaleBatchPromptSchedule: 0
 ScaledSoftControlNetWeights: 18
 ScaledSoftMaskedUniversalWeights: 0
 ScenesNode_: 0
+ScheduledCFGGuidance: -1
 SchedulerSelectHelper+: -1
 Scientist: 1
 ScreenShare: 15
