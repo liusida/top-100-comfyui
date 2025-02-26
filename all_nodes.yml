@@ -212,6 +212,7 @@ ApplyPulid: 11
 ApplyPulidAdvanced: 0
 ApplyRefFlux: -1
 ApplyRegionalConds: -1
+ApplyRifleXRoPE_HunuyanVideo: -1
 ApplyVisualStylePrompting_: 0
 AreaToMask: 0
 ArgosTranslateCLIPTextEncodeNode: 0
