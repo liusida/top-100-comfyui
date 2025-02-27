@@ -2374,6 +2374,7 @@ TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
 TorchCompileModelHyVideo: -1
+TorchCompileModelWanVideo: -1
 TorchCompileVAE: -1
 TrainDatasetAdd: -1
 TrainDatasetGeneralConfig: -1
@@ -2465,6 +2466,7 @@ VHS_SelectEveryNthMask: 2
 VHS_SelectFilename: -1
 VHS_SelectImages: -1
 VHS_SelectLatents: -1
+VHS_SelectLatest: -1
 VHS_SelectMasks: -1
 VHS_SplitImages: 25
 VHS_SplitLatents: 1
@@ -2487,6 +2489,7 @@ VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
 WD14Tagger|pysssss: 82
+WanImageToVideo: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
