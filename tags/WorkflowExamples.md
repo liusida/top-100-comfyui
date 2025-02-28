@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.5k` | **Created at**: `2025-02-26`
+**Stars**: `2.5k` | **Created at**: `2025-02-27`
 
 
 Examples of ComfyUI workflows
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.1k` | **Created at**: `2025-02-26`
+**Stars**: `1.1k` | **Created at**: `2025-02-27`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -62,7 +62,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `822` | **Created at**: `2025-02-19`
+**Stars**: `824` | **Created at**: `2025-02-27`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
@@ -82,14 +82,3 @@ Custom nodes and workflows for SDXL in ComfyUI
 
 
 Create images of a given character in different poses
-
-## fofr/cog-face-to-sticker
-
-
-<a href='https://github.com/fofr/cog-face-to-sticker'>
-<img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-sticker
-
-**Stars**: `636` | **Created at**: `2025-02-25`
-
-
-face-to-sticker
