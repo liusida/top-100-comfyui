@@ -630,6 +630,7 @@ ConditioningConcat: 50
 ConditioningMultiCombine: 0
 ConditioningSetArea: 23
 ConditioningSetAreaPercentage: 0
+ConditioningSetAreaPercentageVideo: -1
 ConditioningSetAreaStrength: 0
 ConditioningSetMask: 32
 ConditioningSetMaskAndCombine: 0
@@ -2359,6 +2360,7 @@ ThresholdMask: 4
 TilePreprocessor: 45
 Tiled Upscaler Script: 1
 TiledKSamplerProvider: 0
+TimerNodeKJ: -1
 TimestepKeyframe: 16
 ToBasicPipe: 99
 ToBinaryMask: 6
@@ -2491,6 +2493,7 @@ VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
 WD14Tagger|pysssss: 82
 WanImageToVideo: -1
+WanVideoTeaCacheKJ: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
