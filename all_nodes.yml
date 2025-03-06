@@ -167,6 +167,7 @@ APISR_Zho: 1
 About_us: -1
 AddFluxFlow: -1
 AddLabel: 2
+AddLatentGuide: -1
 AddMask: 4
 AddNoise: 0
 AdvancedLivePortrait: -1
@@ -1361,8 +1362,23 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTXAttentioOverride: -1
+LTXAttentionBank: -1
+LTXAttnOverride: -1
+LTXFetaEnhance: -1
+LTXFlowEditCFGGuider: -1
+LTXFlowEditSampler: -1
+LTXForwardModelSamplingPred: -1
+LTXPerturbedAttention: -1
+LTXPrepareAttnInjections: -1
+LTXRFForwardODESampler: -1
+LTXRFReverseODESampler: -1
+LTXReverseModelSamplingPred: -1
+LTXVAddGuide: -1
 LTXVConditioning: -1
+LTXVCropGuides: -1
 LTXVImgToVideo: -1
+LTXVPreprocess: -1
 LTXVScheduler: -1
 LaplaceScheduler: -1
 Latent Batch: 0
@@ -1822,6 +1838,7 @@ ModelSamplingStableCascade: 1
 ModelSave: -1
 ModelSaveKJ: -1
 Model_1: 0
+ModifyLTXModel: -1
 Morphology: 0
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
