@@ -942,6 +942,7 @@ Hex to HSL: -1
 HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
+HunyuanImageToVideo: -1
 HunyuanVideoBlockLoraSelect: -1
 HyVideoBlockSwap: -1
 HyVideoCFG: -1
@@ -951,6 +952,8 @@ HyVideoDecode: -1
 HyVideoEmptyTextEmbeds: -1
 HyVideoEncode: -1
 HyVideoEnhanceAVideo: -1
+HyVideoGetClosestBucketSize: -1
+HyVideoI2VEncode: -1
 HyVideoInverseSampler: -1
 HyVideoLatentPreview: -1
 HyVideoLoraBlockEdit: -1
@@ -2045,6 +2048,9 @@ SEGSSwitch: 0
 SEGSToImageList: 26
 SEGSUpscaler: 0
 SEGSUpscalerPipe: 0
+SONICSampler: -1
+SONICTLoader: -1
+SONIC_PreData: -1
 STATIC_TRT_MODEL_CONVERSION: -1
 STMFNet VFI: 7
 SUPIR_Upscale: 2
@@ -2365,6 +2371,7 @@ Text to String: 0
 TextBox: -1
 TextCombine: 0
 TextEncodeForSamplerParams+: -1
+TextEncodeHunyuanVideo_ImageToVideo: -1
 TextGeneration: 6
 TextGenerator: 0
 TextImage: 8
