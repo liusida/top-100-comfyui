@@ -951,6 +951,7 @@ HyVideoCustomPromptTemplate: -1
 HyVideoDecode: -1
 HyVideoEmptyTextEmbeds: -1
 HyVideoEncode: -1
+HyVideoEncodeKeyframes: -1
 HyVideoEnhanceAVideo: -1
 HyVideoGetClosestBucketSize: -1
 HyVideoI2VEncode: -1
