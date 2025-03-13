@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `6.0k` | **Created at**: `2025-03-11`
+**Stars**: `6.0k` | **Created at**: `2025-03-12`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -40,7 +40,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.2k` | **Created at**: `2025-03-11`
+**Stars**: `1.2k` | **Created at**: `2025-03-12`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -51,7 +51,7 @@ Some awesome comfyui workflows in here, and they are built using the comfyui-eas
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `962` | **Created at**: `2025-03-11`
+**Stars**: `963` | **Created at**: `2025-03-12`
 
 
 some wyrde workflows for comfyUI
@@ -62,7 +62,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `829` | **Created at**: `2025-03-09`
+**Stars**: `831` | **Created at**: `2025-03-12`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
