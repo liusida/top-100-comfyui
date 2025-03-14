@@ -944,6 +944,7 @@ HighRes-Fix Script: 25
 HintImageEnchance: 3
 HunyuanImageToVideo: -1
 HunyuanVideoBlockLoraSelect: -1
+HunyuanVideoEncodeKeyframesToCond: -1
 HyVideoBlockSwap: -1
 HyVideoCFG: -1
 HyVideoContextOptions: -1
@@ -965,6 +966,7 @@ HyVideoReSampler: -1
 HyVideoSTG: -1
 HyVideoSampler: -1
 HyVideoTeaCache: -1
+HyVideoTextEmbedBridge: -1
 HyVideoTextEmbedsLoad: -1
 HyVideoTextEmbedsSave: -1
 HyVideoTextEncode: -1
@@ -2272,6 +2274,7 @@ StringConstant: 6
 StringConstantMultiline: 4
 StringFunction|pysssss: 35
 StringListToString: 4
+StringToFloatList: -1
 StubConstantImage: -1
 StubFloat: -1
 StubImage: -1
@@ -2518,6 +2521,7 @@ VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
 WD14Tagger|pysssss: 82
 WanImageToVideo: -1
+WanVideoEnhanceAVideoKJ: -1
 WanVideoTeaCacheKJ: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
