@@ -171,6 +171,10 @@ AddLatentGuide: -1
 AddMask: 4
 AddNoise: 0
 AdvancedLivePortrait: -1
+AiLab_ImagePreview: -1
+AiLab_LoadImage: -1
+AiLab_MaskPreview: -1
+AiLab_Preview: -1
 AlignYourStepsScheduler: 2
 AmapRegeoTool: -1
 AmapWeatherTool: -1
@@ -265,12 +269,14 @@ BboxDetectorSEGS: 28
 BboxToInt: 0
 BboxVisualize: 0
 BetaSamplingScheduler: -1
+BiRefNetRMBG: -1
 BinaryPreprocessor: 21
 BitwiseAndMask: 1
 BitwiseAndMaskForEach: 0
 Blend Latents: 0
 BlendInpaint: 3
 Blur (mtb): 0
+BodySegment: -1
 Boolean To Text: 1
 Bounded Image Blend: 0
 Bounded Image Blend with Mask: 0
@@ -554,6 +560,7 @@ CheckpointLoader|pysssss: 15
 CheckpointPerturbWeights: -1
 CheckpointSave: 6
 CkptNames_: 2
+ClothesSegment: -1
 CogVideoContextOptions: -1
 CogVideoControlImageEncode: -1
 CogVideoControlNet: -1
@@ -822,9 +829,12 @@ Face Swap (mtb): 6
 FaceDetailer: 89
 FaceDetailerPipe: 37
 FaceKeypointsPreprocessor: 8
+FaceSegment: -1
 FaceToMask: 0
 FacialPartColoringFromPoseKps: 0
 FakeScribblePreprocessor: 45
+FashionSegmentAccessories: -1
+FashionSegmentClothing: -1
 FastPreview: -1
 FeatherMask: 42
 FeatheredMask: 2
@@ -1968,6 +1978,7 @@ RAUNet: 4
 RFDoubleBlocksOverride: -1
 RFSingleBlocksOverride: -1
 RIFE VFI: 98
+RMBG: -1
 RSS_loader: -1
 RSS_tool: -1
 Random Number: 7
@@ -2203,6 +2214,7 @@ SegmDetectorCombined: 0
 SegmDetectorCombined_v2: 7
 SegmDetectorForEach: 0
 SegmDetectorSEGS: 21
+Segment: -1
 Segs  Mask: 0
 Segs  Mask ForEach: 0
 SegsMaskCombine: 1
