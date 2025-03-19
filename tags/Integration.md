@@ -7,7 +7,7 @@
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.7k` | **Created at**: `2025-03-17`
+**Stars**: `7.7k` | **Created at**: `2025-03-18`
 
 
 fast-stable-diffusion + DreamBooth
@@ -18,7 +18,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `7.0k` | **Created at**: `2025-03-17`
+**Stars**: `7.0k` | **Created at**: `2025-03-18`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -40,7 +40,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.2k` | **Created at**: `2025-03-15`
+**Stars**: `2.2k` | **Created at**: `2025-03-18`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -51,7 +51,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `2.2k` | **Created at**: `2025-03-17`
+**Stars**: `2.2k` | **Created at**: `2025-03-18`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -62,7 +62,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.0k` | **Created at**: `2025-03-14`
+**Stars**: `2.0k` | **Created at**: `2025-03-18`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -73,7 +73,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.6k` | **Created at**: `2025-03-17`
+**Stars**: `1.6k` | **Created at**: `2025-03-18`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -84,7 +84,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.3k` | **Created at**: `2025-03-17`
+**Stars**: `1.3k` | **Created at**: `2025-03-18`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -127,7 +127,7 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `802` | **Created at**: `2025-03-17`
+**Stars**: `803` | **Created at**: `2025-03-18`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -138,7 +138,7 @@ ComfyUI docker images for use in GPU cloud and local environments. Includes AI-D
 <a href='https://github.com/diStyApps/seait'>
 <img src="https://avatars.githubusercontent.com/u/3084832?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diStyApps/seait
 
-**Stars**: `744` | **Created at**: `2025-03-14`
+**Stars**: `743` | **Created at**: `2025-03-18`
 
 
 SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -149,7 +149,7 @@ SEAIT is a user-friendly application that simplifies the installation process of
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `727` | **Created at**: `2025-03-15`
+**Stars**: `728` | **Created at**: `2025-03-18`
 
 
 🛋 The AI and Generative Art platform for everyone
