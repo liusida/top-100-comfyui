@@ -805,6 +805,7 @@ EmptyHunyuanLatentVideo: -1
 EmptyImage: 44
 EmptyLTXVLatentVideo: -1
 EmptyLatentAudio: -1
+EmptyLatentHunyuan3Dv2: -1
 EmptyLatentImage: 93
 EmptyLatentImageCustomPresets: -1
 EmptyLatentImagePresets: 0
@@ -952,6 +953,8 @@ Hex to HSL: -1
 HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
+Hunyuan3Dv2Conditioning: -1
+Hunyuan3Dv2ConditioningMultiView: -1
 HunyuanImageToVideo: -1
 HunyuanVideoBlockLoraSelect: -1
 HunyuanVideoEncodeKeyframesToCond: -1
@@ -1196,6 +1199,7 @@ ImagePrepForICLora: -1
 ImagePreviewFromLatent+: -1
 ImageQuantize: 2
 ImageRGBA2RGB: 1
+ImageRGBToYUV: -1
 ImageRandomTransform+: 3
 ImageReceiver: 16
 ImageRemoveAlpha+: 0
@@ -1220,6 +1224,7 @@ ImageUncropByMask: -1
 ImageUntile+: -1
 ImageUpscaleWithModel: 97
 ImageUpscaleWithModelBatched: 0
+ImageYUVToRGB: -1
 Image_generation_Conditioning: 0
 Images to Linear: 0
 Images to RGB: 12
@@ -1283,9 +1288,11 @@ ImpactRemoteBoolean: 0
 ImpactRemoteInt: 0
 ImpactSEGSClassify: 0
 ImpactSEGSConcat: 0
+ImpactSEGSIntersectionFilter: -1
 ImpactSEGSLabelAssign: 0
 ImpactSEGSLabelFilter: 0
 ImpactSEGSMerge: -1
+ImpactSEGSNMSFilter: -1
 ImpactSEGSOrderedFilter: 11
 ImpactSEGSPicker: 0
 ImpactSEGSRangeFilter: 0
@@ -1732,6 +1739,7 @@ LoraSave: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
 Lorebook: -1
+LotusConditioning: -1
 M-LSDPreprocessor: 44
 M2M VFI: 2
 MMDetDetectorProvider: 34
@@ -1962,6 +1970,10 @@ PreviewDetailerHookProvider: 0
 PreviewImage: 98
 PreviewMask_: 0
 PreviewTextNode: 19
+PrimitiveBoolean: -1
+PrimitiveFloat: -1
+PrimitiveInt: -1
+PrimitiveString: -1
 'PrintExpData:': -1
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
@@ -2108,6 +2120,7 @@ SaveAnimatedPNG: 0
 SaveAnimatedWEBP: 33
 SaveAudio: -1
 SaveExpData: -1
+SaveGLB: -1
 SaveImage: 97
 SaveImageAndMetadata_: 0
 SaveImageKJ: -1
@@ -2470,6 +2483,7 @@ VAE Input Switch: 0
 VAEDecode: 96
 VAEDecodeAudio: -1
 VAEDecodeConsistencyDecoder: 1
+VAEDecodeHunyuan3D: -1
 VAEDecodeTiled: 64
 VAEDecode_party: -1
 VAEEncode: 92
@@ -2532,6 +2546,7 @@ VideoCombine_Adv: 0
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
+VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
 WanImageToVideo: -1
 WanVideoEnhanceAVideoKJ: -1
