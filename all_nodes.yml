@@ -1849,6 +1849,7 @@ ModelMergeSD3_2B: -1
 ModelMergeSDXL: 0
 ModelMergeSimple: 13
 ModelMergeSubtract: 0
+ModelMergeWAN2_1: -1
 ModelPassThrough: 0
 ModelSamplingAuraFlow: -1
 ModelSamplingContinuousEDM: 14
