@@ -289,6 +289,8 @@ BrushNetLoader: 19
 Bus Node: 4
 CAIN VFI: 0
 CFGGuider: 10
+CFGZeroStar: -1
+CFGZeroStarAndInit: -1
 CLIP Input Switch: 1
 CLIP Text Encode PS Regional: -1
 CLIP Vision Input Switch: 0
@@ -1465,6 +1467,7 @@ LatentUpscaler: 0
 'LayerFilter: GaussianBlur': 1
 'LayerFilter: GaussianBlurV2': -1
 'LayerFilter: HDREffects': 4
+'LayerFilter: HalfTone': -1
 'LayerFilter: LightLeak': 1
 'LayerFilter: MotionBlur': 1
 'LayerFilter: Sharp & Soft': 1
@@ -2549,6 +2552,8 @@ VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
+WanFunControlToVideo: -1
+WanFunInpaintToVideo: -1
 WanImageToVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoTeaCacheKJ: -1
