@@ -1,24 +1,13 @@
 # Repositories tagged with `Management`
 
 
-## ltdrdata/ComfyUI-Manager
-
-
-<a href='https://github.com/ltdrdata/ComfyUI-Manager'>
-<img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Manager
-
-**Stars**: `9.5k` | **Created at**: `2025-03-31`
-
-
-ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
-
 ## pythongosssss/ComfyUI-Custom-Scripts
 
 
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.3k` | **Created at**: `2025-03-31`
+**Stars**: `2.3k` | **Created at**: `2025-04-01`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -61,7 +50,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.1k` | **Created at**: `2025-03-31`
+**Stars**: `1.1k` | **Created at**: `2025-04-01`
 
 
 A powerful set of tools for ComfyUI
