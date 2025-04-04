@@ -973,6 +973,7 @@ HyVideoGetClosestBucketSize: -1
 HyVideoI2VEncode: -1
 HyVideoInverseSampler: -1
 HyVideoLatentPreview: -1
+HyVideoLoopArgs: -1
 HyVideoLoraBlockEdit: -1
 HyVideoLoraSelect: -1
 HyVideoModelLoader: -1
@@ -1924,6 +1925,7 @@ Output2String: 1
 P5Input: -1
 PAGAttention: -1
 Pack SDXL Tuple: 8
+PadImageBatchInterleaved: -1
 PainterNode: 17
 PatchCublasLinear: -1
 PatchModelAddDownscale: 24
