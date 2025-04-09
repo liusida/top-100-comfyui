@@ -159,6 +159,16 @@ ADE_VisualizeContextOptions: -1
 ADE_VisualizeContextOptionsK: -1
 ADE_VisualizeContextOptionsKAdv: -1
 ADE_VisualizeContextOptionsSCustom: -1
+AILab_ImageCombiner: -1
+AILab_ImageMaskConvert: -1
+AILab_ImagePreview: -1
+AILab_ImageStitch: -1
+AILab_LoadImage: -1
+AILab_MaskCombiner: -1
+AILab_MaskEnhancer: -1
+AILab_MaskExtractor: -1
+AILab_MaskPreview: -1
+AILab_Preview: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APISR_Lterative_Zho: 2
