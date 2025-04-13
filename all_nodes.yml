@@ -635,6 +635,7 @@ ComfyUIDeployExternalVideo: 0
 ComfyUIDeployModelList: -1
 ComfyUIDeployStringCombine: -1
 ComparingTwoFrames_: 0
+CompileModel: -1
 CompositeImages_: 0
 CompositeMotionBrush: 1
 CompositeMotionBrushWithoutModel: 1
@@ -2343,6 +2344,8 @@ TTP_Expand_And_Mask: -1
 TTP_text_mix: -1
 TTPlanet_TileGF_Preprocessor: 0
 TTPlanet_TileSimple_Preprocessor: 0
+TeaCache: -1
+TeaCacheForCogVideoX: -1
 Tensor Batch to Image: 0
 TensorRTLoader: -1
 Terminal: 0
@@ -2562,6 +2565,7 @@ VideoCombine_Adv: 0
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
+VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
 WanFunControlToVideo: -1
