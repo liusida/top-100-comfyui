@@ -85,7 +85,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.4k` | **Created at**: `2025-04-09`
+**Stars**: `1.4k` | **Created at**: `2025-04-13`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -101,7 +101,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
 
-**Stars**: `808` | **Created at**: `2025-04-12`
+**Stars**: `807` | **Created at**: `2025-04-13`
 
 
 Unofficial implementation of PhotoMaker for ComfyUI
@@ -121,7 +121,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `789` | **Created at**: `2025-04-11`
+**Stars**: `788` | **Created at**: `2025-04-13`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
