@@ -1450,6 +1450,7 @@ LatentRotate: 0
 LatentSender: 2
 LatentSubtract: 1
 LatentSwitch: 2
+LatentSyncNode: -1
 LatentUpscale: 51
 LatentUpscaleBy: 92
 LatentUpscaler: 0
@@ -1926,6 +1927,7 @@ OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
 OneFormer-COCO-SemSegPreprocessor: 20
 OpenposePreprocessor: 92
+OptimalStepsScheduler: -1
 OptimizerConfig: -1
 OptimizerConfigAdafactor: -1
 OptimizerConfigProdigy: -1
@@ -2562,6 +2564,7 @@ Vae Decode (mtb): 3
 VariationNoiseDetailerHookProvider: 0
 Video Dump Frames: 0
 VideoCombine_Adv: 0
+VideoLengthAdjuster: -1
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
 VisualizeLoss: -1
