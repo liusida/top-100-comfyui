@@ -906,6 +906,7 @@ FluxTrainValidationSettings: -1
 FluxTrainerLossConfig: -1
 FolderCleaner: -1
 Font: 1
+FreSca: -1
 FreeU: 19
 FreeU_V2: 97
 FromBasicPipe: 84
@@ -1905,6 +1906,10 @@ Number to Int: 1
 Number to Seed: 1
 Number to String: 3
 Number to Text: 5
+NunchakuDepthPreprocessor: -1
+NunchakuFluxDiTLoader: -1
+NunchakuFluxLoraLoader: -1
+NunchakuTextEncoderLoader: -1
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
 OffsetMask: 0
@@ -2005,6 +2010,8 @@ PulidInsightFaceLoader: 11
 PulidModelLoader: 12
 PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
+QuadrupleCLIPLoader: -1
+QuadrupleCLIPLoaderGGUF: -1
 RAUNet: 4
 RFDoubleBlocksOverride: -1
 RFSingleBlocksOverride: -1
@@ -2571,6 +2578,7 @@ VisualizeLoss: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
+WanFirstLastFrameToVideo: -1
 WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
 WanImageToVideo: -1
