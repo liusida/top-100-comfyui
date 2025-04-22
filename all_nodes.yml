@@ -322,6 +322,7 @@ CLIPTextEncode (BlenderNeko Advanced + NSP): 0
 CLIPTextEncode (NSP): 0
 CLIPTextEncodeControlnet: 0
 CLIPTextEncodeFlux: -1
+CLIPTextEncodeHiDream: -1
 CLIPTextEncodeHunyuanDiT: -1
 CLIPTextEncodeLumina2: -1
 CLIPTextEncodePixArtAlpha: -1
@@ -1153,6 +1154,7 @@ ImageAddMulti: 0
 ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
 ImageBatch: 62
+ImageBatchFilter: -1
 ImageBatchMulti: 4
 ImageBatchMultiple+: 4
 ImageBatchRepeatInterleaving: 1
