@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `6.3k` | **Created at**: `2025-04-22`
+**Stars**: `6.3k` | **Created at**: `2025-04-23`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,10 +18,21 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.8k` | **Created at**: `2025-04-22`
+**Stars**: `2.8k` | **Created at**: `2025-04-23`
 
 
 Examples of ComfyUI workflows
+
+## yolain/ComfyUI-Yolain-Workflows
+
+
+<a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
+<img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
+
+**Stars**: `1.3k` | **Created at**: `2025-04-23`
+
+
+Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 
 ## fofr/cog-face-to-many
 
@@ -34,24 +45,13 @@ Examples of ComfyUI workflows
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
 
-## yolain/ComfyUI-Yolain-Workflows
-
-
-<a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
-<img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
-
-**Stars**: `1.3k` | **Created at**: `2025-04-22`
-
-
-Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
-
 ## wyrde/wyrde-comfyui-workflows
 
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `987` | **Created at**: `2025-04-22`
+**Stars**: `988` | **Created at**: `2025-04-23`
 
 
 some wyrde workflows for comfyUI

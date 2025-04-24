@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.3k` | **Created at**: `2025-04-22`
+**Stars**: `2.3k` | **Created at**: `2025-04-23`
 
 
 None
@@ -27,7 +27,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `944` | **Created at**: `2025-04-22`
+**Stars**: `945` | **Created at**: `2025-04-23`
 
 
 Nodes related to video workflows
@@ -43,7 +43,7 @@ Nodes related to video workflows
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `881` | **Created at**: `2025-04-14`
+**Stars**: `882` | **Created at**: `2025-04-23`
 
 
 A ComfyUI node for driving videos using batches of images.
