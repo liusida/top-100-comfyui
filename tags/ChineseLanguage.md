@@ -68,7 +68,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `1.5k` | **Created at**: `2025-04-25`
+**Stars**: `1.5k` | **Created at**: `2025-04-26`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -137,7 +137,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `754` | **Created at**: `2025-04-23`
+**Stars**: `755` | **Created at**: `2025-04-26`
 
 
 Using Gemini in ComfyUI
@@ -155,7 +155,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM
 
-**Stars**: `722` | **Created at**: `2025-04-24`
+**Stars**: `723` | **Created at**: `2025-04-26`
 
 
 Unofficial implementation of  YOLO-World + EfficientSAM for ComfyUI

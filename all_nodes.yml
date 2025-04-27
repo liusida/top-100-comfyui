@@ -614,6 +614,7 @@ CombineRegionalPrompts: 12
 CombineVideos: -1
 Combine_Videos_party: -1
 ComfyDeployOutputImage: -1
+ComfyDeployOutputText: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
 ComfyUIDeployExternalAudio: -1
@@ -1223,6 +1224,7 @@ ImageRemoveAlpha+: 0
 ImageRemoveBackground+: 33
 ImageResize+: 99
 ImageResizeKJ: 4
+ImageResizeKJv2: -1
 ImageResize_Padding: 0
 ImageScale: 70
 ImageScaleBy: 97
@@ -1319,6 +1321,7 @@ ImpactScaleBy_BBOX_SEG_ELT: 0
 ImpactSchedulerAdapter: 0
 ImpactSegsAndMask: 2
 ImpactSegsAndMaskForEach: 0
+ImpactSelectNthItemOfAnyList: -1
 ImpactSetWidgetValue: 0
 ImpactSimpleDetectorSEGS: 28
 ImpactSimpleDetectorSEGSPipe: 13
@@ -1816,6 +1819,7 @@ MaskListToMaskBatch: 6
 MaskOptFlow: 0
 MaskOrImageToWeight: 0
 MaskPainter: 0
+MaskPreview: -1
 MaskPreview+: 55
 MaskRectArea: -1
 MaskRectAreaAdvanced: -1
@@ -1933,6 +1937,9 @@ OneButtonPrompt: 10
 OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
 OneFormer-COCO-SemSegPreprocessor: 20
+OpenAIDalle2: -1
+OpenAIDalle3: -1
+OpenAIGPTImage1: -1
 OpenposePreprocessor: 92
 OptimalStepsScheduler: -1
 OptimizerConfig: -1
@@ -2348,6 +2355,7 @@ Superprompt: 0
 SvgImage: 4
 SwitchByIndex: 3
 SystemNotification|pysssss: 0
+T5TokenizerOptions: -1
 TEEDPreprocessor: 1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
@@ -2473,6 +2481,7 @@ TransitionImagesMulti: -1
 TransitionMask+: 0
 TransparentBGSession+: -1
 TransparentImage: 6
+TrimVideoLatent: -1
 TripleCLIPLoader: 5
 TripleCLIPLoaderGGUF: -1
 TripoSRModelLoader: 14
@@ -2584,6 +2593,7 @@ WanFirstLastFrameToVideo: -1
 WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
 WanImageToVideo: -1
+WanVaceToVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoTeaCacheKJ: -1
 WebcamCapture: 1
