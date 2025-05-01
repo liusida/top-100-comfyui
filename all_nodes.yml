@@ -708,6 +708,7 @@ CreateShapeMaskOnPath: 3
 CreateTextMask: 1
 CreateTextOnPath: 0
 CreateTrajectoryBasedOnKJNodes: -1
+CreateVideo: -1
 CreateVoronoiMask: 0
 Critic: 1
 Crop (mtb): 0
@@ -950,6 +951,7 @@ GetImagesFromBatchIndexed: 2
 GetLatentRangeFromBatch: -1
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
+GetVideoComponents: -1
 GoogleTranslateCLIPTextEncodeNode: 0
 GoogleTranslateTextNode: 0
 GradientImage: 0
@@ -1985,6 +1987,7 @@ PorterDuffImageComposite: 1
 PortraitMaster: 4
 PortraitMasterBaseCharacter: -1
 PortraitMasterMakeup: -1
+PortraitMasterPromptStyler: -1
 PortraitMasterSkinDetails: -1
 PortraitMasterStylePose: -1
 "PortraitMaster_\u4E2D\u6587\u7248": 6
@@ -2170,6 +2173,7 @@ SavePromptToFile: 10
 SaveStringKJ: -1
 SaveText|pysssss: 0
 SaveTripoSRMesh: 0
+SaveVideo: -1
 SaveWEBM: -1
 ScaleBatchPromptSchedule: 0
 ScaledSoftControlNetWeights: 18
@@ -2854,6 +2858,7 @@ easy unSampler: 0
 easy whileLoopEnd: -1
 easy whileLoopStart: -1
 easy wildcards: 3
+easy wildcardsMatrix: -1
 easy xyAny: 0
 easy zero123Loader: 0
 easy_GGUFLoader: -1
