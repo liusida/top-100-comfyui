@@ -1,7 +1,7 @@
 
 This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.
 
-### Automatically updated on: 2025-05-01
+### Automatically updated on: 2025-05-02
 ### Repositories by Tag:
 - [Core](tags/Core.md) (2)
 - [Custom Nodes](tags/CustomNodes.md) (46)
@@ -99,7 +99,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `6.3k` | **Created at**: `2024-03-06` | **Last updated**: `2025-04-30` | **Tags**: `Workflow Examples` `Chinese Language`
+**Stars**: `6.3k` | **Created at**: `2024-03-06` | **Last updated**: `2025-05-01` | **Tags**: `Workflow Examples` `Chinese Language`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -114,7 +114,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `5.9k` | **Created at**: `2023-06-13` | **Last updated**: `2025-04-30` | **Tags**: `Integration`
+**Stars**: `5.9k` | **Created at**: `2023-06-13` | **Last updated**: `2025-05-01` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -142,7 +142,7 @@ None
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `3.9k` | **Created at**: `2024-05-09` | **Last updated**: `2025-04-30`
+**Stars**: `3.9k` | **Created at**: `2024-05-09` | **Last updated**: `2025-05-01`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -153,7 +153,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.1k` | **Created at**: `2023-08-26` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `3.1k` | **Created at**: `2023-08-26` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -170,7 +170,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.0k` | **Created at**: `2024-01-05` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `3D`
+**Stars**: `3.0k` | **Created at**: `2024-01-05` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `3D`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -189,7 +189,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `2.9k` | **Created at**: `2023-08-17` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `2.9k` | **Created at**: `2023-08-17` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -221,7 +221,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `2.8k` | **Created at**: `2023-01-30` | **Last updated**: `2025-04-30` | **Tags**: `Workflow Examples`
+**Stars**: `2.8k` | **Created at**: `2023-01-30` | **Last updated**: `2025-05-01` | **Tags**: `Workflow Examples`
 
 
 Examples of ComfyUI workflows
@@ -243,7 +243,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/FurkanGozukara/Stable-Diffusion'>
 <img src="https://avatars.githubusercontent.com/u/19240467?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FurkanGozukara/Stable-Diffusion
 
-**Stars**: `2.4k` | **Created at**: `2023-05-01` | **Last updated**: `2025-04-30` | **Tags**: `Tutorials`
+**Stars**: `2.4k` | **Created at**: `2023-05-01` | **Last updated**: `2025-05-01` | **Tags**: `Tutorials`
 
 
 FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod
@@ -254,7 +254,7 @@ FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Auto
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.4k` | **Created at**: `2023-03-06` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `Management`
+**Stars**: `2.4k` | **Created at**: `2023-03-06` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Management`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -270,7 +270,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
 # TOP 16 - 20
 
-<details><summary>Star History for TOP 16 - 20</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-HunyuanVideoWrapper,ltdrdata/ComfyUI-Impact-Pack,PowerHouseMan/ComfyUI-AdvancedLivePortrait,kijai/ComfyUI-WanVideoWrapper,6174/comflowyspace&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-HunyuanVideoWrapper,ltdrdata/ComfyUI-Impact-Pack,PowerHouseMan/ComfyUI-AdvancedLivePortrait,kijai/ComfyUI-WanVideoWrapper,6174/comflowyspace&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 16 - 20</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-HunyuanVideoWrapper,ltdrdata/ComfyUI-Impact-Pack,kijai/ComfyUI-WanVideoWrapper,PowerHouseMan/ComfyUI-AdvancedLivePortrait,6174/comflowyspace&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-HunyuanVideoWrapper,ltdrdata/ComfyUI-Impact-Pack,kijai/ComfyUI-WanVideoWrapper,PowerHouseMan/ComfyUI-AdvancedLivePortrait,6174/comflowyspace&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 16. kijai/ComfyUI-HunyuanVideoWrapper
@@ -296,7 +296,7 @@ None
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `2.3k` | **Created at**: `2023-03-30` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `2.3k` | **Created at**: `2023-03-30` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -325,7 +325,18 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 </details>
 
 
-## 18. PowerHouseMan/ComfyUI-AdvancedLivePortrait
+## 18. kijai/ComfyUI-WanVideoWrapper
+
+
+<a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
+
+**Stars**: `2.3k` | **Created at**: `2025-02-25` | **Last updated**: `2025-05-01`
+
+
+None
+
+## 19. PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
 
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
@@ -345,24 +356,13 @@ None
 </details>
 
 
-## 19. kijai/ComfyUI-WanVideoWrapper
-
-
-<a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
-
-**Stars**: `2.3k` | **Created at**: `2025-02-25` | **Last updated**: `2025-04-30`
-
-
-None
-
 ## 20. 6174/comflowyspace
 
 
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.3k` | **Created at**: `2023-11-25` | **Last updated**: `2025-04-30` | **Tags**: `Integration`
+**Stars**: `2.3k` | **Created at**: `2023-11-25` | **Last updated**: `2025-05-01` | **Tags**: `Integration`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -388,7 +388,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `2.2k` | **Created at**: `2024-01-17` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `2.2k` | **Created at**: `2024-01-17` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -415,7 +415,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `2.0k` | **Created at**: `2024-07-04` | **Last updated**: `2025-04-30`
+**Stars**: `2.0k` | **Created at**: `2024-07-04` | **Last updated**: `2025-05-01`
 
 
 ComfyUI nodes for LivePortrait
@@ -433,7 +433,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `1.9k` | **Created at**: `2024-02-28` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.9k` | **Created at**: `2024-02-28` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -453,7 +453,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `1.9k` | **Created at**: `2024-08-15` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.9k` | **Created at**: `2024-08-15` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -484,7 +484,7 @@ OneDiff: An out-of-the-box acceleration library for diffusion models.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `1.8k` | **Created at**: `2023-08-14` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.8k` | **Created at**: `2023-08-14` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -499,7 +499,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.7k` | **Created at**: `2023-07-30` | **Last updated**: `2025-04-30` | **Tags**: `Integration`
+**Stars**: `1.7k` | **Created at**: `2023-07-30` | **Last updated**: `2025-05-01` | **Tags**: `Integration`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -510,7 +510,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.7k` | **Created at**: `2023-12-15` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `1.7k` | **Created at**: `2023-12-15` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -521,7 +521,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 
 # TOP 31 - 35
 
-<details><summary>Star History for TOP 31 - 35</summary><a href="https://api.star-history.com/svg?repos=huchenlei/ComfyUI-layerdiffuse,heshengtao/comfyui_LLM_party,cubiq/ComfyUI_InstantID,mit-han-lab/nunchaku,shadowcz007/comfyui-mixlab-nodes&type=Date"><img src="https://api.star-history.com/svg?repos=huchenlei/ComfyUI-layerdiffuse,heshengtao/comfyui_LLM_party,cubiq/ComfyUI_InstantID,mit-han-lab/nunchaku,shadowcz007/comfyui-mixlab-nodes&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 31 - 35</summary><a href="https://api.star-history.com/svg?repos=huchenlei/ComfyUI-layerdiffuse,heshengtao/comfyui_LLM_party,mit-han-lab/nunchaku,cubiq/ComfyUI_InstantID,shadowcz007/comfyui-mixlab-nodes&type=Date"><img src="https://api.star-history.com/svg?repos=huchenlei/ComfyUI-layerdiffuse,heshengtao/comfyui_LLM_party,mit-han-lab/nunchaku,cubiq/ComfyUI_InstantID,shadowcz007/comfyui-mixlab-nodes&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 31. huchenlei/ComfyUI-layerdiffuse
@@ -546,7 +546,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `1.6k` | **Created at**: `2024-04-13` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `1.6k` | **Created at**: `2024-04-13` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `LLM`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -577,13 +577,24 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 </details>
 
 
-## 33. cubiq/ComfyUI_InstantID
+## 33. mit-han-lab/nunchaku
+
+
+<a href='https://github.com/mit-han-lab/nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/nunchaku
+
+**Stars**: `1.6k` | **Created at**: `2024-11-06` | **Last updated**: `2025-05-01`
+
+
+[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+
+## 34. cubiq/ComfyUI_InstantID
 
 
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `1.6k` | **Created at**: `2024-01-27` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.6k` | **Created at**: `2024-01-27` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 None
@@ -595,24 +606,13 @@ None
 </details>
 
 
-## 34. mit-han-lab/nunchaku
-
-
-<a href='https://github.com/mit-han-lab/nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/nunchaku
-
-**Stars**: `1.6k` | **Created at**: `2024-11-06` | **Last updated**: `2025-05-01`
-
-
-[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
-
 ## 35. shadowcz007/comfyui-mixlab-nodes
 
 
 <a href='https://github.com/shadowcz007/comfyui-mixlab-nodes'>
 <img src="https://avatars.githubusercontent.com/u/12645064?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shadowcz007/comfyui-mixlab-nodes
 
-**Stars**: `1.6k` | **Created at**: `2023-10-18` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `1.6k` | **Created at**: `2023-10-18` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
@@ -650,7 +650,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/AIDC-AI/ComfyUI-Copilot'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/ComfyUI-Copilot
 
-**Stars**: `1.6k` | **Created at**: `2025-02-14` | **Last updated**: `2025-04-30`
+**Stars**: `1.6k` | **Created at**: `2025-02-14` | **Last updated**: `2025-05-01`
 
 
 An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
@@ -661,7 +661,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `1.5k` | **Created at**: `2023-12-10` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `1.5k` | **Created at**: `2023-12-10` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -678,7 +678,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/177552519?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/XLabs-AI/x-flux-comfyui
 
-**Stars**: `1.5k` | **Created at**: `2024-08-12` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.5k` | **Created at**: `2024-08-12` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 None
@@ -697,7 +697,7 @@ None
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `1.5k` | **Created at**: `2023-03-24` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.5k` | **Created at**: `2023-03-24` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 An extensive node suite for ComfyUI with over 210 new nodes
@@ -729,7 +729,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/kijai/ComfyUI-CogVideoXWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-CogVideoXWrapper
 
-**Stars**: `1.5k` | **Created at**: `2024-08-05` | **Last updated**: `2025-04-26` | **Tags**: `Custom Nodes`
+**Stars**: `1.5k` | **Created at**: `2024-08-05` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 None
@@ -762,7 +762,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.4k` | **Created at**: `2024-01-22` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `1.4k` | **Created at**: `2024-01-22` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -795,7 +795,7 @@ SD变现宝：一键把comfyui工作流转换成小程序。
 <a href='https://github.com/zombieyang/sd-ppp'>
 <img src="https://avatars.githubusercontent.com/u/5595819?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zombieyang/sd-ppp
 
-**Stars**: `1.4k` | **Created at**: `2024-03-29` | **Last updated**: `2025-04-30`
+**Stars**: `1.4k` | **Created at**: `2024-03-29` | **Last updated**: `2025-05-01`
 
 
 Simplify ComfyUI and Connect with Photoshop
@@ -813,7 +813,7 @@ Simplify ComfyUI and Connect with Photoshop
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.4k` | **Created at**: `2024-05-13` | **Last updated**: `2025-04-30` | **Tags**: `Workflow Examples`
+**Stars**: `1.4k` | **Created at**: `2024-05-13` | **Last updated**: `2025-05-01` | **Tags**: `Workflow Examples`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -855,7 +855,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `1.3k` | **Created at**: `2023-09-28` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.3k` | **Created at**: `2023-09-28` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Various custom nodes for ComfyUI
@@ -890,7 +890,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/logtd/ComfyUI-Fluxtapoz'>
 <img src="https://avatars.githubusercontent.com/u/160989552?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/logtd/ComfyUI-Fluxtapoz
 
-**Stars**: `1.3k` | **Created at**: `2024-08-15` | **Last updated**: `2025-04-30`
+**Stars**: `1.3k` | **Created at**: `2024-08-15` | **Last updated**: `2025-05-01`
 
 
 Nodes for image juxtaposition for Flux in ComfyUI
@@ -913,7 +913,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/16131zzzzzzzz/EveryoneNobel'>
 <img src="https://avatars.githubusercontent.com/u/29753883?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/16131zzzzzzzz/EveryoneNobel
 
-**Stars**: `1.3k` | **Created at**: `2024-10-20` | **Last updated**: `2025-04-29`
+**Stars**: `1.3k` | **Created at**: `2024-10-20` | **Last updated**: `2025-05-01`
 
 
 A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
@@ -928,7 +928,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `1.3k` | **Created at**: `2023-12-02` | **Last updated**: `2025-04-29` | **Tags**: `Management`
+**Stars**: `1.3k` | **Created at**: `2023-12-02` | **Last updated**: `2025-05-01` | **Tags**: `Management`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -995,7 +995,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `1.2k` | **Created at**: `2023-05-10` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.2k` | **Created at**: `2023-05-10` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -1027,7 +1027,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.1k` | **Created at**: `2023-12-23` | **Last updated**: `2025-04-30` | **Tags**: `Management`
+**Stars**: `1.1k` | **Created at**: `2023-12-23` | **Last updated**: `2025-05-01` | **Tags**: `Management`
 
 
 A powerful set of tools for ComfyUI
@@ -1042,7 +1042,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `1.1k` | **Created at**: `2023-05-16` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `1.1k` | **Created at**: `2023-05-16` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -1084,7 +1084,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/Lightricks/ComfyUI-LTXVideo'>
 <img src="https://avatars.githubusercontent.com/u/3170348?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Lightricks/ComfyUI-LTXVideo
 
-**Stars**: `1.1k` | **Created at**: `2024-11-21` | **Last updated**: `2025-04-30`
+**Stars**: `1.1k` | **Created at**: `2024-11-21` | **Last updated**: `2025-05-01`
 
 
 LTX-Video Support for ComfyUI
@@ -1102,7 +1102,7 @@ LTX-Video Support for ComfyUI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `1.1k` | **Created at**: `2023-04-24` | **Last updated**: `2025-04-30` | **Tags**: `Integration` `3D`
+**Stars**: `1.1k` | **Created at**: `2023-04-24` | **Last updated**: `2025-05-01` | **Tags**: `Integration` `3D`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -1129,7 +1129,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.0k` | **Created at**: `2023-12-09` | **Last updated**: `2025-04-30` | **Tags**: `Integration`
+**Stars**: `1.0k` | **Created at**: `2023-12-09` | **Last updated**: `2025-05-01` | **Tags**: `Integration`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -1145,22 +1145,33 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 <a href='https://github.com/Comfy-Org/ComfyUI_frontend'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI_frontend
 
-**Stars**: `1.0k` | **Created at**: `2024-06-13` | **Last updated**: `2025-04-30` | **Tags**: `Core`
+**Stars**: `1.0k` | **Created at**: `2024-06-13` | **Last updated**: `2025-05-01` | **Tags**: `Core`
 
 
 Official front-end implementation of ComfyUI
 # TOP 66 - 70
 
-<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-IC-Light,chengzeyi/Comfy-WaveSpeed,wyrde/wyrde-comfyui-workflows,kijai/ComfyUI-FramePackWrapper,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-IC-Light,chengzeyi/Comfy-WaveSpeed,wyrde/wyrde-comfyui-workflows,kijai/ComfyUI-FramePackWrapper,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-FramePackWrapper,kijai/ComfyUI-IC-Light,chengzeyi/Comfy-WaveSpeed,wyrde/wyrde-comfyui-workflows,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-FramePackWrapper,kijai/ComfyUI-IC-Light,chengzeyi/Comfy-WaveSpeed,wyrde/wyrde-comfyui-workflows,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
-## 66. kijai/ComfyUI-IC-Light
+## 66. kijai/ComfyUI-FramePackWrapper
+
+
+<a href='https://github.com/kijai/ComfyUI-FramePackWrapper'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FramePackWrapper
+
+**Stars**: `1.0k` | **Created at**: `2025-04-17` | **Last updated**: `2025-05-01`
+
+
+None
+
+## 67. kijai/ComfyUI-IC-Light
 
 
 <a href='https://github.com/kijai/ComfyUI-IC-Light'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
 
-**Stars**: `998` | **Created at**: `2024-05-09` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `999` | **Created at**: `2024-05-09` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Using IC-LIght models in ComfyUI
@@ -1174,18 +1185,18 @@ Using IC-LIght models in ComfyUI
 </details>
 
 
-## 67. chengzeyi/Comfy-WaveSpeed
+## 68. chengzeyi/Comfy-WaveSpeed
 
 
 <a href='https://github.com/chengzeyi/Comfy-WaveSpeed'>
 <img src="https://avatars.githubusercontent.com/u/23494160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chengzeyi/Comfy-WaveSpeed
 
-**Stars**: `996` | **Created at**: `2024-11-27` | **Last updated**: `2025-04-30`
+**Stars**: `997` | **Created at**: `2024-11-27` | **Last updated**: `2025-05-01`
 
 
 https://wavespeed.ai/ [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 
-## 68. wyrde/wyrde-comfyui-workflows
+## 69. wyrde/wyrde-comfyui-workflows
 
 
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
@@ -1196,24 +1207,13 @@ https://wavespeed.ai/ [WIP] The all in one inference optimization solution for C
 
 some wyrde workflows for comfyUI
 
-## 69. kijai/ComfyUI-FramePackWrapper
-
-
-<a href='https://github.com/kijai/ComfyUI-FramePackWrapper'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FramePackWrapper
-
-**Stars**: `994` | **Created at**: `2025-04-17` | **Last updated**: `2025-04-30`
-
-
-None
-
 ## 70. Kosinkadink/ComfyUI-VideoHelperSuite
 
 
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `957` | **Created at**: `2023-09-23` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `958` | **Created at**: `2023-09-23` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Video`
 
 
 Nodes related to video workflows
@@ -1224,7 +1224,7 @@ Nodes related to video workflows
 
 # TOP 71 - 75
 
-<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=Acly/comfyui-inpaint-nodes,storyicon/comfyui_segment_anything,602387193c/ComfyUI-wiki,smthemex/ComfyUI_Sonic,banodoco/Steerable-Motion&type=Date"><img src="https://api.star-history.com/svg?repos=Acly/comfyui-inpaint-nodes,storyicon/comfyui_segment_anything,602387193c/ComfyUI-wiki,smthemex/ComfyUI_Sonic,banodoco/Steerable-Motion&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=Acly/comfyui-inpaint-nodes,storyicon/comfyui_segment_anything,602387193c/ComfyUI-wiki,smthemex/ComfyUI_Sonic,kijai/ComfyUI-segment-anything-2&type=Date"><img src="https://api.star-history.com/svg?repos=Acly/comfyui-inpaint-nodes,storyicon/comfyui_segment_anything,602387193c/ComfyUI-wiki,smthemex/ComfyUI_Sonic,kijai/ComfyUI-segment-anything-2&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 71. Acly/comfyui-inpaint-nodes
@@ -1233,7 +1233,7 @@ Nodes related to video workflows
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `932` | **Created at**: `2024-01-24` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `934` | **Created at**: `2024-01-24` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -1249,7 +1249,7 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `925` | **Created at**: `2023-10-07` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `926` | **Created at**: `2023-10-07` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -1278,7 +1278,7 @@ Everything about ComfyUI, including workflow sharing, resource sharing, knowledg
 <a href='https://github.com/smthemex/ComfyUI_Sonic'>
 <img src="https://avatars.githubusercontent.com/u/138738845?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/smthemex/ComfyUI_Sonic
 
-**Stars**: `900` | **Created at**: `2025-02-07` | **Last updated**: `2025-04-30`
+**Stars**: `902` | **Created at**: `2025-02-07` | **Last updated**: `2025-05-01`
 
 
 Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI
@@ -1288,28 +1288,13 @@ Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait 
 </details>
 
 
-## 75. banodoco/Steerable-Motion
-
-
-<a href='https://github.com/banodoco/Steerable-Motion'>
-<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
-
-**Stars**: `884` | **Created at**: `2023-11-11` | **Last updated**: `2025-04-25` | **Tags**: `Custom Nodes` `Video`
-
-
-A ComfyUI node for driving videos using batches of images.
-# TOP 76 - 80
-
-<details><summary>Star History for TOP 76 - 80</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-segment-anything-2,1038lab/ComfyUI-RMBG,Suzie1/ComfyUI_Comfyroll_CustomNodes,kijai/ComfyUI-FluxTrainer,pythongosssss/ComfyUI-WD14-Tagger&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-segment-anything-2,1038lab/ComfyUI-RMBG,Suzie1/ComfyUI_Comfyroll_CustomNodes,kijai/ComfyUI-FluxTrainer,pythongosssss/ComfyUI-WD14-Tagger&type=Date" alt="Star History Chart" width="500"></a></details>
-
-
-## 76. kijai/ComfyUI-segment-anything-2
+## 75. kijai/ComfyUI-segment-anything-2
 
 
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `882` | **Created at**: `2024-07-30` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `885` | **Created at**: `2024-07-30` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -1320,6 +1305,21 @@ ComfyUI nodes to use segment-anything-2
  - <sub>Sam2AutoSegmentation</sub>, <sub>Sam2Segmentation</sub>, <sub>Sam2VideoSegmentation</sub>, <sub>Sam2VideoSegmentationAddPoints</sub>
 </details>
 
+# TOP 76 - 80
+
+<details><summary>Star History for TOP 76 - 80</summary><a href="https://api.star-history.com/svg?repos=banodoco/Steerable-Motion,1038lab/ComfyUI-RMBG,Suzie1/ComfyUI_Comfyroll_CustomNodes,kijai/ComfyUI-FluxTrainer,mit-han-lab/ComfyUI-nunchaku&type=Date"><img src="https://api.star-history.com/svg?repos=banodoco/Steerable-Motion,1038lab/ComfyUI-RMBG,Suzie1/ComfyUI_Comfyroll_CustomNodes,kijai/ComfyUI-FluxTrainer,mit-han-lab/ComfyUI-nunchaku&type=Date" alt="Star History Chart" width="500"></a></details>
+
+
+## 76. banodoco/Steerable-Motion
+
+
+<a href='https://github.com/banodoco/Steerable-Motion'>
+<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
+
+**Stars**: `884` | **Created at**: `2023-11-11` | **Last updated**: `2025-04-25` | **Tags**: `Custom Nodes` `Video`
+
+
+A ComfyUI node for driving videos using batches of images.
 
 ## 77. 1038lab/ComfyUI-RMBG
 
@@ -1327,7 +1327,7 @@ ComfyUI nodes to use segment-anything-2
 <a href='https://github.com/1038lab/ComfyUI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/129358391?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/1038lab/ComfyUI-RMBG
 
-**Stars**: `867` | **Created at**: `2024-11-14` | **Last updated**: `2025-04-30`
+**Stars**: `870` | **Created at**: `2024-11-14` | **Last updated**: `2025-05-01`
 
 
 A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet models, SAM, and GroundingDINO.
@@ -1348,7 +1348,7 @@ A ComfyUI custom node designed for advanced image background removal and object,
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `864` | **Created at**: `2023-06-10` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `866` | **Created at**: `2023-06-10` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -1364,7 +1364,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/kijai/ComfyUI-FluxTrainer'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FluxTrainer
 
-**Stars**: `849` | **Created at**: `2024-08-15` | **Last updated**: `2025-04-30`
+**Stars**: `852` | **Created at**: `2024-08-15` | **Last updated**: `2025-05-01`
 
 
 None
@@ -1381,24 +1381,24 @@ None
 </details>
 
 
-## 80. pythongosssss/ComfyUI-WD14-Tagger
+## 80. mit-han-lab/ComfyUI-nunchaku
 
 
-<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
-<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+<a href='https://github.com/mit-han-lab/ComfyUI-nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/ComfyUI-nunchaku
 
-**Stars**: `843` | **Created at**: `2023-05-11` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `847` | **Created at**: `2025-03-12` | **Last updated**: `2025-05-01`
 
 
-A ComfyUI extension allowing for the interrogation of booru tags from images.
-<details><summary>Included Nodes (1)</summary>
+ComfyUI plugin of Nunchaku
+<details><summary>Included Nodes (4)</summary>
 
- - [WD14Tagger|pysssss🌟](node_examples/WD14Taggerpysssss.md)
+ - <sub>NunchakuDepthPreprocessor</sub>, <sub>NunchakuFluxDiTLoader</sub>, <sub>NunchakuFluxLoraLoader</sub>, <sub>NunchakuTextEncoderLoader</sub>
 </details>
 
 # TOP 81 - 85
 
-<details><summary>Star History for TOP 81 - 85</summary><a href="https://api.star-history.com/svg?repos=twri/sdxl_prompt_styler,nullquant/ComfyUI-BrushNet,cubiq/PuLID_ComfyUI,mit-han-lab/ComfyUI-nunchaku,SeargeDP/SeargeSDXL&type=Date"><img src="https://api.star-history.com/svg?repos=twri/sdxl_prompt_styler,nullquant/ComfyUI-BrushNet,cubiq/PuLID_ComfyUI,mit-han-lab/ComfyUI-nunchaku,SeargeDP/SeargeSDXL&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 81 - 85</summary><a href="https://api.star-history.com/svg?repos=twri/sdxl_prompt_styler,nullquant/ComfyUI-BrushNet,pythongosssss/ComfyUI-WD14-Tagger,cubiq/PuLID_ComfyUI,SeargeDP/SeargeSDXL&type=Date"><img src="https://api.star-history.com/svg?repos=twri/sdxl_prompt_styler,nullquant/ComfyUI-BrushNet,pythongosssss/ComfyUI-WD14-Tagger,cubiq/PuLID_ComfyUI,SeargeDP/SeargeSDXL&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 81. twri/sdxl_prompt_styler
@@ -1407,7 +1407,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `842` | **Created at**: `2023-07-22` | **Last updated**: `2025-04-28` | **Tags**: `Custom Nodes`
+**Stars**: `843` | **Created at**: `2023-07-22` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 Custom prompt styler node for SDXL in ComfyUI
@@ -1423,7 +1423,7 @@ Custom prompt styler node for SDXL in ComfyUI
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `840` | **Created at**: `2024-04-11` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `842` | **Created at**: `2024-04-11` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1437,13 +1437,29 @@ ComfyUI BrushNet nodes
 </details>
 
 
-## 83. cubiq/PuLID_ComfyUI
+## 83. pythongosssss/ComfyUI-WD14-Tagger
+
+
+<a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
+<img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+
+**Stars**: `842` | **Created at**: `2023-05-11` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
+
+
+A ComfyUI extension allowing for the interrogation of booru tags from images.
+<details><summary>Included Nodes (1)</summary>
+
+ - [WD14Tagger|pysssss🌟](node_examples/WD14Taggerpysssss.md)
+</details>
+
+
+## 84. cubiq/PuLID_ComfyUI
 
 
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `840` | **Created at**: `2024-05-08` | **Last updated**: `2025-04-29` | **Tags**: `Custom Nodes`
+**Stars**: `840` | **Created at**: `2024-05-08` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1451,22 +1467,6 @@ PuLID native implementation for ComfyUI
 
  - <sub>[ApplyPulid](node_examples/ApplyPulid.md)</sub>, <sub>ApplyPulidAdvanced</sub>
  - <sub>[PulidEvaClipLoader](node_examples/PulidEvaClipLoader.md)</sub>, <sub>[PulidInsightFaceLoader](node_examples/PulidInsightFaceLoader.md)</sub>, <sub>[PulidModelLoader](node_examples/PulidModelLoader.md)</sub>
-</details>
-
-
-## 84. mit-han-lab/ComfyUI-nunchaku
-
-
-<a href='https://github.com/mit-han-lab/ComfyUI-nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/ComfyUI-nunchaku
-
-**Stars**: `838` | **Created at**: `2025-03-12` | **Last updated**: `2025-04-30`
-
-
-ComfyUI plugin of Nunchaku
-<details><summary>Included Nodes (4)</summary>
-
- - <sub>NunchakuDepthPreprocessor</sub>, <sub>NunchakuFluxDiTLoader</sub>, <sub>NunchakuFluxLoraLoader</sub>, <sub>NunchakuTextEncoderLoader</sub>
 </details>
 
 
@@ -1496,7 +1496,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `833` | **Created at**: `2023-08-22` | **Last updated**: `2025-04-29` | **Tags**: `Integration`
+**Stars**: `834` | **Created at**: `2023-08-22` | **Last updated**: `2025-05-01` | **Tags**: `Integration`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -1507,7 +1507,7 @@ ComfyUI docker images for use in GPU cloud and local environments. Includes AI-D
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `814` | **Created at**: `2023-09-20` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes`
+**Stars**: `815` | **Created at**: `2023-09-20` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes`
 
 
 None
@@ -1569,7 +1569,7 @@ Enhanced version of Fooocus for SDXL, more suitable for Chinese and Cloud
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `799` | **Created at**: `2024-02-06` | **Last updated**: `2025-04-30` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `799` | **Created at**: `2024-02-06` | **Last updated**: `2025-05-01` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -1600,7 +1600,7 @@ None
 <a href='https://github.com/YanWenKun/ComfyUI-Docker'>
 <img src="https://avatars.githubusercontent.com/u/58008456?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/YanWenKun/ComfyUI-Docker
 
-**Stars**: `771` | **Created at**: `2023-03-17` | **Last updated**: `2025-04-30`
+**Stars**: `777` | **Created at**: `2023-03-17` | **Last updated**: `2025-05-02`
 
 
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
@@ -1650,7 +1650,7 @@ Using Gemini in ComfyUI
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `742` | **Created at**: `2024-02-19` | **Last updated**: `2025-04-30` | **Tags**: `Management`
+**Stars**: `744` | **Created at**: `2024-02-19` | **Last updated**: `2025-05-01` | **Tags**: `Management`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -1715,7 +1715,7 @@ AnimateDiff for ComfyUI
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `725` | **Created at**: `2025-01-01` | **Last updated**: `2025-04-30`
+**Stars**: `726` | **Created at**: `2025-01-01` | **Last updated**: `2025-05-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1747,4 +1747,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2025-05-01 00:29:28 UTC
+### Automatically updated on: 2025-05-02 00:26:21 UTC
