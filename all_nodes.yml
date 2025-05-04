@@ -159,7 +159,9 @@ ADE_VisualizeContextOptions: -1
 ADE_VisualizeContextOptionsK: -1
 ADE_VisualizeContextOptionsKAdv: -1
 ADE_VisualizeContextOptionsSCustom: -1
+AILab_ICLoRAConcat: -1
 AILab_ImageCombiner: -1
+AILab_ImageCrop: -1
 AILab_ImageMaskConvert: -1
 AILab_ImagePreview: -1
 AILab_ImageStitch: -1
@@ -838,6 +840,7 @@ Export API: 0
 Export With Ffmpeg (mtb): 0
 Export glb: -1
 ExpressionEditor: -1
+ExtendIntermediateSigmas: -1
 ExtractFluxLoRA: -1
 ExtractKeyframes+: 0
 FILM VFI: 40
@@ -1999,6 +2002,7 @@ PrepareAttnBank: -1
 Preview3D: -1
 Preview3DAnimation: -1
 PreviewAnimation: 1
+PreviewAny: -1
 PreviewAudio: -1
 PreviewBridge: 40
 PreviewBridgeLatent: 0
