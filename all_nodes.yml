@@ -631,6 +631,7 @@ ComfyUIDeployExternalLora: 0
 ComfyUIDeployExternalNumber: 1
 ComfyUIDeployExternalNumberInt: 0
 ComfyUIDeployExternalNumberSlider: 0
+ComfyUIDeployExternalSeed: -1
 ComfyUIDeployExternalText: 1
 ComfyUIDeployExternalTextAny: -1
 ComfyUIDeployExternalTextList: -1
@@ -987,6 +988,8 @@ Hunyuan3Dv2ConditioningMultiView: -1
 HunyuanImageToVideo: -1
 HunyuanVideoBlockLoraSelect: -1
 HunyuanVideoEncodeKeyframesToCond: -1
+HunyuanVideoFresca: -1
+HunyuanVideoSLG: -1
 HyVideoBlockSwap: -1
 HyVideoCFG: -1
 HyVideoContextOptions: -1
@@ -2253,6 +2256,7 @@ SaveLatent: 0
 SavePoseKpsAsJsonFile: 1
 SavePromptToFile: 10
 SaveSVG: -1
+SaveSVGNode: -1
 SaveStringKJ: -1
 SaveText|pysssss: 0
 SaveTripoSRMesh: 0
@@ -2928,6 +2932,7 @@ easy saveImageLazy: -1
 easy saveText: -1
 easy saveTextLazy: -1
 easy seed: 2
+easy seedList: -1
 easy showAnything: 3
 easy showAnythingLazy: -1
 easy showLoaderSettingsNames: 0
