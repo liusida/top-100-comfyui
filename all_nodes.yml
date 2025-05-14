@@ -173,6 +173,7 @@ AILab_MaskPreview: -1
 AILab_Preview: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
+APG: -1
 APISR_Lterative_Zho: 2
 APISR_ModelLoader_Zho: 3
 APISR_Zho: 1
@@ -554,6 +555,7 @@ CamerasImage_Zho: 2
 Canny: 33
 CannyEdgePreprocessor: 85
 CaptureWebcam: 1
+CaseConverter: -1
 CenterImage: 0
 CfgScheduleHookProvider: 11
 CharacterInText: 2
@@ -2133,6 +2135,8 @@ RecraftVectorizeImageNode: -1
 ReencodeLatent: 0
 ReencodeLatentPipe: 2
 Ref_Image_Preprocessing: 11
+RegexExtract: -1
+RegexMatch: -1
 RegionalPrompt: 12
 RegionalSampler: 12
 RegionalSamplerAdvanced: 0
@@ -2242,6 +2246,8 @@ Save Text File: 0
 SaveAnimatedPNG: 0
 SaveAnimatedWEBP: 33
 SaveAudio: -1
+SaveAudioMP3: -1
+SaveAudioOpus: -1
 SaveExpData: -1
 SaveGLB: -1
 SaveImage: 97
@@ -2427,11 +2433,18 @@ Stack Images (mtb): 0
 StepsScheduleHookProvider: 0
 String Replace (mtb): 5
 String to Text: 0
+StringCompare: -1
+StringConcatenate: -1
 StringConstant: 6
 StringConstantMultiline: 4
+StringContains: -1
 StringFunction|pysssss: 35
+StringLength: -1
 StringListToString: 4
+StringReplace: -1
+StringSubstring: -1
 StringToFloatList: -1
+StringTrim: -1
 StubConstantImage: -1
 StubFloat: -1
 StubImage: -1
