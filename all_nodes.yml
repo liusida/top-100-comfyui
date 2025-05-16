@@ -1448,6 +1448,7 @@ LTXFlowEditSampler: -1
 LTXForwardModelSamplingPred: -1
 LTXPerturbedAttention: -1
 LTXPrepareAttnInjections: -1
+LTXQ8Patch: -1
 LTXRFForwardODESampler: -1
 LTXRFReverseODESampler: -1
 LTXReverseModelSamplingPred: -1
@@ -2202,7 +2203,9 @@ SONICSampler: -1
 SONICTLoader: -1
 SONIC_PreData: -1
 STATIC_TRT_MODEL_CONVERSION: -1
+STGAdvancedPresets: -1
 STGAdvancedPresetsNode: -1
+STGGuiderAdvanced: -1
 STGGuiderAdvancedNode: -1
 STGGuiderNode: -1
 STMFNet VFI: 7
@@ -2370,6 +2373,7 @@ SemSegPreprocessor: 25
 Send Images To Photoshop: -1
 SeparateMasks: -1
 Sepconv VFI: 2
+Set VAE Decoder Noise: -1
 SetDefaultImageForSEGS: 0
 SetFirstSigma: -1
 SetLatentNoiseMask: 86
