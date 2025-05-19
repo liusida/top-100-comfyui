@@ -1173,6 +1173,7 @@ Image to Seed: 0
 Image2Video: -1
 Image2Video_party: -1
 ImageAddMulti: 0
+ImageAddNoise: -1
 ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
 ImageBatch: 62
@@ -1556,6 +1557,7 @@ LatentUpscaler: 0
 'LayerMask: LoadBiRefNetModel': -1
 'LayerMask: LoadBiRefNetModelV2': -1
 'LayerMask: LoadFlorence2Model': -1
+'LayerMask: LoadSegformerModel': -1
 'LayerMask: MaskBoxDetect': 3
 'LayerMask: MaskByColor': 2
 'LayerMask: MaskByDifferent': 1
@@ -1583,8 +1585,11 @@ LatentUpscaler: 0
 'LayerMask: SAM2VideoUltra': -1
 'LayerMask: SegformerB2ClothesUltra': 1
 'LayerMask: SegformerClothesPipelineLoader': -1
+'LayerMask: SegformerClothesSetting': -1
 'LayerMask: SegformerFashionPipelineLoader': -1
+'LayerMask: SegformerFashionSetting': -1
 'LayerMask: SegformerUltraV2': -1
+'LayerMask: SegformerUltraV3': -1
 'LayerMask: SegmentAnythingUltra': 13
 'LayerMask: SegmentAnythingUltra V2': 6
 'LayerMask: Shadow & Highlight Mask': 1
