@@ -1979,6 +1979,8 @@ Number to Text: 5
 NunchakuDepthPreprocessor: -1
 NunchakuFluxDiTLoader: -1
 NunchakuFluxLoraLoader: -1
+NunchakuPulidApply: -1
+NunchakuPulidLoader: -1
 NunchakuTextEncoderLoader: -1
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
