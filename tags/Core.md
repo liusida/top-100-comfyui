@@ -7,7 +7,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `77.5k` | **Created at**: `2025-05-23`
+**Stars**: `77.6k` | **Created at**: `2025-05-24`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -44,7 +44,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 <a href='https://github.com/Comfy-Org/ComfyUI_frontend'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI_frontend
 
-**Stars**: `1.1k` | **Created at**: `2025-05-22`
+**Stars**: `1.1k` | **Created at**: `2025-05-23`
 
 
 Official front-end implementation of ComfyUI

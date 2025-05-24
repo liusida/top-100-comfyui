@@ -2589,8 +2589,10 @@ TorchCompileCosmosModel: -1
 TorchCompileLTXModel: -1
 TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
+TorchCompileModelFluxAdvancedV2: -1
 TorchCompileModelHyVideo: -1
 TorchCompileModelWanVideo: -1
+TorchCompileModelWanVideoV2: -1
 TorchCompileVAE: -1
 TrainDatasetAdd: -1
 TrainDatasetGeneralConfig: -1
