@@ -940,6 +940,8 @@ GLIGENTextBoxApplyBatchCoords: 0
 GLIGENTextBoxApply_Advanced: 0
 GMFSS Fortuna VFI: 11
 GamePal: 0
+GeminiInputFiles: -1
+GeminiNode: -1
 Gemini_15P_API_S_Advance_Zho: 2
 Gemini_15P_API_S_Chat_Advance_Zho: 0
 Gemini_API_Chat_Zho: 0
@@ -2003,9 +2005,12 @@ OneButtonPrompt: 10
 OneButtonSuperPrompt: 0
 OneFormer-ADE20K-SemSegPreprocessor: 14
 OneFormer-COCO-SemSegPreprocessor: 20
+OpenAIChatConfig: -1
+OpenAIChatNode: -1
 OpenAIDalle2: -1
 OpenAIDalle3: -1
 OpenAIGPTImage1: -1
+OpenAIInputFiles: -1
 OpenposePreprocessor: 92
 OptimalStepsScheduler: -1
 OptimizerConfig: -1
@@ -2170,7 +2175,15 @@ ResizeImageMixlab: 6
 ResizeMask: 4
 Restore Face (mtb): 3
 ReverseImageBatch: 0
+Rodin3D_Detail: -1
+Rodin3D_Regular: -1
+Rodin3D_Sketch: -1
+Rodin3D_Smooth: -1
 RoundMask: 0
+RunwayFirstLastFrameNode: -1
+RunwayImageToVideoNodeGen3a: -1
+RunwayImageToVideoNodeGen4: -1
+RunwayTextToImageNode: -1
 SAM Image Mask: 0
 SAM Model Loader: 0
 SAM Parameters: 2
@@ -2607,10 +2620,18 @@ TransparentImage: 6
 TrimVideoLatent: -1
 TripleCLIPLoader: 5
 TripleCLIPLoaderGGUF: -1
+TripoConversionNode: -1
+TripoImageToModelNode: -1
+TripoMultiviewToModelNode: -1
+TripoRefineNode: -1
+TripoRetargetNode: -1
+TripoRigNode: -1
 TripoSRModelLoader: 14
 TripoSRSampler: 14
 TripoSRSampler_: 0
 TripoSRViewer: 12
+TripoTextToModelNode: -1
+TripoTextureNode: -1
 True Random.org Number Generator: 0
 TwoAdvancedSamplersForMask: 13
 TwoSamplersForMask: 4
