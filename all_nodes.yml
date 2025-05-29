@@ -752,6 +752,7 @@ DetailerForEachPipe: 32
 DetailerForEachPipeForAnimateDiff: 1
 DetailerHookCombine: 1
 DetailerPipeToBasicPipe: 12
+DiTBlockLoraLoader: -1
 Dictionary to Console: 0
 DiffControlNetLoader: 27
 DiffControlNetLoaderAdvanced: 28
@@ -2734,6 +2735,7 @@ VisualizeLoss: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
+Wan21BlockLoraSelect: -1
 WanCameraEmbedding: -1
 WanCameraImageToVideo: -1
 WanFirstLastFrameToVideo: -1
