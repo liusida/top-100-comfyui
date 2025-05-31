@@ -901,6 +901,8 @@ FluxForwardODESampler: -1
 FluxGuidance: -1
 FluxInverseSampler: -1
 FluxKohyaInferenceSampler: -1
+FluxKontextMaxImageNode: -1
+FluxKontextProImageNode: -1
 FluxLoraLoader: -1
 FluxNoiseMixer: -1
 FluxProCannyNode: -1
@@ -2742,6 +2744,7 @@ WanFirstLastFrameToVideo: -1
 WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
 WanImageToVideo: -1
+WanPhantomSubjectToVideo: -1
 WanVaceToVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoTeaCacheKJ: -1

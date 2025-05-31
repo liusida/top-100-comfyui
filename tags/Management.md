@@ -7,7 +7,7 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.4k` | **Created at**: `2025-05-29`
+**Stars**: `2.4k` | **Created at**: `2025-05-30`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -28,7 +28,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/11cafe/comfyui-workspace-manager'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/comfyui-workspace-manager
 
-**Stars**: `1.3k` | **Created at**: `2025-05-29`
+**Stars**: `1.3k` | **Created at**: `2025-05-30`
 
 
 A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace
@@ -39,7 +39,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.2k` | **Created at**: `2025-05-29`
+**Stars**: `1.2k` | **Created at**: `2025-05-30`
 
 
 A powerful set of tools for ComfyUI
