@@ -2153,6 +2153,7 @@ ReencodeLatentPipe: 2
 Ref_Image_Preprocessing: 11
 RegexExtract: -1
 RegexMatch: -1
+RegexReplace: -1
 RegionalPrompt: 12
 RegionalSampler: 12
 RegionalSamplerAdvanced: 0
