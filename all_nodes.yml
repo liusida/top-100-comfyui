@@ -159,8 +159,11 @@ ADE_VisualizeContextOptions: -1
 ADE_VisualizeContextOptionsK: -1
 ADE_VisualizeContextOptionsKAdv: -1
 ADE_VisualizeContextOptionsSCustom: -1
+AILab_ColorInput: -1
+AILab_CropObject: -1
 AILab_ICLoRAConcat: -1
 AILab_ImageCombiner: -1
+AILab_ImageCompare: -1
 AILab_ImageCrop: -1
 AILab_ImageMaskConvert: -1
 AILab_ImagePreview: -1
@@ -963,6 +966,7 @@ Get First Image: 0
 Get Image From Photoshop Layer: -1
 Get Last Image: 1
 GetImageRangeFromBatch: 9
+GetImageSize: -1
 GetImageSize+: 37
 GetImageSizeAndCount: 4
 GetImageSize_: 10
@@ -1261,6 +1265,7 @@ ImageSender: 16
 ImageSharpen: 13
 ImageSizeAndBatchSize: 8
 ImageSmartSharpen+: -1
+ImageStitch: -1
 ImageTensorList: -1
 ImageTile+: 0
 ImageToDevice+: 0
@@ -1984,9 +1989,11 @@ Number to Text: 5
 NunchakuDepthPreprocessor: -1
 NunchakuFluxDiTLoader: -1
 NunchakuFluxLoraLoader: -1
+NunchakuModelMerger: -1
 NunchakuPulidApply: -1
 NunchakuPulidLoader: -1
 NunchakuTextEncoderLoader: -1
+NunchakuTextEncoderLoaderV2: -1
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
 OffsetMask: 0
@@ -2387,6 +2394,7 @@ SegmDetectorCombined_v2: 7
 SegmDetectorForEach: 0
 SegmDetectorSEGS: 21
 Segment: -1
+SegmentV2: -1
 Segs  Mask: 0
 Segs  Mask ForEach: 0
 SegsMaskCombine: 1
