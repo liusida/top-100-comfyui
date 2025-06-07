@@ -636,6 +636,7 @@ ComfyUIDeployExternalLora: 0
 ComfyUIDeployExternalNumber: 1
 ComfyUIDeployExternalNumberInt: 0
 ComfyUIDeployExternalNumberSlider: 0
+ComfyUIDeployExternalNumberSliderInt: -1
 ComfyUIDeployExternalSeed: -1
 ComfyUIDeployExternalText: 1
 ComfyUIDeployExternalTextAny: -1
