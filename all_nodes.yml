@@ -727,6 +727,7 @@ CrossFadeImagesMulti: -1
 CustomControlNetWeights: 0
 CustomControlNetWeightsFluxFromList: -1
 CustomNoiseDetailerHookProvider: 0
+CustomSamplerDetailerHookProvider: -1
 CustomSigmas: 9
 CustomT2IAdapterWeights: 0
 CutAndDragOnPath: -1
