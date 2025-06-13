@@ -7,7 +7,7 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.5k` | **Created at**: `2025-06-11`
+**Stars**: `2.5k` | **Created at**: `2025-06-12`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -54,7 +54,7 @@ A powerful set of tools for ComfyUI
 <a href='https://github.com/zanllp/sd-webui-infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/sd-webui-infinite-image-browsing
 
-**Stars**: `1.1k` | **Created at**: `2025-06-09`
+**Stars**: `1.1k` | **Created at**: `2025-06-12`
 
 
 A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.
@@ -65,7 +65,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `763` | **Created at**: `2025-06-10`
+**Stars**: `764` | **Created at**: `2025-06-12`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
