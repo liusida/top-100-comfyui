@@ -1794,6 +1794,7 @@ LoadImage: 97
 LoadImageByUrl //Browser: 0
 LoadImageMask: 72
 LoadImageOutput: -1
+LoadImageSetFromFolderNode: -1
 LoadImagesFromDirectory: 2
 LoadImagesFromFolderKJ: -1
 LoadImagesFromPath: 4
@@ -1821,12 +1822,14 @@ Lora Loader: 0
 LoraLoader: 79
 LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
+LoraModelLoader: -1
 LoraNames_: 0
 LoraPrompt: 0
 LoraSave: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
 Lorebook: -1
+LossGraphNode: -1
 LotusConditioning: -1
 LumaConceptsNode: -1
 LumaImageModifyNode: -1
@@ -2295,6 +2298,7 @@ SaveImageWebsocket: 0
 SaveImageWithAlpha: 0
 SaveImagetoPath: 4
 SaveLatent: 0
+SaveLoRANode: -1
 SavePoseKpsAsJsonFile: 1
 SavePromptToFile: 10
 SaveSVG: -1
@@ -2624,6 +2628,7 @@ TorchCompileVAE: -1
 TrainDatasetAdd: -1
 TrainDatasetGeneralConfig: -1
 TrainDatasetRegularization: -1
+TrainLoraNode: -1
 TrainNetworkConfig: -1
 Transform Image (mtb): 3
 TransitionImagesInBatch: -1
