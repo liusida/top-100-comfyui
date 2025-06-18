@@ -1485,6 +1485,7 @@ LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSetVideoLatentNoiseMasks: -1
 LTXVTiledSampler: -1
+LamaRemoverDetailerHookProvider: -1
 LaplaceScheduler: -1
 Latent Batch: 0
 Latent Input Switch: 0
@@ -2957,6 +2958,7 @@ easy latentNoisy: 0
 easy lengthAnything: -1
 easy loadImageBase64: 17
 easy loadImagesForLoop: -1
+easy loraNames: -1
 easy loraStack: 4
 easy loraStackApply: -1
 easy makeImageForICLora: -1
