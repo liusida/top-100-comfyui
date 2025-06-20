@@ -1476,7 +1476,9 @@ LTXVCropGuides: -1
 LTXVFilmGrain: -1
 LTXVImgToVideo: -1
 LTXVLatentUpsampler: -1
+LTXVPatcherVAE: -1
 LTXVPreprocess: -1
+LTXVPreprocessMasks: -1
 LTXVPromptEnhancer: -1
 LTXVPromptEnhancerLoader: -1
 LTXVQ8Patch: -1

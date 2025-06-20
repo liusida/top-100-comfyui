@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `80.0k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `80.1k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -147,7 +147,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/YanWenKun/ComfyUI-Docker'>
 <img src="https://avatars.githubusercontent.com/u/58008456?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/YanWenKun/ComfyUI-Docker
 
-**Stars**: `859` | **Created at**: `2023-03-17`
+**Stars**: `860` | **Created at**: `2023-03-17`
 
 
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
@@ -291,7 +291,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `910` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
+**Stars**: `911` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -350,7 +350,7 @@ Custom prompt styler node for SDXL in ComfyUI
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `1.8k` | **Created at**: `2023-07-30` | **Tags**: `Integration`
+**Stars**: `1.9k` | **Created at**: `2023-07-30` | **Tags**: `Integration`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -525,7 +525,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `863` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `865` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -607,7 +607,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/storyicon/comfyui_segment_anything'>
 <img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
 
-**Stars**: `965` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
+**Stars**: `966` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
 
 
 Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
@@ -872,7 +872,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `975` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
+**Stars**: `976` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -933,7 +933,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `769` | **Created at**: `2024-02-19` | **Tags**: `Management`
+**Stars**: `770` | **Created at**: `2024-02-19` | **Tags**: `Management`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -1084,7 +1084,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `867` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `868` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1121,7 +1121,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `4.3k` | **Created at**: `2024-05-09`
+**Stars**: `4.4k` | **Created at**: `2024-05-09`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -1217,7 +1217,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `955` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
+**Stars**: `957` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -1346,7 +1346,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/kijai/ComfyUI-FluxTrainer'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FluxTrainer
 
-**Stars**: `926` | **Created at**: `2024-08-15`
+**Stars**: `927` | **Created at**: `2024-08-15`
 
 
 None
@@ -1427,10 +1427,10 @@ A ComfyUI custom node designed for advanced image background removal and object,
 
 
 LTX-Video Support for ComfyUI
-<details><summary>Included Nodes (32)</summary>
+<details><summary>Included Nodes (34)</summary>
 
  - <sub>AddLatentGuide</sub>
- - <sub>LinearOverlapLatentTransition</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVFilmGrain</sub>, <sub>LTXVLatentUpsampler</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVRecurrentKSampler</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVTiledSampler</sub>
+ - <sub>LinearOverlapLatentTransition</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVFilmGrain</sub>, <sub>LTXVLatentUpsampler</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVRecurrentKSampler</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVTiledSampler</sub>
  - <sub>ModifyLTXModel</sub>
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
@@ -1470,7 +1470,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `819` | **Created at**: `2025-01-01`
+**Stars**: `821` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1504,7 +1504,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `746` | **Created at**: `2025-01-21`
+**Stars**: `749` | **Created at**: `2025-01-21`
 
 
 None

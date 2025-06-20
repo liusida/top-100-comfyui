@@ -39,7 +39,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.2k` | **Created at**: `2025-06-18`
+**Stars**: `1.2k` | **Created at**: `2025-06-19`
 
 
 A powerful set of tools for ComfyUI
@@ -65,7 +65,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `769` | **Created at**: `2025-06-18`
+**Stars**: `770` | **Created at**: `2025-06-19`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
