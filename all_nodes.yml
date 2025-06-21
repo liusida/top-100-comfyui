@@ -1481,6 +1481,7 @@ LTXVPreprocess: -1
 LTXVPreprocessMasks: -1
 LTXVPromptEnhancer: -1
 LTXVPromptEnhancerLoader: -1
+LTXVQ8LoraModelLoader: -1
 LTXVQ8Patch: -1
 LTXVRecurrentKSampler: -1
 LTXVScheduler: -1
