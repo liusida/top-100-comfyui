@@ -2192,6 +2192,7 @@ Repeater|pysssss: 0
 ReplaceImagesInBatch: 0
 ReroutePrimitive|pysssss: 5
 RescaleCFG: 19
+ResizeAndPadImage: -1
 ResizeImageMixlab: 6
 ResizeMask: 4
 Restore Face (mtb): 3

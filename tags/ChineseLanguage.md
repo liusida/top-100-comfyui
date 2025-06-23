@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `6.5k` | **Created at**: `2025-06-21`
+**Stars**: `6.5k` | **Created at**: `2025-06-22`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -18,7 +18,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.7k` | **Created at**: `2025-06-21`
+**Stars**: `1.7k` | **Created at**: `2025-06-22`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -103,7 +103,7 @@ Unofficial implementation of BRIA RMBG Model for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `761` | **Created at**: `2025-06-20`
+**Stars**: `761` | **Created at**: `2025-06-22`
 
 
 Using Gemini in ComfyUI
