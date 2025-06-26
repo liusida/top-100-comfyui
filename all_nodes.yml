@@ -2170,6 +2170,7 @@ RecraftVectorizeImageNode: -1
 ReencodeLatent: 0
 ReencodeLatentPipe: 2
 Ref_Image_Preprocessing: 11
+ReferenceLatent: -1
 RegexExtract: -1
 RegexMatch: -1
 RegexReplace: -1
