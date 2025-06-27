@@ -620,6 +620,7 @@ CombineInput: 0
 CombineRegionalPrompts: 12
 CombineVideos: -1
 Combine_Videos_party: -1
+ComfyDeployOutputEXR: -1
 ComfyDeployOutputImage: -1
 ComfyDeployOutputText: -1
 ComfyDeployWebscoketImageInput: 0
@@ -907,6 +908,7 @@ FluxForwardODESampler: -1
 FluxGuidance: -1
 FluxInverseSampler: -1
 FluxKohyaInferenceSampler: -1
+FluxKontextImageScale: -1
 FluxKontextMaxImageNode: -1
 FluxKontextProImageNode: -1
 FluxLoraLoader: -1
