@@ -3001,6 +3001,7 @@ easy preSamplingLayerDiffusionADDTL: 4
 easy preSamplingNoiseIn: 1
 easy preSamplingSdTurbo: 0
 easy prompt: 1
+easy promptAwait: -1
 easy promptConcat: 1
 easy promptLine: 5
 easy promptList: 0
