@@ -2280,6 +2280,7 @@ SamplerDPMPP_2M_SDE: 0
 SamplerDPMPP_2S_Ancestral: -1
 SamplerDPMPP_3M_SDE: 0
 SamplerDPMPP_SDE: 3
+SamplerER_SDE: -1
 SamplerEulerAncestral: 0
 SamplerEulerAncestralCFGPP: -1
 SamplerEulerCFGpp: -1
@@ -2518,6 +2519,7 @@ SvgImage: 4
 SwitchByIndex: 3
 SystemNotification|pysssss: 0
 T5TokenizerOptions: -1
+TCFG: -1
 TEEDPreprocessor: 1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
