@@ -1223,6 +1223,7 @@ ImageCropByMaskBatch: -1
 ImageDesaturate+: 4
 ImageEnhanceDifference+: 1
 ImageExpandBatch+: 0
+ImageFlip: -1
 ImageFlip+: 9
 ImageFromBatch: 9
 ImageFromBatch+: 3
@@ -1265,6 +1266,7 @@ ImageResize+: 99
 ImageResizeKJ: 4
 ImageResizeKJv2: -1
 ImageResize_Padding: 0
+ImageRotate: -1
 ImageScale: 70
 ImageScaleBy: 97
 ImageScaleToTotalPixels: 71
@@ -2451,6 +2453,7 @@ SimpleMathPercent+: -1
 SimpleMathSlider+: -1
 SimpleMathSliderLowRes+: -1
 SkipLayerGuidanceDiT: -1
+SkipLayerGuidanceDiTSimple: -1
 SkipLayerGuidanceSD3: -1
 SkipLayerGuidanceWanVideo: -1
 Sleep: 0
