@@ -43,7 +43,7 @@ Nodes related to video workflows
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `917` | **Created at**: `2025-07-03`
+**Stars**: `918` | **Created at**: `2025-07-04`
 
 
 A ComfyUI node for driving videos using batches of images.

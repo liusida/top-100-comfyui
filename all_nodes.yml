@@ -2962,6 +2962,7 @@ easy isNone: -1
 easy isSDXL: 0
 easy joinImageBatch: 0
 easy joyCaption2API: -1
+easy joyCaption3API: -1
 easy kSampler: 3
 easy kSamplerCustom: -1
 easy kSamplerDownscaleUnet: 0
