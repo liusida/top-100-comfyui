@@ -1347,6 +1347,7 @@ ImpactQueueTrigger: 0
 ImpactQueueTriggerCountdown: 0
 ImpactRemoteBoolean: 0
 ImpactRemoteInt: 0
+ImpactSAM2VideoDetectorSEGS: -1
 ImpactSEGSClassify: 0
 ImpactSEGSConcat: 0
 ImpactSEGSIntersectionFilter: -1
