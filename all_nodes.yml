@@ -1278,6 +1278,7 @@ ImageSmartSharpen+: -1
 ImageStitch: -1
 ImageTensorList: -1
 ImageTile+: 0
+ImageToCPU: -1
 ImageToDevice+: 0
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
@@ -1481,9 +1482,14 @@ LTXVApplySTG: -1
 LTXVBaseSampler: -1
 LTXVConditioning: -1
 LTXVCropGuides: -1
+LTXVExtendSampler: -1
 LTXVFilmGrain: -1
 LTXVImgToVideo: -1
+LTXVInContextSampler: -1
 LTXVLatentUpsampler: -1
+LTXVLinearOverlapLatentTransition: -1
+LTXVLoopingSampler: -1
+LTXVMultiPromptProvider: -1
 LTXVPatcherVAE: -1
 LTXVPreprocess: -1
 LTXVPreprocessMasks: -1
@@ -1981,6 +1987,9 @@ ModelSave: -1
 ModelSaveKJ: -1
 Model_1: 0
 ModifyLTXModel: -1
+MoonvalleyImg2VideoNode: -1
+MoonvalleyTxt2VideoNode: -1
+MoonvalleyVideo2VideoNode: -1
 Morphology: 0
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
@@ -2293,6 +2302,7 @@ SamplerEulerCFGpp: -1
 SamplerLCMUpscale: 0
 SamplerLMS: 0
 SamplerNames_: 0
+SamplerSASolver: -1
 SamplerSelectHelper+: -1
 Samples Passthrough (Stat System): 0
 Save Gif (mtb): 3
