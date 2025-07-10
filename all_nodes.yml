@@ -1814,6 +1814,7 @@ LoadImageByUrl //Browser: 0
 LoadImageMask: 72
 LoadImageOutput: -1
 LoadImageSetFromFolderNode: -1
+LoadImageTextSetFromFolderNode: -1
 LoadImagesFromDirectory: 2
 LoadImagesFromFolderKJ: -1
 LoadImagesFromPath: 4
