@@ -2557,6 +2557,14 @@ TestAccumulationHeadNode: -1
 TestAccumulationSetItemNode: -1
 TestAccumulationTailNode: -1
 TestAccumulationToListNode: -1
+TestAsyncBatchProcessing: -1
+TestAsyncConcurrentLimit: -1
+TestAsyncError: -1
+TestAsyncLazyCheck: -1
+TestAsyncResourceUser: -1
+TestAsyncTimeout: -1
+TestAsyncValidation: -1
+TestAsyncValidationError: -1
 TestBoolOperationNode: -1
 TestCustomIsChanged: -1
 TestCustomValidation1: -1
@@ -2564,6 +2572,7 @@ TestCustomValidation2: -1
 TestCustomValidation3: -1
 TestCustomValidation4: -1
 TestCustomValidation5: -1
+TestDynamicAsyncGeneration: -1
 TestDynamicDependencyCycle: -1
 TestExecutionBlocker: -1
 TestFloatConditions: -1
@@ -2576,7 +2585,11 @@ TestLazyMixImages: -1
 TestListToAccumulationNode: -1
 TestMakeListNode: -1
 TestMixedExpansionReturns: -1
+TestParallelSleep: -1
+TestSamplingInExpansion: -1
+TestSleep: -1
 TestStringConditions: -1
+TestSyncError: -1
 TestToBoolNode: -1
 TestVariadicAverage: -1
 TestWhileLoopClose: -1
