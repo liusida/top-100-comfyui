@@ -104,7 +104,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `765` | **Created at**: `2023-02-28` | **Tags**: `Integration`
+**Stars**: `766` | **Created at**: `2023-02-28` | **Tags**: `Integration`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -147,7 +147,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/YanWenKun/ComfyUI-Docker'>
 <img src="https://avatars.githubusercontent.com/u/58008456?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/YanWenKun/ComfyUI-Docker
 
-**Stars**: `911` | **Created at**: `2023-03-17`
+**Stars**: `913` | **Created at**: `2023-03-17`
 
 
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
@@ -259,7 +259,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `901` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
+**Stars**: `902` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -525,7 +525,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `884` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `885` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -707,7 +707,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.1k` | **Created at**: `2023-12-09` | **Tags**: `Integration`
+**Stars**: `1.2k` | **Created at**: `2023-12-09` | **Tags**: `Integration`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -865,7 +865,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `998` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
+**Stars**: `999` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -899,7 +899,7 @@ None
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `811` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `812` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -1020,7 +1020,7 @@ Simplify ComfyUI and Connect with Photoshop
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `892` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `893` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1210,7 +1210,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `982` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
+**Stars**: `983` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -1339,7 +1339,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/kijai/ComfyUI-FluxTrainer'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FluxTrainer
 
-**Stars**: `948` | **Created at**: `2024-08-15`
+**Stars**: `949` | **Created at**: `2024-08-15`
 
 
 None
@@ -1464,7 +1464,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `850` | **Created at**: `2025-01-01`
+**Stars**: `852` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1481,7 +1481,7 @@ This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync
 <a href='https://github.com/welltop-cn/ComfyUI-TeaCache'>
 <img src="https://avatars.githubusercontent.com/u/61825957?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/welltop-cn/ComfyUI-TeaCache
 
-**Stars**: `876` | **Created at**: `2025-01-07`
+**Stars**: `881` | **Created at**: `2025-01-07`
 
 
 None
@@ -1498,7 +1498,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `785` | **Created at**: `2025-01-21`
+**Stars**: `790` | **Created at**: `2025-01-21`
 
 
 None
