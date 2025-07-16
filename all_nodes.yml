@@ -177,6 +177,7 @@ AILab_MaskExtractor: -1
 AILab_MaskOverlay: -1
 AILab_MaskPreview: -1
 AILab_Preview: -1
+AILab_ReferenceLatentMask: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APG: -1
@@ -706,6 +707,7 @@ Create Morph Image: 0
 Create Morph Image from Path: 0
 Create Video from Path: 0
 CreateAudioMask: 0
+CreateCFGScheduleFloatList: -1
 CreateFadeMask: 5
 CreateFadeMaskAdvanced: 1
 CreateFluidMask: 0
@@ -798,6 +800,7 @@ DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
 DownloadAndLoadSAM2Model: -1
 DownloadAndLoadToraModel: -1
+DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
@@ -859,6 +862,7 @@ ExpressionEditor: -1
 ExtendIntermediateSigmas: -1
 ExtractFluxLoRA: -1
 ExtractKeyframes+: 0
+ExtractStartFramesForContinuations: -1
 FILM VFI: 40
 FLAVR VFI: 0
 Face Swap (mtb): 6
@@ -869,6 +873,8 @@ FaceSegment: -1
 FaceToMask: 0
 FacialPartColoringFromPoseKps: 0
 FakeScribblePreprocessor: 45
+FantasyTalkingModelLoader: -1
+FantasyTalkingWav2VecEmbeds: -1
 FashionSegmentAccessories: -1
 FashionSegmentClothing: -1
 FastPreview: -1
@@ -1195,6 +1201,7 @@ ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
 ImageBatch: 62
 ImageBatchFilter: -1
+ImageBatchJoinWithTransition: -1
 ImageBatchMulti: 4
 ImageBatchMultiple+: 4
 ImageBatchRepeatInterleaving: 1
@@ -1827,6 +1834,8 @@ LoadText|pysssss: 0
 LoadTripoSRModel_: 0
 LoadVideo: 4
 LoadVideoAndSegment_: 0
+LoadWanVideoClipTextEncoder: -1
+LoadWanVideoT5TextEncoder: -1
 LoadWebcamImage: 0
 Logic Boolean: 17
 Logic Boolean Primitive: 6
@@ -1994,6 +2003,8 @@ MoonvalleyVideo2VideoNode: -1
 Morphology: 0
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
+MultiTalkModelLoader: -1
+MultiTalkWav2VecEmbeds: -1
 MultiplicationNode: 0
 NEW_PhotoMaker_Generation: 7
 NNLatentUpscale: 17
@@ -2168,6 +2179,7 @@ ReActorOptions: 4
 ReActorRestoreFace: 6
 ReActorSaveFaceModel: 1
 ReActorUnload: -1
+ReCamMasterPoseVisualizer: -1
 RebatchImages: 2
 RebatchLatents: 7
 RecraftColorRGB: -1
@@ -2806,9 +2818,63 @@ WanFunInpaintToVideo: -1
 WanImageToVideo: -1
 WanPhantomSubjectToVideo: -1
 WanVaceToVideo: -1
+WanVideoATITracks: -1
+WanVideoATITracksVisualize: -1
+WanVideoATI_comfy: -1
+WanVideoApplyNAG: -1
+WanVideoBlockSwap: -1
+WanVideoClipVisionEncode: -1
+WanVideoContextOptions: -1
+WanVideoControlEmbeds: -1
+WanVideoControlnet: -1
+WanVideoControlnetLoader: -1
+WanVideoDecode: -1
+WanVideoDiffusionForcingSampler: -1
+WanVideoEasyCache: -1
+WanVideoEmptyEmbeds: -1
+WanVideoEncode: -1
+WanVideoEnhanceAVideo: -1
 WanVideoEnhanceAVideoKJ: -1
+WanVideoExperimentalArgs: -1
+WanVideoFlowEdit: -1
+WanVideoFreeInitArgs: -1
+WanVideoFunCameraEmbeds: -1
+WanVideoImageClipEncode: -1
+WanVideoImageResizeToClosest: -1
+WanVideoImageToVideoEncode: -1
+WanVideoImageToVideoMultiTalk: -1
+WanVideoLoopArgs: -1
+WanVideoLoraBlockEdit: -1
+WanVideoLoraSelect: -1
+WanVideoLoraSelectMulti: -1
+WanVideoMagCache: -1
+WanVideoMiniMaxRemoverEmbeds: -1
+WanVideoModelLoader: -1
 WanVideoNAG: -1
+WanVideoPhantomEmbeds: -1
+WanVideoReCamMasterCameraEmbed: -1
+WanVideoReCamMasterDefaultCamera: -1
+WanVideoReCamMasterGenerateOrbitCamera: -1
+WanVideoRealisDanceLatents: -1
+WanVideoSLG: -1
+WanVideoSampler: -1
+WanVideoSetBlockSwap: -1
+WanVideoTeaCache: -1
 WanVideoTeaCacheKJ: -1
+WanVideoTextEmbedBridge: -1
+WanVideoTextEncode: -1
+WanVideoTextEncodeSingle: -1
+WanVideoTinyVAELoader: -1
+WanVideoTorchCompileSettings: -1
+WanVideoUni3C_ControlnetLoader: -1
+WanVideoUni3C_embeds: -1
+WanVideoUniAnimateDWPoseDetector: -1
+WanVideoUniAnimatePoseInput: -1
+WanVideoVACEEncode: -1
+WanVideoVACEModelSelect: -1
+WanVideoVACEStartToEndFrame: -1
+WanVideoVAELoader: -1
+WanVideoVRAMManagement: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
