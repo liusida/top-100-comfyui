@@ -1509,6 +1509,7 @@ LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSetVideoLatentNoiseMasks: -1
 LTXVTiledSampler: -1
+LTXVTiledVAEDecode: -1
 LamaRemoverDetailerHookProvider: -1
 LaplaceScheduler: -1
 Latent Batch: 0
@@ -1848,6 +1849,7 @@ LoopEnd_IMAGE: 0
 LoopStart_IMAGE: 0
 Lora Input Switch: 0
 Lora Loader: 0
+LoraExtractKJ: -1
 LoraLoader: 79
 LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11

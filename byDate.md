@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `82.7k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `82.8k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -104,7 +104,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/rvion/CushyStudio'>
 <img src="https://avatars.githubusercontent.com/u/2150990?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rvion/CushyStudio
 
-**Stars**: `767` | **Created at**: `2023-02-28` | **Tags**: `Integration`
+**Stars**: `768` | **Created at**: `2023-02-28` | **Tags**: `Integration`
 
 
 🛋 The AI and Generative Art platform for everyone
@@ -147,7 +147,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/YanWenKun/ComfyUI-Docker'>
 <img src="https://avatars.githubusercontent.com/u/58008456?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/YanWenKun/ComfyUI-Docker
 
-**Stars**: `915` | **Created at**: `2023-03-17`
+**Stars**: `916` | **Created at**: `2023-03-17`
 
 
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
@@ -259,7 +259,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `904` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
+**Stars**: `905` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -291,7 +291,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `930` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
+**Stars**: `931` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -318,7 +318,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `851` | **Created at**: `2023-07-12` | **Tags**: `Custom Nodes` `Workflow Examples`
+**Stars**: `852` | **Created at**: `2023-07-12` | **Tags**: `Custom Nodes` `Workflow Examples`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
@@ -576,7 +576,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (183)</summary>
+<details><summary>Included Nodes (184)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BOOLConstant</sub>
@@ -588,7 +588,7 @@ Various custom nodes for ComfyUI
  - <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>, <sub>Intrinsic_lora_sampling</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
- - <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>
+ - <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoraExtractKJ</sub>
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
@@ -625,7 +625,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/metercai/SimpleSDXL'>
 <img src="https://avatars.githubusercontent.com/u/5652458?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/metercai/SimpleSDXL
 
-**Stars**: `835` | **Created at**: `2023-10-15`
+**Stars**: `836` | **Created at**: `2023-10-15`
 
 
 Enhanced version of Fooocus for SDXL, more suitable for Chinese and Cloud
@@ -772,7 +772,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini
 
-**Stars**: `764` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
+**Stars**: `763` | **Created at**: `2023-12-19` | **Tags**: `Custom Nodes` `LLM` `Chinese Language`
 
 
 Using Gemini in ComfyUI
@@ -991,7 +991,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `968` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+**Stars**: `969` | **Created at**: `2024-03-18` | **Tags**: `Resources`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
@@ -1077,7 +1077,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `872` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `873` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1114,7 +1114,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `4.5k` | **Created at**: `2024-05-09`
+**Stars**: `4.6k` | **Created at**: `2024-05-09`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -1210,7 +1210,7 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `985` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
+**Stars**: `988` | **Created at**: `2024-07-30` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -1339,7 +1339,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/kijai/ComfyUI-FluxTrainer'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FluxTrainer
 
-**Stars**: `951` | **Created at**: `2024-08-15`
+**Stars**: `956` | **Created at**: `2024-08-15`
 
 
 None
@@ -1378,11 +1378,11 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 
 None
 
-## mit-han-lab/nunchaku
+## nunchaku-tech/nunchaku
 
 
-<a href='https://github.com/mit-han-lab/nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/nunchaku
+<a href='https://github.com/nunchaku-tech/nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-tech/nunchaku
 
 **Stars**: `2.4k` | **Created at**: `2024-11-06`
 
@@ -1395,7 +1395,7 @@ None
 <a href='https://github.com/1038lab/ComfyUI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/129358391?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/1038lab/ComfyUI-RMBG
 
-**Stars**: `1.1k` | **Created at**: `2024-11-14`
+**Stars**: `1.2k` | **Created at**: `2024-11-14`
 
 
 A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet models, SAM, and GroundingDINO.
@@ -1420,11 +1420,11 @@ A ComfyUI custom node designed for advanced image background removal and object,
 
 
 LTX-Video Support for ComfyUI
-<details><summary>Included Nodes (39)</summary>
+<details><summary>Included Nodes (40)</summary>
 
  - <sub>AddLatentGuide</sub>
  - <sub>ImageToCPU</sub>
- - <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVFilmGrain</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVLatentUpsampler</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVTiledSampler</sub>
+ - <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVFilmGrain</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVLatentUpsampler</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>
  - <sub>ModifyLTXModel</sub>
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
@@ -1481,7 +1481,7 @@ This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync
 <a href='https://github.com/welltop-cn/ComfyUI-TeaCache'>
 <img src="https://avatars.githubusercontent.com/u/61825957?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/welltop-cn/ComfyUI-TeaCache
 
-**Stars**: `889` | **Created at**: `2025-01-07`
+**Stars**: `891` | **Created at**: `2025-01-07`
 
 
 None
@@ -1498,7 +1498,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `793` | **Created at**: `2025-01-21`
+**Stars**: `795` | **Created at**: `2025-01-21`
 
 
 None
@@ -1553,11 +1553,11 @@ None
 </details>
 
 
-## mit-han-lab/ComfyUI-nunchaku
+## nunchaku-tech/ComfyUI-nunchaku
 
 
-<a href='https://github.com/mit-han-lab/ComfyUI-nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/39571499?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mit-han-lab/ComfyUI-nunchaku
+<a href='https://github.com/nunchaku-tech/ComfyUI-nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-tech/ComfyUI-nunchaku
 
 **Stars**: `1.7k` | **Created at**: `2025-03-12`
 
