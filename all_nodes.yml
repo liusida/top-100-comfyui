@@ -309,6 +309,7 @@ BrushNetLoader: 19
 Bus Node: 4
 CAIN VFI: 0
 CFGGuider: 10
+CFGNorm: -1
 CFGZeroStar: -1
 CFGZeroStarAndInit: -1
 CLIP Input Switch: 1
