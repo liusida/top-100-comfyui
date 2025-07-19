@@ -18,7 +18,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.7k` | **Created at**: `2025-07-17`
+**Stars**: `1.7k` | **Created at**: `2025-07-18`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -34,7 +34,7 @@
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `1.7k` | **Created at**: `2025-07-17`
+**Stars**: `1.7k` | **Created at**: `2025-07-18`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
