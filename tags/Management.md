@@ -39,7 +39,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.3k` | **Created at**: `2025-07-19`
+**Stars**: `1.3k` | **Created at**: `2025-07-20`
 
 
 A powerful set of tools for ComfyUI

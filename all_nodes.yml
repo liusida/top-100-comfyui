@@ -2321,6 +2321,7 @@ SamplerNames_: 0
 SamplerSASolver: -1
 SamplerSelectHelper+: -1
 Samples Passthrough (Stat System): 0
+SamplingPercentToSigma: -1
 Save Gif (mtb): 3
 Save Image Grid (mtb): 0
 Save Image Sequence (mtb): 7
@@ -2825,6 +2826,7 @@ WanVideoATITracks: -1
 WanVideoATITracksVisualize: -1
 WanVideoATI_comfy: -1
 WanVideoApplyNAG: -1
+WanVideoBlockList: -1
 WanVideoBlockSwap: -1
 WanVideoClipVisionEncode: -1
 WanVideoContextOptions: -1
@@ -2862,6 +2864,7 @@ WanVideoRealisDanceLatents: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
 WanVideoSetBlockSwap: -1
+WanVideoSetRadialAttention: -1
 WanVideoTeaCache: -1
 WanVideoTeaCacheKJ: -1
 WanVideoTextEmbedBridge: -1
