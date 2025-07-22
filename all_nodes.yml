@@ -2864,6 +2864,7 @@ WanVideoRealisDanceLatents: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
 WanVideoSetBlockSwap: -1
+WanVideoSetLoRAs: -1
 WanVideoSetRadialAttention: -1
 WanVideoTeaCache: -1
 WanVideoTeaCacheKJ: -1
