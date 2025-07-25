@@ -87,7 +87,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `812` | **Created at**: `2025-07-14`
+**Stars**: `811` | **Created at**: `2025-07-24`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
