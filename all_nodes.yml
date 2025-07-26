@@ -2821,6 +2821,7 @@ WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
 WanImageToVideo: -1
 WanPhantomSubjectToVideo: -1
+WanTrackToVideo: -1
 WanVaceToVideo: -1
 WanVideoATITracks: -1
 WanVideoATITracksVisualize: -1
