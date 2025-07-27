@@ -3076,8 +3076,10 @@ easy lengthAnything: -1
 easy loadImageBase64: 17
 easy loadImagesForLoop: -1
 easy loraNames: -1
+easy loraPromptApply: -1
 easy loraStack: 4
 easy loraStackApply: -1
+easy loraSwitcher: -1
 easy makeImageForICLora: -1
 easy mathFloat: -1
 easy mathInt: -1
