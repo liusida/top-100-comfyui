@@ -171,6 +171,8 @@ AILab_ImagePreview: -1
 AILab_ImageStitch: -1
 AILab_LamaRemover: -1
 AILab_LoadImage: -1
+AILab_LoadImageAdvanced: -1
+AILab_LoadImageSimple: -1
 AILab_MaskCombiner: -1
 AILab_MaskEnhancer: -1
 AILab_MaskExtractor: -1
