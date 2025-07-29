@@ -2816,6 +2816,7 @@ VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
 Wan21BlockLoraSelect: -1
+Wan22ImageToVideoLatent: -1
 WanCameraEmbedding: -1
 WanCameraImageToVideo: -1
 WanFirstLastFrameToVideo: -1
