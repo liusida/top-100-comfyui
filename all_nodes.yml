@@ -811,6 +811,7 @@ DrawText+: 0
 DualCFGGuider: 36
 DualCLIPLoader: 1
 DualCLIPLoaderGGUF: -1
+DummyComfyWanModelObject: -1
 DummyLatentOut: 0
 DummyOut: -1
 DynamiCrafterBatchInterpolation: 0
