@@ -295,6 +295,7 @@ BiRefNetRMBG: -1
 BinaryPreprocessor: 21
 BitwiseAndMask: 1
 BitwiseAndMaskForEach: 0
+BlackPatchRetryHookProvider: -1
 Blend Latents: 0
 BlendInpaint: 3
 Blur (mtb): 0
@@ -761,6 +762,7 @@ DepthAnythingV2Preprocessor: -1
 DepthViewer: -1
 DetailTransfer: 1
 DetailerForEach: 30
+DetailerForEachAutoRetry: -1
 DetailerForEachDebug: 30
 DetailerForEachDebugPipe: 26
 DetailerForEachPipe: 32
@@ -2580,6 +2582,7 @@ TestAsyncBatchProcessing: -1
 TestAsyncConcurrentLimit: -1
 TestAsyncError: -1
 TestAsyncLazyCheck: -1
+TestAsyncProgressUpdate: -1
 TestAsyncResourceUser: -1
 TestAsyncTimeout: -1
 TestAsyncValidation: -1
@@ -2609,6 +2612,7 @@ TestSamplingInExpansion: -1
 TestSleep: -1
 TestStringConditions: -1
 TestSyncError: -1
+TestSyncProgressUpdate: -1
 TestToBoolNode: -1
 TestVariadicAverage: -1
 TestWhileLoopClose: -1
