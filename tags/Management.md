@@ -7,7 +7,7 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.6k` | **Created at**: `2025-07-30`
+**Stars**: `2.6k` | **Created at**: `2025-07-31`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -50,7 +50,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `797` | **Created at**: `2025-07-30`
+**Stars**: `797` | **Created at**: `2025-07-31`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
