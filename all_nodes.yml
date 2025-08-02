@@ -2880,6 +2880,7 @@ WanVideoTeaCache: -1
 WanVideoTeaCacheKJ: -1
 WanVideoTextEmbedBridge: -1
 WanVideoTextEncode: -1
+WanVideoTextEncodeCached: -1
 WanVideoTextEncodeSingle: -1
 WanVideoTinyVAELoader: -1
 WanVideoTorchCompileSettings: -1
