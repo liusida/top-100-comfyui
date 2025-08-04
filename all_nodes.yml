@@ -2165,6 +2165,7 @@ PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
 QuadrupleCLIPLoader: -1
 QuadrupleCLIPLoaderGGUF: -1
+QwenLoader: -1
 RAUNet: 4
 RFDoubleBlocksOverride: -1
 RFSingleBlocksOverride: -1
@@ -2867,6 +2868,8 @@ WanVideoMiniMaxRemoverEmbeds: -1
 WanVideoModelLoader: -1
 WanVideoNAG: -1
 WanVideoPhantomEmbeds: -1
+WanVideoPromptExtender: -1
+WanVideoPromptExtenderSelect: -1
 WanVideoReCamMasterCameraEmbed: -1
 WanVideoReCamMasterDefaultCamera: -1
 WanVideoReCamMasterGenerateOrbitCamera: -1
