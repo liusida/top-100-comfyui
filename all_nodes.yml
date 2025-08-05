@@ -1718,6 +1718,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageScaleRestore V2': 1
 'LayerUtility: ImageShift': 1
 'LayerUtility: ImageTaggerSave': -1
+'LayerUtility: ImageTaggerSaveV2': -1
 'LayerUtility: Integer': 2
 'LayerUtility: JoyCaption2': -1
 'LayerUtility: JoyCaption2ExtraOptions': -1
@@ -1726,6 +1727,7 @@ LatentUpscaler: 0
 'LayerUtility: LayerImageTransform': 3
 'LayerUtility: LayerMaskTransform': 3
 'LayerUtility: LlamaVision': -1
+'LayerUtility: LoadImagesFromPath': -1
 'LayerUtility: LoadJoyCaption2Model': -1
 'LayerUtility: LoadPSD': 1
 'LayerUtility: LoadVQAModel': -1
@@ -2836,6 +2838,7 @@ WanVaceToVideo: -1
 WanVideoATITracks: -1
 WanVideoATITracksVisualize: -1
 WanVideoATI_comfy: -1
+WanVideoAddExtraLatent: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
 WanVideoBlockSwap: -1
