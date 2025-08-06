@@ -2693,6 +2693,7 @@ TorchCompileModel: -1
 TorchCompileModelFluxAdvanced: -1
 TorchCompileModelFluxAdvancedV2: -1
 TorchCompileModelHyVideo: -1
+TorchCompileModelQwenImage: -1
 TorchCompileModelWanVideo: -1
 TorchCompileModelWanVideoV2: -1
 TorchCompileVAE: -1
@@ -2814,6 +2815,7 @@ VPScheduler: 0
 VRAM_Debug: 1
 Vae Decode (mtb): 3
 VariationNoiseDetailerHookProvider: 0
+Veo3VideoGenerationNode: -1
 VeoVideoGenerationNode: -1
 Video Dump Frames: 0
 VideoCombine_Adv: 0
