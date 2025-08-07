@@ -780,6 +780,7 @@ Diffusers Model Loader: 0
 DiffusersLoader: 5
 DiffusionEdge_Preprocessor: 0
 DiffusionModelLoaderKJ: -1
+DiffusionModelSelector: -1
 DifyTextGenerator //Browser: 0
 Dingding: -1
 Dingding_tool: -1
@@ -1983,6 +1984,7 @@ ModelMergeCosmosPredict2_2B: -1
 ModelMergeFlux1: -1
 ModelMergeLTXV: -1
 ModelMergeMochiPreview: -1
+ModelMergeQwenImage: -1
 ModelMergeSD1: 0
 ModelMergeSD2: 0
 ModelMergeSD3: -1
@@ -2864,6 +2866,7 @@ WanVideoImageClipEncode: -1
 WanVideoImageResizeToClosest: -1
 WanVideoImageToVideoEncode: -1
 WanVideoImageToVideoMultiTalk: -1
+WanVideoLatentReScale: -1
 WanVideoLoopArgs: -1
 WanVideoLoraBlockEdit: -1
 WanVideoLoraSelect: -1
