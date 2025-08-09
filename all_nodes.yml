@@ -1400,8 +1400,14 @@ InitSD3LoRATraining: -1
 InitSDXLLoRATraining: -1
 InjectLatentNoise+: -1
 InjectNoiseToLatent: 3
+InpaintCrop: -1
+InpaintCropImproved: -1
+InpaintExtendOutpaint: -1
 InpaintModelConditioning: 39
 InpaintPreprocessor: 38
+InpaintResize: -1
+InpaintStitch: -1
+InpaintStitchImproved: -1
 InsertImageBatchByIndexes: 0
 InsertImagesToBatchIndexed: 0
 InsertLatentToIndexed: -1
