@@ -1577,6 +1577,7 @@ LatentUpscaler: 0
 'LayerColor: LAB': 3
 'LayerColor: LUT Apply': 3
 'LayerColor: Levels': 1
+'LayerColor: Negative': -1
 'LayerColor: RGB': 5
 'LayerColor: YUV': 3
 'LayerFilter: AddGrain': 0
@@ -1611,6 +1612,7 @@ LatentUpscaler: 0
 'LayerMask: LoadFlorence2Model': -1
 'LayerMask: LoadSegformerModel': -1
 'LayerMask: MaskBoxDetect': 3
+'LayerMask: MaskBoxExtend': -1
 'LayerMask: MaskByColor': 2
 'LayerMask: MaskByDifferent': 1
 'LayerMask: MaskEdgeShrink': 1
@@ -1687,6 +1689,7 @@ LatentUpscaler: 0
 'LayerUtility: ExtendCanvasV2': 1
 'LayerUtility: Float': 2
 'LayerUtility: Florence2Image2Prompt': -1
+'LayerUtility: FluxKontextImageScale': -1
 'LayerUtility: GetColorTone': 1
 'LayerUtility: GetColorToneV2': 2
 'LayerUtility: GetImageSize': 7
