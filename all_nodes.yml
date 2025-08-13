@@ -2265,6 +2265,7 @@ SAM Image Mask: 0
 SAM Model Loader: 0
 SAM Parameters: 2
 SAM Parameters Combine: 0
+SAM2Segment: -1
 SAMDetectorCombined: 26
 SAMDetectorSegmented: 14
 SAMLoader: 98
@@ -2852,6 +2853,7 @@ WanVideoATITracks: -1
 WanVideoATITracksVisualize: -1
 WanVideoATI_comfy: -1
 WanVideoAddExtraLatent: -1
+WanVideoAddStandInLatent: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
 WanVideoBlockSwap: -1
@@ -2893,6 +2895,7 @@ WanVideoReCamMasterGenerateOrbitCamera: -1
 WanVideoRealisDanceLatents: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
+WanVideoScheduler: -1
 WanVideoSetBlockSwap: -1
 WanVideoSetLoRAs: -1
 WanVideoSetRadialAttention: -1
