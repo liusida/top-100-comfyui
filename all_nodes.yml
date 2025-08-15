@@ -880,6 +880,8 @@ FaceSegment: -1
 FaceToMask: 0
 FacialPartColoringFromPoseKps: 0
 FakeScribblePreprocessor: 45
+FantasyPortraitFaceDetector: -1
+FantasyPortraitModelLoader: -1
 FantasyTalkingModelLoader: -1
 FantasyTalkingWav2VecEmbeds: -1
 FashionSegmentAccessories: -1
@@ -2853,7 +2855,9 @@ WanVaceToVideo: -1
 WanVideoATITracks: -1
 WanVideoATITracksVisualize: -1
 WanVideoATI_comfy: -1
+WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
+WanVideoAddFantasyPortrait: -1
 WanVideoAddStandInLatent: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
