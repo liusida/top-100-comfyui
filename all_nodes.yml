@@ -928,6 +928,7 @@ FluxInverseSampler: -1
 FluxKohyaInferenceSampler: -1
 FluxKontextImageScale: -1
 FluxKontextMaxImageNode: -1
+FluxKontextMultiReferenceLatentMethod: -1
 FluxKontextProImageNode: -1
 FluxLoraLoader: -1
 FluxNoiseMixer: -1
@@ -1526,6 +1527,7 @@ LTXVSetVideoLatentNoiseMasks: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
 LamaRemoverDetailerHookProvider: -1
+LandmarksToImage: -1
 LaplaceScheduler: -1
 Latent Batch: 0
 Latent Input Switch: 0
