@@ -180,6 +180,7 @@ AILab_MaskOverlay: -1
 AILab_MaskPreview: -1
 AILab_Preview: -1
 AILab_ReferenceLatentMask: -1
+AILab_SDMatte: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APG: -1
@@ -1857,6 +1858,7 @@ LoadText|pysssss: 0
 LoadTripoSRModel_: 0
 LoadVideo: 4
 LoadVideoAndSegment_: 0
+LoadVideosFromFolder: -1
 LoadWanVideoClipTextEncoder: -1
 LoadWanVideoT5TextEncoder: -1
 LoadWebcamImage: 0
