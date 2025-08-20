@@ -1981,6 +1981,7 @@ MiDaS Mask Image: 0
 MiDaS Model Loader: 6
 MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: 35
+MinimaxHailuoVideoNode: -1
 MinimaxImageToVideoNode: -1
 MinimaxSubjectToVideoNode: -1
 MinimaxTextToVideoNode: -1
@@ -2682,6 +2683,7 @@ TextCombine: 0
 TextEncodeAceStepAudio: -1
 TextEncodeForSamplerParams+: -1
 TextEncodeHunyuanVideo_ImageToVideo: -1
+TextEncodeQwenImageEdit: -1
 TextGeneration: 6
 TextGenerator: 0
 TextImage: 8
