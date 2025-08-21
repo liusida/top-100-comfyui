@@ -997,6 +997,7 @@ GetImageSizeAndCount: 4
 GetImageSize_: 10
 GetImagesFromBatchIndexed: 2
 GetLatentRangeFromBatch: -1
+GetLatentSizeAndCount: -1
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
 GetVideoComponents: -1
@@ -1789,6 +1790,7 @@ LayeredDiffusionDecodeRGBA: 22
 LayeredDiffusionDecodeSplit: 8
 LayeredDiffusionDiffApply: 17
 LayeredDiffusionJointApply: 4
+LazySwitchKJ: -1
 LeReS-DepthMapPreprocessor: 54
 LeapfusionHunyuanI2VPatcher: -1
 LightSource: 10
