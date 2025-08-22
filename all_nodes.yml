@@ -2013,6 +2013,7 @@ ModelMergeSimple: 13
 ModelMergeSubtract: 0
 ModelMergeWAN2_1: -1
 ModelPassThrough: 0
+ModelPatchLoader: -1
 ModelPatchTorchSettings: -1
 ModelSamplingAuraFlow: -1
 ModelSamplingContinuousEDM: 14
@@ -2187,6 +2188,7 @@ PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
 QuadrupleCLIPLoader: -1
 QuadrupleCLIPLoaderGGUF: -1
+QwenImageDiffsynthControlnet: -1
 QwenLoader: -1
 RAUNet: 4
 RFDoubleBlocksOverride: -1
