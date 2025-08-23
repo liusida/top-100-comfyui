@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `6.7k` | **Created at**: `2025-08-21`
+**Stars**: `6.7k` | **Created at**: `2025-08-22`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -51,7 +51,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.4k` | **Created at**: `2025-08-19`
+**Stars**: `1.4k` | **Created at**: `2025-08-22`
 
 
 Unofficial implementation of InstantID for ComfyUI
@@ -87,7 +87,7 @@ Unofficial implementation of PhotoMaker for ComfyUI
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `815` | **Created at**: `2025-08-20`
+**Stars**: `816` | **Created at**: `2025-08-22`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI

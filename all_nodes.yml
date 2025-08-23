@@ -2909,6 +2909,7 @@ WanVideoReCamMasterCameraEmbed: -1
 WanVideoReCamMasterDefaultCamera: -1
 WanVideoReCamMasterGenerateOrbitCamera: -1
 WanVideoRealisDanceLatents: -1
+WanVideoRoPEFunction: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
 WanVideoScheduler: -1
