@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `86.4k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `86.5k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -280,7 +280,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `974` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
+**Stars**: `975` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -323,7 +323,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `873` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
+**Stars**: `872` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
 
 
 Custom prompt styler node for SDXL in ComfyUI
@@ -440,7 +440,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `926` | **Created at**: `2023-08-22` | **Tags**: `Integration`
+**Stars**: `928` | **Created at**: `2023-08-22` | **Tags**: `Integration`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -904,7 +904,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `809` | **Created at**: `2024-02-19` | **Tags**: `Management`
+**Stars**: `808` | **Created at**: `2024-02-19` | **Tags**: `Management`
 
 
 Run any ComfyUI workflow w/ ZERO setup.
@@ -969,7 +969,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `995` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+**Stars**: `996` | **Created at**: `2024-03-18` | **Tags**: `Resources`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
@@ -998,7 +998,7 @@ Simplify ComfyUI and Connect with Photoshop
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `909` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `908` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1055,7 +1055,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `883` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `884` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1103,7 +1103,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `794` | **Created at**: `2024-05-11`
+**Stars**: `795` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1378,7 +1378,7 @@ None
 <a href='https://github.com/nunchaku-tech/nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-tech/nunchaku
 
-**Stars**: `2.7k` | **Created at**: `2024-11-06`
+**Stars**: `2.8k` | **Created at**: `2024-11-06`
 
 
 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -1458,7 +1458,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `885` | **Created at**: `2025-01-01`
+**Stars**: `886` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1492,7 +1492,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `844` | **Created at**: `2025-01-21`
+**Stars**: `846` | **Created at**: `2025-01-21`
 
 
 None
@@ -1530,13 +1530,13 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `4.1k` | **Created at**: `2025-02-25`
+**Stars**: `4.2k` | **Created at**: `2025-02-25`
 
 
 None
-<details><summary>Included Nodes (82)</summary>
+<details><summary>Included Nodes (84)</summary>
 
- - <sub>CreateCFGScheduleFloatList</sub>
+ - <sub>CreateCFGScheduleFloatList</sub>, <sub>CreateScheduleFloatList</sub>
  - <sub>DownloadAndLoadWav2VecModel</sub>, <sub>DummyComfyWanModelObject</sub>
  - <sub>ExtractStartFramesForContinuations</sub>
  - <sub>FantasyPortraitFaceDetector</sub>, <sub>FantasyPortraitModelLoader</sub>, <sub>FantasyTalkingModelLoader</sub>, <sub>FantasyTalkingWav2VecEmbeds</sub>
@@ -1544,7 +1544,7 @@ None
  - <sub>MultiTalkModelLoader</sub>, <sub>MultiTalkWav2VecEmbeds</sub>
  - <sub>QwenLoader</sub>
  - <sub>ReCamMasterPoseVisualizer</sub>
- - <sub>WanVideoAddControlEmbeds</sub>, <sub>WanVideoAddExtraLatent</sub>, <sub>WanVideoAddFantasyPortrait</sub>, <sub>WanVideoAddStandInLatent</sub>, <sub>WanVideoApplyNAG</sub>, <sub>WanVideoATI_comfy</sub>, <sub>WanVideoATITracks</sub>, <sub>WanVideoATITracksVisualize</sub>, <sub>WanVideoBlockList</sub>, <sub>WanVideoBlockSwap</sub>, <sub>WanVideoClipVisionEncode</sub>, <sub>WanVideoContextOptions</sub>, <sub>WanVideoControlEmbeds</sub>, <sub>WanVideoControlnet</sub>, <sub>WanVideoControlnetLoader</sub>, <sub>WanVideoDecode</sub>, <sub>WanVideoDiffusionForcingSampler</sub>, <sub>WanVideoEasyCache</sub>, <sub>WanVideoEmptyEmbeds</sub>, <sub>WanVideoEncode</sub>, <sub>WanVideoEnhanceAVideo</sub>, <sub>WanVideoExperimentalArgs</sub>, <sub>WanVideoFlowEdit</sub>, <sub>WanVideoFreeInitArgs</sub>, <sub>WanVideoFunCameraEmbeds</sub>, <sub>WanVideoImageClipEncode</sub>, <sub>WanVideoImageResizeToClosest</sub>, <sub>WanVideoImageToVideoEncode</sub>, <sub>WanVideoImageToVideoMultiTalk</sub>, <sub>WanVideoLatentReScale</sub>, <sub>WanVideoLoopArgs</sub>, <sub>WanVideoLoraBlockEdit</sub>, <sub>WanVideoLoraSelect</sub>, <sub>WanVideoLoraSelectMulti</sub>, <sub>WanVideoMagCache</sub>, <sub>WanVideoMiniMaxRemoverEmbeds</sub>, <sub>WanVideoModelLoader</sub>, <sub>WanVideoPhantomEmbeds</sub>, <sub>WanVideoPromptExtender</sub>, <sub>WanVideoPromptExtenderSelect</sub>, <sub>WanVideoRealisDanceLatents</sub>, <sub>WanVideoReCamMasterCameraEmbed</sub>, <sub>WanVideoReCamMasterDefaultCamera</sub>, <sub>WanVideoReCamMasterGenerateOrbitCamera</sub>, <sub>WanVideoRoPEFunction</sub>, <sub>WanVideoSampler</sub>, <sub>WanVideoScheduler</sub>, <sub>WanVideoSetBlockSwap</sub>, <sub>WanVideoSetLoRAs</sub>, <sub>WanVideoSetRadialAttention</sub>, <sub>WanVideoSLG</sub>, <sub>WanVideoTeaCache</sub>, <sub>WanVideoTextEmbedBridge</sub>, <sub>WanVideoTextEncode</sub>, <sub>WanVideoTextEncodeCached</sub>, <sub>WanVideoTextEncodeSingle</sub>, <sub>WanVideoTinyVAELoader</sub>, <sub>WanVideoTorchCompileSettings</sub>, <sub>WanVideoUni3C_ControlnetLoader</sub>, <sub>WanVideoUni3C_embeds</sub>, <sub>WanVideoUniAnimateDWPoseDetector</sub>, <sub>WanVideoUniAnimatePoseInput</sub>, <sub>WanVideoVACEEncode</sub>, <sub>WanVideoVACEModelSelect</sub>, <sub>WanVideoVACEStartToEndFrame</sub>, <sub>WanVideoVAELoader</sub>, <sub>WanVideoVRAMManagement</sub>
+ - <sub>WanVideoAddControlEmbeds</sub>, <sub>WanVideoAddExtraLatent</sub>, <sub>WanVideoAddFantasyPortrait</sub>, <sub>WanVideoAddStandInLatent</sub>, <sub>WanVideoApplyNAG</sub>, <sub>WanVideoATI_comfy</sub>, <sub>WanVideoATITracks</sub>, <sub>WanVideoATITracksVisualize</sub>, <sub>WanVideoBlockList</sub>, <sub>WanVideoBlockSwap</sub>, <sub>WanVideoClipVisionEncode</sub>, <sub>WanVideoContextOptions</sub>, <sub>WanVideoControlEmbeds</sub>, <sub>WanVideoControlnet</sub>, <sub>WanVideoControlnetLoader</sub>, <sub>WanVideoDecode</sub>, <sub>WanVideoDiffusionForcingSampler</sub>, <sub>WanVideoEasyCache</sub>, <sub>WanVideoEmptyEmbeds</sub>, <sub>WanVideoEncode</sub>, <sub>WanVideoEnhanceAVideo</sub>, <sub>WanVideoExperimentalArgs</sub>, <sub>WanVideoFlowEdit</sub>, <sub>WanVideoFreeInitArgs</sub>, <sub>WanVideoFunCameraEmbeds</sub>, <sub>WanVideoImageClipEncode</sub>, <sub>WanVideoImageResizeToClosest</sub>, <sub>WanVideoImageToVideoEncode</sub>, <sub>WanVideoImageToVideoMultiTalk</sub>, <sub>WanVideoLatentReScale</sub>, <sub>WanVideoLoopArgs</sub>, <sub>WanVideoLoraBlockEdit</sub>, <sub>WanVideoLoraSelect</sub>, <sub>WanVideoLoraSelectMulti</sub>, <sub>WanVideoMagCache</sub>, <sub>WanVideoMiniMaxRemoverEmbeds</sub>, <sub>WanVideoModelLoader</sub>, <sub>WanVideoPhantomEmbeds</sub>, <sub>WanVideoPromptExtender</sub>, <sub>WanVideoPromptExtenderSelect</sub>, <sub>WanVideoRealisDanceLatents</sub>, <sub>WanVideoReCamMasterCameraEmbed</sub>, <sub>WanVideoReCamMasterDefaultCamera</sub>, <sub>WanVideoReCamMasterGenerateOrbitCamera</sub>, <sub>WanVideoRoPEFunction</sub>, <sub>WanVideoSampler</sub>, <sub>WanVideoScheduler</sub>, <sub>WanVideoSetBlockSwap</sub>, <sub>WanVideoSetLoRAs</sub>, <sub>WanVideoSetRadialAttention</sub>, <sub>WanVideoSigmaToStep</sub>, <sub>WanVideoSLG</sub>, <sub>WanVideoTeaCache</sub>, <sub>WanVideoTextEmbedBridge</sub>, <sub>WanVideoTextEncode</sub>, <sub>WanVideoTextEncodeCached</sub>, <sub>WanVideoTextEncodeSingle</sub>, <sub>WanVideoTinyVAELoader</sub>, <sub>WanVideoTorchCompileSettings</sub>, <sub>WanVideoUni3C_ControlnetLoader</sub>, <sub>WanVideoUni3C_embeds</sub>, <sub>WanVideoUniAnimateDWPoseDetector</sub>, <sub>WanVideoUniAnimatePoseInput</sub>, <sub>WanVideoVACEEncode</sub>, <sub>WanVideoVACEModelSelect</sub>, <sub>WanVideoVACEStartToEndFrame</sub>, <sub>WanVideoVAELoader</sub>, <sub>WanVideoVRAMManagement</sub>
 </details>
 
 
@@ -1554,7 +1554,7 @@ None
 <a href='https://github.com/nunchaku-tech/ComfyUI-nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-tech/ComfyUI-nunchaku
 
-**Stars**: `1.9k` | **Created at**: `2025-03-12`
+**Stars**: `2.0k` | **Created at**: `2025-03-12`
 
 
 ComfyUI Plugin of Nunchaku

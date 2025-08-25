@@ -723,6 +723,7 @@ CreateJsonNode: -1
 CreateMagicMask: 0
 CreatePromptVariant: 3
 CreateRegionalCond: -1
+CreateScheduleFloatList: -1
 CreateShapeImageOnPath: 0
 CreateShapeMask: 6
 CreateShapeMaskOnPath: 3
@@ -2916,6 +2917,7 @@ WanVideoScheduler: -1
 WanVideoSetBlockSwap: -1
 WanVideoSetLoRAs: -1
 WanVideoSetRadialAttention: -1
+WanVideoSigmaToStep: -1
 WanVideoTeaCache: -1
 WanVideoTeaCacheKJ: -1
 WanVideoTextEmbedBridge: -1
