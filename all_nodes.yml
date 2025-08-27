@@ -250,6 +250,8 @@ ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
 Assistant: 2
 AudioConcatenate: -1
+AudioEncoderEncode: -1
+AudioEncoderLoader: -1
 AudioPlay: -1
 AutoNegativePrompt: 3
 BAE-NormalMapPreprocessor: 23
@@ -806,12 +808,14 @@ DownloadAndLoadFlorence2Model: -1
 DownloadAndLoadHyVideoTextEncoder: -1
 DownloadAndLoadKolorsModel: -1
 DownloadAndLoadLivePortraitModels: -1
+DownloadAndLoadNLFModel: -1
 DownloadAndLoadSAM2Model: -1
 DownloadAndLoadToraModel: -1
 DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
+DrawNLFPoses: -1
 DrawText+: 0
 DualCFGGuider: 36
 DualCLIPLoader: 1
@@ -1859,6 +1863,7 @@ LoadResAdapterNormalization: 0
 LoadTXT: 0
 LoadText|pysssss: 0
 LoadTripoSRModel_: 0
+LoadVQVAE: -1
 LoadVideo: 4
 LoadVideoAndSegment_: 0
 LoadVideosFromFolder: -1
@@ -1899,6 +1904,7 @@ M-LSDPreprocessor: 44
 M2M VFI: 2
 MMDetDetectorProvider: 34
 MMDetLoader: 2
+MTVCrafterEncodePoses: -1
 MagicClothing_Animatediff: 2
 MagicClothing_Generate: 11
 MagicClothing_Inpainting: 2
@@ -2039,6 +2045,7 @@ MultiTalkModelLoader: -1
 MultiTalkWav2VecEmbeds: -1
 MultiplicationNode: 0
 NEW_PhotoMaker_Generation: 7
+NLFPredict: -1
 NNLatentUpscale: 17
 NewLayer: 10
 Noise Control Script: 2
@@ -2870,6 +2877,7 @@ WanVideoATI_comfy: -1
 WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
+WanVideoAddMTVMotion: -1
 WanVideoAddStandInLatent: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
@@ -2887,6 +2895,7 @@ WanVideoEncode: -1
 WanVideoEnhanceAVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoExperimentalArgs: -1
+WanVideoExtraModelSelect: -1
 WanVideoFlowEdit: -1
 WanVideoFreeInitArgs: -1
 WanVideoFunCameraEmbeds: -1
@@ -2935,6 +2944,7 @@ WanVideoVACEModelSelect: -1
 WanVideoVACEStartToEndFrame: -1
 WanVideoVAELoader: -1
 WanVideoVRAMManagement: -1
+Wav2VecModelLoader: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
