@@ -40,11 +40,11 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `86.8k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `86.9k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-<details><summary>Included Nodes (450)</summary>
+<details><summary>Included Nodes (451)</summary>
 
  - <sub>AddNoise</sub>, <sub>[AlignYourStepsScheduler](node_examples/AlignYourStepsScheduler.md)</sub>, <sub>AudioEncoderEncode</sub>, <sub>AudioEncoderLoader</sub>
  - <sub>BasicGuider</sub>, <sub>[BasicScheduler](node_examples/BasicScheduler.md)</sub>, <sub>BetaSamplingScheduler</sub>
@@ -57,7 +57,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
  - <sub>ImageAddNoise</sub>, [ImageBatch🌟](node_examples/ImageBatch.md), [ImageBlend🌟](node_examples/ImageBlend.md), <sub>[ImageBlur](node_examples/ImageBlur.md)</sub>, <sub>[ImageColorToMask](node_examples/ImageColorToMask.md)</sub>, [ImageCompositeMasked🌟](node_examples/ImageCompositeMasked.md), <sub>[ImageCrop](node_examples/ImageCrop.md)</sub>, <sub>ImageFlip</sub>, <sub>[ImageFromBatch](node_examples/ImageFromBatch.md)</sub>, [ImageInvert🌟](node_examples/ImageInvert.md), [ImageOnlyCheckpointLoader🌟](node_examples/ImageOnlyCheckpointLoader.md), <sub>ImageOnlyCheckpointSave</sub>, [ImagePadForOutpaint🌟](node_examples/ImagePadForOutpaint.md), <sub>[ImageQuantize](node_examples/ImageQuantize.md)</sub>, <sub>ImageRGBToYUV</sub>, <sub>ImageRotate</sub>, [ImageScale🌟](node_examples/ImageScale.md), [ImageScaleBy🌟](node_examples/ImageScaleBy.md), [ImageScaleToTotalPixels🌟](node_examples/ImageScaleToTotalPixels.md), <sub>[ImageSharpen](node_examples/ImageSharpen.md)</sub>, <sub>ImageStitch</sub>, [ImageToMask🌟](node_examples/ImageToMask.md), [ImageUpscaleWithModel🌟](node_examples/ImageUpscaleWithModel.md), <sub>ImageYUVToRGB</sub>, <sub>[InpaintModelConditioning](node_examples/InpaintModelConditioning.md)</sub>, <sub>[InstructPixToPixConditioning](node_examples/InstructPixToPixConditioning.md)</sub>, [InvertMask🌟](node_examples/InvertMask.md)
  - <sub>[JoinImageWithAlpha](node_examples/JoinImageWithAlpha.md)</sub>
  - <sub>[KarrasScheduler](node_examples/KarrasScheduler.md)</sub>, <sub>KlingCameraControlI2VNode</sub>, <sub>KlingCameraControls</sub>, <sub>KlingCameraControlT2VNode</sub>, <sub>KlingDualCharacterVideoEffectNode</sub>, <sub>KlingImage2VideoNode</sub>, <sub>KlingImageGenerationNode</sub>, <sub>KlingLipSyncAudioToVideoNode</sub>, <sub>KlingLipSyncTextToVideoNode</sub>, <sub>KlingSingleImageVideoEffectNode</sub>, <sub>KlingStartEndFrameNode</sub>, <sub>KlingTextToVideoNode</sub>, <sub>KlingVideoExtendNode</sub>, <sub>KlingVirtualTryOnNode</sub>, [KSampler🌟](node_examples/KSampler.md), [KSamplerAdvanced🌟](node_examples/KSamplerAdvanced.md), [KSamplerSelect🌟](node_examples/KSamplerSelect.md)
- - <sub>LaplaceScheduler</sub>, <sub>[LatentAdd](node_examples/LatentAdd.md)</sub>, <sub>LatentApplyOperation</sub>, <sub>LatentApplyOperationCFG</sub>, <sub>[LatentBatch](node_examples/LatentBatch.md)</sub>, <sub>[LatentBatchSeedBehavior](node_examples/LatentBatchSeedBehavior.md)</sub>, <sub>[LatentBlend](node_examples/LatentBlend.md)</sub>, <sub>[LatentComposite](node_examples/LatentComposite.md)</sub>, <sub>[LatentCompositeMasked](node_examples/LatentCompositeMasked.md)</sub>, <sub>[LatentCrop](node_examples/LatentCrop.md)</sub>, <sub>LatentFlip</sub>, <sub>[LatentFromBatch](node_examples/LatentFromBatch.md)</sub>, <sub>[LatentInterpolate](node_examples/LatentInterpolate.md)</sub>, <sub>LatentMultiply</sub>, <sub>LatentOperationSharpen</sub>, <sub>LatentOperationTonemapReinhard</sub>, <sub>LatentRotate</sub>, <sub>[LatentSubtract](node_examples/LatentSubtract.md)</sub>, [LatentUpscale🌟](node_examples/LatentUpscale.md), [LatentUpscaleBy🌟](node_examples/LatentUpscaleBy.md), <sub>Load3D</sub>, <sub>Load3DAnimation</sub>, <sub>LoadAudio</sub>, [LoadImage🌟](node_examples/LoadImage.md), [LoadImageMask🌟](node_examples/LoadImageMask.md), <sub>LoadImageOutput</sub>, <sub>LoadImageSetFromFolderNode</sub>, <sub>LoadImageTextSetFromFolderNode</sub>, <sub>LoadLatent</sub>, <sub>[LoadVideo](node_examples/LoadVideo.md)</sub>, [LoraLoader🌟](node_examples/LoraLoader.md), [LoraLoaderModelOnly🌟](node_examples/LoraLoaderModelOnly.md), <sub>LoraModelLoader</sub>, <sub>LoraSave</sub>, <sub>LossGraphNode</sub>, <sub>LotusConditioning</sub>, <sub>LTXVAddGuide</sub>, <sub>LTXVConditioning</sub>, <sub>LTXVCropGuides</sub>, <sub>LTXVImgToVideo</sub>, <sub>LTXVPreprocess</sub>, <sub>LTXVScheduler</sub>, <sub>LumaConceptsNode</sub>, <sub>LumaImageModifyNode</sub>, <sub>LumaImageNode</sub>, <sub>LumaImageToVideoNode</sub>, <sub>LumaReferenceNode</sub>, <sub>LumaVideoNode</sub>
+ - <sub>LaplaceScheduler</sub>, <sub>[LatentAdd](node_examples/LatentAdd.md)</sub>, <sub>LatentApplyOperation</sub>, <sub>LatentApplyOperationCFG</sub>, <sub>[LatentBatch](node_examples/LatentBatch.md)</sub>, <sub>[LatentBatchSeedBehavior](node_examples/LatentBatchSeedBehavior.md)</sub>, <sub>[LatentBlend](node_examples/LatentBlend.md)</sub>, <sub>[LatentComposite](node_examples/LatentComposite.md)</sub>, <sub>[LatentCompositeMasked](node_examples/LatentCompositeMasked.md)</sub>, <sub>LatentConcat</sub>, <sub>[LatentCrop](node_examples/LatentCrop.md)</sub>, <sub>LatentFlip</sub>, <sub>[LatentFromBatch](node_examples/LatentFromBatch.md)</sub>, <sub>[LatentInterpolate](node_examples/LatentInterpolate.md)</sub>, <sub>LatentMultiply</sub>, <sub>LatentOperationSharpen</sub>, <sub>LatentOperationTonemapReinhard</sub>, <sub>LatentRotate</sub>, <sub>[LatentSubtract](node_examples/LatentSubtract.md)</sub>, [LatentUpscale🌟](node_examples/LatentUpscale.md), [LatentUpscaleBy🌟](node_examples/LatentUpscaleBy.md), <sub>Load3D</sub>, <sub>Load3DAnimation</sub>, <sub>LoadAudio</sub>, [LoadImage🌟](node_examples/LoadImage.md), [LoadImageMask🌟](node_examples/LoadImageMask.md), <sub>LoadImageOutput</sub>, <sub>LoadImageSetFromFolderNode</sub>, <sub>LoadImageTextSetFromFolderNode</sub>, <sub>LoadLatent</sub>, <sub>[LoadVideo](node_examples/LoadVideo.md)</sub>, [LoraLoader🌟](node_examples/LoraLoader.md), [LoraLoaderModelOnly🌟](node_examples/LoraLoaderModelOnly.md), <sub>LoraModelLoader</sub>, <sub>LoraSave</sub>, <sub>LossGraphNode</sub>, <sub>LotusConditioning</sub>, <sub>LTXVAddGuide</sub>, <sub>LTXVConditioning</sub>, <sub>LTXVCropGuides</sub>, <sub>LTXVImgToVideo</sub>, <sub>LTXVPreprocess</sub>, <sub>LTXVScheduler</sub>, <sub>LumaConceptsNode</sub>, <sub>LumaImageModifyNode</sub>, <sub>LumaImageNode</sub>, <sub>LumaImageToVideoNode</sub>, <sub>LumaReferenceNode</sub>, <sub>LumaVideoNode</sub>
  - <sub>Mahiro</sub>, [MaskComposite🌟](node_examples/MaskComposite.md), <sub>MaskPreview</sub>, [MaskToImage🌟](node_examples/MaskToImage.md), <sub>MinimaxHailuoVideoNode</sub>, <sub>MinimaxImageToVideoNode</sub>, <sub>MinimaxSubjectToVideoNode</sub>, <sub>MinimaxTextToVideoNode</sub>, <sub>ModelComputeDtype</sub>, <sub>ModelMergeAdd</sub>, <sub>ModelMergeAuraflow</sub>, <sub>[ModelMergeBlocks](node_examples/ModelMergeBlocks.md)</sub>, <sub>ModelMergeCosmos14B</sub>, <sub>ModelMergeCosmos7B</sub>, <sub>ModelMergeCosmosPredict2_14B</sub>, <sub>ModelMergeCosmosPredict2_2B</sub>, <sub>ModelMergeFlux1</sub>, <sub>ModelMergeLTXV</sub>, <sub>ModelMergeMochiPreview</sub>, <sub>ModelMergeQwenImage</sub>, <sub>ModelMergeSD1</sub>, <sub>ModelMergeSD2</sub>, <sub>ModelMergeSD35_Large</sub>, <sub>ModelMergeSD3_2B</sub>, <sub>ModelMergeSDXL</sub>, <sub>[ModelMergeSimple](node_examples/ModelMergeSimple.md)</sub>, <sub>ModelMergeSubtract</sub>, <sub>ModelMergeWAN2_1</sub>, <sub>ModelPatchLoader</sub>, <sub>ModelSamplingAuraFlow</sub>, <sub>[ModelSamplingContinuousEDM](node_examples/ModelSamplingContinuousEDM.md)</sub>, <sub>ModelSamplingContinuousV</sub>, [ModelSamplingDiscrete🌟](node_examples/ModelSamplingDiscrete.md), <sub>ModelSamplingFlux</sub>, <sub>ModelSamplingLTXV</sub>, <sub>ModelSamplingSD3</sub>, <sub>[ModelSamplingStableCascade](node_examples/ModelSamplingStableCascade.md)</sub>, <sub>ModelSave</sub>, <sub>MoonvalleyImg2VideoNode</sub>, <sub>MoonvalleyTxt2VideoNode</sub>, <sub>MoonvalleyVideo2VideoNode</sub>, <sub>Morphology</sub>
  - <sub>OpenAIChatConfig</sub>, <sub>OpenAIChatNode</sub>, <sub>OpenAIDalle2</sub>, <sub>OpenAIDalle3</sub>, <sub>OpenAIGPTImage1</sub>, <sub>OpenAIInputFiles</sub>, <sub>OptimalStepsScheduler</sub>
  - <sub>[PatchModelAddDownscale](node_examples/PatchModelAddDownscale.md)</sub>, <sub>PerpNeg</sub>, <sub>PerpNegGuider</sub>, <sub>[PerturbedAttentionGuidance](node_examples/PerturbedAttentionGuidance.md)</sub>, <sub>[PhotoMakerEncode](node_examples/PhotoMakerEncode.md)</sub>, <sub>[PhotoMakerLoader](node_examples/PhotoMakerLoader.md)</sub>, <sub>Pikadditions</sub>, <sub>Pikaffects</sub>, <sub>PikaImageToVideoNode2_2</sub>, <sub>PikaScenesV2_2</sub>, <sub>PikaStartEndFrameNode2_2</sub>, <sub>Pikaswaps</sub>, <sub>PikaTextToVideoNode2_2</sub>, <sub>PixverseImageToVideoNode</sub>, <sub>PixverseTemplateNode</sub>, <sub>PixverseTextToVideoNode</sub>, <sub>PixverseTransitionVideoNode</sub>, <sub>PolyexponentialScheduler</sub>, <sub>[PorterDuffImageComposite](node_examples/PorterDuffImageComposite.md)</sub>, <sub>Preview3D</sub>, <sub>Preview3DAnimation</sub>, <sub>PreviewAny</sub>, <sub>PreviewAudio</sub>, [PreviewImage🌟](node_examples/PreviewImage.md), <sub>PrimitiveBoolean</sub>, <sub>PrimitiveFloat</sub>, <sub>PrimitiveInt</sub>, <sub>PrimitiveString</sub>, <sub>PrimitiveStringMultiline</sub>
@@ -280,7 +280,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `978` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
+**Stars**: `979` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -323,7 +323,7 @@ Custom nodes and workflows for SDXL in ComfyUI
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `872` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
+**Stars**: `874` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
 
 
 Custom prompt styler node for SDXL in ComfyUI
@@ -350,7 +350,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `859` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `860` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -877,7 +877,7 @@ None
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
 
-**Stars**: `817` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `816` | **Created at**: `2024-02-06` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 Unofficial implementation of BRIA RMBG Model for ComfyUI
@@ -998,7 +998,7 @@ Simplify ComfyUI and Connect with Photoshop
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `910` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `913` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1103,7 +1103,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `797` | **Created at**: `2024-05-11`
+**Stars**: `798` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1290,7 +1290,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `2.4k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
+**Stars**: `2.5k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -1492,7 +1492,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `848` | **Created at**: `2025-01-21`
+**Stars**: `849` | **Created at**: `2025-01-21`
 
 
 None
@@ -1559,6 +1559,11 @@ None
 
 
 ComfyUI Plugin of Nunchaku
+<details><summary>Included Nodes (1)</summary>
+
+ - <sub>NunchakuWheelInstaller</sub>
+</details>
+
 
 ## kijai/ComfyUI-FramePackWrapper
 
@@ -1588,7 +1593,7 @@ Image editing is worth a single LoRA! 0.1% training data for fantastic image edi
 <a href='https://github.com/11cafe/jaaz'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/jaaz
 
-**Stars**: `2.3k` | **Created at**: `2025-06-01`
+**Stars**: `2.4k` | **Created at**: `2025-06-01`
 
 
 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.

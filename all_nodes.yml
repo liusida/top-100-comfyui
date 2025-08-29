@@ -1551,6 +1551,7 @@ LatentBatchSeedBehavior: 4
 LatentBlend: 4
 LatentComposite: 18
 LatentCompositeMasked: 10
+LatentConcat: -1
 LatentCrop: 1
 LatentDelay: 0
 LatentFlip: 0
@@ -2075,6 +2076,7 @@ NunchakuPulidApply: -1
 NunchakuPulidLoader: -1
 NunchakuTextEncoderLoader: -1
 NunchakuTextEncoderLoaderV2: -1
+NunchakuWheelInstaller: -1
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
 OffsetMask: 0
