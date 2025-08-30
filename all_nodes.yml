@@ -1553,6 +1553,7 @@ LatentComposite: 18
 LatentCompositeMasked: 10
 LatentConcat: -1
 LatentCrop: 1
+LatentCut: -1
 LatentDelay: 0
 LatentFlip: 0
 LatentFromBatch: 17
