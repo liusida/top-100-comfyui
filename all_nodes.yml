@@ -2056,6 +2056,7 @@ NoiseFromImage+: -1
 NoiseImage: 2
 NoiseInjectionDetailerHookProvider: 4
 NoiseInjectionHookProvider: 0
+NormalizeAudioLoudness: -1
 NormalizedAmplitudeToFloatList: 0
 NormalizedAmplitudeToMask: 0
 Number Counter: 1
@@ -2882,6 +2883,7 @@ WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
 WanVideoAddMTVMotion: -1
+WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
