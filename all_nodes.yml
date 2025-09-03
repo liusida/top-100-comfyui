@@ -1891,6 +1891,7 @@ LoraLoader|pysssss: 11
 LoraModelLoader: -1
 LoraNames_: 0
 LoraPrompt: 0
+LoraReduceRankKJ: -1
 LoraSave: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
@@ -2771,6 +2772,7 @@ UNetCrossAttentionMultiply: 0
 UNetSelfAttentionMultiply: 0
 UNetTemporalAttentionMultiply: 0
 URL2IMG: -1
+USOStyleReference: -1
 UltimateSDUpscale: 93
 UltimateSDUpscaleCustomSample: -1
 UltimateSDUpscaleNoUpscale: 4
@@ -2898,6 +2900,7 @@ WanVideoDiffusionForcingSampler: -1
 WanVideoEasyCache: -1
 WanVideoEmptyEmbeds: -1
 WanVideoEncode: -1
+WanVideoEncodeLatentBatch: -1
 WanVideoEnhanceAVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoExperimentalArgs: -1
