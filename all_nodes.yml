@@ -1294,6 +1294,7 @@ ImageResize_Padding: 0
 ImageRotate: -1
 ImageScale: 70
 ImageScaleBy: 97
+ImageScaleToMaxDimension: -1
 ImageScaleToTotalPixels: 71
 ImageSeamCarving+: 0
 ImageSender: 16
@@ -2885,6 +2886,7 @@ WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
 WanVideoAddMTVMotion: -1
+WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
 WanVideoApplyNAG: -1
@@ -2916,6 +2918,7 @@ WanVideoLatentReScale: -1
 WanVideoLoopArgs: -1
 WanVideoLoraBlockEdit: -1
 WanVideoLoraSelect: -1
+WanVideoLoraSelectByName: -1
 WanVideoLoraSelectMulti: -1
 WanVideoMagCache: -1
 WanVideoMiniMaxRemoverEmbeds: -1
