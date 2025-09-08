@@ -2047,6 +2047,7 @@ Morphology: 0
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
 MultiTalkModelLoader: -1
+MultiTalkSilentEmbeds: -1
 MultiTalkWav2VecEmbeds: -1
 MultiplicationNode: 0
 NEW_PhotoMaker_Generation: 7
