@@ -2925,6 +2925,7 @@ WanVideoMagCache: -1
 WanVideoMiniMaxRemoverEmbeds: -1
 WanVideoModelLoader: -1
 WanVideoNAG: -1
+WanVideoPassImagesFromSamples: -1
 WanVideoPhantomEmbeds: -1
 WanVideoPromptExtender: -1
 WanVideoPromptExtenderSelect: -1
