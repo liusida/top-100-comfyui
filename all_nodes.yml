@@ -851,6 +851,7 @@ Efficient Loader: 64
 EmbeddingPrompt: 2
 EmptyAceStepLatentAudio: -1
 EmptyCosmosLatentVideo: -1
+EmptyHunyuanImageLatent: -1
 EmptyHunyuanLatentVideo: -1
 EmptyImage: 44
 EmptyLTXVLatentVideo: -1
@@ -1757,6 +1758,7 @@ LatentUpscaler: 0
 'LayerUtility: LoadPSD': 1
 'LayerUtility: LoadVQAModel': -1
 'LayerUtility: NameToColor': -1
+'LayerUtility: NanoBananaImageScale': -1
 'LayerUtility: NumberCalculator': 2
 'LayerUtility: NumberCalculatorV2': -1
 'LayerUtility: PhiPrompt': -1
