@@ -632,6 +632,7 @@ CombineRegionalPrompts: 12
 CombineVideos: -1
 Combine_Videos_party: -1
 ComfyDeployOutputEXR: -1
+ComfyDeployOutputFile: -1
 ComfyDeployOutputImage: -1
 ComfyDeployOutputText: -1
 ComfyDeployWebscoketImageInput: 0
@@ -641,6 +642,7 @@ ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
 ComfyUIDeployExternalEXR: -1
 ComfyUIDeployExternalFaceModel: -1
+ComfyUIDeployExternalFile: -1
 ComfyUIDeployExternalImage: 1
 ComfyUIDeployExternalImageAlpha: 0
 ComfyUIDeployExternalImageBatch: 0
@@ -1030,6 +1032,7 @@ HintImageEnchance: 3
 Hunyuan3Dv2Conditioning: -1
 Hunyuan3Dv2ConditioningMultiView: -1
 HunyuanImageToVideo: -1
+HunyuanRefinerLatent: -1
 HunyuanVideoBlockLoraSelect: -1
 HunyuanVideoEncodeKeyframesToCond: -1
 HunyuanVideoFresca: -1
