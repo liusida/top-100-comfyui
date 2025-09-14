@@ -1029,6 +1029,7 @@ Hex to HSL: -1
 HexToHueNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
+HuMoEmbeds: -1
 Hunyuan3Dv2Conditioning: -1
 Hunyuan3Dv2ConditioningMultiView: -1
 HunyuanImageToVideo: -1
@@ -2968,6 +2969,7 @@ WebcamCapture: 1
 WebcamCaptureCV2: -1
 WeightScheduleConvert: 1
 WeightScheduleExtend: 0
+WhisperModelLoader: -1
 WidgetToString: 0
 WildcardPromptFromString: 0
 Write to GIF: 0
