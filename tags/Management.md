@@ -28,7 +28,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.4k` | **Created at**: `2025-09-13`
+**Stars**: `1.4k` | **Created at**: `2025-09-14`
 
 
 A powerful set of tools for ComfyUI
@@ -65,7 +65,7 @@ A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / F
 <a href='https://github.com/ComfyWorkflows/ComfyUI-Launcher'>
 <img src="https://avatars.githubusercontent.com/u/159965932?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ComfyWorkflows/ComfyUI-Launcher
 
-**Stars**: `822` | **Created at**: `2025-09-13`
+**Stars**: `823` | **Created at**: `2025-09-14`
 
 
 Run any ComfyUI workflow w/ ZERO setup.

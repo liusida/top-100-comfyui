@@ -2170,6 +2170,7 @@ PolyexponentialScheduler: 0
 PorterDuffImageComposite: 1
 PortraitMaster: 4
 PortraitMasterBaseCharacter: -1
+PortraitMasterFaceGenerator: -1
 PortraitMasterMakeup: -1
 PortraitMasterPromptStyler: -1
 PortraitMasterSkinDetails: -1
