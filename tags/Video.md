@@ -27,7 +27,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.2k` | **Created at**: `2025-09-13`
+**Stars**: `1.2k` | **Created at**: `2025-09-15`
 
 
 Nodes related to video workflows

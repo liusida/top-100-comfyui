@@ -2866,6 +2866,10 @@ Vae Decode (mtb): 3
 VariationNoiseDetailerHookProvider: 0
 Veo3VideoGenerationNode: -1
 VeoVideoGenerationNode: -1
+VibeVoice Free Memory: -1
+VibeVoice Load Text From File: -1
+VibeVoice Multiple Speakers: -1
+VibeVoice Single Speaker: -1
 Video Dump Frames: 0
 VideoCombine_Adv: 0
 VideoLengthAdjuster: -1
@@ -2901,6 +2905,7 @@ WanVideoApplyNAG: -1
 WanVideoBlockList: -1
 WanVideoBlockSwap: -1
 WanVideoClipVisionEncode: -1
+WanVideoCombineEmbeds: -1
 WanVideoContextOptions: -1
 WanVideoControlEmbeds: -1
 WanVideoControlnet: -1
