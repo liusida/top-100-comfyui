@@ -689,6 +689,7 @@ ConditioningZeroOut: 26
 ConfigureModifiedFlux: -1
 ConfigureRefFlux: -1
 ConsoleDebug+: 5
+ConsolidateMasksKJ: -1
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
 ConstrainImage|pysssss: 17
