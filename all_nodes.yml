@@ -301,6 +301,7 @@ BitwiseAndMaskForEach: 0
 BlackPatchRetryHookProvider: -1
 Blend Latents: 0
 BlendInpaint: 3
+BlockifyMask: -1
 Blur (mtb): 0
 BodySegment: -1
 Boolean To Text: 1
@@ -818,6 +819,7 @@ DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawInstanceDiffusionTracking: 0
+DrawMaskOnImage: -1
 DrawNLFPoses: -1
 DrawText+: 0
 DualCFGGuider: 36
@@ -972,6 +974,7 @@ FromDetailerPipe: 14
 FromDetailerPipeSDXL: 12
 FromDetailerPipe_v2: 0
 GGUFLoader: -1
+GGUFLoaderKJ: -1
 GITSScheduler: -1
 GITSSchedulerFuncProvider: -1
 GLIGENLoader: 6
