@@ -888,6 +888,7 @@ Face Swap (mtb): 6
 FaceDetailer: 89
 FaceDetailerPipe: 37
 FaceKeypointsPreprocessor: 8
+FaceMaskFromPoseKeypoints: -1
 FaceSegment: -1
 FaceToMask: 0
 FacialPartColoringFromPoseKps: 0
@@ -2905,6 +2906,7 @@ WanVideoAddMTVMotion: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
+WanVideoAnimateEmbeds: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
 WanVideoBlockSwap: -1
