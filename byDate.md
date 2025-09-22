@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `88.9k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `89.0k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -204,7 +204,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `11.5k` | **Created at**: `2023-04-23`
+**Stars**: `11.6k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -248,7 +248,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `963` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
+**Stars**: `965` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -350,7 +350,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `873` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `875` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -514,7 +514,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `946` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `947` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -614,7 +614,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/metercai/SimpleSDXL'>
 <img src="https://avatars.githubusercontent.com/u/5652458?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/metercai/SimpleSDXL
 
-**Stars**: `841` | **Created at**: `2023-10-15`
+**Stars**: `842` | **Created at**: `2023-10-15`
 
 
 Enhanced version of Fooocus for SDXL, more suitable for Chinese and Cloud
@@ -1103,7 +1103,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `818` | **Created at**: `2024-05-11`
+**Stars**: `821` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1290,7 +1290,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `2.5k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
+**Stars**: `2.6k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -1545,7 +1545,7 @@ None
 <a href='https://github.com/heshengtao/super-agent-party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/super-agent-party
 
-**Stars**: `970` | **Created at**: `2025-03-08`
+**Stars**: `976` | **Created at**: `2025-03-08`
 
 
 ⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui、数字人口播等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, HA, Dify, MCP, A2A, ComfyUI,Digital Human broadcast,more!
@@ -1594,7 +1594,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/Enemyx-net/VibeVoice-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/228984999?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Enemyx-net/VibeVoice-ComfyUI
 
-**Stars**: `848` | **Created at**: `2025-08-27`
+**Stars**: `855` | **Created at**: `2025-08-27`
 
 
 A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
