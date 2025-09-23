@@ -2716,6 +2716,7 @@ TextEncodeAceStepAudio: -1
 TextEncodeForSamplerParams+: -1
 TextEncodeHunyuanVideo_ImageToVideo: -1
 TextEncodeQwenImageEdit: -1
+TextEncodeQwenImageEditPlus: -1
 TextGeneration: 6
 TextGenerator: 0
 TextImage: 8
@@ -2902,6 +2903,7 @@ WanVideoATI_comfy: -1
 WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
+WanVideoAddLucyEditLatents: -1
 WanVideoAddMTVMotion: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
