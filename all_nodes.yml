@@ -2293,6 +2293,7 @@ ResizeMask: 4
 Restore Face (mtb): 3
 ReverseImageBatch: 0
 Rodin3D_Detail: -1
+Rodin3D_Gen2: -1
 Rodin3D_Regular: -1
 Rodin3D_Sketch: -1
 Rodin3D_Smooth: -1
