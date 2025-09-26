@@ -249,9 +249,12 @@ ArgosTranslateTextNode: 0
 ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
 Assistant: 2
+AudioAdjustVolume: -1
+AudioConcat: -1
 AudioConcatenate: -1
 AudioEncoderEncode: -1
 AudioEncoderLoader: -1
+AudioMerge: -1
 AudioPlay: -1
 AutoNegativePrompt: 3
 BAE-NormalMapPreprocessor: 23
@@ -855,6 +858,7 @@ Eff. Loader SDXL: 14
 Efficient Loader: 64
 EmbeddingPrompt: 2
 EmptyAceStepLatentAudio: -1
+EmptyAudio: -1
 EmptyCosmosLatentVideo: -1
 EmptyHunyuanImageLatent: -1
 EmptyHunyuanLatentVideo: -1
@@ -2558,6 +2562,7 @@ SpeechSynthesis: 6
 SpeedChange: -1
 SplineEditor: 4
 Split Tracking Points: 1
+SplitAudioChannels: -1
 SplitBboxes: 0
 SplitImage: 0
 SplitImageChannels: 0
@@ -2763,6 +2768,7 @@ TransitionImagesMulti: -1
 TransitionMask+: 0
 TransparentBGSession+: -1
 TransparentImage: 6
+TrimAudioDuration: -1
 TrimVideoLatent: -1
 TripleCLIPLoader: 5
 TripleCLIPLoaderGGUF: -1
@@ -2874,6 +2880,7 @@ VariationNoiseDetailerHookProvider: 0
 Veo3VideoGenerationNode: -1
 VeoVideoGenerationNode: -1
 VibeVoice Free Memory: -1
+VibeVoice LoRA: -1
 VibeVoice Load Text From File: -1
 VibeVoice Multiple Speakers: -1
 VibeVoice Single Speaker: -1
