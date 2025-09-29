@@ -2242,7 +2242,9 @@ ReActorMakeFaceModelBatch: 0
 ReActorMaskHelper: 1
 ReActorOptions: 4
 ReActorRestoreFace: 6
+ReActorRestoreFaceAdvanced: -1
 ReActorSaveFaceModel: 1
+ReActorSetWeight: -1
 ReActorUnload: -1
 ReCamMasterPoseVisualizer: -1
 RebatchImages: 2
