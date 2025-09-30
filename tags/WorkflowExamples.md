@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `3.4k` | **Created at**: `2025-09-28`
+**Stars**: `3.4k` | **Created at**: `2025-09-29`
 
 
 Examples of ComfyUI workflows
@@ -62,7 +62,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/SeargeDP/SeargeSDXL'>
 <img src="https://avatars.githubusercontent.com/u/3330978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SeargeDP/SeargeSDXL
 
-**Stars**: `856` | **Created at**: `2025-09-19`
+**Stars**: `857` | **Created at**: `2025-09-29`
 
 
 Custom nodes and workflows for SDXL in ComfyUI
