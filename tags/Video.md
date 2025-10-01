@@ -27,7 +27,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.2k` | **Created at**: `2025-09-29`
+**Stars**: `1.2k` | **Created at**: `2025-09-30`
 
 
 Nodes related to video workflows
@@ -43,7 +43,7 @@ Nodes related to video workflows
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `934` | **Created at**: `2025-09-26`
+**Stars**: `935` | **Created at**: `2025-09-30`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -54,7 +54,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `822` | **Created at**: `2025-09-29`
+**Stars**: `826` | **Created at**: `2025-09-30`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
