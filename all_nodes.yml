@@ -874,6 +874,7 @@ EmptySD3LatentImage: 0
 EmptySegs: 0
 Engineer: 1
 EnhanceImage: 6
+Epsilon Scaling: -1
 ExecuteAllControlNetPreprocessors: -1
 Executor: 1
 ExpData: -1
@@ -2967,6 +2968,7 @@ WanVideoRoPEFunction: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
 WanVideoScheduler: -1
+WanVideoSchedulerSA_ODE: -1
 WanVideoSetBlockSwap: -1
 WanVideoSetLoRAs: -1
 WanVideoSetRadialAttention: -1
