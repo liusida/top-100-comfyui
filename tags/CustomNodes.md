@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `3.4k` | **Created at**: `2025-10-01`
+**Stars**: `3.4k` | **Created at**: `2025-10-02`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -56,7 +56,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.4k` | **Created at**: `2025-10-01`
+**Stars**: `3.4k` | **Created at**: `2025-10-02`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -109,7 +109,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `2.7k` | **Created at**: `2025-09-30`
+**Stars**: `2.7k` | **Created at**: `2025-10-02`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -144,7 +144,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `2.6k` | **Created at**: `2025-10-01`
+**Stars**: `2.6k` | **Created at**: `2025-10-02`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -200,7 +200,7 @@ None
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `2.3k` | **Created at**: `2025-10-01`
+**Stars**: `2.3k` | **Created at**: `2025-10-02`
 
 
 Making ComfyUI more comfortable!
@@ -215,7 +215,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.1k` | **Created at**: `2025-10-01`
+**Stars**: `2.1k` | **Created at**: `2025-10-02`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -231,7 +231,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.0k` | **Created at**: `2025-10-01`
+**Stars**: `2.0k` | **Created at**: `2025-10-02`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -285,7 +285,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `1.8k` | **Created at**: `2025-10-01`
+**Stars**: `1.8k` | **Created at**: `2025-10-02`
 
 
 Various custom nodes for ComfyUI
@@ -370,7 +370,7 @@ None
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/177552519?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/XLabs-AI/x-flux-comfyui
 
-**Stars**: `1.6k` | **Created at**: `2025-09-30`
+**Stars**: `1.6k` | **Created at**: `2025-10-02`
 
 
 None
@@ -467,7 +467,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `1.4k` | **Created at**: `2025-09-30`
+**Stars**: `1.4k` | **Created at**: `2025-10-02`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -523,7 +523,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.2k` | **Created at**: `2025-10-01`
+**Stars**: `1.2k` | **Created at**: `2025-10-02`
 
 
 Nodes related to video workflows
@@ -591,7 +591,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `1.1k` | **Created at**: `2025-09-30`
+**Stars**: `1.1k` | **Created at**: `2025-10-02`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -609,7 +609,7 @@ ComfyUI nodes to use segment-anything-2
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.0k` | **Created at**: `2025-10-01`
+**Stars**: `1.0k` | **Created at**: `2025-10-03`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -643,7 +643,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `1.0k` | **Created at**: `2025-10-01`
+**Stars**: `1.0k` | **Created at**: `2025-10-02`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -659,7 +659,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `976` | **Created at**: `2025-10-01`
+**Stars**: `979` | **Created at**: `2025-10-03`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -675,7 +675,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `952` | **Created at**: `2025-09-29`
+**Stars**: `953` | **Created at**: `2025-10-02`
 
 
 None
@@ -706,7 +706,7 @@ None
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `935` | **Created at**: `2025-09-30`
+**Stars**: `936` | **Created at**: `2025-10-02`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -754,7 +754,7 @@ PuLID native implementation for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `881` | **Created at**: `2025-10-01`
+**Stars**: `882` | **Created at**: `2025-10-02`
 
 
 ControlNet scheduling and masking nodes with sliding context support

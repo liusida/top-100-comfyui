@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `89.8k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `89.9k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -248,7 +248,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `976` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
+**Stars**: `979` | **Created at**: `2023-05-11` | **Tags**: `Custom Nodes`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
@@ -375,7 +375,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `881` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `882` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -539,7 +539,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `952` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `953` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -639,7 +639,7 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 <a href='https://github.com/metercai/SimpleSDXL'>
 <img src="https://avatars.githubusercontent.com/u/5652458?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/metercai/SimpleSDXL
 
-**Stars**: `846` | **Created at**: `2023-10-15`
+**Stars**: `847` | **Created at**: `2023-10-15`
 
 
 Enhanced version of Fooocus for SDXL, more suitable for Chinese and Cloud
@@ -661,7 +661,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `935` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `936` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -1092,7 +1092,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `835` | **Created at**: `2024-05-11`
+**Stars**: `836` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1508,7 +1508,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `4.6k` | **Created at**: `2025-02-25`
+**Stars**: `4.7k` | **Created at**: `2025-02-25`
 
 
 None
@@ -1583,7 +1583,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/yawiii/comfyui_prompt_assistant'>
 <img src="https://avatars.githubusercontent.com/u/82788731?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yawiii/comfyui_prompt_assistant
 
-**Stars**: `824` | **Created at**: `2025-06-06`
+**Stars**: `828` | **Created at**: `2025-06-06`
 
 
 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
@@ -1594,7 +1594,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/Enemyx-net/VibeVoice-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/228984999?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Enemyx-net/VibeVoice-ComfyUI
 
-**Stars**: `979` | **Created at**: `2025-08-27`
+**Stars**: `988` | **Created at**: `2025-08-27`
 
 
 A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
