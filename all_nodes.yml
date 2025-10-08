@@ -821,6 +821,7 @@ DownloadAndLoadToraModel: -1
 DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
+DrawArcFaceLandmarks: -1
 DrawInstanceDiffusionTracking: 0
 DrawMaskOnImage: -1
 DrawNLFPoses: -1
@@ -1879,6 +1880,7 @@ LoadImagesFromPath: 4
 LoadImagesFromURL: 4
 LoadImagesToBatch: 0
 LoadLatent: 0
+LoadLynxResampler: -1
 LoadResAdapterNormalization: 0
 LoadTXT: 0
 LoadText|pysssss: 0
@@ -1921,6 +1923,8 @@ LumaImageNode: -1
 LumaImageToVideoNode: -1
 LumaReferenceNode: -1
 LumaVideoNode: -1
+LynxEncodeFaceIP: -1
+LynxInsightFaceCrop: -1
 M-LSDPreprocessor: 44
 M2M VFI: 2
 MMDetDetectorProvider: 34
@@ -2915,6 +2919,7 @@ WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
 WanVideoAddLucyEditLatents: -1
+WanVideoAddLynxEmbeds: -1
 WanVideoAddMTVMotion: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
