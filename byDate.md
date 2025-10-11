@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `90.5k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `90.6k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -464,7 +464,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `942` | **Created at**: `2023-08-22` | **Tags**: `Integration`
+**Stars**: `943` | **Created at**: `2023-08-22` | **Tags**: `Integration`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -538,7 +538,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `958` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `959` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -1080,7 +1080,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `844` | **Created at**: `2024-05-11`
+**Stars**: `845` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1458,7 +1458,7 @@ None
 <a href='https://github.com/Gourieff/ComfyUI-ReActor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/ComfyUI-ReActor
 
-**Stars**: `835` | **Created at**: `2025-01-17`
+**Stars**: `838` | **Created at**: `2025-01-17`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
@@ -1475,7 +1475,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `868` | **Created at**: `2025-01-21`
+**Stars**: `870` | **Created at**: `2025-01-21`
 
 
 None
@@ -1513,7 +1513,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `4.7k` | **Created at**: `2025-02-25`
+**Stars**: `4.8k` | **Created at**: `2025-02-25`
 
 
 None
@@ -1588,7 +1588,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/yawiii/comfyui_prompt_assistant'>
 <img src="https://avatars.githubusercontent.com/u/82788731?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yawiii/comfyui_prompt_assistant
 
-**Stars**: `854` | **Created at**: `2025-06-06`
+**Stars**: `857` | **Created at**: `2025-06-06`
 
 
 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
