@@ -2511,6 +2511,8 @@ SeargeUpscaleModelLoader: 16
 SeargeUpscaleModels: 35
 SeargeVAELoader: 15
 Seed: 5
+SeedVR2: -1
+SeedVR2BlockSwap: -1
 Seed_: 0
 SegmDetectorCombined: 0
 SegmDetectorCombined_v2: 7
