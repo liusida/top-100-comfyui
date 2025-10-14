@@ -2138,6 +2138,7 @@ OptimizerConfigProdigyPlusScheduleFree: -1
 OutFluxModelSamplingPred: -1
 OutlineMask: 0
 Output2String: 1
+OviMMAudioVAELoader: -1
 P5Input: -1
 PAGAttention: -1
 Pack SDXL Tuple: 8
@@ -2923,6 +2924,7 @@ WanVideoAddFantasyPortrait: -1
 WanVideoAddLucyEditLatents: -1
 WanVideoAddLynxEmbeds: -1
 WanVideoAddMTVMotion: -1
+WanVideoAddOviAudioToLatents: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
@@ -2937,11 +2939,14 @@ WanVideoControlEmbeds: -1
 WanVideoControlnet: -1
 WanVideoControlnetLoader: -1
 WanVideoDecode: -1
+WanVideoDecodeOviAudio: -1
 WanVideoDiffusionForcingSampler: -1
 WanVideoEasyCache: -1
 WanVideoEmptyEmbeds: -1
+WanVideoEmptyMMAudioLatents: -1
 WanVideoEncode: -1
 WanVideoEncodeLatentBatch: -1
+WanVideoEncodeOviAudio: -1
 WanVideoEnhanceAVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoExperimentalArgs: -1
@@ -2963,6 +2968,7 @@ WanVideoMagCache: -1
 WanVideoMiniMaxRemoverEmbeds: -1
 WanVideoModelLoader: -1
 WanVideoNAG: -1
+WanVideoOviCFG: -1
 WanVideoPassImagesFromSamples: -1
 WanVideoPhantomEmbeds: -1
 WanVideoPromptExtender: -1
