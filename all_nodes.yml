@@ -2921,6 +2921,7 @@ WanVideoATI_comfy: -1
 WanVideoAddControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
+WanVideoAddFlashVSRInput: -1
 WanVideoAddLucyEditLatents: -1
 WanVideoAddLynxEmbeds: -1
 WanVideoAddMTVMotion: -1
@@ -2951,6 +2952,7 @@ WanVideoEnhanceAVideo: -1
 WanVideoEnhanceAVideoKJ: -1
 WanVideoExperimentalArgs: -1
 WanVideoExtraModelSelect: -1
+WanVideoFlashVSRDecoderLoader: -1
 WanVideoFlowEdit: -1
 WanVideoFreeInitArgs: -1
 WanVideoFunCameraEmbeds: -1
