@@ -2020,6 +2020,7 @@ MinimaxImageToVideoNode: -1
 MinimaxSubjectToVideoNode: -1
 MinimaxTextToVideoNode: -1
 MirroredImage: 0
+MochaEmbeds: -1
 Model Input Switch: 0
 Model Patch Seamless (mtb): 3
 ModelCompile+: 0
