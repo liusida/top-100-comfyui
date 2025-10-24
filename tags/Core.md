@@ -7,7 +7,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `91.7k` | **Created at**: `2025-10-23`
+**Stars**: `91.8k` | **Created at**: `2025-10-24`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
