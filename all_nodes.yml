@@ -1234,6 +1234,7 @@ ImageAddNoise: -1
 ImageAndMaskPreview: 0
 ImageApplyLUT+: 0
 ImageBatch: 62
+ImageBatchExtendWithOverlap: -1
 ImageBatchFilter: -1
 ImageBatchJoinWithTransition: -1
 ImageBatchMulti: 4
@@ -2983,6 +2984,8 @@ WanVideoRealisDanceLatents: -1
 WanVideoRoPEFunction: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
+WanVideoSamplerFromSettings: -1
+WanVideoSamplerSettings: -1
 WanVideoScheduler: -1
 WanVideoSchedulerSA_ODE: -1
 WanVideoSetBlockSwap: -1
