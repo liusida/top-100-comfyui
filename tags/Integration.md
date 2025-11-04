@@ -7,7 +7,7 @@
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.9k` | **Created at**: `2025-11-02`
+**Stars**: `7.9k` | **Created at**: `2025-11-03`
 
 
 fast-stable-diffusion + DreamBooth
@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `6.8k` | **Created at**: `2025-11-02`
+**Stars**: `6.8k` | **Created at**: `2025-11-04`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -51,7 +51,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.3k` | **Created at**: `2025-10-30`
+**Stars**: `2.3k` | **Created at**: `2025-11-03`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -62,7 +62,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `2.1k` | **Created at**: `2025-11-01`
+**Stars**: `2.1k` | **Created at**: `2025-11-03`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.4k` | **Created at**: `2025-10-29`
+**Stars**: `1.4k` | **Created at**: `2025-11-03`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -100,7 +100,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `1.3k` | **Created at**: `2025-11-01`
+**Stars**: `1.3k` | **Created at**: `2025-11-03`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
