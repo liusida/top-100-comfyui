@@ -1634,6 +1634,7 @@ LatentUpscaler: 0
 'LayerMask: BlendIf Mask': 2
 'LayerMask: CreateGradientMask': 3
 'LayerMask: DrawBBoxMask': -1
+'LayerMask: DrawRoundedRectangle': -1
 'LayerMask: EVFSAMUltra': -1
 'LayerMask: Florence2Ultra': -1
 'LayerMask: HumanPartsUltra': -1
