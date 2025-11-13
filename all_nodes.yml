@@ -822,6 +822,7 @@ DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
 DrawArcFaceLandmarks: -1
+DrawGaussianNoiseOnImage: -1
 DrawInstanceDiffusionTracking: 0
 DrawMaskOnImage: -1
 DrawNLFPoses: -1
@@ -3005,6 +3006,7 @@ WanVideoUni3C_ControlnetLoader: -1
 WanVideoUni3C_embeds: -1
 WanVideoUniAnimateDWPoseDetector: -1
 WanVideoUniAnimatePoseInput: -1
+WanVideoUniLumosEmbeds: -1
 WanVideoVACEEncode: -1
 WanVideoVACEModelSelect: -1
 WanVideoVACEStartToEndFrame: -1
