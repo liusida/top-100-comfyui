@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `93.7k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `93.8k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -348,7 +348,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `878` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `880` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -648,7 +648,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `950` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `951` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -963,7 +963,7 @@ A Photoshop AI plugin
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `926` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `927` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1068,7 +1068,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `880` | **Created at**: `2024-05-11`
+**Stars**: `881` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1446,7 +1446,7 @@ None
 <a href='https://github.com/Gourieff/ComfyUI-ReActor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/ComfyUI-ReActor
 
-**Stars**: `910` | **Created at**: `2025-01-17`
+**Stars**: `913` | **Created at**: `2025-01-17`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
@@ -1463,7 +1463,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `897` | **Created at**: `2025-01-21`
+**Stars**: `898` | **Created at**: `2025-01-21`
 
 
 None
@@ -1505,7 +1505,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 
 
 None
-<details><summary>Included Nodes (126)</summary>
+<details><summary>Included Nodes (127)</summary>
 
  - <sub>CreateCFGScheduleFloatList</sub>, <sub>CreateScheduleFloatList</sub>
  - <sub>DownloadAndLoadNLFModel</sub>, <sub>DownloadAndLoadWav2VecModel</sub>, <sub>DrawArcFaceLandmarks</sub>, <sub>DrawGaussianNoiseOnImage</sub>, <sub>DrawNLFPoses</sub>, <sub>DummyComfyWanModelObject</sub>
@@ -1519,7 +1519,7 @@ None
  - <sub>QwenLoader</sub>
  - <sub>ReCamMasterPoseVisualizer</sub>
  - <sub>TextImageEncodeQwenVL</sub>
- - <sub>WanVideoAddBindweaveEmbeds</sub>, <sub>WanVideoAddControlEmbeds</sub>, <sub>WanVideoAddExtraLatent</sub>, <sub>WanVideoAddFantasyPortrait</sub>, <sub>WanVideoAddFlashVSRInput</sub>, <sub>WanVideoAddLucyEditLatents</sub>, <sub>WanVideoAddLynxEmbeds</sub>, <sub>WanVideoAddMTVMotion</sub>, <sub>WanVideoAddOviAudioToLatents</sub>, <sub>WanVideoAddPusaNoise</sub>, <sub>WanVideoAddS2VEmbeds</sub>, <sub>WanVideoAddStandInLatent</sub>, <sub>WanVideoAnimateEmbeds</sub>, <sub>WanVideoApplyNAG</sub>, <sub>WanVideoATI_comfy</sub>, <sub>WanVideoATITracks</sub>, <sub>WanVideoATITracksVisualize</sub>, <sub>WanVideoBlockList</sub>, <sub>WanVideoBlockSwap</sub>, <sub>WanVideoClipVisionEncode</sub>, <sub>WanVideoCombineEmbeds</sub>, <sub>WanVideoContextOptions</sub>, <sub>WanVideoControlEmbeds</sub>, <sub>WanVideoControlnet</sub>, <sub>WanVideoControlnetLoader</sub>, <sub>WanVideoDecode</sub>, <sub>WanVideoDecodeOviAudio</sub>, <sub>WanVideoDiffusionForcingSampler</sub>, <sub>WanVideoEasyCache</sub>, <sub>WanVideoEmptyEmbeds</sub>, <sub>WanVideoEmptyMMAudioLatents</sub>, <sub>WanVideoEncode</sub>, <sub>WanVideoEncodeLatentBatch</sub>, <sub>WanVideoEncodeOviAudio</sub>, <sub>WanVideoEnhanceAVideo</sub>, <sub>WanVideoExperimentalArgs</sub>, <sub>WanVideoExtraModelSelect</sub>, <sub>WanVideoFlashVSRDecoderLoader</sub>, <sub>WanVideoFlowEdit</sub>, <sub>WanVideoFreeInitArgs</sub>, <sub>WanVideoFunCameraEmbeds</sub>, <sub>WanVideoImageClipEncode</sub>, <sub>WanVideoImageResizeToClosest</sub>, <sub>WanVideoImageToVideoEncode</sub>, <sub>WanVideoImageToVideoMultiTalk</sub>, <sub>WanVideoLatentReScale</sub>, <sub>WanVideoLoopArgs</sub>, <sub>WanVideoLoraBlockEdit</sub>, <sub>WanVideoLoraSelect</sub>, <sub>WanVideoLoraSelectByName</sub>, <sub>WanVideoLoraSelectMulti</sub>, <sub>WanVideoMagCache</sub>, <sub>WanVideoMiniMaxRemoverEmbeds</sub>, <sub>WanVideoModelLoader</sub>, <sub>WanVideoOviCFG</sub>, <sub>WanVideoPassImagesFromSamples</sub>, <sub>WanVideoPhantomEmbeds</sub>, <sub>WanVideoPromptExtender</sub>, <sub>WanVideoPromptExtenderSelect</sub>, <sub>WanVideoRealisDanceLatents</sub>, <sub>WanVideoReCamMasterCameraEmbed</sub>, <sub>WanVideoReCamMasterDefaultCamera</sub>, <sub>WanVideoReCamMasterGenerateOrbitCamera</sub>, <sub>WanVideoRoPEFunction</sub>, <sub>WanVideoSampler</sub>, <sub>WanVideoSamplerFromSettings</sub>, <sub>WanVideoSamplerSettings</sub>, <sub>WanVideoScheduler</sub>, <sub>WanVideoSchedulerSA_ODE</sub>, <sub>WanVideoSetBlockSwap</sub>, <sub>WanVideoSetLoRAs</sub>, <sub>WanVideoSetRadialAttention</sub>, <sub>WanVideoSigmaToStep</sub>, <sub>WanVideoSLG</sub>, <sub>WanVideoTeaCache</sub>, <sub>WanVideoTextEmbedBridge</sub>, <sub>WanVideoTextEncode</sub>, <sub>WanVideoTextEncodeCached</sub>, <sub>WanVideoTextEncodeSingle</sub>, <sub>WanVideoTinyVAELoader</sub>, <sub>WanVideoTorchCompileSettings</sub>, <sub>WanVideoUni3C_ControlnetLoader</sub>, <sub>WanVideoUni3C_embeds</sub>, <sub>WanVideoUniAnimateDWPoseDetector</sub>, <sub>WanVideoUniAnimatePoseInput</sub>, <sub>WanVideoUniLumosEmbeds</sub>, <sub>WanVideoVACEEncode</sub>, <sub>WanVideoVACEModelSelect</sub>, <sub>WanVideoVACEStartToEndFrame</sub>, <sub>WanVideoVAELoader</sub>, <sub>WanVideoVRAMManagement</sub>, <sub>Wav2VecModelLoader</sub>, <sub>WhisperModelLoader</sub>
+ - <sub>WanVideoAddBindweaveEmbeds</sub>, <sub>WanVideoAddControlEmbeds</sub>, <sub>WanVideoAddExtraLatent</sub>, <sub>WanVideoAddFantasyPortrait</sub>, <sub>WanVideoAddFlashVSRInput</sub>, <sub>WanVideoAddLucyEditLatents</sub>, <sub>WanVideoAddLynxEmbeds</sub>, <sub>WanVideoAddMTVMotion</sub>, <sub>WanVideoAddOviAudioToLatents</sub>, <sub>WanVideoAddPusaNoise</sub>, <sub>WanVideoAddS2VEmbeds</sub>, <sub>WanVideoAddStandInLatent</sub>, <sub>WanVideoAddTTMLatents</sub>, <sub>WanVideoAnimateEmbeds</sub>, <sub>WanVideoApplyNAG</sub>, <sub>WanVideoATI_comfy</sub>, <sub>WanVideoATITracks</sub>, <sub>WanVideoATITracksVisualize</sub>, <sub>WanVideoBlockList</sub>, <sub>WanVideoBlockSwap</sub>, <sub>WanVideoClipVisionEncode</sub>, <sub>WanVideoCombineEmbeds</sub>, <sub>WanVideoContextOptions</sub>, <sub>WanVideoControlEmbeds</sub>, <sub>WanVideoControlnet</sub>, <sub>WanVideoControlnetLoader</sub>, <sub>WanVideoDecode</sub>, <sub>WanVideoDecodeOviAudio</sub>, <sub>WanVideoDiffusionForcingSampler</sub>, <sub>WanVideoEasyCache</sub>, <sub>WanVideoEmptyEmbeds</sub>, <sub>WanVideoEmptyMMAudioLatents</sub>, <sub>WanVideoEncode</sub>, <sub>WanVideoEncodeLatentBatch</sub>, <sub>WanVideoEncodeOviAudio</sub>, <sub>WanVideoEnhanceAVideo</sub>, <sub>WanVideoExperimentalArgs</sub>, <sub>WanVideoExtraModelSelect</sub>, <sub>WanVideoFlashVSRDecoderLoader</sub>, <sub>WanVideoFlowEdit</sub>, <sub>WanVideoFreeInitArgs</sub>, <sub>WanVideoFunCameraEmbeds</sub>, <sub>WanVideoImageClipEncode</sub>, <sub>WanVideoImageResizeToClosest</sub>, <sub>WanVideoImageToVideoEncode</sub>, <sub>WanVideoImageToVideoMultiTalk</sub>, <sub>WanVideoLatentReScale</sub>, <sub>WanVideoLoopArgs</sub>, <sub>WanVideoLoraBlockEdit</sub>, <sub>WanVideoLoraSelect</sub>, <sub>WanVideoLoraSelectByName</sub>, <sub>WanVideoLoraSelectMulti</sub>, <sub>WanVideoMagCache</sub>, <sub>WanVideoMiniMaxRemoverEmbeds</sub>, <sub>WanVideoModelLoader</sub>, <sub>WanVideoOviCFG</sub>, <sub>WanVideoPassImagesFromSamples</sub>, <sub>WanVideoPhantomEmbeds</sub>, <sub>WanVideoPromptExtender</sub>, <sub>WanVideoPromptExtenderSelect</sub>, <sub>WanVideoRealisDanceLatents</sub>, <sub>WanVideoReCamMasterCameraEmbed</sub>, <sub>WanVideoReCamMasterDefaultCamera</sub>, <sub>WanVideoReCamMasterGenerateOrbitCamera</sub>, <sub>WanVideoRoPEFunction</sub>, <sub>WanVideoSampler</sub>, <sub>WanVideoSamplerFromSettings</sub>, <sub>WanVideoSamplerSettings</sub>, <sub>WanVideoScheduler</sub>, <sub>WanVideoSchedulerSA_ODE</sub>, <sub>WanVideoSetBlockSwap</sub>, <sub>WanVideoSetLoRAs</sub>, <sub>WanVideoSetRadialAttention</sub>, <sub>WanVideoSigmaToStep</sub>, <sub>WanVideoSLG</sub>, <sub>WanVideoTeaCache</sub>, <sub>WanVideoTextEmbedBridge</sub>, <sub>WanVideoTextEncode</sub>, <sub>WanVideoTextEncodeCached</sub>, <sub>WanVideoTextEncodeSingle</sub>, <sub>WanVideoTinyVAELoader</sub>, <sub>WanVideoTorchCompileSettings</sub>, <sub>WanVideoUni3C_ControlnetLoader</sub>, <sub>WanVideoUni3C_embeds</sub>, <sub>WanVideoUniAnimateDWPoseDetector</sub>, <sub>WanVideoUniAnimatePoseInput</sub>, <sub>WanVideoUniLumosEmbeds</sub>, <sub>WanVideoVACEEncode</sub>, <sub>WanVideoVACEModelSelect</sub>, <sub>WanVideoVACEStartToEndFrame</sub>, <sub>WanVideoVAELoader</sub>, <sub>WanVideoVRAMManagement</sub>, <sub>Wav2VecModelLoader</sub>, <sub>WhisperModelLoader</sub>
 </details>
 
 
@@ -1578,7 +1578,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/yawiii/comfyui_prompt_assistant'>
 <img src="https://avatars.githubusercontent.com/u/82788731?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yawiii/comfyui_prompt_assistant
 
-**Stars**: `989` | **Created at**: `2025-06-06`
+**Stars**: `995` | **Created at**: `2025-06-06`
 
 
 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
