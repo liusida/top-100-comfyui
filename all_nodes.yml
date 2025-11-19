@@ -317,6 +317,13 @@ BrushMotion: 1
 BrushNet: 9
 BrushNetLoader: 19
 Bus Node: 4
+ByteDanceFirstLastFrameNode: -1
+ByteDanceImageEditNode: -1
+ByteDanceImageNode: -1
+ByteDanceImageReferenceNode: -1
+ByteDanceImageToVideoNode: -1
+ByteDanceSeedreamNode: -1
+ByteDanceTextToVideoNode: -1
 CAIN VFI: 0
 CFGGuider: 10
 CFGNorm: -1
@@ -594,6 +601,7 @@ CheckpointLoaderSimpleWithNoiseSelect: 64
 CheckpointLoader|pysssss: 15
 CheckpointPerturbWeights: -1
 CheckpointSave: 6
+ChromaRadianceOptions: -1
 CkptNames_: 2
 ClothesSegment: -1
 CogVideoContextOptions: -1
@@ -697,6 +705,7 @@ ConsolidateMasksKJ: -1
 Constant Number: 15
 ConstrainImageforVideo|pysssss: 3
 ConstrainImage|pysssss: 17
+ContextWindowsManual: -1
 Control Net Model Input Switch: 0
 Control Net Stacker: 29
 ControlNetApply: 36
@@ -851,6 +860,7 @@ EasyAnimateV5_I2VSampler: -1
 EasyAnimateV5_T2VSampler: -1
 EasyAnimateV5_V2VSampler: -1
 EasyAnimate_TextBox: -1
+EasyCache: -1
 EasyOCR_advance: -1
 EasyOCR_choose: -1
 EditBasicPipe: 68
@@ -861,6 +871,7 @@ Efficient Loader: 64
 EmbeddingPrompt: 2
 EmptyAceStepLatentAudio: -1
 EmptyAudio: -1
+EmptyChromaRadianceLatentImage: -1
 EmptyCosmosLatentVideo: -1
 EmptyHunyuanImageLatent: -1
 EmptyHunyuanLatentVideo: -1
@@ -1819,6 +1830,7 @@ LayeredDiffusionDecodeRGBA: 22
 LayeredDiffusionDecodeSplit: 8
 LayeredDiffusionDiffApply: 17
 LayeredDiffusionJointApply: 4
+LazyCache: -1
 LazySwitchKJ: -1
 LeReS-DepthMapPreprocessor: 54
 LeapfusionHunyuanI2VPatcher: -1
@@ -1920,6 +1932,8 @@ LorasForFluxParams+: -1
 Lorebook: -1
 LossGraphNode: -1
 LotusConditioning: -1
+LtxvApiImageToVideo: -1
+LtxvApiTextToVideo: -1
 LumaConceptsNode: -1
 LumaImageModifyNode: -1
 LumaImageNode: -1
@@ -2133,6 +2147,7 @@ OpenAIDalle2: -1
 OpenAIDalle3: -1
 OpenAIGPTImage1: -1
 OpenAIInputFiles: -1
+OpenAIVideoSora2: -1
 OpenposePreprocessor: 92
 OptimalStepsScheduler: -1
 OptimizerConfig: -1
@@ -2431,6 +2446,7 @@ SaveTripoSRMesh: 0
 SaveVideo: -1
 SaveWEBM: -1
 ScaleBatchPromptSchedule: 0
+ScaleROPE: -1
 ScaledSoftControlNetWeights: 18
 ScaledSoftMaskedUniversalWeights: 0
 ScenesNode_: 0
@@ -2518,6 +2534,10 @@ SeargeVAELoader: 15
 Seed: 5
 SeedVR2: -1
 SeedVR2BlockSwap: -1
+SeedVR2LoadDiTModel: -1
+SeedVR2LoadVAEModel: -1
+SeedVR2TorchCompileSettings: -1
+SeedVR2VideoUpscaler: -1
 Seed_: 0
 SegmDetectorCombined: 0
 SegmDetectorCombined_v2: 7
@@ -2585,8 +2605,11 @@ SplitLongMask: 2
 SplitSigmas: 3
 SplitSigmasDenoise: 0
 StabilityAPI_SD3: 0
+StabilityAudioInpaint: -1
+StabilityAudioToAudio: -1
 StabilityStableImageSD_3_5Node: -1
 StabilityStableImageUltraNode: -1
+StabilityTextToAudio: -1
 StabilityUpscaleConservativeNode: -1
 StabilityUpscaleCreativeNode: -1
 StabilityUpscaleFastNode: -1
@@ -2643,6 +2666,7 @@ TTPlanet_TileGF_Preprocessor: 0
 TTPlanet_TileSimple_Preprocessor: 0
 TeaCache: -1
 TeaCacheForCogVideoX: -1
+TemporalScoreRescaling: -1
 Tensor Batch to Image: 0
 TensorRTLoader: -1
 Terminal: 0
@@ -2904,6 +2928,10 @@ VideoCombine_Adv: 0
 VideoLengthAdjuster: -1
 VideoLinearCFGGuidance: 71
 VideoTriangleCFGGuidance: 2
+ViduImageToVideoNode: -1
+ViduReferenceVideoNode: -1
+ViduStartEndToVideoNode: -1
+ViduTextToVideoNode: -1
 VisualizeLoss: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
@@ -2911,13 +2939,21 @@ WD14Tagger|pysssss: 82
 Wan21BlockLoraSelect: -1
 Wan22FunControlToVideo: -1
 Wan22ImageToVideoLatent: -1
+WanAnimateToVideo: -1
 WanCameraEmbedding: -1
 WanCameraImageToVideo: -1
 WanFirstLastFrameToVideo: -1
 WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
+WanHuMoImageToVideo: -1
+WanImageToImageApi: -1
 WanImageToVideo: -1
+WanImageToVideoApi: -1
 WanPhantomSubjectToVideo: -1
+WanSoundImageToVideo: -1
+WanSoundImageToVideoExtend: -1
+WanTextToImageApi: -1
+WanTextToVideoApi: -1
 WanTrackToVideo: -1
 WanVaceToVideo: -1
 WanVideoATITracks: -1
@@ -3468,6 +3504,7 @@ unCLIPCheckpointLoader: 24
 unCLIPConditioning: 50
 url2img_tool: -1
 vlmLoader: -1
+wanBlockSwap: -1
 weather_tool: -1
 weekday_tool: -1
 whisper_local: -1
