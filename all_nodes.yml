@@ -2783,6 +2783,8 @@ ToDetailerPipeSDXL: 14
 TomePatchModel: 3
 ToonCrafterDecode: 2
 ToonCrafterInterpolation: 3
+TopazImageEnhance: -1
+TopazVideoEnhance: -1
 ToraEncodeOpticalFlow: -1
 ToraEncodeTrajectory: -1
 TorchCompileControlNet: -1

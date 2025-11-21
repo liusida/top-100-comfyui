@@ -7,7 +7,7 @@
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.9k` | **Created at**: `2025-11-19`
+**Stars**: `7.9k` | **Created at**: `2025-11-20`
 
 
 fast-stable-diffusion + DreamBooth
@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `6.9k` | **Created at**: `2025-11-19`
+**Stars**: `6.9k` | **Created at**: `2025-11-20`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -40,7 +40,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `3.4k` | **Created at**: `2025-11-19`
+**Stars**: `3.4k` | **Created at**: `2025-11-20`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -73,7 +73,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.1k` | **Created at**: `2025-11-19`
+**Stars**: `2.0k` | **Created at**: `2025-11-20`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.5k` | **Created at**: `2025-11-19`
+**Stars**: `1.5k` | **Created at**: `2025-11-20`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -100,7 +100,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
 
-**Stars**: `1.3k` | **Created at**: `2025-11-19`
+**Stars**: `1.3k` | **Created at**: `2025-11-20`
 
 
 Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
@@ -111,7 +111,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.3k` | **Created at**: `2025-11-19`
+**Stars**: `1.3k` | **Created at**: `2025-11-20`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -127,7 +127,7 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `964` | **Created at**: `2025-11-19`
+**Stars**: `965` | **Created at**: `2025-11-20`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
