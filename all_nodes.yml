@@ -1002,6 +1002,7 @@ GLIGENTextBoxApplyBatchCoords: 0
 GLIGENTextBoxApply_Advanced: 0
 GMFSS Fortuna VFI: 11
 GamePal: 0
+GeminiImage2Node: -1
 GeminiImageNode: -1
 GeminiInputFiles: -1
 GeminiNode: -1
@@ -1057,6 +1058,9 @@ Hunyuan3Dv2Conditioning: -1
 Hunyuan3Dv2ConditioningMultiView: -1
 HunyuanImageToVideo: -1
 HunyuanRefinerLatent: -1
+HunyuanVideo15ImageToVideo: -1
+HunyuanVideo15LatentUpscaleWithModel: -1
+HunyuanVideo15SuperResolution: -1
 HunyuanVideoBlockLoraSelect: -1
 HunyuanVideoEncodeKeyframesToCond: -1
 HunyuanVideoFresca: -1
@@ -1604,6 +1608,7 @@ LatentSwitch: 2
 LatentSyncNode: -1
 LatentUpscale: 51
 LatentUpscaleBy: 92
+LatentUpscaleModelLoader: -1
 LatentUpscaler: 0
 'LayerColor: AutoAdjust': 2
 'LayerColor: AutoAdjustV2': -1
@@ -1759,6 +1764,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageChannelMerge': 1
 'LayerUtility: ImageChannelSplit': 1
 'LayerUtility: ImageCombineAlpha': 3
+'LayerUtility: ImageCompositeHandleMask': -1
 'LayerUtility: ImageHub': 2
 'LayerUtility: ImageMaskScaleAs': 5
 'LayerUtility: ImageMaskScaleAsV2': -1
