@@ -93,7 +93,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `3.5k` | **Created at**: `2023-01-30` | **Tags**: `Workflow Examples`
+**Stars**: `3.6k` | **Created at**: `2023-01-30` | **Tags**: `Workflow Examples`
 
 
 Examples of ComfyUI workflows
@@ -350,7 +350,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `886` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `888` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -539,7 +539,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `989` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `990` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -590,7 +590,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (195)</summary>
+<details><summary>Included Nodes (196)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -602,7 +602,7 @@ Various custom nodes for ComfyUI
  - <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchExtendWithOverlap</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>, <sub>Intrinsic_lora_sampling</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
- - <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>
+ - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
@@ -1189,7 +1189,7 @@ ComfyUI nodes to use segment-anything-2
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.5k` | **Created at**: `2024-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `2.6k` | **Created at**: `2024-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 None
@@ -1414,7 +1414,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `918` | **Created at**: `2025-01-01`
+**Stars**: `919` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1448,7 +1448,7 @@ None
 <a href='https://github.com/Gourieff/ComfyUI-ReActor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/ComfyUI-ReActor
 
-**Stars**: `926` | **Created at**: `2025-01-17`
+**Stars**: `932` | **Created at**: `2025-01-17`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)

@@ -1591,6 +1591,7 @@ LatentCut: -1
 LatentDelay: 0
 LatentFlip: 0
 LatentFromBatch: 17
+LatentInpaintTTM: -1
 LatentInterpolate: 1
 LatentKeyframe: 6
 LatentKeyframeBatchedGroup: 1
