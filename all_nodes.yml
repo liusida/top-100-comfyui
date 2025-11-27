@@ -873,6 +873,7 @@ EmptyAceStepLatentAudio: -1
 EmptyAudio: -1
 EmptyChromaRadianceLatentImage: -1
 EmptyCosmosLatentVideo: -1
+EmptyFlux2LatentImage: -1
 EmptyHunyuanImageLatent: -1
 EmptyHunyuanLatentVideo: -1
 EmptyImage: 44
@@ -946,6 +947,8 @@ FlowEditForwardSampler: -1
 FlowEditGuider: -1
 FlowEditReverseSampler: -1
 FlowEditSampler: -1
+Flux2ProImageNode: -1
+Flux2Scheduler: -1
 FluxAttentionSeeker+: -1
 FluxAttnOverride: -1
 FluxBlockLoraLoader: -1
@@ -2345,6 +2348,7 @@ SAM Model Loader: 0
 SAM Parameters: 2
 SAM Parameters Combine: 0
 SAM2Segment: -1
+SAM3Segment: -1
 SAMDetectorCombined: 26
 SAMDetectorSegmented: 14
 SAMLoader: 98

@@ -7,7 +7,7 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.8k` | **Created at**: `2025-11-24`
+**Stars**: `2.8k` | **Created at**: `2025-11-26`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -28,7 +28,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.6k` | **Created at**: `2025-11-25`
+**Stars**: `1.6k` | **Created at**: `2025-11-26`
 
 
 A powerful set of tools for ComfyUI
