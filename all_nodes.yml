@@ -1895,9 +1895,11 @@ LoadFluxIPAdapter: -1
 LoadHDRImage: 0
 LoadImage: 97
 LoadImageByUrl //Browser: 0
+LoadImageDataSetFromFolder: -1
 LoadImageMask: 72
 LoadImageOutput: -1
 LoadImageSetFromFolderNode: -1
+LoadImageTextDataSetFromFolder: -1
 LoadImageTextSetFromFolderNode: -1
 LoadImagesFromDirectory: 2
 LoadImagesFromFolderKJ: -1
@@ -1909,6 +1911,7 @@ LoadLynxResampler: -1
 LoadResAdapterNormalization: 0
 LoadTXT: 0
 LoadText|pysssss: 0
+LoadTrainingDataset: -1
 LoadTripoSRModel_: 0
 LoadVQVAE: -1
 LoadVideo: 4
@@ -1962,6 +1965,7 @@ MagicClothing_Generate: 11
 MagicClothing_Inpainting: 2
 Mahiro: -1
 Make Interpolation State List: 0
+MakeTrainingDataset: -1
 Manga2Anime_LineArt_Preprocessor: 5
 Manual XY Entry Info: 0
 MarigoldDepthEstimation: 4
@@ -2098,6 +2102,7 @@ MultiTalkModelLoader: -1
 MultiTalkSilentEmbeds: -1
 MultiTalkWav2VecEmbeds: -1
 MultiplicationNode: 0
+NABLA_AttentionKJ: -1
 NEW_PhotoMaker_Generation: 7
 NLFPredict: -1
 NNLatentUpscale: 17
@@ -2439,13 +2444,16 @@ SaveExpData: -1
 SaveGLB: -1
 SaveImage: 97
 SaveImageAndMetadata_: 0
+SaveImageDataSetToFolder: -1
 SaveImageKJ: -1
 SaveImageOpenEXR: 1
+SaveImageTextDataSetToFolder: -1
 SaveImageToLocal: 0
 SaveImageWebsocket: 0
 SaveImageWithAlpha: 0
 SaveImagetoPath: 4
 SaveLatent: 0
+SaveLoRA: -1
 SaveLoRANode: -1
 SavePoseKpsAsJsonFile: 1
 SavePromptToFile: 10
@@ -2453,6 +2461,7 @@ SaveSVG: -1
 SaveSVGNode: -1
 SaveStringKJ: -1
 SaveText|pysssss: 0
+SaveTrainingDataset: -1
 SaveTripoSRMesh: 0
 SaveVideo: -1
 SaveWEBM: -1
@@ -2577,6 +2586,7 @@ ShowLayer: 4
 ShowTextForGPT: 12
 ShowText|pysssss: 99
 ShuffleImageBatch: -1
+ShuffleImageTextDataset: -1
 ShufflePreprocessor: 5
 SigmasToFloat: -1
 SimpleComparison+: -1
@@ -2802,6 +2812,7 @@ TorchCompileControlNet: -1
 TorchCompileCosmosModel: -1
 TorchCompileLTXModel: -1
 TorchCompileModel: -1
+TorchCompileModelAdvanced: -1
 TorchCompileModelFluxAdvanced: -1
 TorchCompileModelFluxAdvancedV2: -1
 TorchCompileModelHyVideo: -1
@@ -2929,6 +2940,7 @@ VPScheduler: 0
 VRAM_Debug: 1
 Vae Decode (mtb): 3
 VariationNoiseDetailerHookProvider: 0
+Veo3FirstLastFrameNode: -1
 Veo3VideoGenerationNode: -1
 VeoVideoGenerationNode: -1
 VibeVoice Free Memory: -1
@@ -3029,6 +3041,7 @@ WanVideoNAG: -1
 WanVideoOviCFG: -1
 WanVideoPassImagesFromSamples: -1
 WanVideoPhantomEmbeds: -1
+WanVideoPreviewEmbeds: -1
 WanVideoPromptExtender: -1
 WanVideoPromptExtenderSelect: -1
 WanVideoReCamMasterCameraEmbed: -1
