@@ -2996,6 +2996,7 @@ WanVideoAddOviAudioToLatents: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
+WanVideoAddSteadyDancerEmbeds: -1
 WanVideoAddTTMLatents: -1
 WanVideoAnimateEmbeds: -1
 WanVideoApplyNAG: -1
