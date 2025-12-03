@@ -40,11 +40,11 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `95.2k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `95.3k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-<details><summary>Included Nodes (540)</summary>
+<details><summary>Included Nodes (545)</summary>
 
  - <sub>AddNoise</sub>, <sub>[AlignYourStepsScheduler](node_examples/AlignYourStepsScheduler.md)</sub>, <sub>APG</sub>, <sub>AudioAdjustVolume</sub>, <sub>AudioConcat</sub>, <sub>AudioEncoderEncode</sub>, <sub>AudioEncoderLoader</sub>, <sub>AudioMerge</sub>
  - <sub>BasicGuider</sub>, <sub>[BasicScheduler](node_examples/BasicScheduler.md)</sub>, <sub>BetaSamplingScheduler</sub>, <sub>ByteDanceFirstLastFrameNode</sub>, <sub>ByteDanceImageEditNode</sub>, <sub>ByteDanceImageNode</sub>, <sub>ByteDanceImageReferenceNode</sub>, <sub>ByteDanceImageToVideoNode</sub>, <sub>ByteDanceSeedreamNode</sub>, <sub>ByteDanceTextToVideoNode</sub>
@@ -56,7 +56,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
  - <sub>Hunyuan3Dv2Conditioning</sub>, <sub>Hunyuan3Dv2ConditioningMultiView</sub>, <sub>HunyuanImageToVideo</sub>, <sub>HunyuanRefinerLatent</sub>, <sub>HunyuanVideo15ImageToVideo</sub>, <sub>HunyuanVideo15LatentUpscaleWithModel</sub>, <sub>HunyuanVideo15SuperResolution</sub>, <sub>[HypernetworkLoader](node_examples/HypernetworkLoader.md)</sub>, <sub>[HyperTile](node_examples/HyperTile.md)</sub>
  - <sub>IdeogramV1</sub>, <sub>IdeogramV2</sub>, <sub>IdeogramV3</sub>, <sub>ImageAddNoise</sub>, [ImageBatch🌟](node_examples/ImageBatch.md), [ImageBlend🌟](node_examples/ImageBlend.md), <sub>[ImageBlur](node_examples/ImageBlur.md)</sub>, <sub>[ImageColorToMask](node_examples/ImageColorToMask.md)</sub>, [ImageCompositeMasked🌟](node_examples/ImageCompositeMasked.md), <sub>[ImageCrop](node_examples/ImageCrop.md)</sub>, <sub>ImageFlip</sub>, <sub>[ImageFromBatch](node_examples/ImageFromBatch.md)</sub>, [ImageInvert🌟](node_examples/ImageInvert.md), [ImageOnlyCheckpointLoader🌟](node_examples/ImageOnlyCheckpointLoader.md), <sub>ImageOnlyCheckpointSave</sub>, [ImagePadForOutpaint🌟](node_examples/ImagePadForOutpaint.md), <sub>[ImageQuantize](node_examples/ImageQuantize.md)</sub>, <sub>ImageRGBToYUV</sub>, <sub>ImageRotate</sub>, [ImageScale🌟](node_examples/ImageScale.md), [ImageScaleBy🌟](node_examples/ImageScaleBy.md), <sub>ImageScaleToMaxDimension</sub>, [ImageScaleToTotalPixels🌟](node_examples/ImageScaleToTotalPixels.md), <sub>[ImageSharpen](node_examples/ImageSharpen.md)</sub>, <sub>ImageStitch</sub>, [ImageToMask🌟](node_examples/ImageToMask.md), [ImageUpscaleWithModel🌟](node_examples/ImageUpscaleWithModel.md), <sub>ImageYUVToRGB</sub>, <sub>[InpaintModelConditioning](node_examples/InpaintModelConditioning.md)</sub>, <sub>[InstructPixToPixConditioning](node_examples/InstructPixToPixConditioning.md)</sub>, [InvertMask🌟](node_examples/InvertMask.md)
  - <sub>[JoinImageWithAlpha](node_examples/JoinImageWithAlpha.md)</sub>
- - <sub>[KarrasScheduler](node_examples/KarrasScheduler.md)</sub>, <sub>KlingCameraControlI2VNode</sub>, <sub>KlingCameraControls</sub>, <sub>KlingCameraControlT2VNode</sub>, <sub>KlingDualCharacterVideoEffectNode</sub>, <sub>KlingImage2VideoNode</sub>, <sub>KlingImageGenerationNode</sub>, <sub>KlingLipSyncAudioToVideoNode</sub>, <sub>KlingLipSyncTextToVideoNode</sub>, <sub>KlingSingleImageVideoEffectNode</sub>, <sub>KlingStartEndFrameNode</sub>, <sub>KlingTextToVideoNode</sub>, <sub>KlingVideoExtendNode</sub>, <sub>KlingVirtualTryOnNode</sub>, [KSampler🌟](node_examples/KSampler.md), [KSamplerAdvanced🌟](node_examples/KSamplerAdvanced.md), [KSamplerSelect🌟](node_examples/KSamplerSelect.md)
+ - <sub>[KarrasScheduler](node_examples/KarrasScheduler.md)</sub>, <sub>KlingCameraControlI2VNode</sub>, <sub>KlingCameraControls</sub>, <sub>KlingCameraControlT2VNode</sub>, <sub>KlingDualCharacterVideoEffectNode</sub>, <sub>KlingImage2VideoNode</sub>, <sub>KlingImageGenerationNode</sub>, <sub>KlingLipSyncAudioToVideoNode</sub>, <sub>KlingLipSyncTextToVideoNode</sub>, <sub>KlingOmniProEditVideoNode</sub>, <sub>KlingOmniProFirstLastFrameNode</sub>, <sub>KlingOmniProImageToVideoNode</sub>, <sub>KlingOmniProTextToVideoNode</sub>, <sub>KlingOmniProVideoToVideoNode</sub>, <sub>KlingSingleImageVideoEffectNode</sub>, <sub>KlingStartEndFrameNode</sub>, <sub>KlingTextToVideoNode</sub>, <sub>KlingVideoExtendNode</sub>, <sub>KlingVirtualTryOnNode</sub>, [KSampler🌟](node_examples/KSampler.md), [KSamplerAdvanced🌟](node_examples/KSamplerAdvanced.md), [KSamplerSelect🌟](node_examples/KSamplerSelect.md)
  - <sub>LaplaceScheduler</sub>, <sub>[LatentAdd](node_examples/LatentAdd.md)</sub>, <sub>LatentApplyOperation</sub>, <sub>LatentApplyOperationCFG</sub>, <sub>[LatentBatch](node_examples/LatentBatch.md)</sub>, <sub>[LatentBatchSeedBehavior](node_examples/LatentBatchSeedBehavior.md)</sub>, <sub>[LatentBlend](node_examples/LatentBlend.md)</sub>, <sub>[LatentComposite](node_examples/LatentComposite.md)</sub>, <sub>[LatentCompositeMasked](node_examples/LatentCompositeMasked.md)</sub>, <sub>LatentConcat</sub>, <sub>[LatentCrop](node_examples/LatentCrop.md)</sub>, <sub>LatentCut</sub>, <sub>LatentFlip</sub>, <sub>[LatentFromBatch](node_examples/LatentFromBatch.md)</sub>, <sub>[LatentInterpolate](node_examples/LatentInterpolate.md)</sub>, <sub>LatentMultiply</sub>, <sub>LatentOperationSharpen</sub>, <sub>LatentOperationTonemapReinhard</sub>, <sub>LatentRotate</sub>, <sub>[LatentSubtract](node_examples/LatentSubtract.md)</sub>, [LatentUpscale🌟](node_examples/LatentUpscale.md), [LatentUpscaleBy🌟](node_examples/LatentUpscaleBy.md), <sub>LatentUpscaleModelLoader</sub>, <sub>LazyCache</sub>, <sub>Load3D</sub>, <sub>LoadAudio</sub>, [LoadImage🌟](node_examples/LoadImage.md), <sub>LoadImageDataSetFromFolder</sub>, [LoadImageMask🌟](node_examples/LoadImageMask.md), <sub>LoadImageOutput</sub>, <sub>LoadImageTextDataSetFromFolder</sub>, <sub>LoadLatent</sub>, <sub>LoadTrainingDataset</sub>, <sub>[LoadVideo](node_examples/LoadVideo.md)</sub>, [LoraLoader🌟](node_examples/LoraLoader.md), [LoraLoaderModelOnly🌟](node_examples/LoraLoaderModelOnly.md), <sub>LoraModelLoader</sub>, <sub>LoraSave</sub>, <sub>LossGraphNode</sub>, <sub>LotusConditioning</sub>, <sub>LTXVAddGuide</sub>, <sub>LtxvApiImageToVideo</sub>, <sub>LtxvApiTextToVideo</sub>, <sub>LTXVConditioning</sub>, <sub>LTXVCropGuides</sub>, <sub>LTXVImgToVideo</sub>, <sub>LTXVPreprocess</sub>, <sub>LTXVScheduler</sub>, <sub>LumaConceptsNode</sub>, <sub>LumaImageModifyNode</sub>, <sub>LumaImageNode</sub>, <sub>LumaImageToVideoNode</sub>, <sub>LumaReferenceNode</sub>, <sub>LumaVideoNode</sub>
  - <sub>Mahiro</sub>, <sub>MakeTrainingDataset</sub>, [MaskComposite🌟](node_examples/MaskComposite.md), <sub>MaskPreview</sub>, [MaskToImage🌟](node_examples/MaskToImage.md), <sub>MinimaxHailuoVideoNode</sub>, <sub>MinimaxImageToVideoNode</sub>, <sub>MinimaxSubjectToVideoNode</sub>, <sub>MinimaxTextToVideoNode</sub>, <sub>ModelComputeDtype</sub>, <sub>ModelMergeAdd</sub>, <sub>ModelMergeAuraflow</sub>, <sub>[ModelMergeBlocks](node_examples/ModelMergeBlocks.md)</sub>, <sub>ModelMergeCosmos14B</sub>, <sub>ModelMergeCosmos7B</sub>, <sub>ModelMergeCosmosPredict2_14B</sub>, <sub>ModelMergeCosmosPredict2_2B</sub>, <sub>ModelMergeFlux1</sub>, <sub>ModelMergeLTXV</sub>, <sub>ModelMergeMochiPreview</sub>, <sub>ModelMergeQwenImage</sub>, <sub>ModelMergeSD1</sub>, <sub>ModelMergeSD2</sub>, <sub>ModelMergeSD35_Large</sub>, <sub>ModelMergeSD3_2B</sub>, <sub>ModelMergeSDXL</sub>, <sub>[ModelMergeSimple](node_examples/ModelMergeSimple.md)</sub>, <sub>ModelMergeSubtract</sub>, <sub>ModelMergeWAN2_1</sub>, <sub>ModelPatchLoader</sub>, <sub>ModelSamplingAuraFlow</sub>, <sub>[ModelSamplingContinuousEDM](node_examples/ModelSamplingContinuousEDM.md)</sub>, <sub>ModelSamplingContinuousV</sub>, [ModelSamplingDiscrete🌟](node_examples/ModelSamplingDiscrete.md), <sub>ModelSamplingFlux</sub>, <sub>ModelSamplingLTXV</sub>, <sub>ModelSamplingSD3</sub>, <sub>[ModelSamplingStableCascade](node_examples/ModelSamplingStableCascade.md)</sub>, <sub>ModelSave</sub>, <sub>MoonvalleyImg2VideoNode</sub>, <sub>MoonvalleyTxt2VideoNode</sub>, <sub>MoonvalleyVideo2VideoNode</sub>, <sub>Morphology</sub>
  - <sub>OpenAIChatConfig</sub>, <sub>OpenAIChatNode</sub>, <sub>OpenAIDalle2</sub>, <sub>OpenAIDalle3</sub>, <sub>OpenAIGPTImage1</sub>, <sub>OpenAIInputFiles</sub>, <sub>OpenAIVideoSora2</sub>, <sub>OptimalStepsScheduler</sub>
@@ -375,7 +375,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `912` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `914` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -539,7 +539,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `993` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
+**Stars**: `994` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
 
 
 None
@@ -1070,7 +1070,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `888` | **Created at**: `2024-05-11`
+**Stars**: `890` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1086,7 +1086,7 @@ ComfyUI nodes to crop before sampling and stitch back after sampling that speed 
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `1.7k` | **Created at**: `2024-05-13` | **Tags**: `Workflow Examples`
+**Stars**: `1.8k` | **Created at**: `2024-05-13` | **Tags**: `Workflow Examples`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -1414,7 +1414,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `922` | **Created at**: `2025-01-01`
+**Stars**: `923` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1448,7 +1448,7 @@ None
 <a href='https://github.com/Gourieff/ComfyUI-ReActor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/ComfyUI-ReActor
 
-**Stars**: `943` | **Created at**: `2025-01-17`
+**Stars**: `944` | **Created at**: `2025-01-17`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
@@ -1569,7 +1569,7 @@ None
 <a href='https://github.com/11cafe/jaaz'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/jaaz
 
-**Stars**: `5.2k` | **Created at**: `2025-06-01`
+**Stars**: `5.3k` | **Created at**: `2025-06-01`
 
 
 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.

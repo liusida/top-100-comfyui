@@ -1517,6 +1517,11 @@ KlingImage2VideoNode: -1
 KlingImageGenerationNode: -1
 KlingLipSyncAudioToVideoNode: -1
 KlingLipSyncTextToVideoNode: -1
+KlingOmniProEditVideoNode: -1
+KlingOmniProFirstLastFrameNode: -1
+KlingOmniProImageToVideoNode: -1
+KlingOmniProTextToVideoNode: -1
+KlingOmniProVideoToVideoNode: -1
 KlingSingleImageVideoEffectNode: -1
 KlingStartEndFrameNode: -1
 KlingTextToVideoNode: -1

@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.6k` | **Created at**: `2025-11-28`
+**Stars**: `2.6k` | **Created at**: `2025-12-02`
 
 
 None
