@@ -257,6 +257,8 @@ AudioEncoderLoader: -1
 AudioMerge: -1
 AudioPlay: -1
 AutoNegativePrompt: 3
+AutogrowNamesTestNode: -1
+AutogrowPrefixTestNode: -1
 BAE-NormalMapPreprocessor: 23
 BLIP Analyze Image: 10
 BLIP Model Loader: 9
@@ -649,6 +651,7 @@ ComfyDeployOutputImage: -1
 ComfyDeployOutputText: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
+ComfySwitchNode: -1
 ComfyUIDeployExternalAudio: -1
 ComfyUIDeployExternalBoolean: 0
 ComfyUIDeployExternalCheckpoint: 0
@@ -763,6 +766,7 @@ CustomSigmas: 9
 CustomT2IAdapterWeights: 0
 CutAndDragOnPath: -1
 CutForInpaint: 0
+DCTestNode: -1
 DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
 DYNAMIC_TRT_MODEL_CONVERSION: -1
@@ -886,6 +890,7 @@ EmptyLatentImagePresets: 0
 EmptyMochiLatentVideo: -1
 EmptySD3LatentImage: 0
 EmptySegs: 0
+EndRecordCUDAMemoryHistory: -1
 Engineer: 1
 EnhanceImage: 6
 Epsilon Scaling: -1
@@ -1519,6 +1524,7 @@ KlingLipSyncAudioToVideoNode: -1
 KlingLipSyncTextToVideoNode: -1
 KlingOmniProEditVideoNode: -1
 KlingOmniProFirstLastFrameNode: -1
+KlingOmniProImageNode: -1
 KlingOmniProImageToVideoNode: -1
 KlingOmniProTextToVideoNode: -1
 KlingOmniProVideoToVideoNode: -1
@@ -2647,6 +2653,7 @@ StableZero123_BatchSchedule: 1
 StableZero123_Conditioning: 5
 StableZero123_Conditioning_Batched: 0
 Stack Images (mtb): 0
+StartRecordCUDAMemoryHistory: -1
 StepsScheduleHookProvider: 0
 String Replace (mtb): 5
 String to Text: 0
@@ -2962,6 +2969,7 @@ ViduImageToVideoNode: -1
 ViduReferenceVideoNode: -1
 ViduStartEndToVideoNode: -1
 ViduTextToVideoNode: -1
+VisualizeCUDAMemoryHistory: -1
 VisualizeLoss: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
