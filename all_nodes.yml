@@ -354,6 +354,7 @@ CLIPTextEncodeControlnet: 0
 CLIPTextEncodeFlux: -1
 CLIPTextEncodeHiDream: -1
 CLIPTextEncodeHunyuanDiT: -1
+CLIPTextEncodeKandinsky5: -1
 CLIPTextEncodeLumina2: -1
 CLIPTextEncodePixArtAlpha: -1
 CLIPTextEncodeSD3: 0
@@ -784,6 +785,8 @@ Depth to normal: -1
 DepthAnythingPreprocessor: 58
 DepthAnythingV2Preprocessor: -1
 DepthViewer: -1
+DetailDaemonGraphSigmasNode: -1
+DetailDaemonSamplerNode: -1
 DetailTransfer: 1
 DetailerForEach: 30
 DetailerForEachAutoRetry: -1
@@ -1510,6 +1513,7 @@ KSamplerSelect: 80
 KSamplerVariationsStochastic+: 0
 KSamplerVariationsWithNoise+: 0
 KSampler_party: -1
+Kandinsky5ImageToVideo: -1
 KarrasScheduler: 1
 KeyInput: -1
 KeypointScaler: -1
@@ -1964,6 +1968,7 @@ LumaImageNode: -1
 LumaImageToVideoNode: -1
 LumaReferenceNode: -1
 LumaVideoNode: -1
+LyingSigmaSampler: -1
 LynxEncodeFaceIP: -1
 LynxInsightFaceCrop: -1
 M-LSDPreprocessor: 44
@@ -2113,6 +2118,7 @@ MultiTalkModelLoader: -1
 MultiTalkSilentEmbeds: -1
 MultiTalkWav2VecEmbeds: -1
 MultiplicationNode: 0
+MultiplySigmas: -1
 NABLA_AttentionKJ: -1
 NEW_PhotoMaker_Generation: 7
 NLFPredict: -1
@@ -2124,6 +2130,7 @@ NoiseImage: 2
 NoiseInjectionDetailerHookProvider: 4
 NoiseInjectionHookProvider: 0
 NormalizeAudioLoudness: -1
+NormalizeVideoLatentStart: -1
 NormalizedAmplitudeToFloatList: 0
 NormalizedAmplitudeToMask: 0
 Number Counter: 1
@@ -2342,6 +2349,7 @@ RepeatImageBatch: 15
 RepeatLatentBatch: 40
 Repeater|pysssss: 0
 ReplaceImagesInBatch: 0
+ReplaceVideoLatentFrames: -1
 ReroutePrimitive|pysssss: 5
 RescaleCFG: 19
 ResizeAndPadImage: -1
