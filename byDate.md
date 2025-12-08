@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `95.9k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `96.0k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -308,7 +308,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/twri/sdxl_prompt_styler'>
 <img src="https://avatars.githubusercontent.com/u/4344671?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/twri/sdxl_prompt_styler
 
-**Stars**: `894` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
+**Stars**: `895` | **Created at**: `2023-07-22` | **Tags**: `Custom Nodes`
 
 
 Custom prompt styler node for SDXL in ComfyUI
@@ -335,7 +335,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `902` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `905` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -1055,7 +1055,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `894` | **Created at**: `2024-05-11`
+**Stars**: `897` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1468,7 +1468,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `916` | **Created at**: `2025-01-21`
+**Stars**: `917` | **Created at**: `2025-01-21`
 
 
 None
