@@ -2995,6 +2995,7 @@ WanHuMoImageToVideo: -1
 WanImageToImageApi: -1
 WanImageToVideo: -1
 WanImageToVideoApi: -1
+WanMove_native: -1
 WanPhantomSubjectToVideo: -1
 WanSoundImageToVideo: -1
 WanSoundImageToVideoExtend: -1
@@ -3013,12 +3014,16 @@ WanVideoAddFlashVSRInput: -1
 WanVideoAddLucyEditLatents: -1
 WanVideoAddLynxEmbeds: -1
 WanVideoAddMTVMotion: -1
+WanVideoAddOneToAllExtendEmbeds: -1
+WanVideoAddOneToAllPoseEmbeds: -1
+WanVideoAddOneToAllReferenceEmbeds: -1
 WanVideoAddOviAudioToLatents: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
 WanVideoAddStandInLatent: -1
 WanVideoAddSteadyDancerEmbeds: -1
 WanVideoAddTTMLatents: -1
+WanVideoAddWanMoveTracks: -1
 WanVideoAnimateEmbeds: -1
 WanVideoApplyNAG: -1
 WanVideoBlockList: -1
@@ -3099,6 +3104,7 @@ WanVideoVACEModelSelect: -1
 WanVideoVACEStartToEndFrame: -1
 WanVideoVAELoader: -1
 WanVideoVRAMManagement: -1
+WanVideoWanDrawWanMoveTracks: -1
 Wav2VecModelLoader: -1
 WebcamCapture: 1
 WebcamCaptureCV2: -1
