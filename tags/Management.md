@@ -7,15 +7,15 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.8k` | **Created at**: `2025-12-09`
+**Stars**: `2.8k` | **Created at**: `2025-12-11`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
-<details><summary>Included Nodes (14)</summary>
+<details><summary>Included Nodes (13)</summary>
 
  - <sub>[CheckpointLoader|pysssss](node_examples/CheckpointLoaderpysssss.md)</sub>, <sub>[ConstrainImageforVideo|pysssss](node_examples/ConstrainImageforVideopysssss.md)</sub>, <sub>[ConstrainImage|pysssss](node_examples/ConstrainImagepysssss.md)</sub>
  - <sub>LoadText|pysssss</sub>, <sub>[LoraLoader|pysssss](node_examples/LoraLoaderpysssss.md)</sub>
- - <sub>[MathExpression|pysssss](node_examples/MathExpressionpysssss.md)</sub>, <sub>MultiPrimitive|pysssss</sub>
+ - <sub>[MathExpression|pysssss](node_examples/MathExpressionpysssss.md)</sub>
  - <sub>[PlaySound|pysssss](node_examples/PlaySoundpysssss.md)</sub>
  - <sub>Repeater|pysssss</sub>, <sub>[ReroutePrimitive|pysssss](node_examples/ReroutePrimitivepysssss.md)</sub>
  - <sub>SaveText|pysssss</sub>, [ShowText|pysssss🌟](node_examples/ShowTextpysssss.md), <sub>[StringFunction|pysssss](node_examples/StringFunctionpysssss.md)</sub>, <sub>SystemNotification|pysssss</sub>
@@ -28,7 +28,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/crystian/ComfyUI-Crystools'>
 <img src="https://avatars.githubusercontent.com/u/3886806?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/crystian/ComfyUI-Crystools
 
-**Stars**: `1.6k` | **Created at**: `2025-12-09`
+**Stars**: `1.6k` | **Created at**: `2025-12-10`
 
 
 A powerful set of tools for ComfyUI

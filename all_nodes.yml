@@ -29,6 +29,8 @@ ACN_SparseCtrlSpreadMethodNode: 9
 ACN_SparseCtrlWeightExtras: 0
 ACN_TimestepKeyframeFromStrengthList: 0
 ACN_TimestepKeyframeInterpolation: 0
+ADBlockComboNode: -1
+ADBlockIndivNode: -1
 ADE_AdjustPEFullStretch: 0
 ADE_AdjustPEManual: 0
 ADE_AdjustPESweetspotStretch: 0
@@ -193,6 +195,7 @@ AddLabel: 2
 AddLatentGuide: -1
 AddMask: 4
 AddNoise: 0
+AddValuesReplaceNode: -1
 AdvancedLivePortrait: -1
 AiLab_ImagePreview: -1
 AiLab_LoadImage: -1
@@ -466,6 +469,7 @@ CR Load Scheduled ControlNets: 0
 CR Load Scheduled LoRAs: 1
 CR Load Scheduled Models: 2
 CR Load Text List: 1
+CR Load Value List: -1
 CR Mask Text: 0
 CR Math Operation: 0
 CR Model Input Switch: 3
@@ -606,6 +610,7 @@ CheckpointPerturbWeights: -1
 CheckpointSave: 6
 ChromaRadianceOptions: -1
 CkptNames_: 2
+ClipPass: -1
 ClothesSegment: -1
 CogVideoContextOptions: -1
 CogVideoControlImageEncode: -1
@@ -683,6 +688,7 @@ CompositeMotionBrushWithoutModel: 1
 Concat Images (mtb): 3
 ConcatText_Zho: 17
 CondPassThrough: 0
+ConditionExtractionNode: -1
 Conditioning: 1
 Conditioning Input Switch: 2
 ConditioningAverage: 9
@@ -945,6 +951,7 @@ FlipSigmasAdjusted: 1
 Float To Number (mtb): 0
 FloatConstant: 16
 FloatSlider: 4
+FloatToFloatsNode: -1
 FloatToMask: 0
 FloatToSigmas: 0
 FloatingVideo: 15
@@ -1545,6 +1552,7 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTXAddImageGuide: -1
 LTXAttentioOverride: -1
 LTXAttentionBank: -1
 LTXAttnOverride: -1
@@ -1925,6 +1933,7 @@ LoadLatent: 0
 LoadLynxResampler: -1
 LoadResAdapterNormalization: 0
 LoadTXT: 0
+LoadTextFromFileNode: -1
 LoadText|pysssss: 0
 LoadTrainingDataset: -1
 LoadTripoSRModel_: 0
@@ -2123,6 +2132,7 @@ NABLA_AttentionKJ: -1
 NEW_PhotoMaker_Generation: 7
 NLFPredict: -1
 NNLatentUpscale: 17
+NNlLatentUpscale: -1
 NewLayer: 10
 Noise Control Script: 2
 NoiseFromImage+: -1
@@ -2146,10 +2156,16 @@ Number to String: 3
 Number to Text: 5
 NunchakuDepthPreprocessor: -1
 NunchakuFluxDiTLoader: -1
+NunchakuFluxIPAdapterApply: -1
 NunchakuFluxLoraLoader: -1
+NunchakuFluxLoraStack: -1
+NunchakuFluxPuLIDApplyV2: -1
+NunchakuIPAdapterLoader: -1
 NunchakuModelMerger: -1
+NunchakuPuLIDLoaderV2: -1
 NunchakuPulidApply: -1
 NunchakuPulidLoader: -1
+NunchakuQwenImageDiTLoader: -1
 NunchakuTextEncoderLoader: -1
 NunchakuTextEncoderLoaderV2: -1
 NunchakuWheelInstaller: -1
@@ -2200,6 +2216,13 @@ PatchCublasLinear: -1
 PatchModelAddDownscale: 24
 PatchModelPatcherOrder: -1
 PathchSageAttentionKJ: -1
+PerBlockHighLevelNode: -1
+PerBlock_SD15_FromFloatsNode: -1
+PerBlock_SD15_LowLevelNode: -1
+PerBlock_SD15_MidLevelNode: -1
+PerBlock_SDXL_FromFloatsNode: -1
+PerBlock_SDXL_LowLevelNode: -1
+PerBlock_SDXL_MidLevelNode: -1
 PerpNeg: 0
 PerpNegGuider: 0
 PerturbedAttentionGuidance: 6
@@ -2208,6 +2231,8 @@ PhotoMakerAdapter_Loader_local: 2
 PhotoMakerEncode: 3
 PhotoMakerLoader: 3
 PhotoMaker_Generation: 2
+PhotoshopConnection: -1
+PhotoshopToComfyUI: -1
 PiDiNetPreprocessor: 37
 Pick From Batch (mtb): 0
 PikaImageToVideoNode2_2: -1
@@ -2268,6 +2293,8 @@ PrimitiveStringMultiline: -1
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
 PromptImage: 2
+PromptSchedulingLatentsNode: -1
+PromptSchedulingNode: -1
 PromptSimplification: 0
 PromptSlide: 4
 Prompt_Styler: 5
@@ -2357,6 +2384,30 @@ ResizeImageMixlab: 6
 ResizeMask: 4
 Restore Face (mtb): 3
 ReverseImageBatch: 0
+RgthreeAnySwitch: -1
+RgthreeBigContext: -1
+RgthreeContext: -1
+RgthreeContextMerge: -1
+RgthreeContextMergeBig: -1
+RgthreeContextSwitch: -1
+RgthreeContextSwitchBig: -1
+RgthreeDisplayAny: -1
+RgthreeDisplayInt: -1
+RgthreeImageComparer: -1
+RgthreeImageInsetCrop: -1
+RgthreeImageOrLatentSize: -1
+RgthreeImageResize: -1
+RgthreeKSamplerConfig: -1
+RgthreeLoraLoaderStack: -1
+RgthreePowerLoraLoader: -1
+RgthreePowerPrimitive: -1
+RgthreePowerPrompt: -1
+RgthreePowerPromptSimple: -1
+RgthreePowerPuter: -1
+RgthreeSDXLEmptyLatentImage: -1
+RgthreeSDXLPowerPromptPositive: -1
+RgthreeSDXLPowerPromptSimple: -1
+RgthreeSeed: -1
 Rodin3D_Detail: -1
 Rodin3D_Gen2: -1
 Rodin3D_Regular: -1
@@ -2592,6 +2643,7 @@ SelectInputs //Browser: 1
 SelfAttentionGuidance: 38
 SemSegPreprocessor: 25
 Send Images To Photoshop: -1
+SendToPhotoshop: -1
 SeparateMasks: -1
 Sepconv VFI: 2
 Set VAE Decoder Noise: -1
@@ -2699,6 +2751,7 @@ SystemNotification|pysssss: 0
 T5TokenizerOptions: -1
 TCFG: -1
 TEEDPreprocessor: 1
+TEED_Preprocessor: -1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
 TTP_Expand_And_Mask: -1
@@ -2959,6 +3012,8 @@ VHS_VideoInfoSource: 0
 VPScheduler: 0
 VRAM_Debug: 1
 Vae Decode (mtb): 3
+ValueSchedulingLatentsNode: -1
+ValueSchedulingNode: -1
 VariationNoiseDetailerHookProvider: 0
 Veo3FirstLastFrameNode: -1
 Veo3VideoGenerationNode: -1
@@ -2968,6 +3023,10 @@ VibeVoice LoRA: -1
 VibeVoice Load Text From File: -1
 VibeVoice Multiple Speakers: -1
 VibeVoice Single Speaker: -1
+VibeVoiceFreeMemoryNode: -1
+VibeVoiceLoRANode: -1
+VibeVoiceMultipleSpeakersNode: -1
+VibeVoiceSingleSpeakerNode: -1
 Video Dump Frames: 0
 VideoCombine_Adv: 0
 VideoLengthAdjuster: -1
@@ -3092,6 +3151,7 @@ WanVideoTextEmbedBridge: -1
 WanVideoTextEncode: -1
 WanVideoTextEncodeCached: -1
 WanVideoTextEncodeSingle: -1
+WanVideoTextImageEncode: -1
 WanVideoTinyVAELoader: -1
 WanVideoTorchCompileSettings: -1
 WanVideoUni3C_ControlnetLoader: -1
@@ -3240,6 +3300,7 @@ easy imageConcat: 1
 easy imageCount: 0
 easy imageCropFromMask: 0
 easy imageDetailTransfer: 1
+easy imageHSVMask: -1
 easy imageIndexSwitch: -1
 easy imageInsetCrop: 1
 easy imageInterrogator: 2
@@ -3457,6 +3518,7 @@ mini_sd_tag: -1
 mini_story: -1
 mini_summary: -1
 mini_translate: -1
+modelPass: -1
 new_interpreter_tool: -1
 none2false: -1
 omost_decode: -1
