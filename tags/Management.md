@@ -7,7 +7,7 @@
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.8k` | **Created at**: `2025-12-11`
+**Stars**: `2.8k` | **Created at**: `2025-12-12`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features

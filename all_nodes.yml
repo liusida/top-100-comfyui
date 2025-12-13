@@ -1036,6 +1036,7 @@ Gemini_FileUpload_API_S_Zho: 0
 Gemini_File_API_S_Zho: 0
 GenerateFramesByCount: 0
 GenerateNoise: 1
+GenerateTracks: -1
 GeocodeTool: -1
 Get Batch From History (mtb): 0
 Get First Image: 0
@@ -1531,6 +1532,7 @@ KlingCameraControls: -1
 KlingDualCharacterVideoEffectNode: -1
 KlingImage2VideoNode: -1
 KlingImageGenerationNode: -1
+KlingImageToVideoWithAudio: -1
 KlingLipSyncAudioToVideoNode: -1
 KlingLipSyncTextToVideoNode: -1
 KlingOmniProEditVideoNode: -1
@@ -1542,6 +1544,7 @@ KlingOmniProVideoToVideoNode: -1
 KlingSingleImageVideoEffectNode: -1
 KlingStartEndFrameNode: -1
 KlingTextToVideoNode: -1
+KlingTextToVideoWithAudio: -1
 KlingVideoExtendNode: -1
 KlingVirtualTryOnNode: -1
 KolorsSampler: -1
@@ -3054,6 +3057,10 @@ WanHuMoImageToVideo: -1
 WanImageToImageApi: -1
 WanImageToVideo: -1
 WanImageToVideoApi: -1
+WanMoveConcatTrack: -1
+WanMoveTrackToVideo: -1
+WanMoveTracksFromCoords: -1
+WanMoveVisualizeTracks: -1
 WanMove_native: -1
 WanPhantomSubjectToVideo: -1
 WanSoundImageToVideo: -1
