@@ -1052,6 +1052,7 @@ GetLatentRangeFromBatch: -1
 GetLatentSizeAndCount: -1
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
+GetTrackRange: -1
 GetVideoComponents: -1
 GoogleTranslateCLIPTextEncodeNode: 0
 GoogleTranslateTextNode: 0
@@ -2500,6 +2501,7 @@ SamplerLCMUpscale: 0
 SamplerLMS: 0
 SamplerNames_: 0
 SamplerSASolver: -1
+SamplerSEEDS2: -1
 SamplerSelectHelper+: -1
 Samples Passthrough (Stat System): 0
 SamplingPercentToSigma: -1
@@ -2663,6 +2665,7 @@ ShuffleImageBatch: -1
 ShuffleImageTextDataset: -1
 ShufflePreprocessor: 5
 SigmasToFloat: -1
+SimpleCalculatorKJ: -1
 SimpleComparison+: -1
 SimpleCondition+: -1
 SimpleMath+: 29
@@ -3144,10 +3147,13 @@ WanVideoRealisDanceLatents: -1
 WanVideoRoPEFunction: -1
 WanVideoSLG: -1
 WanVideoSampler: -1
+WanVideoSamplerExtraArgs: -1
 WanVideoSamplerFromSettings: -1
 WanVideoSamplerSettings: -1
+WanVideoSamplerv2: -1
 WanVideoScheduler: -1
 WanVideoSchedulerSA_ODE: -1
+WanVideoSchedulerv2: -1
 WanVideoSetBlockSwap: -1
 WanVideoSetLoRAs: -1
 WanVideoSetRadialAttention: -1
