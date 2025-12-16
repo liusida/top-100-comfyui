@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/comfyanonymous/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI
 
-**Stars**: `96.8k` | **Created at**: `2023-01-17` | **Tags**: `Core`
+**Stars**: `96.9k` | **Created at**: `2023-01-17` | **Tags**: `Core`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -335,7 +335,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `908` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `909` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -578,9 +578,9 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (203)</summary>
+<details><summary>Included Nodes (204)</summary>
 
- - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
+ - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
  - <sub>CameraPoseVisualizer</sub>, <sub>CFGZeroStarAndInit</sub>, <sub>CheckpointLoaderKJ</sub>, <sub>CheckpointPerturbWeights</sub>, <sub>[ColorMatch](node_examples/ColorMatch.md)</sub>, <sub>[ColorToMask](node_examples/ColorToMask.md)</sub>, <sub>ConditioningMultiCombine</sub>, <sub>ConditioningSetMaskAndCombine</sub>, <sub>ConditioningSetMaskAndCombine3</sub>, <sub>ConditioningSetMaskAndCombine4</sub>, <sub>ConditioningSetMaskAndCombine5</sub>, <sub>CondPassThrough</sub>, <sub>ConsolidateMasksKJ</sub>, <sub>CreateAudioMask</sub>, <sub>[CreateFadeMask](node_examples/CreateFadeMask.md)</sub>, <sub>[CreateFadeMaskAdvanced](node_examples/CreateFadeMaskAdvanced.md)</sub>, <sub>CreateFluidMask</sub>, <sub>CreateGradientFromCoords</sub>, <sub>[CreateGradientMask](node_examples/CreateGradientMask.md)</sub>, <sub>[CreateInstanceDiffusionTracking](node_examples/CreateInstanceDiffusionTracking.md)</sub>, <sub>CreateMagicMask</sub>, <sub>CreateShapeImageOnPath</sub>, <sub>[CreateShapeMask](node_examples/CreateShapeMask.md)</sub>, <sub>[CreateShapeMaskOnPath](node_examples/CreateShapeMaskOnPath.md)</sub>, <sub>[CreateTextMask](node_examples/CreateTextMask.md)</sub>, <sub>CreateTextOnPath</sub>, <sub>CreateVoronoiMask</sub>, <sub>CrossFadeImages</sub>, <sub>CrossFadeImagesMulti</sub>, <sub>CustomControlNetWeightsFluxFromList</sub>, <sub>[CustomSigmas](node_examples/CustomSigmas.md)</sub>, <sub>CutAndDragOnPath</sub>
  - <sub>DifferentialDiffusionAdvanced</sub>, <sub>DiffusionModelLoaderKJ</sub>, <sub>DiffusionModelSelector</sub>, <sub>DiTBlockLoraLoader</sub>, <sub>DownloadAndLoadCLIPSeg</sub>, <sub>DrawInstanceDiffusionTracking</sub>, <sub>DrawMaskOnImage</sub>, <sub>DummyOut</sub>
@@ -957,7 +957,7 @@ A Photoshop AI plugin
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `933` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `934` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1013,7 +1013,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/cubiq/PuLID_ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/PuLID_ComfyUI
 
-**Stars**: `902` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
+**Stars**: `903` | **Created at**: `2024-05-08` | **Tags**: `Custom Nodes`
 
 
 PuLID native implementation for ComfyUI
@@ -1061,7 +1061,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `904` | **Created at**: `2024-05-11`
+**Stars**: `905` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1325,7 +1325,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/Jonseed/ComfyUI-Detail-Daemon'>
 <img src="https://avatars.githubusercontent.com/u/40897189?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Jonseed/ComfyUI-Detail-Daemon
 
-**Stars**: `880` | **Created at**: `2024-10-25`
+**Stars**: `882` | **Created at**: `2024-10-25`
 
 
 A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.
@@ -1343,7 +1343,7 @@ A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust si
 <a href='https://github.com/nunchaku-tech/nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-tech/nunchaku
 
-**Stars**: `3.4k` | **Created at**: `2024-11-06`
+**Stars**: `3.5k` | **Created at**: `2024-11-06`
 
 
 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -1474,7 +1474,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `923` | **Created at**: `2025-01-21`
+**Stars**: `925` | **Created at**: `2025-01-21`
 
 
 None
@@ -1512,7 +1512,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `5.5k` | **Created at**: `2025-02-25`
+**Stars**: `5.6k` | **Created at**: `2025-02-25`
 
 
 None

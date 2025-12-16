@@ -195,6 +195,7 @@ AddLabel: 2
 AddLatentGuide: -1
 AddMask: 4
 AddNoise: 0
+AddNoiseToTrackPath: -1
 AddValuesReplaceNode: -1
 AdvancedLivePortrait: -1
 AiLab_ImagePreview: -1
