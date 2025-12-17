@@ -3090,6 +3090,8 @@ WanVideoAddOneToAllReferenceEmbeds: -1
 WanVideoAddOviAudioToLatents: -1
 WanVideoAddPusaNoise: -1
 WanVideoAddS2VEmbeds: -1
+WanVideoAddSCAILPoseEmbeds: -1
+WanVideoAddSCAILReferenceEmbeds: -1
 WanVideoAddStandInLatent: -1
 WanVideoAddSteadyDancerEmbeds: -1
 WanVideoAddTTMLatents: -1
@@ -3213,6 +3215,7 @@ XyzPlot //Browser: 1
 Yoloworld_ESAM_DetectorProvider_Zho: 0
 Yoloworld_ESAM_Zho: 19
 Yoloworld_ModelLoader_Zho: 20
+ZImageFunControlnet: -1
 Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
 accuweather_tool: -1
