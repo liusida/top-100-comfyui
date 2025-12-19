@@ -1936,6 +1936,7 @@ LoadImagesFromURL: 4
 LoadImagesToBatch: 0
 LoadLatent: 0
 LoadLynxResampler: -1
+LoadNLFModel: -1
 LoadResAdapterNormalization: 0
 LoadTXT: 0
 LoadTextFromFileNode: -1
@@ -2387,6 +2388,7 @@ RescaleCFG: 19
 ResizeAndPadImage: -1
 ResizeImageMixlab: 6
 ResizeMask: 4
+ResolutionBucket: -1
 Restore Face (mtb): 3
 ReverseImageBatch: 0
 RgthreeAnySwitch: -1
