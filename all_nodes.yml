@@ -898,6 +898,7 @@ EmptyLatentImage: 93
 EmptyLatentImageCustomPresets: -1
 EmptyLatentImagePresets: 0
 EmptyMochiLatentVideo: -1
+EmptyQwenImageLayeredLatentImage: -1
 EmptySD3LatentImage: 0
 EmptySegs: 0
 EndRecordCUDAMemoryHistory: -1
@@ -1619,6 +1620,7 @@ LatentCompositeMasked: 10
 LatentConcat: -1
 LatentCrop: 1
 LatentCut: -1
+LatentCutToBatch: -1
 LatentDelay: 0
 LatentFlip: 0
 LatentFromBatch: 17
@@ -2965,6 +2967,7 @@ VAEDecode: 96
 VAEDecodeAudio: -1
 VAEDecodeConsistencyDecoder: 1
 VAEDecodeHunyuan3D: -1
+VAEDecodeLoopKJ: -1
 VAEDecodeTiled: 64
 VAEDecode_party: -1
 VAEEncode: 92
