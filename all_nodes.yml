@@ -3133,6 +3133,7 @@ WanVideoImageResizeToClosest: -1
 WanVideoImageToVideoEncode: -1
 WanVideoImageToVideoMultiTalk: -1
 WanVideoLatentReScale: -1
+WanVideoLongCatAvatarExtendEmbeds: -1
 WanVideoLoopArgs: -1
 WanVideoLoraBlockEdit: -1
 WanVideoLoraSelect: -1
