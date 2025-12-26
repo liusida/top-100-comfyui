@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `7.1k` | **Created at**: `2025-12-24`
+**Stars**: `7.1k` | **Created at**: `2025-12-25`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
