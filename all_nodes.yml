@@ -2001,6 +2001,7 @@ Make Interpolation State List: 0
 MakeTrainingDataset: -1
 Manga2Anime_LineArt_Preprocessor: 5
 Manual XY Entry Info: 0
+ManualSigmas: -1
 MarigoldDepthEstimation: 4
 MarigoldDepthEstimationVideo: 2
 MarigoldDepthEstimation_v2: 2
@@ -3099,6 +3100,7 @@ WanVideoAddSCAILPoseEmbeds: -1
 WanVideoAddSCAILReferenceEmbeds: -1
 WanVideoAddStandInLatent: -1
 WanVideoAddSteadyDancerEmbeds: -1
+WanVideoAddStoryMemLatents: -1
 WanVideoAddTTMLatents: -1
 WanVideoAddWanMoveTracks: -1
 WanVideoAnimateEmbeds: -1
