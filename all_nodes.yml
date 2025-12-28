@@ -1538,6 +1538,7 @@ KlingImageGenerationNode: -1
 KlingImageToVideoWithAudio: -1
 KlingLipSyncAudioToVideoNode: -1
 KlingLipSyncTextToVideoNode: -1
+KlingMotionControl: -1
 KlingOmniProEditVideoNode: -1
 KlingOmniProFirstLastFrameNode: -1
 KlingOmniProImageNode: -1
@@ -2178,6 +2179,7 @@ NunchakuQwenImageDiTLoader: -1
 NunchakuTextEncoderLoader: -1
 NunchakuTextEncoderLoaderV2: -1
 NunchakuWheelInstaller: -1
+NunchakuZImageDiTLoader: -1
 ONNXDetectorProvider: 2
 ONNXDetectorSEGS: 0
 OffsetMask: 0
@@ -3157,6 +3159,7 @@ WanVideoReCamMasterGenerateOrbitCamera: -1
 WanVideoRealisDanceLatents: -1
 WanVideoRoPEFunction: -1
 WanVideoSLG: -1
+WanVideoSVIProEmbeds: -1
 WanVideoSampler: -1
 WanVideoSamplerExtraArgs: -1
 WanVideoSamplerFromSettings: -1
