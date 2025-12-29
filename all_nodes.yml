@@ -3069,6 +3069,7 @@ WanHuMoImageToVideo: -1
 WanImageToImageApi: -1
 WanImageToVideo: -1
 WanImageToVideoApi: -1
+WanImageToVideoSVIPro: -1
 WanMoveConcatTrack: -1
 WanMoveTrackToVideo: -1
 WanMoveTracksFromCoords: -1
