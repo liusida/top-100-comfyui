@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `3.7k` | **Created at**: `2025-12-29`
+**Stars**: `3.7k` | **Created at**: `2025-12-30`
 
 
 Examples of ComfyUI workflows
@@ -40,7 +40,7 @@ Some awesome comfyui workflows in here, and they are built using the comfyui-eas
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.4k` | **Created at**: `2025-12-06`
+**Stars**: `1.4k` | **Created at**: `2025-12-30`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy

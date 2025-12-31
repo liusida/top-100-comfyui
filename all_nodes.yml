@@ -3183,6 +3183,7 @@ WanVideoTextEncodeSingle: -1
 WanVideoTextImageEncode: -1
 WanVideoTinyVAELoader: -1
 WanVideoTorchCompileSettings: -1
+WanVideoUltraVicoSettings: -1
 WanVideoUni3C_ControlnetLoader: -1
 WanVideoUni3C_embeds: -1
 WanVideoUniAnimateDWPoseDetector: -1
