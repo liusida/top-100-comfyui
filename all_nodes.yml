@@ -292,6 +292,10 @@ BatchCLIPSeg: 1
 BatchCount+: 4
 BatchCropFromMask: 2
 BatchCropFromMaskAdvanced: 0
+BatchImagesMasksLatentsNode: -1
+BatchImagesNode: -1
+BatchLatentsNode: -1
+BatchMasksNode: -1
 BatchUncrop: 1
 BatchUncropAdvanced: 0
 Bbox (mtb): 0
@@ -652,12 +656,14 @@ CombineInput: 0
 CombineRegionalPrompts: 12
 CombineVideos: -1
 Combine_Videos_party: -1
+ComboOptionTestNode: -1
 ComfyDeployOutputEXR: -1
 ComfyDeployOutputFile: -1
 ComfyDeployOutputImage: -1
 ComfyDeployOutputText: -1
 ComfyDeployWebscoketImageInput: 0
 ComfyDeployWebscoketImageOutput: 0
+ComfySoftSwitchNode: -1
 ComfySwitchNode: -1
 ComfyUIDeployExternalAudio: -1
 ComfyUIDeployExternalBoolean: 0
@@ -728,6 +734,7 @@ ControlNetLoader: 80
 ControlNetLoaderAdvanced: 99
 ControlNetPreprocessorSelector: 0
 Convert Masks to Images: 11
+ConvertStringToComboNode: -1
 CoreMLDetailerHookProvider: 1
 CosmosImageToVideoLatent: -1
 CosmosPredict2ImageToVideoLatent: -1
@@ -766,6 +773,7 @@ Crop (mtb): 0
 CropMask: 0
 CrossFadeImages: 0
 CrossFadeImagesMulti: -1
+CustomCombo: -1
 CustomControlNetWeights: 0
 CustomControlNetWeightsFluxFromList: -1
 CustomNoiseDetailerHookProvider: 0
@@ -1493,6 +1501,7 @@ Integer place counter: 0
 Interpolate Clip Sequential (mtb): 0
 InterpolateCoords: 0
 Intrinsic_lora_sampling: 0
+InvertBooleanNode: -1
 InvertMask: 97
 InvertMask (segment anything): 5
 Ipadapter_instantidLoader: 13
@@ -2391,6 +2400,7 @@ ReplaceVideoLatentFrames: -1
 ReroutePrimitive|pysssss: 5
 RescaleCFG: 19
 ResizeAndPadImage: -1
+ResizeImageMaskNode: -1
 ResizeImageMixlab: 6
 ResizeMask: 4
 ResolutionBucket: -1
@@ -3448,10 +3458,15 @@ easy showAnythingLazy: -1
 easy showLoaderSettingsNames: 0
 easy showSpentTime: 0
 easy showTensorShape: 0
+easy simpleMath: -1
+easy simpleMathDual: -1
 easy sleep: -1
 easy sliderControl: -1
 easy stableDiffusion3API: 1
 easy string: 0
+easy stringJoinLines: -1
+easy stringToFloatList: -1
+easy stringToIntList: -1
 easy styleAlignedBatchAlign: 1
 easy stylesSelector: 3
 easy sv3dLoader: 0
