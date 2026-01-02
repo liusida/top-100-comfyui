@@ -452,7 +452,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `985` | **Created at**: `2023-08-22` | **Tags**: `Integration`
+**Stars**: `986` | **Created at**: `2023-08-22` | **Tags**: `Integration`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
@@ -958,7 +958,7 @@ A Photoshop AI plugin
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `935` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `934` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1045,7 +1045,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `924` | **Created at**: `2024-05-11`
+**Stars**: `925` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1232,7 +1232,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.0k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
+**Stars**: `3.1k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -1309,7 +1309,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/Jonseed/ComfyUI-Detail-Daemon'>
 <img src="https://avatars.githubusercontent.com/u/40897189?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Jonseed/ComfyUI-Detail-Daemon
 
-**Stars**: `905` | **Created at**: `2024-10-25`
+**Stars**: `909` | **Created at**: `2024-10-25`
 
 
 A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.
@@ -1407,7 +1407,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `922` | **Created at**: `2025-01-01`
+**Stars**: `923` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1441,7 +1441,7 @@ None
 <a href='https://github.com/Gourieff/ComfyUI-ReActor'>
 <img src="https://avatars.githubusercontent.com/u/85128026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Gourieff/ComfyUI-ReActor
 
-**Stars**: `999` | **Created at**: `2025-01-17`
+**Stars**: `1.0k` | **Created at**: `2025-01-17`
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
@@ -1573,7 +1573,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/yawiii/ComfyUI-Prompt-Assistant'>
 <img src="https://avatars.githubusercontent.com/u/82788731?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yawiii/ComfyUI-Prompt-Assistant
 
-**Stars**: `1.2k` | **Created at**: `2025-06-06`
+**Stars**: `1.3k` | **Created at**: `2025-06-06`
 
 
 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
@@ -1617,7 +1617,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `926` | **Created at**: `2025-11-07`
+**Stars**: `945` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
