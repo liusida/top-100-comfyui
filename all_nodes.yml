@@ -169,20 +169,26 @@ AILab_ImageCompare: -1
 AILab_ImageCrop: -1
 AILab_ImageMaskConvert: -1
 AILab_ImageMaskResize: -1
+AILab_ImageMaskToList: -1
 AILab_ImagePreview: -1
+AILab_ImageResize: -1
 AILab_ImageStitch: -1
+AILab_ImageToList: -1
 AILab_LamaRemover: -1
 AILab_LoadImage: -1
 AILab_LoadImageAdvanced: -1
+AILab_LoadImageBatch: -1
 AILab_LoadImageSimple: -1
 AILab_MaskCombiner: -1
 AILab_MaskEnhancer: -1
 AILab_MaskExtractor: -1
 AILab_MaskOverlay: -1
 AILab_MaskPreview: -1
+AILab_MaskToList: -1
 AILab_Preview: -1
 AILab_ReferenceLatentMask: -1
 AILab_SDMatte: -1
+AILab_UnbatchImages: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APG: -1
