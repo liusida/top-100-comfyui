@@ -18,7 +18,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `7.2k` | **Created at**: `2026-01-05`
+**Stars**: `7.2k` | **Created at**: `2026-01-06`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -29,7 +29,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.2k` | **Created at**: `2026-01-05`
+**Stars**: `7.2k` | **Created at**: `2026-01-06`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -40,7 +40,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `3.5k` | **Created at**: `2026-01-05`
+**Stars**: `3.5k` | **Created at**: `2026-01-06`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -51,7 +51,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.4k` | **Created at**: `2026-01-05`
+**Stars**: `2.4k` | **Created at**: `2026-01-06`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -62,7 +62,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/pydn/ComfyUI-to-Python-Extension'>
 <img src="https://avatars.githubusercontent.com/u/25550995?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pydn/ComfyUI-to-Python-Extension
 
-**Stars**: `2.2k` | **Created at**: `2026-01-05`
+**Stars**: `2.2k` | **Created at**: `2026-01-06`
 
 
 A powerful tool that translates ComfyUI workflows into executable Python code.
@@ -73,7 +73,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.0k` | **Created at**: `2026-01-04`
+**Stars**: `2.0k` | **Created at**: `2026-01-06`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.5k` | **Created at**: `2026-01-04`
+**Stars**: `1.5k` | **Created at**: `2026-01-06`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -131,7 +131,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `988` | **Created at**: `2026-01-05`
+**Stars**: `989` | **Created at**: `2026-01-06`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 

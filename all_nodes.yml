@@ -876,6 +876,7 @@ DynamiCrafterControlnetApply: -1
 DynamiCrafterI2V: 2
 DynamiCrafterLoadInitNoise: -1
 DynamiCrafterModelLoader: 1
+DynamicConditioning: -1
 DynamicDelayProcessor: 2
 DynamicThresholdingFull: 1
 DynamicThresholdingSimple: 3
@@ -1083,6 +1084,7 @@ GroupChat: 2
 GrowMask: 56
 GrowMaskWithBlur: 49
 GuidanceTimestepping+: -1
+GuiderParameters: -1
 HEDPreprocessor: 58
 HSL to Hex: -1
 Hex to HSL: -1
@@ -1574,6 +1576,7 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTXAVTextEncoderLoader: -1
 LTXAddImageGuide: -1
 LTXAttentioOverride: -1
 LTXAttentionBank: -1
@@ -1591,19 +1594,32 @@ LTXReverseModelSamplingPred: -1
 LTXVAdainLatent: -1
 LTXVAddGuide: -1
 LTXVAddGuideAdvanced: -1
+LTXVAddLatentGuide: -1
 LTXVApplySTG: -1
+LTXVAudioVAEDecode: -1
+LTXVAudioVAEEncode: -1
+LTXVAudioVAELoader: -1
 LTXVBaseSampler: -1
+LTXVConcatAVLatent: -1
 LTXVConditioning: -1
 LTXVCropGuides: -1
+LTXVEmptyLatentAudio: -1
 LTXVExtendSampler: -1
 LTXVFilmGrain: -1
+LTXVGemmaCLIPModelLoader: -1
+LTXVGemmaCLIPModelLoaderMGPU: -1
+LTXVGemmaEnhancePrompt: -1
 LTXVImgToVideo: -1
+LTXVImgToVideoConditionOnly: -1
+LTXVImgToVideoInplace: -1
 LTXVInContextSampler: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoopingSampler: -1
 LTXVMultiPromptProvider: -1
 LTXVPatcherVAE: -1
+LTXVPerStepAdainPatcher: -1
+LTXVPerStepStatNormPatcher: -1
 LTXVPreprocess: -1
 LTXVPreprocessMasks: -1
 LTXVPromptEnhancer: -1
@@ -1613,7 +1629,9 @@ LTXVQ8Patch: -1
 LTXVRecurrentKSampler: -1
 LTXVScheduler: -1
 LTXVSelectLatents: -1
+LTXVSeparateAVLatent: -1
 LTXVSetVideoLatentNoiseMasks: -1
+LTXVStatNormLatent: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
 LamaRemoverDetailerHookProvider: -1
@@ -1993,6 +2011,9 @@ LorasForFluxParams+: -1
 Lorebook: -1
 LossGraphNode: -1
 LotusConditioning: -1
+LowVRAMAudioVAELoader: -1
+LowVRAMCheckpointLoader: -1
+LowVRAMLatentUpscaleModelLoader: -1
 LtxvApiImageToVideo: -1
 LtxvApiTextToVideo: -1
 LumaConceptsNode: -1
@@ -2151,6 +2172,7 @@ MultiPrimitive|pysssss: 0
 MultiTalkModelLoader: -1
 MultiTalkSilentEmbeds: -1
 MultiTalkWav2VecEmbeds: -1
+MultimodalGuider: -1
 MultiplicationNode: 0
 MultiplySigmas: -1
 NABLA_AttentionKJ: -1
@@ -3103,6 +3125,7 @@ WanVideoATITracksVisualize: -1
 WanVideoATI_comfy: -1
 WanVideoAddBindweaveEmbeds: -1
 WanVideoAddControlEmbeds: -1
+WanVideoAddDualControlEmbeds: -1
 WanVideoAddExtraLatent: -1
 WanVideoAddFantasyPortrait: -1
 WanVideoAddFlashVSRInput: -1
