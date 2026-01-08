@@ -1604,6 +1604,7 @@ LTXVConcatAVLatent: -1
 LTXVConditioning: -1
 LTXVCropGuides: -1
 LTXVEmptyLatentAudio: -1
+LTXVEnhanceAVideoKJ: -1
 LTXVExtendSampler: -1
 LTXVFilmGrain: -1
 LTXVGemmaCLIPModelLoader: -1
@@ -1736,6 +1737,7 @@ LatentUpscaler: 0
 'LayerMask: MaskEdgeShrink': 1
 'LayerMask: MaskEdgeUltraDetail': 2
 'LayerMask: MaskEdgeUltraDetail V2': 4
+'LayerMask: MaskEdgeUltraDetail V3': -1
 'LayerMask: MaskGradient': 5
 'LayerMask: MaskGrain': 0
 'LayerMask: MaskGrow': 2
@@ -3091,6 +3093,7 @@ ViduStartEndToVideoNode: -1
 ViduTextToVideoNode: -1
 VisualizeCUDAMemoryHistory: -1
 VisualizeLoss: -1
+VisualizeSigmasKJ: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
