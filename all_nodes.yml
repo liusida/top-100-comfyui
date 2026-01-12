@@ -1576,6 +1576,7 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTX2_NAG: -1
 LTXAVTextEncoderLoader: -1
 LTXAddImageGuide: -1
 LTXAttentioOverride: -1
@@ -1830,6 +1831,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageAutoCrop': 1
 'LayerUtility: ImageAutoCrop V2': 0
 'LayerUtility: ImageAutoCrop V3': -1
+'LayerUtility: ImageBatchToList': -1
 'LayerUtility: ImageBlend': 11
 'LayerUtility: ImageBlend V2': 3
 'LayerUtility: ImageBlendAdvance': 15
@@ -1840,6 +1842,7 @@ LatentUpscaler: 0
 'LayerUtility: ImageCombineAlpha': 3
 'LayerUtility: ImageCompositeHandleMask': -1
 'LayerUtility: ImageHub': 2
+'LayerUtility: ImageListToBatch': -1
 'LayerUtility: ImageMaskScaleAs': 5
 'LayerUtility: ImageMaskScaleAsV2': -1
 'LayerUtility: ImageOpacity': 1
@@ -3448,6 +3451,7 @@ easy mathFloat: -1
 easy mathInt: -1
 easy mathString: -1
 easy mochiLoader: -1
+easy multiAngle: -1
 easy negative: 1
 easy ominiControlApply: -1
 easy outputToList: -1
