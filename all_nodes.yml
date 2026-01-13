@@ -1604,6 +1604,7 @@ LTXVAudioVAEEncode: -1
 LTXVAudioVAELoader: -1
 LTXVAudioVideoMask: -1
 LTXVBaseSampler: -1
+LTXVChunkFeedForward: -1
 LTXVConcatAVLatent: -1
 LTXVConditioning: -1
 LTXVCropGuides: -1
