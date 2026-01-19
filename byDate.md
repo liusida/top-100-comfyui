@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `100.5k` | **Created at**: `2023-01-17`
+**Stars**: `100.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -551,7 +551,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (214)</summary>
+<details><summary>Included Nodes (217)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -563,7 +563,7 @@ Various custom nodes for ComfyUI
  - <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchExtendWithOverlap</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>, <sub>Intrinsic_lora_sampling</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
- - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>
+ - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
@@ -806,9 +806,9 @@ Unofficial implementation of InstantID for ComfyUI
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
-<details><summary>Included Nodes (9)</summary>
+<details><summary>Included Nodes (10)</summary>
 
- - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
+ - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
 </details>
 
 
@@ -930,7 +930,7 @@ A Photoshop AI plugin
 <a href='https://github.com/nullquant/ComfyUI-BrushNet'>
 <img src="https://avatars.githubusercontent.com/u/81931994?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nullquant/ComfyUI-BrushNet
 
-**Stars**: `934` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
+**Stars**: `935` | **Created at**: `2024-04-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI BrushNet nodes
@@ -1017,7 +1017,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `941` | **Created at**: `2024-05-11`
+**Stars**: `942` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1314,9 +1314,9 @@ A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust si
 
 
 A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.
-<details><summary>Included Nodes (38)</summary>
+<details><summary>Included Nodes (43)</summary>
 
- - <sub>AILab_ColorInput</sub>, <sub>AILab_CropObject</sub>, <sub>AILab_ICLoRAConcat</sub>, <sub>AILab_ImageCombiner</sub>, <sub>AILab_ImageCompare</sub>, <sub>AILab_ImageCrop</sub>, <sub>AILab_ImageMaskConvert</sub>, <sub>AILab_ImageMaskToList</sub>, <sub>AILab_ImagePreview</sub>, <sub>AILab_ImageResize</sub>, <sub>AILab_ImageStitch</sub>, <sub>AILab_ImageToList</sub>, <sub>AILab_LamaRemover</sub>, <sub>AILab_LoadImage</sub>, <sub>AILab_LoadImageAdvanced</sub>, <sub>AILab_LoadImageBatch</sub>, <sub>AILab_LoadImageSimple</sub>, <sub>AILab_MaskCombiner</sub>, <sub>AILab_MaskEnhancer</sub>, <sub>AILab_MaskExtractor</sub>, <sub>AILab_MaskOverlay</sub>, <sub>AILab_MaskPreview</sub>, <sub>AILab_MaskToList</sub>, <sub>AILab_Preview</sub>, <sub>AILab_ReferenceLatentMask</sub>, <sub>AILab_SDMatte</sub>, <sub>AILab_UnbatchImages</sub>
+ - <sub>AILab_ColorInput</sub>, <sub>AILab_ColorToMask</sub>, <sub>AILab_CropObject</sub>, <sub>AILab_Florence2</sub>, <sub>AILab_Florence2ToCoordinates</sub>, <sub>AILab_ICLoRAConcat</sub>, <sub>AILab_ImageCombiner</sub>, <sub>AILab_ImageCompare</sub>, <sub>AILab_ImageCrop</sub>, <sub>AILab_ImageMaskConvert</sub>, <sub>AILab_ImageMaskToList</sub>, <sub>AILab_ImagePreview</sub>, <sub>AILab_ImageResize</sub>, <sub>AILab_ImageStitch</sub>, <sub>AILab_ImageToList</sub>, <sub>AILab_LamaRemover</sub>, <sub>AILab_LoadImage</sub>, <sub>AILab_LoadImageAdvanced</sub>, <sub>AILab_LoadImageBatch</sub>, <sub>AILab_LoadImageSimple</sub>, <sub>AILab_MaskCombiner</sub>, <sub>AILab_MaskEnhancer</sub>, <sub>AILab_MaskExtractor</sub>, <sub>AILab_MaskOverlay</sub>, <sub>AILab_MaskPreview</sub>, <sub>AILab_MaskToList</sub>, <sub>AILab_Preview</sub>, <sub>AILab_ReferenceLatentMask</sub>, <sub>AILab_SDMatte</sub>, <sub>AILab_UnbatchImages</sub>, <sub>AILab_YoloV8</sub>, <sub>AILab_YoloV8Adv</sub>
  - <sub>BiRefNetRMBG</sub>, <sub>BodySegment</sub>
  - <sub>ClothesSegment</sub>
  - <sub>FaceSegment</sub>, <sub>FashionSegmentAccessories</sub>, <sub>FashionSegmentClothing</sub>
@@ -1335,13 +1335,13 @@ A ComfyUI custom node designed for advanced image background removal and object,
 
 
 LTX-Video Support for ComfyUI
-<details><summary>Included Nodes (52)</summary>
+<details><summary>Included Nodes (53)</summary>
 
  - <sub>AddLatentGuide</sub>
  - <sub>DynamicConditioning</sub>
  - <sub>GuiderParameters</sub>
  - <sub>ImageToCPU</sub>
- - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddImageGuide</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVAddLatentGuide</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPerStepAdainPatcher</sub>, <sub>LTXVPerStepStatNormPatcher</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVStatNormLatent</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>
+ - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddImageGuide</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVAddLatentGuide</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVNormalizingSampler</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPerStepAdainPatcher</sub>, <sub>LTXVPerStepStatNormPatcher</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVStatNormLatent</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>
  - <sub>ModifyLTXModel</sub>, <sub>MultimodalGuider</sub>
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
@@ -1459,7 +1459,7 @@ Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait 
 <a href='https://github.com/AIDC-AI/ComfyUI-Copilot'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/ComfyUI-Copilot
 
-**Stars**: `4.3k` | **Created at**: `2025-02-14`
+**Stars**: `4.4k` | **Created at**: `2025-02-14`
 
 
 An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance

@@ -162,7 +162,10 @@ ADE_VisualizeContextOptionsK: -1
 ADE_VisualizeContextOptionsKAdv: -1
 ADE_VisualizeContextOptionsSCustom: -1
 AILab_ColorInput: -1
+AILab_ColorToMask: -1
 AILab_CropObject: -1
+AILab_Florence2: -1
+AILab_Florence2ToCoordinates: -1
 AILab_ICLoRAConcat: -1
 AILab_ImageCombiner: -1
 AILab_ImageCompare: -1
@@ -189,6 +192,8 @@ AILab_Preview: -1
 AILab_ReferenceLatentMask: -1
 AILab_SDMatte: -1
 AILab_UnbatchImages: -1
+AILab_YoloV8: -1
+AILab_YoloV8Adv: -1
 AIO_Preprocessor: 54
 AMT VFI: 2
 APG: -1
@@ -1167,6 +1172,7 @@ INPAINT_LoadFooocusInpaint: 20
 INPAINT_LoadInpaintModel: 7
 INPAINT_MaskedBlur: 11
 INPAINT_MaskedFill: 11
+INPAINT_ShrinkMask: -1
 INPAINT_VAEEncodeInpaintConditioning: 15
 INTConstant: 28
 IPAAdapterFaceIDBatch: 0
@@ -1576,6 +1582,8 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTX2AudioLatentNormalizingSampling: -1
+LTX2SamplingPreviewOverride: -1
 LTX2_NAG: -1
 LTXAVTextEncoderLoader: -1
 LTXAddImageGuide: -1
@@ -1618,11 +1626,13 @@ LTXVGemmaEnhancePrompt: -1
 LTXVImgToVideo: -1
 LTXVImgToVideoConditionOnly: -1
 LTXVImgToVideoInplace: -1
+LTXVImgToVideoInplaceKJ: -1
 LTXVInContextSampler: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoopingSampler: -1
 LTXVMultiPromptProvider: -1
+LTXVNormalizingSampler: -1
 LTXVPatcherVAE: -1
 LTXVPerStepAdainPatcher: -1
 LTXVPerStepStatNormPatcher: -1
