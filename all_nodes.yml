@@ -1173,6 +1173,7 @@ INPAINT_LoadInpaintModel: 7
 INPAINT_MaskedBlur: 11
 INPAINT_MaskedFill: 11
 INPAINT_ShrinkMask: -1
+INPAINT_StabilizeMask: -1
 INPAINT_VAEEncodeInpaintConditioning: 15
 INTConstant: 28
 IPAAdapterFaceIDBatch: 0
@@ -1651,6 +1652,11 @@ LTXVStatNormLatent: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
 LamaRemoverDetailerHookProvider: -1
+LanPaint_KSampler: -1
+LanPaint_KSamplerAdvanced: -1
+LanPaint_MaskBlend: -1
+LanPaint_SamplerCustom: -1
+LanPaint_SamplerCustomAdvanced: -1
 LandmarksToImage: -1
 LaplaceScheduler: -1
 Latent Batch: 0
