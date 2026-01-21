@@ -1583,6 +1583,7 @@ LLM_local: -1
 LLM_local_loader: -1
 LLavaLoader: -1
 LM_Studio: 4
+LTX2AttentionTunerPatch: -1
 LTX2AudioLatentNormalizingSampling: -1
 LTX2SamplingPreviewOverride: -1
 LTX2_NAG: -1
@@ -2153,6 +2154,7 @@ Model Input Switch: 0
 Model Patch Seamless (mtb): 3
 ModelCompile+: 0
 ModelComputeDtype: -1
+ModelMemoryUseReportPatch: -1
 ModelMergeAdd: 0
 ModelMergeAuraflow: -1
 ModelMergeBlocks: 1
