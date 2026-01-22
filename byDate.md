@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `100.9k` | **Created at**: `2023-01-17`
+**Stars**: `101.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1001,7 +1001,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `945` | **Created at**: `2024-05-11`
+**Stars**: `946` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1248,6 +1248,23 @@ None
 </details>
 
 
+## TTPlanetPig/Comfyui_TTP_Toolset
+
+
+<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
+<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+
+**Stars**: `917` | **Created at**: `2024-08-17`
+
+
+for tile the image for advanced control or modification 
+<details><summary>Included Nodes (14)</summary>
+
+ - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
+ - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
+</details>
+
+
 ## 16131zzzzzzzz/EveryoneNobel
 
 
@@ -1258,24 +1275,6 @@ None
 
 
 A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
-
-## Jonseed/ComfyUI-Detail-Daemon
-
-
-<a href='https://github.com/Jonseed/ComfyUI-Detail-Daemon'>
-<img src="https://avatars.githubusercontent.com/u/40897189?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Jonseed/ComfyUI-Detail-Daemon
-
-**Stars**: `917` | **Created at**: `2024-10-25`
-
-
-A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.
-<details><summary>Included Nodes (4)</summary>
-
- - <sub>DetailDaemonGraphSigmasNode</sub>, <sub>DetailDaemonSamplerNode</sub>
- - <sub>LyingSigmaSampler</sub>
- - <sub>MultiplySigmas</sub>
-</details>
-
 
 ## nunchaku-ai/nunchaku
 
@@ -1365,7 +1364,7 @@ None
 <a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
 <img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
 
-**Stars**: `928` | **Created at**: `2025-01-01`
+**Stars**: `929` | **Created at**: `2025-01-01`
 
 
 This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
@@ -1416,7 +1415,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `940` | **Created at**: `2025-01-21`
+**Stars**: `942` | **Created at**: `2025-01-21`
 
 
 None
@@ -1482,7 +1481,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `919` | **Created at**: `2025-02-27`
+**Stars**: `924` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1586,7 +1585,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `1.7k` | **Created at**: `2025-11-07`
+**Stars**: `1.9k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine

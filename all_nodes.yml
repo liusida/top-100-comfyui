@@ -1617,11 +1617,13 @@ LTXVBaseSampler: -1
 LTXVChunkFeedForward: -1
 LTXVConcatAVLatent: -1
 LTXVConditioning: -1
+LTXVContext_TTP: -1
 LTXVCropGuides: -1
 LTXVEmptyLatentAudio: -1
 LTXVEnhanceAVideoKJ: -1
 LTXVExtendSampler: -1
 LTXVFilmGrain: -1
+LTXVFirstLastFrameControl_TTP: -1
 LTXVGemmaCLIPModelLoader: -1
 LTXVGemmaCLIPModelLoaderMGPU: -1
 LTXVGemmaEnhancePrompt: -1
@@ -1633,6 +1635,7 @@ LTXVInContextSampler: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoopingSampler: -1
+LTXVMiddleFrame_TTP: -1
 LTXVMultiPromptProvider: -1
 LTXVNormalizingSampler: -1
 LTXVPatcherVAE: -1
@@ -2835,12 +2838,21 @@ TEEDPreprocessor: 1
 TEED_Preprocessor: -1
 TESTNODE_: 0
 TESTNODE_TOKEN: 0
+TTP_CoordinateSplitter: -1
 TTP_Expand_And_Mask: -1
+TTP_Image_Assy: -1
+TTP_Image_Tile_Batch: -1
+TTP_Tile_image_size: -1
+TTP_condsetarea_merge: -1
+TTP_condsetarea_merge_test: -1
+TTP_condtobatch: -1
 TTP_text_mix: -1
 TTPlanet_TileGF_Preprocessor: 0
 TTPlanet_TileSimple_Preprocessor: 0
+TTPlanet_Tile_Preprocessor_Simple: -1
 TeaCache: -1
 TeaCacheForCogVideoX: -1
+TeaCacheHunyuanVideoSampler: -1
 TemporalScoreRescaling: -1
 Tensor Batch to Image: 0
 TensorRTLoader: -1
