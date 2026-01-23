@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `101.0k` | **Created at**: `2023-01-17`
+**Stars**: `101.1k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `941` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `943` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -317,7 +317,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `930` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `931` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -1248,23 +1248,6 @@ None
 </details>
 
 
-## TTPlanetPig/Comfyui_TTP_Toolset
-
-
-<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
-<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
-
-**Stars**: `917` | **Created at**: `2024-08-17`
-
-
-for tile the image for advanced control or modification 
-<details><summary>Included Nodes (14)</summary>
-
- - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
- - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
-</details>
-
-
 ## 16131zzzzzzzz/EveryoneNobel
 
 
@@ -1275,6 +1258,24 @@ for tile the image for advanced control or modification
 
 
 A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
+
+## Jonseed/ComfyUI-Detail-Daemon
+
+
+<a href='https://github.com/Jonseed/ComfyUI-Detail-Daemon'>
+<img src="https://avatars.githubusercontent.com/u/40897189?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Jonseed/ComfyUI-Detail-Daemon
+
+**Stars**: `920` | **Created at**: `2024-10-25`
+
+
+A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.
+<details><summary>Included Nodes (4)</summary>
+
+ - <sub>DetailDaemonGraphSigmasNode</sub>, <sub>DetailDaemonSamplerNode</sub>
+ - <sub>LyingSigmaSampler</sub>
+ - <sub>MultiplySigmas</sub>
+</details>
+
 
 ## nunchaku-ai/nunchaku
 
@@ -1453,7 +1454,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `5.9k` | **Created at**: `2025-02-25`
+**Stars**: `6.0k` | **Created at**: `2025-02-25`
 
 
 None
@@ -1481,7 +1482,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `924` | **Created at**: `2025-02-27`
+**Stars**: `926` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
