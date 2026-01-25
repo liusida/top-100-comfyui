@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `101.2k` | **Created at**: `2023-01-17`
+**Stars**: `101.3k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -254,7 +254,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `1.1k` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
+**Stars**: `1.2k` | **Created at**: `2023-06-10` | **Tags**: `Custom Nodes`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -365,7 +365,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `3.7k` | **Created at**: `2023-08-17` | **Tags**: `Custom Nodes`
+**Stars**: `3.8k` | **Created at**: `2023-08-17` | **Tags**: `Custom Nodes`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -531,11 +531,11 @@ Nodes related to video workflows
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `2.2k` | **Created at**: `2023-09-28` | **Tags**: `Custom Nodes`
+**Stars**: `2.3k` | **Created at**: `2023-09-28` | **Tags**: `Custom Nodes`
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (219)</summary>
+<details><summary>Included Nodes (221)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -547,8 +547,8 @@ Various custom nodes for ComfyUI
  - <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchExtendWithOverlap</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>, <sub>Intrinsic_lora_sampling</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
- - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
- - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelSaveKJ</sub>
+ - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadResAdapterNormalization</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2MemoryEfficientSageAttentionPatch</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
+ - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
  - <sub>PadImageBatchInterleaved</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewLatentNoiseMask</sub>
@@ -1001,7 +1001,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `946` | **Created at**: `2024-05-11`
+**Stars**: `950` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1248,6 +1248,23 @@ None
 </details>
 
 
+## TTPlanetPig/Comfyui_TTP_Toolset
+
+
+<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
+<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+
+**Stars**: `922` | **Created at**: `2024-08-17`
+
+
+for tile the image for advanced control or modification 
+<details><summary>Included Nodes (14)</summary>
+
+ - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
+ - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
+</details>
+
+
 ## 16131zzzzzzzz/EveryoneNobel
 
 
@@ -1258,24 +1275,6 @@ None
 
 
 A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
-
-## Jonseed/ComfyUI-Detail-Daemon
-
-
-<a href='https://github.com/Jonseed/ComfyUI-Detail-Daemon'>
-<img src="https://avatars.githubusercontent.com/u/40897189?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Jonseed/ComfyUI-Detail-Daemon
-
-**Stars**: `921` | **Created at**: `2024-10-25`
-
-
-A port of muerrilla's sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.
-<details><summary>Included Nodes (4)</summary>
-
- - <sub>DetailDaemonGraphSigmasNode</sub>, <sub>DetailDaemonSamplerNode</sub>
- - <sub>LyingSigmaSampler</sub>
- - <sub>MultiplySigmas</sub>
-</details>
-
 
 ## nunchaku-ai/nunchaku
 
@@ -1416,7 +1415,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `942` | **Created at**: `2025-01-21`
+**Stars**: `943` | **Created at**: `2025-01-21`
 
 
 None
@@ -1482,7 +1481,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `929` | **Created at**: `2025-02-27`
+**Stars**: `932` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI

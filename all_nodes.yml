@@ -1585,6 +1585,7 @@ LLavaLoader: -1
 LM_Studio: 4
 LTX2AttentionTunerPatch: -1
 LTX2AudioLatentNormalizingSampling: -1
+LTX2MemoryEfficientSageAttentionPatch: -1
 LTX2SamplingPreviewOverride: -1
 LTX2_NAG: -1
 LTXAVTextEncoderLoader: -1
@@ -2157,6 +2158,7 @@ Model Input Switch: 0
 Model Patch Seamless (mtb): 3
 ModelCompile+: 0
 ModelComputeDtype: -1
+ModelMemoryUsageFactorOverride: -1
 ModelMemoryUseReportPatch: -1
 ModelMergeAdd: 0
 ModelMergeAuraflow: -1
