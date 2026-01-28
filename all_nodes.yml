@@ -1056,6 +1056,7 @@ Gemini_API_Vsion_ImgURL_Zho: 0
 Gemini_API_Zho: 1
 Gemini_FileUpload_API_S_Zho: 0
 Gemini_File_API_S_Zho: 0
+GemmaAPITextEncode: -1
 GenerateFramesByCount: 0
 GenerateNoise: 1
 GenerateTracks: -1
@@ -1585,6 +1586,8 @@ LLavaLoader: -1
 LM_Studio: 4
 LTX2AttentionTunerPatch: -1
 LTX2AudioLatentNormalizingSampling: -1
+LTX2BlockLoraSelect: -1
+LTX2LoraLoaderAdvanced: -1
 LTX2MemoryEfficientSageAttentionPatch: -1
 LTX2SamplingPreviewOverride: -1
 LTX2_NAG: -1
@@ -3144,6 +3147,7 @@ Wan22ImageToVideoLatent: -1
 WanAnimateToVideo: -1
 WanCameraEmbedding: -1
 WanCameraImageToVideo: -1
+WanChunkFeedForward: -1
 WanFirstLastFrameToVideo: -1
 WanFunControlToVideo: -1
 WanFunInpaintToVideo: -1
