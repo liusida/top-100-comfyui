@@ -1593,6 +1593,7 @@ LTX2SamplingPreviewOverride: -1
 LTX2_NAG: -1
 LTXAVTextEncoderLoader: -1
 LTXAddImageGuide: -1
+LTXAddVideoICLoRAGuide: -1
 LTXAttentioOverride: -1
 LTXAttentionBank: -1
 LTXAttnOverride: -1
@@ -1600,6 +1601,7 @@ LTXFetaEnhance: -1
 LTXFlowEditCFGGuider: -1
 LTXFlowEditSampler: -1
 LTXForwardModelSamplingPred: -1
+LTXICLoRALoaderModelOnly: -1
 LTXPerturbedAttention: -1
 LTXPrepareAttnInjections: -1
 LTXQ8Patch: -1
@@ -1638,6 +1640,7 @@ LTXVImgToVideoInplaceKJ: -1
 LTXVInContextSampler: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
+LTXVLoadConditioning: -1
 LTXVLoopingSampler: -1
 LTXVMiddleFrame_TTP: -1
 LTXVMultiPromptProvider: -1
@@ -1652,6 +1655,7 @@ LTXVPromptEnhancerLoader: -1
 LTXVQ8LoraModelLoader: -1
 LTXVQ8Patch: -1
 LTXVRecurrentKSampler: -1
+LTXVSaveConditioning: -1
 LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSeparateAVLatent: -1
@@ -2586,6 +2590,7 @@ SamplerNames_: 0
 SamplerSASolver: -1
 SamplerSEEDS2: -1
 SamplerSelectHelper+: -1
+SamplerSelfRefineVideo: -1
 Samples Passthrough (Stat System): 0
 SamplingPercentToSigma: -1
 Save Gif (mtb): 3
@@ -3224,6 +3229,7 @@ WanVideoImageClipEncode: -1
 WanVideoImageResizeToClosest: -1
 WanVideoImageToVideoEncode: -1
 WanVideoImageToVideoMultiTalk: -1
+WanVideoImageToVideoSkyreelsv3_audio: -1
 WanVideoLatentReScale: -1
 WanVideoLongCatAvatarExtendEmbeds: -1
 WanVideoLoopArgs: -1
