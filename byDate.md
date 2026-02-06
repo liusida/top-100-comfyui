@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `102.5k` | **Created at**: `2023-01-17`
+**Stars**: `102.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `953` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `955` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -317,7 +317,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `936` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `935` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -338,7 +338,7 @@ ControlNet scheduling and masking nodes with sliding context support
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `2.7k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
+**Stars**: `2.8k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -1188,7 +1188,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.2k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
+**Stars**: `3.3k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -1358,23 +1358,6 @@ None
 </details>
 
 
-## ShmuelRonen/ComfyUI-LatentSyncWrapper
-
-
-<a href='https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper'>
-<img src="https://avatars.githubusercontent.com/u/80190186?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper
-
-**Stars**: `931` | **Created at**: `2025-01-01`
-
-
-This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input.
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>LatentSyncNode</sub>
- - <sub>VideoLengthAdjuster</sub>
-</details>
-
-
 ## welltop-cn/ComfyUI-TeaCache
 
 
@@ -1481,7 +1464,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `966` | **Created at**: `2025-02-27`
+**Stars**: `969` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1589,3 +1572,14 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+
+## flybirdxx/ComfyUI-Qwen-TTS
+
+
+<a href='https://github.com/flybirdxx/ComfyUI-Qwen-TTS'>
+<img src="https://avatars.githubusercontent.com/u/26685745?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flybirdxx/ComfyUI-Qwen-TTS
+
+**Stars**: `932` | **Created at**: `2026-01-22`
+
+
+A Simple Implementation of Qwen3-TTS's ComfyUI
