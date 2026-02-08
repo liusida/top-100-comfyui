@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `5.8k` | **Created at**: `2026-02-06`
+**Stars**: `5.8k` | **Created at**: `2026-02-07`
 
 
 None
@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `3.8k` | **Created at**: `2026-02-06`
+**Stars**: `3.8k` | **Created at**: `2026-02-07`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -56,7 +56,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.6k` | **Created at**: `2026-02-06`
+**Stars**: `3.6k` | **Created at**: `2026-02-07`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -71,7 +71,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.4k` | **Created at**: `2026-02-06`
+**Stars**: `3.4k` | **Created at**: `2026-02-07`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -91,7 +91,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.3k` | **Created at**: `2026-02-06`
+**Stars**: `3.3k` | **Created at**: `2026-02-07`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -146,7 +146,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `2.9k` | **Created at**: `2026-02-06`
+**Stars**: `2.9k` | **Created at**: `2026-02-07`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -183,7 +183,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `2.8k` | **Created at**: `2026-02-06`
+**Stars**: `2.8k` | **Created at**: `2026-02-07`
 
 
 Making ComfyUI more comfortable!
@@ -199,7 +199,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.6k` | **Created at**: `2026-02-06`
+**Stars**: `2.6k` | **Created at**: `2026-02-07`
 
 
 None
@@ -219,7 +219,7 @@ None
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.3k` | **Created at**: `2026-02-06`
+**Stars**: `2.3k` | **Created at**: `2026-02-07`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -271,7 +271,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.2k` | **Created at**: `2026-02-06`
+**Stars**: `2.2k` | **Created at**: `2026-02-07`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -287,7 +287,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `2.1k` | **Created at**: `2026-02-06`
+**Stars**: `2.1k` | **Created at**: `2026-02-07`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -374,7 +374,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `1.7k` | **Created at**: `2026-02-05`
+**Stars**: `1.7k` | **Created at**: `2026-02-07`
 
 
 An extensive node suite for ComfyUI with over 210 new nodes
@@ -404,7 +404,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-Florence2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Florence2
 
-**Stars**: `1.6k` | **Created at**: `2026-02-06`
+**Stars**: `1.6k` | **Created at**: `2026-02-07`
 
 
 Inference Microsoft Florence2 VLM
@@ -439,7 +439,7 @@ None
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.5k` | **Created at**: `2026-02-06`
+**Stars**: `1.5k` | **Created at**: `2026-02-07`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -498,7 +498,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `1.4k` | **Created at**: `2026-02-06`
+**Stars**: `1.4k` | **Created at**: `2026-02-07`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -629,7 +629,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.1k` | **Created at**: `2026-02-03`
+**Stars**: `1.1k` | **Created at**: `2026-02-07`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -720,7 +720,7 @@ A ComfyUI node for driving videos using batches of images.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `959` | **Created at**: `2026-02-06`
+**Stars**: `960` | **Created at**: `2026-02-07`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -736,6 +736,27 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
  - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
+</details>
+
+
+## Kosinkadink/ComfyUI-Advanced-ControlNet
+
+
+<a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
+<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
+
+**Stars**: `938` | **Created at**: `2026-02-07`
+
+
+ControlNet scheduling and masking nodes with sliding context support
+<details><summary>Included Nodes (43)</summary>
+
+ - [ACN_AdvancedControlNetApply🌟](node_examples/ACN_AdvancedControlNetApply.md), <sub>ACN_AdvancedControlNetApply_v2</sub>, <sub>ACN_AdvancedControlNetApplySingle</sub>, <sub>ACN_AdvancedControlNetApplySingle_v2</sub>, <sub>ACN_ControlNet++InputNode</sub>, <sub>ACN_ControlNet++LoaderAdvanced</sub>, <sub>ACN_ControlNet++LoaderSingle</sub>, <sub>ACN_ControlNetLoaderAdvanced</sub>, <sub>ACN_CtrLoRALoader</sub>, <sub>ACN_CustomControlNetWeightsFlux</sub>, <sub>ACN_CustomControlNetWeightsSD15</sub>, <sub>ACN_CustomT2IAdapterWeights</sub>, <sub>ACN_DefaultUniversalWeights</sub>, <sub>ACN_DiffControlNetLoaderAdvanced</sub>, <sub>ACN_ExtrasMiddleMult</sub>, <sub>[ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md)</sub>, <sub>ACN_ReferenceControlNetFinetune</sub>, <sub>ACN_ReferencePreprocessor</sub>, <sub>ACN_ScaledSoftControlNetWeights</sub>, <sub>ACN_SoftControlNetWeightsSD15</sub>, <sub>ACN_SoftT2IAdapterWeights</sub>, <sub>[ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md)</sub>, <sub>[ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md)</sub>, <sub>ACN_SparseCtrlMergedLoaderAdvanced</sub>, <sub>[ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md)</sub>, <sub>[ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md)</sub>, <sub>ACN_SparseCtrlWeightExtras</sub>, <sub>ACN_TimestepKeyframeFromStrengthList</sub>, <sub>ACN_TimestepKeyframeInterpolation</sub>
+ - [ControlNetLoaderAdvanced🌟](node_examples/ControlNetLoaderAdvanced.md), <sub>CustomControlNetWeights</sub>, <sub>CustomT2IAdapterWeights</sub>
+ - <sub>[DiffControlNetLoaderAdvanced](node_examples/DiffControlNetLoaderAdvanced.md)</sub>
+ - <sub>[LatentKeyframe](node_examples/LatentKeyframe.md)</sub>, <sub>[LatentKeyframeBatchedGroup](node_examples/LatentKeyframeBatchedGroup.md)</sub>, <sub>[LatentKeyframeGroup](node_examples/LatentKeyframeGroup.md)</sub>, <sub>[LatentKeyframeTiming](node_examples/LatentKeyframeTiming.md)</sub>, <sub>[LoadImagesFromDirectory](node_examples/LoadImagesFromDirectory.md)</sub>
+ - <sub>[ScaledSoftControlNetWeights](node_examples/ScaledSoftControlNetWeights.md)</sub>, <sub>ScaledSoftMaskedUniversalWeights</sub>, <sub>SoftControlNetWeights</sub>, <sub>SoftT2IAdapterWeights</sub>
+ - <sub>[TimestepKeyframe](node_examples/TimestepKeyframe.md)</sub>
 </details>
 
 
@@ -755,26 +776,5 @@ ComfyUI BrushNet nodes
  - <sub>CutForInpaint</sub>
  - <sub>[PowerPaint](node_examples/PowerPaint.md)</sub>, <sub>[PowerPaintCLIPLoader](node_examples/PowerPaintCLIPLoader.md)</sub>
  - <sub>[RAUNet](node_examples/RAUNet.md)</sub>
-</details>
-
-
-## Kosinkadink/ComfyUI-Advanced-ControlNet
-
-
-<a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
-<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
-
-**Stars**: `936` | **Created at**: `2026-02-06`
-
-
-ControlNet scheduling and masking nodes with sliding context support
-<details><summary>Included Nodes (43)</summary>
-
- - [ACN_AdvancedControlNetApply🌟](node_examples/ACN_AdvancedControlNetApply.md), <sub>ACN_AdvancedControlNetApply_v2</sub>, <sub>ACN_AdvancedControlNetApplySingle</sub>, <sub>ACN_AdvancedControlNetApplySingle_v2</sub>, <sub>ACN_ControlNet++InputNode</sub>, <sub>ACN_ControlNet++LoaderAdvanced</sub>, <sub>ACN_ControlNet++LoaderSingle</sub>, <sub>ACN_ControlNetLoaderAdvanced</sub>, <sub>ACN_CtrLoRALoader</sub>, <sub>ACN_CustomControlNetWeightsFlux</sub>, <sub>ACN_CustomControlNetWeightsSD15</sub>, <sub>ACN_CustomT2IAdapterWeights</sub>, <sub>ACN_DefaultUniversalWeights</sub>, <sub>ACN_DiffControlNetLoaderAdvanced</sub>, <sub>ACN_ExtrasMiddleMult</sub>, <sub>[ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md)</sub>, <sub>ACN_ReferenceControlNetFinetune</sub>, <sub>ACN_ReferencePreprocessor</sub>, <sub>ACN_ScaledSoftControlNetWeights</sub>, <sub>ACN_SoftControlNetWeightsSD15</sub>, <sub>ACN_SoftT2IAdapterWeights</sub>, <sub>[ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md)</sub>, <sub>[ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md)</sub>, <sub>ACN_SparseCtrlMergedLoaderAdvanced</sub>, <sub>[ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md)</sub>, <sub>[ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md)</sub>, <sub>ACN_SparseCtrlWeightExtras</sub>, <sub>ACN_TimestepKeyframeFromStrengthList</sub>, <sub>ACN_TimestepKeyframeInterpolation</sub>
- - [ControlNetLoaderAdvanced🌟](node_examples/ControlNetLoaderAdvanced.md), <sub>CustomControlNetWeights</sub>, <sub>CustomT2IAdapterWeights</sub>
- - <sub>[DiffControlNetLoaderAdvanced](node_examples/DiffControlNetLoaderAdvanced.md)</sub>
- - <sub>[LatentKeyframe](node_examples/LatentKeyframe.md)</sub>, <sub>[LatentKeyframeBatchedGroup](node_examples/LatentKeyframeBatchedGroup.md)</sub>, <sub>[LatentKeyframeGroup](node_examples/LatentKeyframeGroup.md)</sub>, <sub>[LatentKeyframeTiming](node_examples/LatentKeyframeTiming.md)</sub>, <sub>[LoadImagesFromDirectory](node_examples/LoadImagesFromDirectory.md)</sub>
- - <sub>[ScaledSoftControlNetWeights](node_examples/ScaledSoftControlNetWeights.md)</sub>, <sub>ScaledSoftMaskedUniversalWeights</sub>, <sub>SoftControlNetWeights</sub>, <sub>SoftT2IAdapterWeights</sub>
- - <sub>[TimestepKeyframe](node_examples/TimestepKeyframe.md)</sub>
 </details>
 
