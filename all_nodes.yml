@@ -800,6 +800,7 @@ DWPreprocessor: 88
 DYNAMIC_TRT_MODEL_CONVERSION: -1
 Debug (mtb): 2
 Debug Number to Console: 1
+DebugMetadataLM: -1
 DebugTensorShape+: 1
 DecoderNoise: -1
 Deep Bump (mtb): 4
@@ -2036,15 +2037,21 @@ LoopEnd_IMAGE: 0
 LoopStart_IMAGE: 0
 Lora Input Switch: 0
 Lora Loader: 0
+LoraCyclerLM: -1
 LoraExtractKJ: -1
 LoraLoader: 79
+LoraLoaderLM: -1
 LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraModelLoader: -1
 LoraNames_: 0
+LoraPoolLM: -1
 LoraPrompt: 0
+LoraRandomizerLM: -1
 LoraReduceRankKJ: -1
 LoraSave: -1
+LoraStackerLM: -1
+LoraTextLoaderLM: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
 Lorebook: -1
@@ -2383,6 +2390,7 @@ PrimitiveStringMultiline: -1
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
 PromptImage: 2
+PromptLM: -1
 PromptSchedulingLatentsNode: -1
 PromptSchedulingNode: -1
 PromptSimplification: 0
@@ -2610,6 +2618,7 @@ SaveImage: 97
 SaveImageAndMetadata_: 0
 SaveImageDataSetToFolder: -1
 SaveImageKJ: -1
+SaveImageLM: -1
 SaveImageOpenEXR: 1
 SaveImageTextDataSetToFolder: -1
 SaveImageToLocal: 0
@@ -2965,6 +2974,7 @@ TextImage: 8
 TextImageEncodeQwenVL: -1
 TextInput: 0
 TextInput_: 4
+TextLM: -1
 TextOutput: 0
 TextSplitByDelimiter: 1
 TextToNumber: 0
@@ -3008,6 +3018,7 @@ TransitionImagesMulti: -1
 TransitionMask+: 0
 TransparentBGSession+: -1
 TransparentImage: 6
+TriggerWordToggleLM: -1
 TrimAudioDuration: -1
 TrimVideoLatent: -1
 TripleCLIPLoader: 5
@@ -3237,7 +3248,9 @@ WanVideoLoopArgs: -1
 WanVideoLoraBlockEdit: -1
 WanVideoLoraSelect: -1
 WanVideoLoraSelectByName: -1
+WanVideoLoraSelectLM: -1
 WanVideoLoraSelectMulti: -1
+WanVideoLoraTextSelectLM: -1
 WanVideoMagCache: -1
 WanVideoMiniMaxRemoverEmbeds: -1
 WanVideoModelLoader: -1
