@@ -595,7 +595,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `964` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `965` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -982,7 +982,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `966` | **Created at**: `2024-05-11`
+**Stars**: `970` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1235,7 +1235,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `938` | **Created at**: `2024-08-17`
+**Stars**: `939` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 
@@ -1390,7 +1390,7 @@ None
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `937` | **Created at**: `2025-01-27`
+**Stars**: `941` | **Created at**: `2025-01-27`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1466,7 +1466,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `977` | **Created at**: `2025-02-27`
+**Stars**: `979` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1581,7 +1581,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/flybirdxx/ComfyUI-Qwen-TTS'>
 <img src="https://avatars.githubusercontent.com/u/26685745?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flybirdxx/ComfyUI-Qwen-TTS
 
-**Stars**: `974` | **Created at**: `2026-01-22`
+**Stars**: `990` | **Created at**: `2026-01-22`
 
 
 A Simple Implementation of Qwen3-TTS's ComfyUI
