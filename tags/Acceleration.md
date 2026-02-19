@@ -7,7 +7,7 @@
 <a href='https://github.com/siliconflow/onediff'>
 <img src="https://avatars.githubusercontent.com/u/143005960?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/siliconflow/onediff
 
-**Stars**: `2.0k` | **Created at**: `2026-02-13`
+**Stars**: `2.0k` | **Created at**: `2026-02-18`
 
 
 OneDiff: An out-of-the-box acceleration library for diffusion models.
