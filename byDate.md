@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `13.6k` | **Created at**: `2023-04-23`
+**Stars**: `13.7k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `965` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `966` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -308,6 +308,27 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
  - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
+</details>
+
+
+## Kosinkadink/ComfyUI-Advanced-ControlNet
+
+
+<a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
+<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
+
+**Stars**: `943` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+
+
+ControlNet scheduling and masking nodes with sliding context support
+<details><summary>Included Nodes (43)</summary>
+
+ - [ACN_AdvancedControlNetApply🌟](node_examples/ACN_AdvancedControlNetApply.md), <sub>ACN_AdvancedControlNetApply_v2</sub>, <sub>ACN_AdvancedControlNetApplySingle</sub>, <sub>ACN_AdvancedControlNetApplySingle_v2</sub>, <sub>ACN_ControlNet++InputNode</sub>, <sub>ACN_ControlNet++LoaderAdvanced</sub>, <sub>ACN_ControlNet++LoaderSingle</sub>, <sub>ACN_ControlNetLoaderAdvanced</sub>, <sub>ACN_CtrLoRALoader</sub>, <sub>ACN_CustomControlNetWeightsFlux</sub>, <sub>ACN_CustomControlNetWeightsSD15</sub>, <sub>ACN_CustomT2IAdapterWeights</sub>, <sub>ACN_DefaultUniversalWeights</sub>, <sub>ACN_DiffControlNetLoaderAdvanced</sub>, <sub>ACN_ExtrasMiddleMult</sub>, <sub>[ACN_ReferenceControlNet](node_examples/ACN_ReferenceControlNet.md)</sub>, <sub>ACN_ReferenceControlNetFinetune</sub>, <sub>ACN_ReferencePreprocessor</sub>, <sub>ACN_ScaledSoftControlNetWeights</sub>, <sub>ACN_SoftControlNetWeightsSD15</sub>, <sub>ACN_SoftT2IAdapterWeights</sub>, <sub>[ACN_SparseCtrlIndexMethodNode](node_examples/ACN_SparseCtrlIndexMethodNode.md)</sub>, <sub>[ACN_SparseCtrlLoaderAdvanced](node_examples/ACN_SparseCtrlLoaderAdvanced.md)</sub>, <sub>ACN_SparseCtrlMergedLoaderAdvanced</sub>, <sub>[ACN_SparseCtrlRGBPreprocessor](node_examples/ACN_SparseCtrlRGBPreprocessor.md)</sub>, <sub>[ACN_SparseCtrlSpreadMethodNode](node_examples/ACN_SparseCtrlSpreadMethodNode.md)</sub>, <sub>ACN_SparseCtrlWeightExtras</sub>, <sub>ACN_TimestepKeyframeFromStrengthList</sub>, <sub>ACN_TimestepKeyframeInterpolation</sub>
+ - [ControlNetLoaderAdvanced🌟](node_examples/ControlNetLoaderAdvanced.md), <sub>CustomControlNetWeights</sub>, <sub>CustomT2IAdapterWeights</sub>
+ - <sub>[DiffControlNetLoaderAdvanced](node_examples/DiffControlNetLoaderAdvanced.md)</sub>
+ - <sub>[LatentKeyframe](node_examples/LatentKeyframe.md)</sub>, <sub>[LatentKeyframeBatchedGroup](node_examples/LatentKeyframeBatchedGroup.md)</sub>, <sub>[LatentKeyframeGroup](node_examples/LatentKeyframeGroup.md)</sub>, <sub>[LatentKeyframeTiming](node_examples/LatentKeyframeTiming.md)</sub>, <sub>[LoadImagesFromDirectory](node_examples/LoadImagesFromDirectory.md)</sub>
+ - <sub>[ScaledSoftControlNetWeights](node_examples/ScaledSoftControlNetWeights.md)</sub>, <sub>ScaledSoftMaskedUniversalWeights</sub>, <sub>SoftControlNetWeights</sub>, <sub>SoftT2IAdapterWeights</sub>
+ - <sub>[TimestepKeyframe](node_examples/TimestepKeyframe.md)</sub>
 </details>
 
 
@@ -574,7 +595,7 @@ Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 <a href='https://github.com/banodoco/Steerable-Motion'>
 <img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
 
-**Stars**: `967` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `968` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
 
 
 A ComfyUI node for driving videos using batches of images.
@@ -769,9 +790,9 @@ Unofficial implementation of InstantID for ComfyUI
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
-<details><summary>Included Nodes (11)</summary>
+<details><summary>Included Nodes (12)</summary>
 
- - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>INPAINT_StabilizeMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
+ - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_ColorMatch</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>INPAINT_StabilizeMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
 </details>
 
 
@@ -961,7 +982,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `974` | **Created at**: `2024-05-11`
+**Stars**: `976` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1214,7 +1235,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `943` | **Created at**: `2024-08-17`
+**Stars**: `944` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 
@@ -1369,7 +1390,7 @@ None
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `965` | **Created at**: `2025-01-27`
+**Stars**: `967` | **Created at**: `2025-01-27`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1445,7 +1466,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `991` | **Created at**: `2025-02-27`
+**Stars**: `993` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1549,21 +1570,10 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `2.3k` | **Created at**: `2025-11-07`
+**Stars**: `2.4k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-
-## jtydhr88/ComfyUI-qwenmultiangle
-
-
-<a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
-<img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
-
-**Stars**: `943` | **Created at**: `2026-01-08`
-
-
-A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
 
 ## flybirdxx/ComfyUI-Qwen-TTS
 
