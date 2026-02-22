@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `103.7k` | **Created at**: `2023-01-17`
+**Stars**: `103.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -270,7 +270,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.5k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `7.6k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -317,7 +317,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
 
-**Stars**: `943` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
+**Stars**: `944` | **Created at**: `2023-08-01` | **Tags**: `Custom Nodes`
 
 
 ControlNet scheduling and masking nodes with sliding context support
@@ -820,7 +820,7 @@ None
 <a href='https://github.com/mut-ex/gligen-gui'>
 <img src="https://avatars.githubusercontent.com/u/21265981?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mut-ex/gligen-gui
 
-**Stars**: `2.0k` | **Created at**: `2024-02-17` | **Tags**: `Integration`
+**Stars**: `2.1k` | **Created at**: `2024-02-17` | **Tags**: `Integration`
 
 
 An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -982,7 +982,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `976` | **Created at**: `2024-05-11`
+**Stars**: `977` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1054,7 +1054,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `3.7k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
+**Stars**: `3.8k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1229,23 +1229,6 @@ None
 </details>
 
 
-## TTPlanetPig/Comfyui_TTP_Toolset
-
-
-<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
-<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
-
-**Stars**: `944` | **Created at**: `2024-08-17`
-
-
-for tile the image for advanced control or modification 
-<details><summary>Included Nodes (14)</summary>
-
- - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
- - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
-</details>
-
-
 ## 16131zzzzzzzz/EveryoneNobel
 
 
@@ -1379,7 +1362,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `955` | **Created at**: `2025-01-21`
+**Stars**: `956` | **Created at**: `2025-01-21`
 
 
 None
@@ -1390,7 +1373,7 @@ None
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `967` | **Created at**: `2025-01-27`
+**Stars**: `968` | **Created at**: `2025-01-27`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1466,7 +1449,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `993` | **Created at**: `2025-02-27`
+**Stars**: `995` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1574,6 +1557,17 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+
+## jtydhr88/ComfyUI-qwenmultiangle
+
+
+<a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
+<img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
+
+**Stars**: `945` | **Created at**: `2026-01-08`
+
+
+A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
 
 ## flybirdxx/ComfyUI-Qwen-TTS
 
