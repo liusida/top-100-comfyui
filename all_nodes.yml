@@ -3570,6 +3570,7 @@ easy styleAlignedBatchAlign: 1
 easy stylesSelector: 3
 easy sv3dLoader: 0
 easy svdLoader: 0
+easy tableEditor: -1
 easy textIndexSwitch: -1
 easy textSwitch: 0
 easy ultralyticsDetectorPipe: 1
