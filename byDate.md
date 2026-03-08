@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `105.0k` | **Created at**: `2023-01-17`
+**Stars**: `105.1k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `981` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
+**Stars**: `983` | **Created at**: `2023-07-31` | **Tags**: `Custom Nodes` `Video`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
@@ -1214,7 +1214,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `951` | **Created at**: `2024-08-17`
+**Stars**: `953` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 
@@ -1369,7 +1369,7 @@ None
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `996` | **Created at**: `2025-01-27`
+**Stars**: `997` | **Created at**: `2025-01-27`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1417,7 +1417,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `6.1k` | **Created at**: `2025-02-25`
+**Stars**: `6.2k` | **Created at**: `2025-02-25`
 
 
 None
@@ -1516,7 +1516,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
 
-**Stars**: `2.1k` | **Created at**: `2025-06-20`
+**Stars**: `2.2k` | **Created at**: `2025-06-20`
 
 
 Official SeedVR2 Video Upscaler for ComfyUI
@@ -1560,7 +1560,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `981` | **Created at**: `2026-01-08`
+**Stars**: `982` | **Created at**: `2026-01-08`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
