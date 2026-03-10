@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `105.2k` | **Created at**: `2023-01-17`
+**Stars**: `105.4k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -317,7 +317,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `2.8k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
+**Stars**: `2.9k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -1148,7 +1148,7 @@ The desktop app for ComfyUI (Windows & macOS)
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.3k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
+**Stars**: `3.4k` | **Created at**: `2024-08-15` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -1214,7 +1214,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `953` | **Created at**: `2024-08-17`
+**Stars**: `954` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 
@@ -1278,13 +1278,13 @@ A ComfyUI custom node designed for advanced image background removal and object,
 
 
 LTX-Video Support for ComfyUI
-<details><summary>Included Nodes (58)</summary>
+<details><summary>Included Nodes (64)</summary>
 
  - <sub>AddLatentGuide</sub>
  - <sub>DynamicConditioning</sub>
  - <sub>GemmaAPITextEncode</sub>, <sub>GuiderParameters</sub>
  - <sub>ImageToCPU</sub>
- - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddImageGuide</sub>, <sub>LTXAddVideoICLoRAGuide</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXICLoRALoaderModelOnly</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVAddLatentGuide</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoadConditioning</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVNormalizingSampler</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPerStepAdainPatcher</sub>, <sub>LTXVPerStepStatNormPatcher</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSaveConditioning</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVStatNormLatent</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>
+ - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddImageGuide</sub>, <sub>LTXAddVideoICLoRAGuide</sub>, <sub>LTXAddVideoICLoRAGuideAdvanced</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXICLoRALoaderModelOnly</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVAddGuideAdvancedAttention</sub>, <sub>LTXVAddLatentGuide</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVDilateVideoMask</sub>, <sub>LTXVDrawTracks</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVInpaintPreprocess</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoadConditioning</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVNormalizingSampler</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPerStepAdainPatcher</sub>, <sub>LTXVPerStepStatNormPatcher</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSaveConditioning</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVSparseTrackEditor</sub>, <sub>LTXVStatNormLatent</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>
  - <sub>ModifyLTXModel</sub>, <sub>MultimodalGuider</sub>
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
@@ -1358,7 +1358,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/kijai/ComfyUI-Hunyuan3DWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
-**Stars**: `969` | **Created at**: `2025-01-21`
+**Stars**: `970` | **Created at**: `2025-01-21`
 
 
 None
@@ -1549,7 +1549,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `2.9k` | **Created at**: `2025-11-07`
+**Stars**: `3.0k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1560,10 +1560,15 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `984` | **Created at**: `2026-01-08`
+**Stars**: `987` | **Created at**: `2026-01-08`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
+<details><summary>Included Nodes (1)</summary>
+
+ - <sub>QwenMultiangleCameraNode</sub>
+</details>
+
 
 ## flybirdxx/ComfyUI-Qwen-TTS
 

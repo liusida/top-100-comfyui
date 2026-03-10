@@ -1597,6 +1597,7 @@ LTX2_NAG: -1
 LTXAVTextEncoderLoader: -1
 LTXAddImageGuide: -1
 LTXAddVideoICLoRAGuide: -1
+LTXAddVideoICLoRAGuideAdvanced: -1
 LTXAttentioOverride: -1
 LTXAttentionBank: -1
 LTXAttnOverride: -1
@@ -1614,6 +1615,7 @@ LTXReverseModelSamplingPred: -1
 LTXVAdainLatent: -1
 LTXVAddGuide: -1
 LTXVAddGuideAdvanced: -1
+LTXVAddGuideAdvancedAttention: -1
 LTXVAddGuideMulti: -1
 LTXVAddGuidesFromBatch: -1
 LTXVAddLatentGuide: -1
@@ -1628,6 +1630,8 @@ LTXVConcatAVLatent: -1
 LTXVConditioning: -1
 LTXVContext_TTP: -1
 LTXVCropGuides: -1
+LTXVDilateVideoMask: -1
+LTXVDrawTracks: -1
 LTXVEmptyLatentAudio: -1
 LTXVEnhanceAVideoKJ: -1
 LTXVExtendSampler: -1
@@ -1641,6 +1645,7 @@ LTXVImgToVideoConditionOnly: -1
 LTXVImgToVideoInplace: -1
 LTXVImgToVideoInplaceKJ: -1
 LTXVInContextSampler: -1
+LTXVInpaintPreprocess: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoadConditioning: -1
@@ -1663,6 +1668,7 @@ LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSeparateAVLatent: -1
 LTXVSetVideoLatentNoiseMasks: -1
+LTXVSparseTrackEditor: -1
 LTXVStatNormLatent: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
@@ -2406,6 +2412,7 @@ QuadrupleCLIPLoader: -1
 QuadrupleCLIPLoaderGGUF: -1
 QwenImageDiffsynthControlnet: -1
 QwenLoader: -1
+QwenMultiangleCameraNode: -1
 RAUNet: 4
 RFDoubleBlocksOverride: -1
 RFSingleBlocksOverride: -1
