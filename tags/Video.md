@@ -43,7 +43,7 @@ Nodes related to video workflows
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `983` | **Created at**: `2026-03-07`
+**Stars**: `984` | **Created at**: `2026-03-10`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.

@@ -923,6 +923,7 @@ EmptyMochiLatentVideo: -1
 EmptyQwenImageLayeredLatentImage: -1
 EmptySD3LatentImage: 0
 EmptySegs: 0
+EncodeVideoComponents: -1
 EndRecordCUDAMemoryHistory: -1
 Engineer: 1
 EnhanceImage: 6
