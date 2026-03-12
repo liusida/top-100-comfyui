@@ -18,7 +18,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.7k` | **Created at**: `2026-03-10`
+**Stars**: `7.7k` | **Created at**: `2026-03-11`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.5k` | **Created at**: `2026-03-09`
+**Stars**: `1.5k` | **Created at**: `2026-03-11`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
