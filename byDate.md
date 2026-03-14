@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `105.7k` | **Created at**: `2023-01-17`
+**Stars**: `105.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -961,7 +961,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
 <img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `992` | **Created at**: `2024-05-11`
+**Stars**: `993` | **Created at**: `2024-05-11`
 
 
 ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
@@ -1445,7 +1445,7 @@ None
 <a href='https://github.com/scraed/LanPaint'>
 <img src="https://avatars.githubusercontent.com/u/10359359?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/scraed/LanPaint
 
-**Stars**: `1.0k` | **Created at**: `2025-02-27`
+**Stars**: `1.1k` | **Created at**: `2025-02-27`
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
@@ -1461,7 +1461,7 @@ High quality training free inpaint for every stable diffusion model. Supports Co
 <a href='https://github.com/heshengtao/super-agent-party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/super-agent-party
 
-**Stars**: `1.8k` | **Created at**: `2025-03-08`
+**Stars**: `1.9k` | **Created at**: `2025-03-08`
 
 
 ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -1560,7 +1560,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `995` | **Created at**: `2026-01-08`
+**Stars**: `998` | **Created at**: `2026-01-08`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
