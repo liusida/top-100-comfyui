@@ -27,7 +27,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.5k` | **Created at**: `2026-03-14`
+**Stars**: `1.5k` | **Created at**: `2026-03-15`
 
 
 Nodes related to video workflows
@@ -43,13 +43,13 @@ Nodes related to video workflows
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `990` | **Created at**: `2026-03-14`
+**Stars**: `992` | **Created at**: `2026-03-15`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
-<details><summary>Included Nodes (14)</summary>
+<details><summary>Included Nodes (15)</summary>
 
- - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>
+ - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>, <sub>ATM VFI</sub>
  - <sub>CAIN VFI</sub>
  - <sub>[FILM VFI](node_examples/FILM_VFI.md)</sub>, <sub>FLAVR VFI</sub>
  - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>

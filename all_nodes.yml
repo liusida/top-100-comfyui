@@ -200,6 +200,7 @@ APG: -1
 APISR_Lterative_Zho: 2
 APISR_ModelLoader_Zho: 3
 APISR_Zho: 1
+ATM VFI: -1
 About_us: -1
 AddFluxFlow: -1
 AddLabel: 2
@@ -802,6 +803,7 @@ Debug (mtb): 2
 Debug Number to Console: 1
 DebugMetadataLM: -1
 DebugTensorShape+: 1
+DecodeAndSaveVideo: -1
 DecoderNoise: -1
 Deep Bump (mtb): 4
 DeepTranslatorCLIPTextEncodeNode: 0
@@ -2386,6 +2388,7 @@ PreviewBridge: 40
 PreviewBridgeLatent: 0
 PreviewDetailerHookProvider: 0
 PreviewImage: 98
+PreviewImageOrMask: -1
 PreviewLatentNoiseMask: -1
 PreviewMask_: 0
 PreviewTextNode: 19
