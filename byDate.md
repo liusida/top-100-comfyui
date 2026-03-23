@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `106.6k` | **Created at**: `2023-01-17`
+**Stars**: `106.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -270,7 +270,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.7k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `7.8k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -296,7 +296,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
-<details><summary>Included Nodes (15)</summary>
+<details><summary>Included Nodes (16)</summary>
 
  - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>, <sub>ATM VFI</sub>
  - <sub>CAIN VFI</sub>
@@ -304,7 +304,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>
  - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
  - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
- - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>
+ - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>, <sub>MOMO VFI</sub>
  - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
  - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
@@ -1214,7 +1214,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `960` | **Created at**: `2024-08-17`
+**Stars**: `961` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 

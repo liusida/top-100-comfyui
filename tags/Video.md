@@ -7,7 +7,7 @@
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.6k` | **Created at**: `2026-03-21`
+**Stars**: `2.6k` | **Created at**: `2026-03-22`
 
 
 None
@@ -27,7 +27,7 @@ None
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.6k` | **Created at**: `2026-03-21`
+**Stars**: `1.6k` | **Created at**: `2026-03-23`
 
 
 Nodes related to video workflows
@@ -43,11 +43,11 @@ Nodes related to video workflows
 <a href='https://github.com/Fannovel16/ComfyUI-Frame-Interpolation'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
 
-**Stars**: `998` | **Created at**: `2026-03-21`
+**Stars**: `998` | **Created at**: `2026-03-22`
 
 
 A custom node set for Video Frame Interpolation in ComfyUI.
-<details><summary>Included Nodes (15)</summary>
+<details><summary>Included Nodes (16)</summary>
 
  - <sub>[AMT VFI](node_examples/AMT_VFI.md)</sub>, <sub>ATM VFI</sub>
  - <sub>CAIN VFI</sub>
@@ -55,7 +55,7 @@ A custom node set for Video Frame Interpolation in ComfyUI.
  - <sub>[GMFSS Fortuna VFI](node_examples/GMFSS_Fortuna_VFI.md)</sub>
  - <sub>[IFRNet VFI](node_examples/IFRNet_VFI.md)</sub>, <sub>[IFUnet VFI](node_examples/IFUnet_VFI.md)</sub>
  - <sub>KSampler Gradually Adding More Denoise (efficient)</sub>
- - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>
+ - <sub>[M2M VFI](node_examples/M2M_VFI.md)</sub>, <sub>Make Interpolation State List</sub>, <sub>MOMO VFI</sub>
  - [RIFE VFI🌟](node_examples/RIFE_VFI.md)
  - <sub>[Sepconv VFI](node_examples/Sepconv_VFI.md)</sub>, <sub>[STMFNet VFI](node_examples/STMFNet_VFI.md)</sub>
  - <sub>VFI FloatToInt</sub>
