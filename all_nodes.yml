@@ -2061,6 +2061,7 @@ LoraPrompt: 0
 LoraRandomizerLM: -1
 LoraReduceRankKJ: -1
 LoraSave: -1
+LoraStackCombinerLM: -1
 LoraStackerLM: -1
 LoraTextLoaderLM: -1
 LorapathLoader: -1
@@ -2661,6 +2662,7 @@ ScheduledCFGGuidance: -1
 SchedulerSelectHelper+: -1
 Scientist: 1
 ScreenShare: 15
+ScreencapStream: -1
 Screencap_mss: -1
 ScribblePreprocessor: 46
 Scribble_PiDiNet_Preprocessor: 0
