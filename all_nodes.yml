@@ -2363,6 +2363,7 @@ PixverseTemplateNode: -1
 PixverseTextToVideoNode: -1
 PixverseTransitionVideoNode: -1
 Planner: 1
+PlaySoundKJ: -1
 PlaySound|pysssss: 5
 PlotCoordinates: 1
 PlotParameters+: -1
