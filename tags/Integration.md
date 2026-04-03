@@ -7,7 +7,7 @@
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.9k` | **Created at**: `2026-04-01`
+**Stars**: `7.9k` | **Created at**: `2026-04-02`
 
 
 fast-stable-diffusion + DreamBooth
@@ -18,7 +18,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.8k` | **Created at**: `2026-04-01`
+**Stars**: `7.9k` | **Created at**: `2026-04-02`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.6k` | **Created at**: `2026-04-01`
+**Stars**: `1.6k` | **Created at**: `2026-04-02`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
@@ -131,7 +131,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/ai-dock/comfyui'>
 <img src="https://avatars.githubusercontent.com/u/138283508?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-dock/comfyui
 
-**Stars**: `1.0k` | **Created at**: `2026-03-31`
+**Stars**: `1.0k` | **Created at**: `2026-04-02`
 
 
 ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience. 
