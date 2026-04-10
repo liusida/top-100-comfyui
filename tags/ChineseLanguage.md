@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `7.4k` | **Created at**: `2026-04-08`
+**Stars**: `7.4k` | **Created at**: `2026-04-09`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -51,7 +51,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
 
-**Stars**: `1.4k` | **Created at**: `2026-04-04`
+**Stars**: `1.4k` | **Created at**: `2026-04-09`
 
 
 Unofficial implementation of InstantID for ComfyUI
