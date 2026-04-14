@@ -1178,6 +1178,7 @@ INPAINT_ExpandMask: -1
 INPAINT_InpaintWithModel: 7
 INPAINT_LoadFooocusInpaint: 20
 INPAINT_LoadInpaintModel: 7
+INPAINT_MaskBoundingBox: -1
 INPAINT_MaskedBlur: 11
 INPAINT_MaskedFill: 11
 INPAINT_ShrinkMask: -1
@@ -1395,6 +1396,7 @@ ImageToCPU: -1
 ImageToDevice+: 0
 ImageToMask: 96
 ImageTransformByNormalizedAmplitude: 0
+ImageTransformKJ: -1
 ImageUncropByMask: -1
 ImageUntile+: -1
 ImageUpscaleWithModel: 97
@@ -1607,6 +1609,7 @@ LTXAttentioOverride: -1
 LTXAttentionBank: -1
 LTXAttnOverride: -1
 LTXFetaEnhance: -1
+LTXFloatToInt: -1
 LTXFlowEditCFGGuider: -1
 LTXFlowEditSampler: -1
 LTXForwardModelSamplingPred: -1
@@ -1651,6 +1654,7 @@ LTXVImgToVideoInplace: -1
 LTXVImgToVideoInplaceKJ: -1
 LTXVInContextSampler: -1
 LTXVInpaintPreprocess: -1
+LTXVLaplacianPyramidBlend: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoadConditioning: -1
