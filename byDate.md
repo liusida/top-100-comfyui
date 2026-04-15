@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `108.7k` | **Created at**: `2023-01-17`
+**Stars**: `108.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -110,7 +110,7 @@ A full-featured image/video management app with AI-powered organization and sema
 <a href='https://github.com/YanWenKun/ComfyUI-Docker'>
 <img src="https://avatars.githubusercontent.com/u/58008456?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/YanWenKun/ComfyUI-Docker
 
-**Stars**: `1.4k` | **Created at**: `2023-03-17`
+**Stars**: `1.5k` | **Created at**: `2023-03-17`
 
 
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
@@ -270,7 +270,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `7.9k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `8.0k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -567,17 +567,6 @@ Based on GroundingDino and SAM, use semantic strings to segment any element in a
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
-
-## banodoco/Steerable-Motion
-
-
-<a href='https://github.com/banodoco/Steerable-Motion'>
-<img src="https://avatars.githubusercontent.com/u/134059142?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/banodoco/Steerable-Motion
-
-**Stars**: `970` | **Created at**: `2023-11-11` | **Tags**: `Custom Nodes` `Video`
-
-
-A ComfyUI node for driving videos using batches of images.
 
 ## 6174/comflowy
 
@@ -1044,7 +1033,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/kijai/ComfyUI-LivePortraitKJ'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-LivePortraitKJ
 
-**Stars**: `2.1k` | **Created at**: `2024-07-04`
+**Stars**: `2.2k` | **Created at**: `2024-07-04`
 
 
 ComfyUI nodes for LivePortrait
@@ -1208,13 +1197,30 @@ None
 </details>
 
 
+## TTPlanetPig/Comfyui_TTP_Toolset
+
+
+<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
+<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+
+**Stars**: `970` | **Created at**: `2024-08-17`
+
+
+for tile the image for advanced control or modification 
+<details><summary>Included Nodes (14)</summary>
+
+ - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
+ - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
+</details>
+
+
 ## Tavris1/ComfyUI-Easy-Install
 
 
 <a href='https://github.com/Tavris1/ComfyUI-Easy-Install'>
 <img src="https://avatars.githubusercontent.com/u/36665424?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tavris1/ComfyUI-Easy-Install
 
-**Stars**: `1.0k` | **Created at**: `2024-10-16`
+**Stars**: `1.1k` | **Created at**: `2024-10-16`
 
 
 Portable ComfyUI installer for Windows, macOS and Linux 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
@@ -1402,7 +1408,7 @@ Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait 
 <a href='https://github.com/AIDC-AI/ComfyUI-Copilot'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/ComfyUI-Copilot
 
-**Stars**: `4.9k` | **Created at**: `2025-02-14`
+**Stars**: `5.0k` | **Created at**: `2025-02-14`
 
 
 An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
@@ -1545,7 +1551,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `3.8k` | **Created at**: `2025-11-07`
+**Stars**: `4.0k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
