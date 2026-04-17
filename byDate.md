@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `108.9k` | **Created at**: `2023-01-17`
+**Stars**: `109.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `14.2k` | **Created at**: `2023-04-23`
+**Stars**: `14.3k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -1203,7 +1203,7 @@ None
 <a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
 <img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
 
-**Stars**: `971` | **Created at**: `2024-08-17`
+**Stars**: `972` | **Created at**: `2024-08-17`
 
 
 for tile the image for advanced control or modification 
@@ -1518,7 +1518,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
 
-**Stars**: `2.3k` | **Created at**: `2025-06-20`
+**Stars**: `2.4k` | **Created at**: `2025-06-20`
 
 
 Official SeedVR2 Video Upscaler for ComfyUI
