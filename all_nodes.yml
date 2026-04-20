@@ -1316,6 +1316,7 @@ ImageBatchToList_: -1
 ImageBlend: 53
 ImageBlur: 7
 ImageCASharpening+: 20
+ImageCaptionNode: -1
 ImageColorMatch+: 0
 ImageColorMatchAdobe+: -1
 ImageColorToMask: 8
@@ -1588,6 +1589,7 @@ KlingVideoExtendNode: -1
 KlingVirtualTryOnNode: -1
 KolorsSampler: -1
 KolorsTextEncode: -1
+KontextPresetNode: -1
 LLM: -1
 LLM_api_loader: -1
 LLM_local: -1
@@ -2409,12 +2411,14 @@ PrimitiveStringMultiline: -1
 'PrintExpData:': -1
 Prompt Multiple Styles Selector: 0
 Prompt Styles Selector: 0
+PromptExpand: -1
 PromptImage: 2
 PromptLM: -1
 PromptSchedulingLatentsNode: -1
 PromptSchedulingNode: -1
 PromptSimplification: 0
 PromptSlide: 4
+PromptTranslate: -1
 Prompt_Styler: 5
 PulidEvaClipLoader: 12
 PulidInsightFaceLoader: 11
@@ -3167,6 +3171,7 @@ VibeVoiceLoRANode: -1
 VibeVoiceMultipleSpeakersNode: -1
 VibeVoiceSingleSpeakerNode: -1
 Video Dump Frames: 0
+VideoCaptionNode: -1
 VideoCombine_Adv: 0
 VideoLengthAdjuster: -1
 VideoLinearCFGGuidance: 71
