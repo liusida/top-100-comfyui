@@ -1097,6 +1097,7 @@ GrowMask: 56
 GrowMaskWithBlur: 49
 GuidanceTimestepping+: -1
 GuiderParameters: -1
+HDRPreviewKJ: -1
 HEDPreprocessor: 58
 HSL to Hex: -1
 Hex to HSL: -1
@@ -1650,6 +1651,7 @@ LTXVFirstLastFrameControl_TTP: -1
 LTXVGemmaCLIPModelLoader: -1
 LTXVGemmaCLIPModelLoaderMGPU: -1
 LTXVGemmaEnhancePrompt: -1
+LTXVHDRDecodePostprocess: -1
 LTXVImgToVideo: -1
 LTXVImgToVideoConditionOnly: -1
 LTXVImgToVideoInplace: -1
@@ -2442,6 +2444,7 @@ RandomNoise: 46
 RandomPrompt: 4
 ReActorBuildFaceModel: 4
 ReActorFaceBoost: -1
+ReActorFaceSimilarity: -1
 ReActorFaceSwap: 95
 ReActorFaceSwapOpt: 4
 ReActorImageDublicator: 0
