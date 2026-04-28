@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `110.2k` | **Created at**: `2023-01-17`
+**Stars**: `110.3k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1197,23 +1197,6 @@ None
 </details>
 
 
-## TTPlanetPig/Comfyui_TTP_Toolset
-
-
-<a href='https://github.com/TTPlanetPig/Comfyui_TTP_Toolset'>
-<img src="https://avatars.githubusercontent.com/u/152850462?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
-
-**Stars**: `976` | **Created at**: `2024-08-17`
-
-
-for tile the image for advanced control or modification 
-<details><summary>Included Nodes (14)</summary>
-
- - <sub>LTXVContext_TTP</sub>, <sub>LTXVFirstLastFrameControl_TTP</sub>, <sub>LTXVMiddleFrame_TTP</sub>
- - <sub>TeaCacheHunyuanVideoSampler</sub>, <sub>TTP_condsetarea_merge</sub>, <sub>TTP_condsetarea_merge_test</sub>, <sub>TTP_condtobatch</sub>, <sub>TTP_CoordinateSplitter</sub>, <sub>TTP_Expand_And_Mask</sub>, <sub>TTP_Image_Assy</sub>, <sub>TTP_Image_Tile_Batch</sub>, <sub>TTP_text_mix</sub>, <sub>TTP_Tile_image_size</sub>, <sub>TTPlanet_Tile_Preprocessor_Simple</sub>
-</details>
-
-
 ## Tavris1/ComfyUI-Easy-Install
 
 
@@ -1536,6 +1519,17 @@ Official SeedVR2 Video Upscaler for ComfyUI
 </details>
 
 
+## AIDC-AI/Pixelle-MCP
+
+
+<a href='https://github.com/AIDC-AI/Pixelle-MCP'>
+<img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-MCP
+
+**Stars**: `977` | **Created at**: `2025-07-28`
+
+
+An Open-Source Multimodal AIGC Solution based on ComfyUI + MCP + LLM  https://pixelle.ai
+
 ## Enemyx-net/VibeVoice-ComfyUI
 
 
@@ -1559,7 +1553,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `6.9k` | **Created at**: `2025-11-07`
+**Stars**: `7.1k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
