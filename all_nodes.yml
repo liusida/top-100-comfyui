@@ -961,6 +961,7 @@ FantasyTalkingWav2VecEmbeds: -1
 FashionSegmentAccessories: -1
 FashionSegmentClothing: -1
 FastPreview: -1
+FastPreviewBatch: -1
 FeatherMask: 42
 FeatheredMask: 2
 FeishuDownloadAudio: -1
@@ -2440,6 +2441,7 @@ RMBG: -1
 RSS_loader: -1
 RSS_tool: -1
 Random Number: 7
+RandomImageFromBatch: -1
 RandomNoise: 46
 RandomPrompt: 4
 ReActorBuildFaceModel: 4
