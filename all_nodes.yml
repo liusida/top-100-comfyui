@@ -1681,6 +1681,7 @@ LTXVSaveConditioning: -1
 LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSeparateAVLatent: -1
+LTXVSetAudioRefTokens: -1
 LTXVSetVideoLatentNoiseMasks: -1
 LTXVSparseTrackEditor: -1
 LTXVStatNormLatent: -1
