@@ -1082,6 +1082,7 @@ GetLatentRangeFromBatch: -1
 GetLatentSizeAndCount: -1
 GetLatentsFromBatchIndexed: 0
 GetMaskSizeAndCount: 1
+GetPreviewOverrideFramesKJ: -1
 GetTrackRange: -1
 GetVideoComponents: -1
 GoogleTranslateCLIPTextEncodeNode: 0
@@ -2222,6 +2223,7 @@ ModelMergeWAN2_1: -1
 ModelPassThrough: 0
 ModelPatchLoader: -1
 ModelPatchTorchSettings: -1
+ModelPreviewOverrideKJ: -1
 ModelSamplingAuraFlow: -1
 ModelSamplingContinuousEDM: 14
 ModelSamplingContinuousV: -1
