@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `113.3k` | **Created at**: `2023-01-17`
+**Stars**: `113.5k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1225,7 +1225,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/nunchaku-ai/nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/nunchaku
 
-**Stars**: `3.9k` | **Created at**: `2024-11-06`
+**Stars**: `3.8k` | **Created at**: `2024-11-06`
 
 
 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -1531,7 +1531,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AIDC-AI/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
 
-**Stars**: `17.8k` | **Created at**: `2025-11-07`
+**Stars**: `18.1k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1569,7 +1569,7 @@ A Simple Implementation of Qwen3-TTS's ComfyUI
 <a href='https://github.com/jau123/MeiGen-AI-Design-MCP'>
 <img src="https://avatars.githubusercontent.com/u/130447398?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jau123/MeiGen-AI-Design-MCP
 
-**Stars**: `1.1k` | **Created at**: `2026-02-07`
+**Stars**: `1.2k` | **Created at**: `2026-02-07`
 
 
 Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
@@ -1580,7 +1580,7 @@ Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefu
 <a href='https://github.com/Light-Heart-Labs/DreamServer'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Light-Heart-Labs/DreamServer
 
-**Stars**: `1.2k` | **Created at**: `2026-02-09`
+**Stars**: `1.5k` | **Created at**: `2026-02-09`
 
 
 Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
