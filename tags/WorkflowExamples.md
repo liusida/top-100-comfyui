@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `4.3k` | **Created at**: `2026-05-28`
+**Stars**: `4.3k` | **Created at**: `2026-05-29`
 
 
 Examples of ComfyUI workflows
@@ -51,7 +51,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `1.2k` | **Created at**: `2026-05-27`
+**Stars**: `1.2k` | **Created at**: `2026-05-29`
 
 
 some wyrde workflows for comfyUI

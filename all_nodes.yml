@@ -2356,6 +2356,7 @@ PhotoMakerLoader: 3
 PhotoMaker_Generation: 2
 PhotoshopConnection: -1
 PhotoshopToComfyUI: -1
+PiDColorBiasCorrection: -1
 PiDiNetPreprocessor: 37
 Pick From Batch (mtb): 0
 PikaImageToVideoNode2_2: -1
