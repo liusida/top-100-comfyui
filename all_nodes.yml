@@ -3290,6 +3290,7 @@ WanVideoLoraSelectLM: -1
 WanVideoLoraSelectMulti: -1
 WanVideoLoraTextSelectLM: -1
 WanVideoMagCache: -1
+WanVideoMemoryEfficientSageAttentionPatch: -1
 WanVideoMiniMaxRemoverEmbeds: -1
 WanVideoModelLoader: -1
 WanVideoNAG: -1
