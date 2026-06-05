@@ -1224,6 +1224,7 @@ IPAdapterUnifiedLoaderCommunity: 0
 IPAdapterUnifiedLoaderFaceID: 39
 IPAdapterWeights: 7
 IPAdapterWeightsFromStrategy: 1
+Ideogram4OptimizationsKJ: -1
 Ideogram4PromptBuilderKJ: -1
 IdeogramV1: -1
 IdeogramV2: -1
