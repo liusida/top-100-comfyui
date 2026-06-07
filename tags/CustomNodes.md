@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `6.0k` | **Created at**: `2026-06-05`
+**Stars**: `6.0k` | **Created at**: `2026-06-06`
 
 
 None
@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.0k` | **Created at**: `2026-06-05`
+**Stars**: `4.0k` | **Created at**: `2026-06-06`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -91,7 +91,7 @@ GGUF Quantization support for native ComfyUI models
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.5k` | **Created at**: `2026-06-04`
+**Stars**: `3.5k` | **Created at**: `2026-06-06`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -111,7 +111,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.2k` | **Created at**: `2026-06-05`
+**Stars**: `3.2k` | **Created at**: `2026-06-06`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -146,7 +146,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.1k` | **Created at**: `2026-06-05`
+**Stars**: `3.1k` | **Created at**: `2026-06-07`
 
 
 Making ComfyUI more comfortable!
@@ -162,7 +162,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `3.1k` | **Created at**: `2026-06-05`
+**Stars**: `3.1k` | **Created at**: `2026-06-06`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -199,11 +199,11 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `2.7k` | **Created at**: `2026-06-05`
+**Stars**: `2.7k` | **Created at**: `2026-06-07`
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (240)</summary>
+<details><summary>Included Nodes (241)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -219,7 +219,7 @@ Various custom nodes for ComfyUI
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
- - <sub>PadImageBatchInterleaved</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>PiDColorBiasCorrection</sub>, <sub>PlaySoundKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewImageOrMask</sub>, <sub>PreviewLatentNoiseMask</sub>
+ - <sub>PadImageBatchInterleaved</sub>, <sub>PatchFlashAttentionKJ</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>PiDColorBiasCorrection</sub>, <sub>PlaySoundKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewImageOrMask</sub>, <sub>PreviewLatentNoiseMask</sub>
  - <sub>RandomImageFromBatch</sub>, <sub>[RemapImageRange](node_examples/RemapImageRange.md)</sub>, <sub>[RemapMaskRange](node_examples/RemapMaskRange.md)</sub>, <sub>ReplaceImagesInBatch</sub>, <sub>[ResizeMask](node_examples/ResizeMask.md)</sub>, <sub>ReverseImageBatch</sub>, <sub>RoundMask</sub>
  - <sub>SamplerSelfRefineVideo</sub>, <sub>SaveImageKJ</sub>, <sub>SaveImageWithAlpha</sub>, <sub>SaveStringKJ</sub>, <sub>ScaleBatchPromptSchedule</sub>, <sub>ScheduledCFGGuidance</sub>, <sub>Screencap_mss</sub>, <sub>ScreencapStream</sub>, <sub>SeparateMasks</sub>, <sub>SetShakkerLabsUnionControlNetType</sub>, <sub>ShuffleImageBatch</sub>, <sub>SigmasToFloat</sub>, <sub>SimpleCalculatorKJ</sub>, <sub>SkipLayerGuidanceWanVideo</sub>, <sub>Sleep</sub>, <sub>[SomethingToString](node_examples/SomethingToString.md)</sub>, <sub>SoundReactive</sub>, <sub>[SplineEditor](node_examples/SplineEditor.md)</sub>, <sub>SplitBboxes</sub>, <sub>SplitImageChannels</sub>, <sub>[StableZero123_BatchSchedule](node_examples/StableZero123_BatchSchedule.md)</sub>, <sub>StartRecordCUDAMemoryHistory</sub>, <sub>[StringConstant](node_examples/StringConstant.md)</sub>, <sub>[StringConstantMultiline](node_examples/StringConstantMultiline.md)</sub>, <sub>StringToFloatList</sub>, <sub>StyleModelApplyAdvanced</sub>, <sub>Superprompt</sub>, <sub>SV3D_BatchSchedule</sub>
  - <sub>TimerNodeKJ</sub>, <sub>TorchCompileControlNet</sub>, <sub>TorchCompileCosmosModel</sub>, <sub>TorchCompileLTXModel</sub>, <sub>TorchCompileModelAdvanced</sub>, <sub>TorchCompileModelFluxAdvanced</sub>, <sub>TorchCompileModelFluxAdvancedV2</sub>, <sub>TorchCompileModelHyVideo</sub>, <sub>TorchCompileModelQwenImage</sub>, <sub>TorchCompileModelWanVideo</sub>, <sub>TorchCompileModelWanVideoV2</sub>, <sub>TorchCompileVAE</sub>, <sub>TransitionImagesInBatch</sub>, <sub>TransitionImagesMulti</sub>
@@ -254,7 +254,7 @@ None
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.5k` | **Created at**: `2026-06-05`
+**Stars**: `2.5k` | **Created at**: `2026-06-06`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -271,7 +271,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.3k` | **Created at**: `2026-06-04`
+**Stars**: `2.3k` | **Created at**: `2026-06-06`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -287,7 +287,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `2.3k` | **Created at**: `2026-06-05`
+**Stars**: `2.3k` | **Created at**: `2026-06-06`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -324,7 +324,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `1.8k` | **Created at**: `2026-06-03`
+**Stars**: `1.8k` | **Created at**: `2026-06-06`
 
 
 None
@@ -385,7 +385,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/177552519?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/XLabs-AI/x-flux-comfyui
 
-**Stars**: `1.7k` | **Created at**: `2026-06-01`
+**Stars**: `1.7k` | **Created at**: `2026-06-06`
 
 
 None
@@ -471,7 +471,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `1.5k` | **Created at**: `2026-06-02`
+**Stars**: `1.5k` | **Created at**: `2026-06-06`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -543,7 +543,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `1.3k` | **Created at**: `2026-06-03`
+**Stars**: `1.3k` | **Created at**: `2026-06-06`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -591,7 +591,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.2k` | **Created at**: `2026-06-03`
+**Stars**: `1.2k` | **Created at**: `2026-06-06`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -641,7 +641,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/kijai/ComfyUI-IC-Light'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
 
-**Stars**: `1.2k` | **Created at**: `2026-06-04`
+**Stars**: `1.2k` | **Created at**: `2026-06-06`
 
 
 Using IC-LIght models in ComfyUI
@@ -661,7 +661,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/cubiq/ComfyUI_essentials'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
 
-**Stars**: `1.1k` | **Created at**: `2026-06-05`
+**Stars**: `1.1k` | **Created at**: `2026-06-06`
 
 
 None

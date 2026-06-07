@@ -2338,6 +2338,7 @@ Pack SDXL Tuple: 8
 PadImageBatchInterleaved: -1
 PainterNode: 17
 PatchCublasLinear: -1
+PatchFlashAttentionKJ: -1
 PatchModelAddDownscale: 24
 PatchModelPatcherOrder: -1
 PathchSageAttentionKJ: -1
