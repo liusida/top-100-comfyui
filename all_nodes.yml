@@ -2341,6 +2341,7 @@ PatchCublasLinear: -1
 PatchFlashAttentionKJ: -1
 PatchModelAddDownscale: 24
 PatchModelPatcherOrder: -1
+PatchTritonVAE: -1
 PathchSageAttentionKJ: -1
 PerBlockHighLevelNode: -1
 PerBlock_SD15_FromFloatsNode: -1
