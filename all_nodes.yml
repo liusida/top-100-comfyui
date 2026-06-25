@@ -3128,6 +3128,7 @@ VAEEncodeTiled: 26
 VAELoader: 97
 VAELoaderConsistencyDecoder: 1
 VAELoaderKJ: -1
+VAEMergeKJ: -1
 VAESave: 0
 VFI FloatToInt: 0
 VHS_AudioToVHSAudio: -1
