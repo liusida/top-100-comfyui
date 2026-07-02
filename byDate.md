@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `118.9k` | **Created at**: `2023-01-17`
+**Stars**: `119.1k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `15.2k` | **Created at**: `2023-04-23`
+**Stars**: `15.3k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -478,7 +478,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (244)</summary>
+<details><summary>Included Nodes (245)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -490,6 +490,7 @@ Various custom nodes for ComfyUI
  - <sub>HDRPreviewKJ</sub>, <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>Ideogram4OptimizationsKJ</sub>, <sub>Ideogram4PromptBuilderKJ</sub>, <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchExtendWithOverlap</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageSharpenKJ</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageTransformKJ</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
+ - <sub>Krea2PromptWeight</sub>
  - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2BlockLoraSelect</sub>, <sub>LTX2LoraLoaderAdvanced</sub>, <sub>LTX2MemoryEfficientSageAttentionPatch</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
  - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
@@ -908,22 +909,6 @@ Using IC-LIght models in ComfyUI
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
 
-## lquesada/ComfyUI-Inpaint-CropAndStitch
-
-
-<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
-<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
-
-**Stars**: `1.1k` | **Created at**: `2024-05-11`
-
-
-ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
-</details>
-
-
 ## yolain/ComfyUI-Yolain-Workflows
 
 
@@ -1321,11 +1306,11 @@ Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait 
 </details>
 
 
-## AIDC-AI/ComfyUI-Copilot
+## ATH-MaaS/ComfyUI-Copilot
 
 
-<a href='https://github.com/AIDC-AI/ComfyUI-Copilot'>
-<img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/ComfyUI-Copilot
+<a href='https://github.com/ATH-MaaS/ComfyUI-Copilot'>
+<img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/ComfyUI-Copilot
 
 **Stars**: `5.3k` | **Created at**: `2025-02-14`
 
@@ -1472,13 +1457,33 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 </details>
 
 
-## AIDC-AI/Pixelle-Video
+## AHEKOT/ComfyUI_VNCCS
 
 
-<a href='https://github.com/AIDC-AI/Pixelle-Video'>
-<img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIDC-AI/Pixelle-Video
+<a href='https://github.com/AHEKOT/ComfyUI_VNCCS'>
+<img src="https://avatars.githubusercontent.com/u/119136212?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AHEKOT/ComfyUI_VNCCS
 
-**Stars**: `23.9k` | **Created at**: `2025-11-07`
+**Stars**: `1.1k` | **Created at**: `2025-09-27`
+
+
+Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
+<details><summary>Included Nodes (43)</summary>
+
+ - <sub>CharacterAssetSelector</sub>, <sub>CharacterAssetSelectorQWEN</sub>, <sub>CharacterCloner</sub>, <sub>CharacterCreator</sub>, <sub>CharacterCreatorV2</sub>, <sub>CharacterSheetCropper</sub>, <sub>ClothesDesigner</sub>
+ - <sub>DatasetGenerator</sub>
+ - <sub>EmotionGenerator</sub>, <sub>EmotionGeneratorV2</sub>
+ - <sub>SpriteGenerator</sub>, <sub>SpriteManager</sub>
+ - <sub>VNCCS_CharacterCloneGenerator</sub>, <sub>VNCCS_CharacterGenerator</sub>, <sub>VNCCS_ClothesGenerator</sub>, <sub>VNCCS_ClothesTemplates</sub>, <sub>VNCCS_ColorFix</sub>, <sub>VNCCS_ControlCenter</sub>, <sub>VNCCS_EmotionsGenerator</sub>, <sub>VNCCS_Float</sub>, <sub>VNCCS_ImageList</sub>, <sub>VNCCS_Integer</sub>, <sub>VNCCS_LoraBypass</sub>, <sub>VNCCS_LoraStack</sub>, <sub>VNCCS_MaskExtractor</sub>, <sub>VNCCS_MigrationAssistant</sub>, <sub>VNCCS_MultilineText</sub>, <sub>VNCCS_Pipe</sub>, <sub>VNCCS_PoseGenerator</sub>, <sub>VNCCS_PromptConcat</sub>, <sub>VNCCS_QuadSplitter</sub>, <sub>VNCCS_QWEN_Encoder</sub>, <sub>VNCCS_Resize</sub>, <sub>VNCCS_RMBG2</sub>, <sub>VNCCS_Service_Emotions_Generator</sub>, <sub>VNCCS_String</sub>, <sub>VNCCS_Variable</sub>, <sub>VNCCS_VLAnalyzer</sub>, <sub>VNCCSChromaKey</sub>, <sub>VNCCSChromaKeyExperimental</sub>, <sub>VNCCSSamplerSchedulerPicker</sub>, <sub>VNCCSSheetExtractor</sub>, <sub>VNCCSSheetManager</sub>
+</details>
+
+
+## ATH-MaaS/Pixelle-Video
+
+
+<a href='https://github.com/ATH-MaaS/Pixelle-Video'>
+<img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
+
+**Stars**: `24.0k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1527,7 +1532,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 <a href='https://github.com/Light-Heart-Labs/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Light-Heart-Labs/ODS
 
-**Stars**: `2.4k` | **Created at**: `2026-02-09`
+**Stars**: `2.5k` | **Created at**: `2026-02-09`
 
 
 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
