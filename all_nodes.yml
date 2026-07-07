@@ -2456,6 +2456,7 @@ QuadrupleCLIPLoaderGGUF: -1
 QwenImageDiffsynthControlnet: -1
 QwenLoader: -1
 QwenMultiangleCameraNode: -1
+QwenMultiangleCameraTranslateNode: -1
 RAUNet: 4
 RFDoubleBlocksOverride: -1
 RFSingleBlocksOverride: -1
