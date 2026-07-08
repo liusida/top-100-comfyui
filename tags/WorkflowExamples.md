@@ -29,7 +29,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `2.1k` | **Created at**: `2026-07-06`
+**Stars**: `2.1k` | **Created at**: `2026-07-08`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
