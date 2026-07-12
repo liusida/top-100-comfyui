@@ -1,10 +1,10 @@
 
 This repository automatically updates a list of the top 100 repositories related to ComfyUI based on the number of stars on GitHub.
 
-### Automatically updated on: 2026-07-11
+### Automatically updated on: 2026-07-12
 ### Repositories by Tag:
 - [Core](tags/Core.md) (1)
-- [Custom Nodes](tags/CustomNodes.md) (36)
+- [Custom Nodes](tags/CustomNodes.md) (35)
 - [Integration](tags/Integration.md) (10)
 - [Workflow Examples](tags/WorkflowExamples.md) (5)
 - [Management](tags/Management.md) (3)
@@ -29,7 +29,7 @@ This repository automatically updates a list of the top 100 repositories related
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `120.3k` | **Created at**: `2023-01-17` | **Last updated**: `2026-07-11`
+**Stars**: `120.4k` | **Created at**: `2023-01-17` | **Last updated**: `2026-07-12`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -40,7 +40,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `25.1k` | **Created at**: `2025-11-07` | **Last updated**: `2026-07-11`
+**Stars**: `25.1k` | **Created at**: `2025-11-07` | **Last updated**: `2026-07-12`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -51,7 +51,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `15.3k` | **Created at**: `2023-04-23` | **Last updated**: `2026-07-11`
+**Stars**: `15.4k` | **Created at**: `2023-04-23` | **Last updated**: `2026-07-11`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -62,7 +62,7 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `8.5k` | **Created at**: `2023-06-13` | **Last updated**: `2026-07-11` | **Tags**: `Integration`
+**Stars**: `8.5k` | **Created at**: `2023-06-13` | **Last updated**: `2026-07-12` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -73,7 +73,7 @@ Multi-Platform Package Manager for Stable Diffusion
 <a href='https://github.com/TheLastBen/fast-stable-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/110583491?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TheLastBen/fast-stable-diffusion
 
-**Stars**: `7.9k` | **Created at**: `2022-09-21` | **Last updated**: `2026-07-08` | **Tags**: `Integration`
+**Stars**: `7.9k` | **Created at**: `2022-09-21` | **Last updated**: `2026-07-11` | **Tags**: `Integration`
 
 
 fast-stable-diffusion + DreamBooth
@@ -99,7 +99,7 @@ fast-stable-diffusion + DreamBooth
 <a href='https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin'>
 <img src="https://avatars.githubusercontent.com/u/7842232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 
-**Stars**: `7.3k` | **Created at**: `2022-12-20` | **Last updated**: `2026-07-10` | **Tags**: `Integration`
+**Stars**: `7.3k` | **Created at**: `2022-12-20` | **Last updated**: `2026-07-11` | **Tags**: `Integration`
 
 
 A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -110,7 +110,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `6.7k` | **Created at**: `2024-05-09` | **Last updated**: `2026-07-10`
+**Stars**: `6.7k` | **Created at**: `2024-05-09` | **Last updated**: `2026-07-11`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -121,7 +121,7 @@ AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频�
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `6.6k` | **Created at**: `2025-02-25` | **Last updated**: `2026-07-10`
+**Stars**: `6.6k` | **Created at**: `2025-02-25` | **Last updated**: `2026-07-11`
 
 
 None
@@ -149,7 +149,7 @@ None
 <a href='https://github.com/11cafe/jaaz'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/jaaz
 
-**Stars**: `6.4k` | **Created at**: `2025-06-01` | **Last updated**: `2026-07-10`
+**Stars**: `6.4k` | **Created at**: `2025-06-01` | **Last updated**: `2026-07-12`
 
 
 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
@@ -164,7 +164,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `6.1k` | **Created at**: `2023-08-30` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `6.1k` | **Created at**: `2023-08-30` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 None
@@ -181,7 +181,7 @@ None
 <a href='https://github.com/ATH-MaaS/ComfyUI-Copilot'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/ComfyUI-Copilot
 
-**Stars**: `5.4k` | **Created at**: `2025-02-14` | **Last updated**: `2026-07-10`
+**Stars**: `5.4k` | **Created at**: `2025-02-14` | **Last updated**: `2026-07-11`
 
 
 An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
@@ -203,7 +203,7 @@ Examples of ComfyUI workflows
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `4.3k` | **Created at**: `2024-06-21` | **Last updated**: `2026-07-11` | **Tags**: `Integration`
+**Stars**: `4.3k` | **Created at**: `2024-06-21` | **Last updated**: `2026-07-12` | **Tags**: `Integration`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -214,7 +214,7 @@ SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface,
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.1k` | **Created at**: `2023-08-17` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `4.1k` | **Created at**: `2023-08-17` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -250,7 +250,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `3.9k` | **Created at**: `2026-03-25` | **Last updated**: `2026-07-10`
+**Stars**: `4.0k` | **Created at**: `2026-03-25` | **Last updated**: `2026-07-12`
 
 
 AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
@@ -261,7 +261,7 @@ AI watermark remover. CLI and Python library to strip visible and invisible AI w
 <a href='https://github.com/Lightricks/ComfyUI-LTXVideo'>
 <img src="https://avatars.githubusercontent.com/u/3170348?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Lightricks/ComfyUI-LTXVideo
 
-**Stars**: `3.9k` | **Created at**: `2024-11-21` | **Last updated**: `2026-07-10`
+**Stars**: `3.9k` | **Created at**: `2024-11-21` | **Last updated**: `2026-07-12`
 
 
 LTX-Video Support for ComfyUI
@@ -283,7 +283,7 @@ LTX-Video Support for ComfyUI
 <a href='https://github.com/nunchaku-ai/nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/nunchaku
 
-**Stars**: `3.9k` | **Created at**: `2024-11-06` | **Last updated**: `2026-07-10`
+**Stars**: `3.9k` | **Created at**: `2024-11-06` | **Last updated**: `2026-07-11`
 
 
 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -294,7 +294,7 @@ LTX-Video Support for ComfyUI
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.8k` | **Created at**: `2024-08-15` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `3.8k` | **Created at**: `2024-08-15` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -314,7 +314,7 @@ GGUF Quantization support for native ComfyUI models
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.8k` | **Created at**: `2024-01-05` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes` `3D`
+**Stars**: `3.8k` | **Created at**: `2024-01-05` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes` `3D`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -333,7 +333,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.5k` | **Created at**: `2023-08-26` | **Last updated**: `2026-07-09` | **Tags**: `Custom Nodes`
+**Stars**: `3.5k` | **Created at**: `2023-08-26` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -369,7 +369,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.2k` | **Created at**: `2023-03-30` | **Last updated**: `2026-07-09` | **Tags**: `Custom Nodes`
+**Stars**: `3.2k` | **Created at**: `2023-03-30` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -404,7 +404,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `3.1k` | **Created at**: `2023-03-06` | **Last updated**: `2026-07-09` | **Tags**: `Custom Nodes` `Management`
+**Stars**: `3.1k` | **Created at**: `2023-03-06` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes` `Management`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -436,30 +436,30 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 
 # TOP 26 - 30
 
-<details><summary>Star History for TOP 26 - 30</summary><a href="https://api.star-history.com/svg?repos=nunchaku-ai/ComfyUI-nunchaku,Osmantic/ODS,kijai/ComfyUI-KJNodes,FurkanGozukara/Stable-Diffusion,PowerHouseMan/ComfyUI-AdvancedLivePortrait&type=Date"><img src="https://api.star-history.com/svg?repos=nunchaku-ai/ComfyUI-nunchaku,Osmantic/ODS,kijai/ComfyUI-KJNodes,FurkanGozukara/Stable-Diffusion,PowerHouseMan/ComfyUI-AdvancedLivePortrait&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 26 - 30</summary><a href="https://api.star-history.com/svg?repos=Osmantic/ODS,nunchaku-ai/ComfyUI-nunchaku,kijai/ComfyUI-KJNodes,FurkanGozukara/Stable-Diffusion,PowerHouseMan/ComfyUI-AdvancedLivePortrait&type=Date"><img src="https://api.star-history.com/svg?repos=Osmantic/ODS,nunchaku-ai/ComfyUI-nunchaku,kijai/ComfyUI-KJNodes,FurkanGozukara/Stable-Diffusion,PowerHouseMan/ComfyUI-AdvancedLivePortrait&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
-## 26. nunchaku-ai/ComfyUI-nunchaku
-
-
-<a href='https://github.com/nunchaku-ai/ComfyUI-nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/ComfyUI-nunchaku
-
-**Stars**: `2.9k` | **Created at**: `2025-03-12` | **Last updated**: `2026-07-10`
-
-
-ComfyUI Plugin of Nunchaku
-
-## 27. Osmantic/ODS
+## 26. Osmantic/ODS
 
 
 <a href='https://github.com/Osmantic/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
 
-**Stars**: `2.9k` | **Created at**: `2026-02-09` | **Last updated**: `2026-07-11`
+**Stars**: `2.9k` | **Created at**: `2026-02-09` | **Last updated**: `2026-07-12`
 
 
 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+
+## 27. nunchaku-ai/ComfyUI-nunchaku
+
+
+<a href='https://github.com/nunchaku-ai/ComfyUI-nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/ComfyUI-nunchaku
+
+**Stars**: `2.9k` | **Created at**: `2025-03-12` | **Last updated**: `2026-07-11`
+
+
+ComfyUI Plugin of Nunchaku
 
 ## 28. kijai/ComfyUI-KJNodes
 
@@ -503,7 +503,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/FurkanGozukara/Stable-Diffusion'>
 <img src="https://avatars.githubusercontent.com/u/19240467?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/FurkanGozukara/Stable-Diffusion
 
-**Stars**: `2.7k` | **Created at**: `2023-05-01` | **Last updated**: `2026-07-09` | **Tags**: `Tutorials`
+**Stars**: `2.7k` | **Created at**: `2023-05-01` | **Last updated**: `2026-07-12` | **Tags**: `Tutorials`
 
 
 FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod
@@ -538,7 +538,7 @@ None
 <a href='https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
 
-**Stars**: `2.6k` | **Created at**: `2025-06-20` | **Last updated**: `2026-07-10`
+**Stars**: `2.6k` | **Created at**: `2025-06-20` | **Last updated**: `2026-07-11`
 
 
 Official SeedVR2 Video Upscaler for ComfyUI
@@ -588,7 +588,7 @@ None
 <a href='https://github.com/heshengtao/super-agent-party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/super-agent-party
 
-**Stars**: `2.5k` | **Created at**: `2025-03-08` | **Last updated**: `2026-07-10`
+**Stars**: `2.5k` | **Created at**: `2025-03-08` | **Last updated**: `2026-07-11`
 
 
 ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -636,7 +636,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/Comfy-Org/desktop'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/desktop
 
-**Stars**: `2.3k` | **Created at**: `2024-08-13` | **Last updated**: `2026-07-10`
+**Stars**: `2.3k` | **Created at**: `2024-08-13` | **Last updated**: `2026-07-12`
 
 
 [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
@@ -647,7 +647,7 @@ Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `2.3k` | **Created at**: `2024-04-13` | **Last updated**: `2026-07-09` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `2.3k` | **Created at**: `2024-04-13` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes` `LLM`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -695,7 +695,7 @@ SUPIR upscaling wrapper for ComfyUI
 
 # TOP 41 - 45
 
-<details><summary>Star History for TOP 41 - 45</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp,yawiii/ComfyUI-Prompt-Assistant,mut-ex/gligen-gui&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp,yawiii/ComfyUI-Prompt-Assistant,mut-ex/gligen-gui&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 41 - 45</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,yawiii/ComfyUI-Prompt-Assistant,zombieyang/sd-ppp,mut-ex/gligen-gui&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,yawiii/ComfyUI-Prompt-Assistant,zombieyang/sd-ppp,mut-ex/gligen-gui&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 41. kijai/ComfyUI-LivePortraitKJ
@@ -722,30 +722,12 @@ ComfyUI nodes for LivePortrait
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `2.1k` | **Created at**: `2024-05-13` | **Last updated**: `2026-07-10` | **Tags**: `Workflow Examples`
+**Stars**: `2.1k` | **Created at**: `2024-05-13` | **Last updated**: `2026-07-11` | **Tags**: `Workflow Examples`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 
-## 43. zombieyang/sd-ppp
-
-
-<a href='https://github.com/zombieyang/sd-ppp'>
-<img src="https://avatars.githubusercontent.com/u/5595819?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zombieyang/sd-ppp
-
-**Stars**: `2.1k` | **Created at**: `2024-03-29` | **Last updated**: `2026-07-10`
-
-
-A Photoshop AI plugin
-<details><summary>Included Nodes (3)</summary>
-
- - <sub>CLIP Text Encode PS Regional</sub>
- - <sub>Get Image From Photoshop Layer</sub>
- - <sub>Send Images To Photoshop</sub>
-</details>
-
-
-## 44. yawiii/ComfyUI-Prompt-Assistant
+## 43. yawiii/ComfyUI-Prompt-Assistant
 
 
 <a href='https://github.com/yawiii/ComfyUI-Prompt-Assistant'>
@@ -761,6 +743,24 @@ A Photoshop AI plugin
  - <sub>KontextPresetNode</sub>
  - <sub>PromptExpand</sub>, <sub>PromptTranslate</sub>
  - <sub>VideoCaptionNode</sub>
+</details>
+
+
+## 44. zombieyang/sd-ppp
+
+
+<a href='https://github.com/zombieyang/sd-ppp'>
+<img src="https://avatars.githubusercontent.com/u/5595819?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zombieyang/sd-ppp
+
+**Stars**: `2.1k` | **Created at**: `2024-03-29` | **Last updated**: `2026-07-10`
+
+
+A Photoshop AI plugin
+<details><summary>Included Nodes (3)</summary>
+
+ - <sub>CLIP Text Encode PS Regional</sub>
+ - <sub>Get Image From Photoshop Layer</sub>
+ - <sub>Send Images To Photoshop</sub>
 </details>
 
 
@@ -785,7 +785,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/hero8152/Infinite-Canvas'>
 <img src="https://avatars.githubusercontent.com/u/37614773?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hero8152/Infinite-Canvas
 
-**Stars**: `2.0k` | **Created at**: `2026-05-11` | **Last updated**: `2026-07-11`
+**Stars**: `2.0k` | **Created at**: `2026-05-11` | **Last updated**: `2026-07-12`
 
 
 Supports comfyui/API calls/modelscope calls
@@ -925,7 +925,7 @@ Layer Diffuse custom nodes
 
 # TOP 56 - 60
 
-<details><summary>Star History for TOP 56 - 60</summary><a href="https://api.star-history.com/svg?repos=flybirdxx/ComfyUI-Qwen-TTS,kijai/ComfyUI-Florence2,XLabs-AI/x-flux-comfyui,NimaNzrii/comfyui-photoshop,WhatDreamsCost/WhatDreamsCost-ComfyUI&type=Date"><img src="https://api.star-history.com/svg?repos=flybirdxx/ComfyUI-Qwen-TTS,kijai/ComfyUI-Florence2,XLabs-AI/x-flux-comfyui,NimaNzrii/comfyui-photoshop,WhatDreamsCost/WhatDreamsCost-ComfyUI&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 56 - 60</summary><a href="https://api.star-history.com/svg?repos=flybirdxx/ComfyUI-Qwen-TTS,WhatDreamsCost/WhatDreamsCost-ComfyUI,kijai/ComfyUI-Florence2,XLabs-AI/x-flux-comfyui,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date"><img src="https://api.star-history.com/svg?repos=flybirdxx/ComfyUI-Qwen-TTS,WhatDreamsCost/WhatDreamsCost-ComfyUI,kijai/ComfyUI-Florence2,XLabs-AI/x-flux-comfyui,Kosinkadink/ComfyUI-VideoHelperSuite&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 56. flybirdxx/ComfyUI-Qwen-TTS
@@ -934,12 +934,23 @@ Layer Diffuse custom nodes
 <a href='https://github.com/flybirdxx/ComfyUI-Qwen-TTS'>
 <img src="https://avatars.githubusercontent.com/u/26685745?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flybirdxx/ComfyUI-Qwen-TTS
 
-**Stars**: `1.7k` | **Created at**: `2026-01-22` | **Last updated**: `2026-07-10`
+**Stars**: `1.8k` | **Created at**: `2026-01-22` | **Last updated**: `2026-07-11`
 
 
 A Simple Implementation of Qwen3-TTS's ComfyUI
 
-## 57. kijai/ComfyUI-Florence2
+## 57. WhatDreamsCost/WhatDreamsCost-ComfyUI
+
+
+<a href='https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI'>
+<img src="https://avatars.githubusercontent.com/u/216600439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI
+
+**Stars**: `1.7k` | **Created at**: `2026-03-20` | **Last updated**: `2026-07-12`
+
+
+LTX Director and a variety of other custom ComfyUI nodes and workflows
+
+## 58. kijai/ComfyUI-Florence2
 
 
 <a href='https://github.com/kijai/ComfyUI-Florence2'>
@@ -956,7 +967,7 @@ Inference Microsoft Florence2 VLM
 </details>
 
 
-## 58. XLabs-AI/x-flux-comfyui
+## 59. XLabs-AI/x-flux-comfyui
 
 
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
@@ -975,7 +986,27 @@ None
 </details>
 
 
-## 59. NimaNzrii/comfyui-photoshop
+## 60. Kosinkadink/ComfyUI-VideoHelperSuite
+
+
+<a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
+<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
+
+**Stars**: `1.7k` | **Created at**: `2023-09-23` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes` `Video`
+
+
+Nodes related to video workflows
+<details><summary>Included Nodes (40)</summary>
+
+ - <sub>VHS_AudioToVHSAudio</sub>, [VHS_BatchManager🌟](node_examples/VHS_BatchManager.md), <sub>[VHS_DuplicateImages](node_examples/VHS_DuplicateImages.md)</sub>, <sub>[VHS_DuplicateLatents](node_examples/VHS_DuplicateLatents.md)</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>[VHS_GetImageCount](node_examples/VHS_GetImageCount.md)</sub>, <sub>[VHS_GetLatentCount](node_examples/VHS_GetLatentCount.md)</sub>, <sub>VHS_GetMaskCount</sub>, <sub>[VHS_LoadAudio](node_examples/VHS_LoadAudio.md)</sub>, <sub>[VHS_LoadAudioUpload](node_examples/VHS_LoadAudioUpload.md)</sub>, <sub>VHS_LoadImagePath</sub>, <sub>[VHS_LoadImages](node_examples/VHS_LoadImages.md)</sub>, [VHS_LoadImagesPath🌟](node_examples/VHS_LoadImagesPath.md), [VHS_LoadVideo🌟](node_examples/VHS_LoadVideo.md), <sub>VHS_LoadVideoFFmpeg</sub>, <sub>VHS_LoadVideoFFmpegPath</sub>, [VHS_LoadVideoPath🌟](node_examples/VHS_LoadVideoPath.md), <sub>[VHS_MergeImages](node_examples/VHS_MergeImages.md)</sub>, <sub>[VHS_MergeLatents](node_examples/VHS_MergeLatents.md)</sub>, <sub>VHS_MergeMasks</sub>, <sub>[VHS_PruneOutputs](node_examples/VHS_PruneOutputs.md)</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>[VHS_SelectEveryNthMask](node_examples/VHS_SelectEveryNthMask.md)</sub>, <sub>VHS_SelectFilename</sub>, <sub>VHS_SelectImages</sub>, <sub>VHS_SelectLatents</sub>, <sub>VHS_SelectLatest</sub>, <sub>VHS_SelectMasks</sub>, <sub>[VHS_SplitImages](node_examples/VHS_SplitImages.md)</sub>, <sub>[VHS_SplitLatents](node_examples/VHS_SplitLatents.md)</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_Unbatch</sub>, <sub>[VHS_VAEDecodeBatched](node_examples/VHS_VAEDecodeBatched.md)</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VHSAudioToAudio</sub>, [VHS_VideoCombine🌟](node_examples/VHS_VideoCombine.md), <sub>[VHS_VideoInfo](node_examples/VHS_VideoInfo.md)</sub>, <sub>[VHS_VideoInfoLoaded](node_examples/VHS_VideoInfoLoaded.md)</sub>, <sub>VHS_VideoInfoSource</sub>
+</details>
+
+# TOP 61 - 65
+
+<details><summary>Star History for TOP 61 - 65</summary><a href="https://api.star-history.com/svg?repos=NimaNzrii/comfyui-photoshop,kijai/ComfyUI-FramePackWrapper,Tavris1/ComfyUI-Easy-Install,YanWenKun/ComfyUI-Docker,jau123/MeiGen-AI-Design-MCP&type=Date"><img src="https://api.star-history.com/svg?repos=NimaNzrii/comfyui-photoshop,kijai/ComfyUI-FramePackWrapper,Tavris1/ComfyUI-Easy-Install,YanWenKun/ComfyUI-Docker,jau123/MeiGen-AI-Design-MCP&type=Date" alt="Star History Chart" width="500"></a></details>
+
+
+## 61. NimaNzrii/comfyui-photoshop
 
 
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
@@ -995,44 +1026,13 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 </details>
 
 
-## 60. WhatDreamsCost/WhatDreamsCost-ComfyUI
-
-
-<a href='https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI'>
-<img src="https://avatars.githubusercontent.com/u/216600439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI
-
-**Stars**: `1.7k` | **Created at**: `2026-03-20` | **Last updated**: `2026-07-10`
-
-
-LTX Director and a variety of other custom ComfyUI nodes and workflows
-# TOP 61 - 65
-
-<details><summary>Star History for TOP 61 - 65</summary><a href="https://api.star-history.com/svg?repos=Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-FramePackWrapper,Tavris1/ComfyUI-Easy-Install,YanWenKun/ComfyUI-Docker,jau123/MeiGen-AI-Design-MCP&type=Date"><img src="https://api.star-history.com/svg?repos=Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-FramePackWrapper,Tavris1/ComfyUI-Easy-Install,YanWenKun/ComfyUI-Docker,jau123/MeiGen-AI-Design-MCP&type=Date" alt="Star History Chart" width="500"></a></details>
-
-
-## 61. Kosinkadink/ComfyUI-VideoHelperSuite
-
-
-<a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
-<img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
-
-**Stars**: `1.7k` | **Created at**: `2023-09-23` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes` `Video`
-
-
-Nodes related to video workflows
-<details><summary>Included Nodes (40)</summary>
-
- - <sub>VHS_AudioToVHSAudio</sub>, [VHS_BatchManager🌟](node_examples/VHS_BatchManager.md), <sub>[VHS_DuplicateImages](node_examples/VHS_DuplicateImages.md)</sub>, <sub>[VHS_DuplicateLatents](node_examples/VHS_DuplicateLatents.md)</sub>, <sub>VHS_DuplicateMasks</sub>, <sub>[VHS_GetImageCount](node_examples/VHS_GetImageCount.md)</sub>, <sub>[VHS_GetLatentCount](node_examples/VHS_GetLatentCount.md)</sub>, <sub>VHS_GetMaskCount</sub>, <sub>[VHS_LoadAudio](node_examples/VHS_LoadAudio.md)</sub>, <sub>[VHS_LoadAudioUpload](node_examples/VHS_LoadAudioUpload.md)</sub>, <sub>VHS_LoadImagePath</sub>, <sub>[VHS_LoadImages](node_examples/VHS_LoadImages.md)</sub>, [VHS_LoadImagesPath🌟](node_examples/VHS_LoadImagesPath.md), [VHS_LoadVideo🌟](node_examples/VHS_LoadVideo.md), <sub>VHS_LoadVideoFFmpeg</sub>, <sub>VHS_LoadVideoFFmpegPath</sub>, [VHS_LoadVideoPath🌟](node_examples/VHS_LoadVideoPath.md), <sub>[VHS_MergeImages](node_examples/VHS_MergeImages.md)</sub>, <sub>[VHS_MergeLatents](node_examples/VHS_MergeLatents.md)</sub>, <sub>VHS_MergeMasks</sub>, <sub>[VHS_PruneOutputs](node_examples/VHS_PruneOutputs.md)</sub>, <sub>VHS_SelectEveryNthImage</sub>, <sub>VHS_SelectEveryNthLatent</sub>, <sub>[VHS_SelectEveryNthMask](node_examples/VHS_SelectEveryNthMask.md)</sub>, <sub>VHS_SelectFilename</sub>, <sub>VHS_SelectImages</sub>, <sub>VHS_SelectLatents</sub>, <sub>VHS_SelectLatest</sub>, <sub>VHS_SelectMasks</sub>, <sub>[VHS_SplitImages](node_examples/VHS_SplitImages.md)</sub>, <sub>[VHS_SplitLatents](node_examples/VHS_SplitLatents.md)</sub>, <sub>VHS_SplitMasks</sub>, <sub>VHS_Unbatch</sub>, <sub>[VHS_VAEDecodeBatched](node_examples/VHS_VAEDecodeBatched.md)</sub>, <sub>VHS_VAEEncodeBatched</sub>, <sub>VHS_VHSAudioToAudio</sub>, [VHS_VideoCombine🌟](node_examples/VHS_VideoCombine.md), <sub>[VHS_VideoInfo](node_examples/VHS_VideoInfo.md)</sub>, <sub>[VHS_VideoInfoLoaded](node_examples/VHS_VideoInfoLoaded.md)</sub>, <sub>VHS_VideoInfoSource</sub>
-</details>
-
-
 ## 62. kijai/ComfyUI-FramePackWrapper
 
 
 <a href='https://github.com/kijai/ComfyUI-FramePackWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FramePackWrapper
 
-**Stars**: `1.7k` | **Created at**: `2025-04-17` | **Last updated**: `2026-07-10`
+**Stars**: `1.7k` | **Created at**: `2025-04-17` | **Last updated**: `2026-07-11`
 
 
 None
@@ -1065,13 +1065,13 @@ Portable ComfyUI installer for Windows, macOS and Linux with EZi Desktop app �
 <a href='https://github.com/jau123/MeiGen-AI-Design-MCP'>
 <img src="https://avatars.githubusercontent.com/u/130447398?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jau123/MeiGen-AI-Design-MCP
 
-**Stars**: `1.6k` | **Created at**: `2026-02-07` | **Last updated**: `2026-07-10`
+**Stars**: `1.6k` | **Created at**: `2026-02-07` | **Last updated**: `2026-07-11`
 
 
 Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
 # TOP 66 - 70
 
-<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,16131zzzzzzzz/EveryoneNobel,ssitu/ComfyUI_UltimateSDUpscale,BennyKok/comfyui-deploy,AlekPet/ComfyUI_Custom_Nodes_AlekPet&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,16131zzzzzzzz/EveryoneNobel,ssitu/ComfyUI_UltimateSDUpscale,BennyKok/comfyui-deploy,AlekPet/ComfyUI_Custom_Nodes_AlekPet&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,16131zzzzzzzz/EveryoneNobel,ssitu/ComfyUI_UltimateSDUpscale,BennyKok/comfyui-deploy,AIGODLIKE/ComfyUI-BlenderAI-node&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,16131zzzzzzzz/EveryoneNobel,ssitu/ComfyUI_UltimateSDUpscale,BennyKok/comfyui-deploy,AIGODLIKE/ComfyUI-BlenderAI-node&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 66. kijai/ComfyUI-CogVideoXWrapper
@@ -1109,7 +1109,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `1.5k` | **Created at**: `2023-05-16` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `1.5k` | **Created at**: `2023-05-16` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -1135,7 +1135,22 @@ An open source `vercel` like deployment platform for Comfy UI
 </details>
 
 
-## 70. AlekPet/ComfyUI_Custom_Nodes_AlekPet
+## 70. AIGODLIKE/ComfyUI-BlenderAI-node
+
+
+<a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
+<img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+
+**Stars**: `1.5k` | **Created at**: `2023-04-24` | **Last updated**: `2026-07-11` | **Tags**: `Integration` `3D`
+
+
+Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
+# TOP 71 - 75
+
+<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=AlekPet/ComfyUI_Custom_Nodes_AlekPet,Enemyx-net/VibeVoice-ComfyUI,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui,ZHO-ZHO-ZHO/ComfyUI-InstantID&type=Date"><img src="https://api.star-history.com/svg?repos=AlekPet/ComfyUI_Custom_Nodes_AlekPet,Enemyx-net/VibeVoice-ComfyUI,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui,ZHO-ZHO-ZHO/ComfyUI-InstantID&type=Date" alt="Star History Chart" width="500"></a></details>
+
+
+## 71. AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
 
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
@@ -1145,21 +1160,6 @@ An open source `vercel` like deployment platform for Comfy UI
 
 
 Custom nodes that extend the capabilities of Comfyui
-# TOP 71 - 75
-
-<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=AIGODLIKE/ComfyUI-BlenderAI-node,Enemyx-net/VibeVoice-ComfyUI,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui,ZHO-ZHO-ZHO/ComfyUI-InstantID&type=Date"><img src="https://api.star-history.com/svg?repos=AIGODLIKE/ComfyUI-BlenderAI-node,Enemyx-net/VibeVoice-ComfyUI,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui,ZHO-ZHO-ZHO/ComfyUI-InstantID&type=Date" alt="Star History Chart" width="500"></a></details>
-
-
-## 71. AIGODLIKE/ComfyUI-BlenderAI-node
-
-
-<a href='https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node'>
-<img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
-
-**Stars**: `1.5k` | **Created at**: `2023-04-24` | **Last updated**: `2026-07-10` | **Tags**: `Integration` `3D`
-
-
-Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI)
 
 ## 72. Enemyx-net/VibeVoice-ComfyUI
 
@@ -1167,7 +1167,7 @@ Used for AI model generation, next-generation Blender rendering engine, texture 
 <a href='https://github.com/Enemyx-net/VibeVoice-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/228984999?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Enemyx-net/VibeVoice-ComfyUI
 
-**Stars**: `1.5k` | **Created at**: `2025-08-27` | **Last updated**: `2026-07-10`
+**Stars**: `1.5k` | **Created at**: `2025-08-27` | **Last updated**: `2026-07-11`
 
 
 A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
@@ -1261,7 +1261,7 @@ A ComfyUI workflows and models management extension to organize and manage all y
 <a href='https://github.com/logtd/ComfyUI-Fluxtapoz'>
 <img src="https://avatars.githubusercontent.com/u/160989552?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/logtd/ComfyUI-Fluxtapoz
 
-**Stars**: `1.4k` | **Created at**: `2024-08-15` | **Last updated**: `2026-06-24`
+**Stars**: `1.4k` | **Created at**: `2024-08-15` | **Last updated**: `2026-07-11`
 
 
 Nodes for image juxtaposition for Flux in ComfyUI
@@ -1284,7 +1284,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.4k` | **Created at**: `2024-03-05` | **Last updated**: `2026-07-06` | **Tags**: `Workflow Examples`
+**Stars**: `1.4k` | **Created at**: `2024-03-05` | **Last updated**: `2026-07-11` | **Tags**: `Workflow Examples`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -1295,7 +1295,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/zanllp/infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/infinite-image-browsing
 
-**Stars**: `1.3k` | **Created at**: `2023-03-07` | **Last updated**: `2026-07-09`
+**Stars**: `1.3k` | **Created at**: `2023-03-07` | **Last updated**: `2026-07-11`
 
 
 A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.
@@ -1312,7 +1312,7 @@ A full-featured image/video management app with AI-powered organization and sema
 ComfyUI related stuff and things
 # TOP 81 - 85
 
-<details><summary>Star History for TOP 81 - 85</summary><a href="https://api.star-history.com/svg?repos=Gourieff/ComfyUI-ReActor,willmiao/ComfyUI-Lora-Manager,Suzie1/ComfyUI_Comfyroll_CustomNodes,scraed/LanPaint,jtydhr88/ComfyUI-qwenmultiangle&type=Date"><img src="https://api.star-history.com/svg?repos=Gourieff/ComfyUI-ReActor,willmiao/ComfyUI-Lora-Manager,Suzie1/ComfyUI_Comfyroll_CustomNodes,scraed/LanPaint,jtydhr88/ComfyUI-qwenmultiangle&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 81 - 85</summary><a href="https://api.star-history.com/svg?repos=Gourieff/ComfyUI-ReActor,willmiao/ComfyUI-Lora-Manager,scraed/LanPaint,Suzie1/ComfyUI_Comfyroll_CustomNodes,jtydhr88/ComfyUI-qwenmultiangle&type=Date"><img src="https://api.star-history.com/svg?repos=Gourieff/ComfyUI-ReActor,willmiao/ComfyUI-Lora-Manager,scraed/LanPaint,Suzie1/ComfyUI_Comfyroll_CustomNodes,jtydhr88/ComfyUI-qwenmultiangle&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 81. Gourieff/ComfyUI-ReActor
@@ -1338,7 +1338,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `1.3k` | **Created at**: `2025-01-27` | **Last updated**: `2026-07-10`
+**Stars**: `1.3k` | **Created at**: `2025-01-27` | **Last updated**: `2026-07-12`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1355,23 +1355,7 @@ LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and 
 </details>
 
 
-## 83. Suzie1/ComfyUI_Comfyroll_CustomNodes
-
-
-<a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
-<img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
-
-**Stars**: `1.3k` | **Created at**: `2023-06-10` | **Last updated**: `2026-07-09` | **Tags**: `Custom Nodes`
-
-
-Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
-<details><summary>Included Nodes (207)</summary>
-
- - <sub>CR 8 Channel In</sub>, <sub>CR 8 Channel Out</sub>, <sub>[CR Apply ControlNet](node_examples/CR_Apply_ControlNet.md)</sub>, <sub>[CR Apply LoRA Stack](node_examples/CR_Apply_LoRA_Stack.md)</sub>, <sub>[CR Apply Model Merge](node_examples/CR_Apply_Model_Merge.md)</sub>, <sub>[CR Apply Multi Upscale](node_examples/CR_Apply_Multi_Upscale.md)</sub>, <sub>[CR Apply Multi-ControlNet](node_examples/CR_Apply_Multi-ControlNet.md)</sub>, <sub>CR Arabic Text RTL</sub>, <sub>[CR Aspect Ratio](node_examples/CR_Aspect_Ratio.md)</sub>, <sub>CR Aspect Ratio Banners</sub>, <sub>CR Aspect Ratio SDXL</sub>, <sub>CR Aspect Ratio Social Media</sub>, <sub>[CR Batch Images From List](node_examples/CR_Batch_Images_From_List.md)</sub>, <sub>[CR Batch Process Switch](node_examples/CR_Batch_Process_Switch.md)</sub>, <sub>CR Binary Pattern</sub>, <sub>[CR Binary To Bit List](node_examples/CR_Binary_To_Bit_List.md)</sub>, <sub>[CR Bit Schedule](node_examples/CR_Bit_Schedule.md)</sub>, <sub>[CR Central Schedule](node_examples/CR_Central_Schedule.md)</sub>, <sub>[CR Checker Pattern](node_examples/CR_Checker_Pattern.md)</sub>, <sub>CR Clamp Value</sub>, <sub>[CR Clip Input Switch](node_examples/CR_Clip_Input_Switch.md)</sub>, <sub>[CR Color Bars](node_examples/CR_Color_Bars.md)</sub>, <sub>[CR Color Gradient](node_examples/CR_Color_Gradient.md)</sub>, <sub>[CR Color Panel](node_examples/CR_Color_Panel.md)</sub>, <sub>[CR Color Tint](node_examples/CR_Color_Tint.md)</sub>, <sub>CR Combine Prompt</sub>, <sub>[CR Combine Schedules](node_examples/CR_Combine_Schedules.md)</sub>, <sub>[CR Comic Panel Templates](node_examples/CR_Comic_Panel_Templates.md)</sub>, <sub>CR Composite Text</sub>, <sub>[CR Conditioning Input Switch](node_examples/CR_Conditioning_Input_Switch.md)</sub>, <sub>CR Conditioning Mixer</sub>, <sub>[CR ControlNet Input Switch](node_examples/CR_ControlNet_Input_Switch.md)</sub>, <sub>[CR Current Frame](node_examples/CR_Current_Frame.md)</sub>, <sub>CR Cycle Images</sub>, <sub>[CR Cycle Images Simple](node_examples/CR_Cycle_Images_Simple.md)</sub>, <sub>[CR Cycle LoRAs](node_examples/CR_Cycle_LoRAs.md)</sub>, <sub>[CR Cycle Models](node_examples/CR_Cycle_Models.md)</sub>, <sub>CR Cycle Text</sub>, <sub>[CR Cycle Text Simple](node_examples/CR_Cycle_Text_Simple.md)</sub>, <sub>[CR Data Bus In](node_examples/CR_Data_Bus_In.md)</sub>, <sub>[CR Data Bus Out](node_examples/CR_Data_Bus_Out.md)</sub>, <sub>CR Debatch Frames</sub>, <sub>CR Diamond Panel</sub>, <sub>CR Draw Perspective Text</sub>, <sub>CR Draw Pie</sub>, <sub>[CR Draw Shape](node_examples/CR_Draw_Shape.md)</sub>, <sub>[CR Draw Text](node_examples/CR_Draw_Text.md)</sub>, <sub>[CR Encode Scheduled Prompts](node_examples/CR_Encode_Scheduled_Prompts.md)</sub>, <sub>[CR Feathered Border](node_examples/CR_Feathered_Border.md)</sub>, <sub>[CR Float Range List](node_examples/CR_Float_Range_List.md)</sub>, <sub>[CR Float To Integer](node_examples/CR_Float_To_Integer.md)</sub>, <sub>[CR Float To String](node_examples/CR_Float_To_String.md)</sub>, <sub>[CR Font File List](node_examples/CR_Font_File_List.md)</sub>, <sub>[CR Get Parameter From Prompt](node_examples/CR_Get_Parameter_From_Prompt.md)</sub>, <sub>[CR Gradient Float](node_examples/CR_Gradient_Float.md)</sub>, <sub>[CR Gradient Integer](node_examples/CR_Gradient_Integer.md)</sub>, <sub>CR Half Drop Panel</sub>, <sub>CR Halftone Filter</sub>, <sub>[CR Halftone Grid](node_examples/CR_Halftone_Grid.md)</sub>, <sub>[CR Hires Fix Process Switch](node_examples/CR_Hires_Fix_Process_Switch.md)</sub>, <sub>CR Image Border</sub>, <sub>[CR Image Grid Panel](node_examples/CR_Image_Grid_Panel.md)</sub>, <sub>[CR Image Input Switch](node_examples/CR_Image_Input_Switch.md)</sub>, <sub>[CR Image Input Switch (4 way)](node_examples/CR_Image_Input_Switch_(4_way).md)</sub>, <sub>CR Image List</sub>, <sub>CR Image List Simple</sub>, <sub>CR Image Output</sub>, <sub>[CR Image Panel](node_examples/CR_Image_Panel.md)</sub>, <sub>CR Image Pipe Edit</sub>, <sub>[CR Image Pipe In](node_examples/CR_Image_Pipe_In.md)</sub>, <sub>[CR Image Pipe Out](node_examples/CR_Image_Pipe_Out.md)</sub>, <sub>CR Image Size</sub>, <sub>[CR Img2Img Process Switch](node_examples/CR_Img2Img_Process_Switch.md)</sub>, <sub>[CR Increment Float](node_examples/CR_Increment_Float.md)</sub>, <sub>[CR Increment Integer](node_examples/CR_Increment_Integer.md)</sub>, <sub>CR Index</sub>, <sub>CR Index Increment</sub>, <sub>CR Index Multiply</sub>, <sub>CR Index Reset</sub>, <sub>CR Input Text List</sub>, <sub>[CR Integer Multiple](node_examples/CR_Integer_Multiple.md)</sub>, <sub>[CR Integer Range List](node_examples/CR_Integer_Range_List.md)</sub>, <sub>[CR Integer To String](node_examples/CR_Integer_To_String.md)</sub>, <sub>[CR Interpolate Latents](node_examples/CR_Interpolate_Latents.md)</sub>, <sub>[CR Intertwine Lists](node_examples/CR_Intertwine_Lists.md)</sub>, <sub>[CR Keyframe List](node_examples/CR_Keyframe_List.md)</sub>, <sub>CR Latent Batch Size</sub>, <sub>[CR Latent Input Switch](node_examples/CR_Latent_Input_Switch.md)</sub>, <sub>CR Load Animation Frames</sub>, <sub>[CR Load Flow Frames](node_examples/CR_Load_Flow_Frames.md)</sub>, <sub>CR Load GIF As List</sub>, <sub>CR Load Image List</sub>, <sub>[CR Load Image List Plus](node_examples/CR_Load_Image_List_Plus.md)</sub>, <sub>[CR Load LoRA](node_examples/CR_Load_LoRA.md)</sub>, <sub>CR Load Prompt Style</sub>, <sub>[CR Load Schedule From File](node_examples/CR_Load_Schedule_From_File.md)</sub>, <sub>CR Load Scheduled ControlNets</sub>, <sub>[CR Load Scheduled LoRAs](node_examples/CR_Load_Scheduled_LoRAs.md)</sub>, <sub>[CR Load Scheduled Models](node_examples/CR_Load_Scheduled_Models.md)</sub>, <sub>[CR Load Text List](node_examples/CR_Load_Text_List.md)</sub>, <sub>CR Load Value List</sub>, <sub>[CR LoRA List](node_examples/CR_LoRA_List.md)</sub>, <sub>[CR LoRA Stack](node_examples/CR_LoRA_Stack.md)</sub>, <sub>CR Mask Text</sub>, <sub>CR Math Operation</sub>, <sub>[CR Model Input Switch](node_examples/CR_Model_Input_Switch.md)</sub>, <sub>[CR Model List](node_examples/CR_Model_List.md)</sub>, <sub>[CR Model Merge Stack](node_examples/CR_Model_Merge_Stack.md)</sub>, <sub>[CR Module Input](node_examples/CR_Module_Input.md)</sub>, <sub>[CR Module Output](node_examples/CR_Module_Output.md)</sub>, <sub>[CR Module Pipe Loader](node_examples/CR_Module_Pipe_Loader.md)</sub>, <sub>[CR Multi Upscale Stack](node_examples/CR_Multi_Upscale_Stack.md)</sub>, <sub>[CR Multi-ControlNet Stack](node_examples/CR_Multi-ControlNet_Stack.md)</sub>, <sub>[CR Multiline Text](node_examples/CR_Multiline_Text.md)</sub>, <sub>[CR Output Flow Frames](node_examples/CR_Output_Flow_Frames.md)</sub>, <sub>[CR Output Schedule To File](node_examples/CR_Output_Schedule_To_File.md)</sub>, <sub>[CR Overlay Text](node_examples/CR_Overlay_Text.md)</sub>, <sub>[CR Overlay Transparent Image](node_examples/CR_Overlay_Transparent_Image.md)</sub>, <sub>CR Page Layout</sub>, <sub>[CR Pipe Switch](node_examples/CR_Pipe_Switch.md)</sub>, <sub>[CR Polygons](node_examples/CR_Polygons.md)</sub>, <sub>[CR Prompt List](node_examples/CR_Prompt_List.md)</sub>, <sub>[CR Prompt List Keyframes](node_examples/CR_Prompt_List_Keyframes.md)</sub>, <sub>[CR Prompt Scheduler](node_examples/CR_Prompt_Scheduler.md)</sub>, <sub>[CR Prompt Text](node_examples/CR_Prompt_Text.md)</sub>, <sub>[CR Radial Gradient](node_examples/CR_Radial_Gradient.md)</sub>, <sub>CR Random Hex Color</sub>, <sub>CR Random LoRA Stack</sub>, <sub>[CR Random Multiline Colors](node_examples/CR_Random_Multiline_Colors.md)</sub>, <sub>[CR Random Multiline Values](node_examples/CR_Random_Multiline_Values.md)</sub>, <sub>[CR Random Panel Codes](node_examples/CR_Random_Panel_Codes.md)</sub>, <sub>CR Random RGB</sub>, <sub>[CR Random RGB Gradient](node_examples/CR_Random_RGB_Gradient.md)</sub>, <sub>CR Random Shape Pattern</sub>, <sub>CR Random Weight LoRA</sub>, <sub>CR Repeater</sub>, <sub>[CR Save Text To File](node_examples/CR_Save_Text_To_File.md)</sub>, <sub>[CR Schedule Input Switch](node_examples/CR_Schedule_Input_Switch.md)</sub>, <sub>CR Schedule To ScheduleList</sub>, <sub>[CR SD1.5 Aspect Ratio](node_examples/CR_SD1.5_Aspect_Ratio.md)</sub>, <sub>[CR SDXL Aspect Ratio](node_examples/CR_SDXL_Aspect_Ratio.md)</sub>, <sub>[CR SDXL Base Prompt Encoder](node_examples/CR_SDXL_Base_Prompt_Encoder.md)</sub>, <sub>[CR SDXL Prompt Mix Presets](node_examples/CR_SDXL_Prompt_Mix_Presets.md)</sub>, <sub>CR SDXL Prompt Mixer</sub>, <sub>[CR SDXL Style Text](node_examples/CR_SDXL_Style_Text.md)</sub>, <sub>[CR Seamless Checker](node_examples/CR_Seamless_Checker.md)</sub>, <sub>[CR Seed](node_examples/CR_Seed.md)</sub>, <sub>CR Seed to Int</sub>, <sub>[CR Select Font](node_examples/CR_Select_Font.md)</sub>, <sub>CR Select ISO Size</sub>, <sub>CR Select Model</sub>, <sub>CR Select Resize Method</sub>, <sub>[CR Set Switch From String](node_examples/CR_Set_Switch_From_String.md)</sub>, <sub>[CR Set Value On Binary](node_examples/CR_Set_Value_On_Binary.md)</sub>, <sub>[CR Set Value On Boolean](node_examples/CR_Set_Value_On_Boolean.md)</sub>, <sub>CR Set Value on String</sub>, <sub>[CR Simple Banner](node_examples/CR_Simple_Banner.md)</sub>, <sub>CR Simple Binary Pattern</sub>, <sub>CR Simple Binary Pattern Simple</sub>, <sub>[CR Simple Image Compare](node_examples/CR_Simple_Image_Compare.md)</sub>, <sub>CR Simple List</sub>, <sub>[CR Simple Meme Template](node_examples/CR_Simple_Meme_Template.md)</sub>, <sub>CR Simple Prompt List</sub>, <sub>[CR Simple Prompt List Keyframes](node_examples/CR_Simple_Prompt_List_Keyframes.md)</sub>, <sub>[CR Simple Prompt Scheduler](node_examples/CR_Simple_Prompt_Scheduler.md)</sub>, <sub>CR Simple Schedule</sub>, <sub>CR Simple Text Panel</sub>, <sub>[CR Simple Text Scheduler](node_examples/CR_Simple_Text_Scheduler.md)</sub>, <sub>[CR Simple Text Watermark](node_examples/CR_Simple_Text_Watermark.md)</sub>, <sub>[CR Simple Value Scheduler](node_examples/CR_Simple_Value_Scheduler.md)</sub>, <sub>[CR Split String](node_examples/CR_Split_String.md)</sub>, <sub>[CR Starburst Colors](node_examples/CR_Starburst_Colors.md)</sub>, <sub>[CR Starburst Lines](node_examples/CR_Starburst_Lines.md)</sub>, <sub>CR String To Boolean</sub>, <sub>[CR String To Combo](node_examples/CR_String_To_Combo.md)</sub>, <sub>[CR String To Number](node_examples/CR_String_To_Number.md)</sub>, <sub>[CR Style Bars](node_examples/CR_Style_Bars.md)</sub>, <sub>[CR Switch Model and CLIP](node_examples/CR_Switch_Model_and_CLIP.md)</sub>, <sub>CR Text</sub>, <sub>CR Text Blacklist</sub>, <sub>[CR Text Concatenate](node_examples/CR_Text_Concatenate.md)</sub>, <sub>[CR Text Cycler](node_examples/CR_Text_Cycler.md)</sub>, <sub>[CR Text Input Switch](node_examples/CR_Text_Input_Switch.md)</sub>, <sub>[CR Text Input Switch (4 way)](node_examples/CR_Text_Input_Switch_(4_way).md)</sub>, <sub>CR Text Length</sub>, <sub>[CR Text List](node_examples/CR_Text_List.md)</sub>, <sub>CR Text List Simple</sub>, <sub>CR Text List To String</sub>, <sub>[CR Text Operation](node_examples/CR_Text_Operation.md)</sub>, <sub>[CR Text Replace](node_examples/CR_Text_Replace.md)</sub>, <sub>[CR Text Scheduler](node_examples/CR_Text_Scheduler.md)</sub>, <sub>[CR Thumbnail Preview](node_examples/CR_Thumbnail_Preview.md)</sub>, <sub>CR Trigger</sub>, <sub>[CR Upscale Image](node_examples/CR_Upscale_Image.md)</sub>, <sub>CR VAE Decode</sub>, <sub>[CR VAE Input Switch](node_examples/CR_VAE_Input_Switch.md)</sub>, <sub>CR Value</sub>, <sub>CR Value Cycler</sub>, <sub>[CR Value Scheduler](node_examples/CR_Value_Scheduler.md)</sub>, <sub>[CR Vignette Filter](node_examples/CR_Vignette_Filter.md)</sub>, <sub>[CR XY From Folder](node_examples/CR_XY_From_Folder.md)</sub>, <sub>CR XY Index</sub>, <sub>[CR XY Interpolate](node_examples/CR_XY_Interpolate.md)</sub>, <sub>CR XY List</sub>, <sub>[CR XY Product](node_examples/CR_XY_Product.md)</sub>, <sub>[CR XY Save Grid Image](node_examples/CR_XY_Save_Grid_Image.md)</sub>, <sub>CR_Aspect Ratio For Print</sub>
-</details>
-
-
-## 84. scraed/LanPaint
+## 83. scraed/LanPaint
 
 
 <a href='https://github.com/scraed/LanPaint'>
@@ -1387,13 +1371,29 @@ High quality training free inpaint for every stable diffusion model. Supports Co
 </details>
 
 
+## 84. Suzie1/ComfyUI_Comfyroll_CustomNodes
+
+
+<a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
+<img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+
+**Stars**: `1.3k` | **Created at**: `2023-06-10` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
+
+
+Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
+<details><summary>Included Nodes (207)</summary>
+
+ - <sub>CR 8 Channel In</sub>, <sub>CR 8 Channel Out</sub>, <sub>[CR Apply ControlNet](node_examples/CR_Apply_ControlNet.md)</sub>, <sub>[CR Apply LoRA Stack](node_examples/CR_Apply_LoRA_Stack.md)</sub>, <sub>[CR Apply Model Merge](node_examples/CR_Apply_Model_Merge.md)</sub>, <sub>[CR Apply Multi Upscale](node_examples/CR_Apply_Multi_Upscale.md)</sub>, <sub>[CR Apply Multi-ControlNet](node_examples/CR_Apply_Multi-ControlNet.md)</sub>, <sub>CR Arabic Text RTL</sub>, <sub>[CR Aspect Ratio](node_examples/CR_Aspect_Ratio.md)</sub>, <sub>CR Aspect Ratio Banners</sub>, <sub>CR Aspect Ratio SDXL</sub>, <sub>CR Aspect Ratio Social Media</sub>, <sub>[CR Batch Images From List](node_examples/CR_Batch_Images_From_List.md)</sub>, <sub>[CR Batch Process Switch](node_examples/CR_Batch_Process_Switch.md)</sub>, <sub>CR Binary Pattern</sub>, <sub>[CR Binary To Bit List](node_examples/CR_Binary_To_Bit_List.md)</sub>, <sub>[CR Bit Schedule](node_examples/CR_Bit_Schedule.md)</sub>, <sub>[CR Central Schedule](node_examples/CR_Central_Schedule.md)</sub>, <sub>[CR Checker Pattern](node_examples/CR_Checker_Pattern.md)</sub>, <sub>CR Clamp Value</sub>, <sub>[CR Clip Input Switch](node_examples/CR_Clip_Input_Switch.md)</sub>, <sub>[CR Color Bars](node_examples/CR_Color_Bars.md)</sub>, <sub>[CR Color Gradient](node_examples/CR_Color_Gradient.md)</sub>, <sub>[CR Color Panel](node_examples/CR_Color_Panel.md)</sub>, <sub>[CR Color Tint](node_examples/CR_Color_Tint.md)</sub>, <sub>CR Combine Prompt</sub>, <sub>[CR Combine Schedules](node_examples/CR_Combine_Schedules.md)</sub>, <sub>[CR Comic Panel Templates](node_examples/CR_Comic_Panel_Templates.md)</sub>, <sub>CR Composite Text</sub>, <sub>[CR Conditioning Input Switch](node_examples/CR_Conditioning_Input_Switch.md)</sub>, <sub>CR Conditioning Mixer</sub>, <sub>[CR ControlNet Input Switch](node_examples/CR_ControlNet_Input_Switch.md)</sub>, <sub>[CR Current Frame](node_examples/CR_Current_Frame.md)</sub>, <sub>CR Cycle Images</sub>, <sub>[CR Cycle Images Simple](node_examples/CR_Cycle_Images_Simple.md)</sub>, <sub>[CR Cycle LoRAs](node_examples/CR_Cycle_LoRAs.md)</sub>, <sub>[CR Cycle Models](node_examples/CR_Cycle_Models.md)</sub>, <sub>CR Cycle Text</sub>, <sub>[CR Cycle Text Simple](node_examples/CR_Cycle_Text_Simple.md)</sub>, <sub>[CR Data Bus In](node_examples/CR_Data_Bus_In.md)</sub>, <sub>[CR Data Bus Out](node_examples/CR_Data_Bus_Out.md)</sub>, <sub>CR Debatch Frames</sub>, <sub>CR Diamond Panel</sub>, <sub>CR Draw Perspective Text</sub>, <sub>CR Draw Pie</sub>, <sub>[CR Draw Shape](node_examples/CR_Draw_Shape.md)</sub>, <sub>[CR Draw Text](node_examples/CR_Draw_Text.md)</sub>, <sub>[CR Encode Scheduled Prompts](node_examples/CR_Encode_Scheduled_Prompts.md)</sub>, <sub>[CR Feathered Border](node_examples/CR_Feathered_Border.md)</sub>, <sub>[CR Float Range List](node_examples/CR_Float_Range_List.md)</sub>, <sub>[CR Float To Integer](node_examples/CR_Float_To_Integer.md)</sub>, <sub>[CR Float To String](node_examples/CR_Float_To_String.md)</sub>, <sub>[CR Font File List](node_examples/CR_Font_File_List.md)</sub>, <sub>[CR Get Parameter From Prompt](node_examples/CR_Get_Parameter_From_Prompt.md)</sub>, <sub>[CR Gradient Float](node_examples/CR_Gradient_Float.md)</sub>, <sub>[CR Gradient Integer](node_examples/CR_Gradient_Integer.md)</sub>, <sub>CR Half Drop Panel</sub>, <sub>CR Halftone Filter</sub>, <sub>[CR Halftone Grid](node_examples/CR_Halftone_Grid.md)</sub>, <sub>[CR Hires Fix Process Switch](node_examples/CR_Hires_Fix_Process_Switch.md)</sub>, <sub>CR Image Border</sub>, <sub>[CR Image Grid Panel](node_examples/CR_Image_Grid_Panel.md)</sub>, <sub>[CR Image Input Switch](node_examples/CR_Image_Input_Switch.md)</sub>, <sub>[CR Image Input Switch (4 way)](node_examples/CR_Image_Input_Switch_(4_way).md)</sub>, <sub>CR Image List</sub>, <sub>CR Image List Simple</sub>, <sub>CR Image Output</sub>, <sub>[CR Image Panel](node_examples/CR_Image_Panel.md)</sub>, <sub>CR Image Pipe Edit</sub>, <sub>[CR Image Pipe In](node_examples/CR_Image_Pipe_In.md)</sub>, <sub>[CR Image Pipe Out](node_examples/CR_Image_Pipe_Out.md)</sub>, <sub>CR Image Size</sub>, <sub>[CR Img2Img Process Switch](node_examples/CR_Img2Img_Process_Switch.md)</sub>, <sub>[CR Increment Float](node_examples/CR_Increment_Float.md)</sub>, <sub>[CR Increment Integer](node_examples/CR_Increment_Integer.md)</sub>, <sub>CR Index</sub>, <sub>CR Index Increment</sub>, <sub>CR Index Multiply</sub>, <sub>CR Index Reset</sub>, <sub>CR Input Text List</sub>, <sub>[CR Integer Multiple](node_examples/CR_Integer_Multiple.md)</sub>, <sub>[CR Integer Range List](node_examples/CR_Integer_Range_List.md)</sub>, <sub>[CR Integer To String](node_examples/CR_Integer_To_String.md)</sub>, <sub>[CR Interpolate Latents](node_examples/CR_Interpolate_Latents.md)</sub>, <sub>[CR Intertwine Lists](node_examples/CR_Intertwine_Lists.md)</sub>, <sub>[CR Keyframe List](node_examples/CR_Keyframe_List.md)</sub>, <sub>CR Latent Batch Size</sub>, <sub>[CR Latent Input Switch](node_examples/CR_Latent_Input_Switch.md)</sub>, <sub>CR Load Animation Frames</sub>, <sub>[CR Load Flow Frames](node_examples/CR_Load_Flow_Frames.md)</sub>, <sub>CR Load GIF As List</sub>, <sub>CR Load Image List</sub>, <sub>[CR Load Image List Plus](node_examples/CR_Load_Image_List_Plus.md)</sub>, <sub>[CR Load LoRA](node_examples/CR_Load_LoRA.md)</sub>, <sub>CR Load Prompt Style</sub>, <sub>[CR Load Schedule From File](node_examples/CR_Load_Schedule_From_File.md)</sub>, <sub>CR Load Scheduled ControlNets</sub>, <sub>[CR Load Scheduled LoRAs](node_examples/CR_Load_Scheduled_LoRAs.md)</sub>, <sub>[CR Load Scheduled Models](node_examples/CR_Load_Scheduled_Models.md)</sub>, <sub>[CR Load Text List](node_examples/CR_Load_Text_List.md)</sub>, <sub>CR Load Value List</sub>, <sub>[CR LoRA List](node_examples/CR_LoRA_List.md)</sub>, <sub>[CR LoRA Stack](node_examples/CR_LoRA_Stack.md)</sub>, <sub>CR Mask Text</sub>, <sub>CR Math Operation</sub>, <sub>[CR Model Input Switch](node_examples/CR_Model_Input_Switch.md)</sub>, <sub>[CR Model List](node_examples/CR_Model_List.md)</sub>, <sub>[CR Model Merge Stack](node_examples/CR_Model_Merge_Stack.md)</sub>, <sub>[CR Module Input](node_examples/CR_Module_Input.md)</sub>, <sub>[CR Module Output](node_examples/CR_Module_Output.md)</sub>, <sub>[CR Module Pipe Loader](node_examples/CR_Module_Pipe_Loader.md)</sub>, <sub>[CR Multi Upscale Stack](node_examples/CR_Multi_Upscale_Stack.md)</sub>, <sub>[CR Multi-ControlNet Stack](node_examples/CR_Multi-ControlNet_Stack.md)</sub>, <sub>[CR Multiline Text](node_examples/CR_Multiline_Text.md)</sub>, <sub>[CR Output Flow Frames](node_examples/CR_Output_Flow_Frames.md)</sub>, <sub>[CR Output Schedule To File](node_examples/CR_Output_Schedule_To_File.md)</sub>, <sub>[CR Overlay Text](node_examples/CR_Overlay_Text.md)</sub>, <sub>[CR Overlay Transparent Image](node_examples/CR_Overlay_Transparent_Image.md)</sub>, <sub>CR Page Layout</sub>, <sub>[CR Pipe Switch](node_examples/CR_Pipe_Switch.md)</sub>, <sub>[CR Polygons](node_examples/CR_Polygons.md)</sub>, <sub>[CR Prompt List](node_examples/CR_Prompt_List.md)</sub>, <sub>[CR Prompt List Keyframes](node_examples/CR_Prompt_List_Keyframes.md)</sub>, <sub>[CR Prompt Scheduler](node_examples/CR_Prompt_Scheduler.md)</sub>, <sub>[CR Prompt Text](node_examples/CR_Prompt_Text.md)</sub>, <sub>[CR Radial Gradient](node_examples/CR_Radial_Gradient.md)</sub>, <sub>CR Random Hex Color</sub>, <sub>CR Random LoRA Stack</sub>, <sub>[CR Random Multiline Colors](node_examples/CR_Random_Multiline_Colors.md)</sub>, <sub>[CR Random Multiline Values](node_examples/CR_Random_Multiline_Values.md)</sub>, <sub>[CR Random Panel Codes](node_examples/CR_Random_Panel_Codes.md)</sub>, <sub>CR Random RGB</sub>, <sub>[CR Random RGB Gradient](node_examples/CR_Random_RGB_Gradient.md)</sub>, <sub>CR Random Shape Pattern</sub>, <sub>CR Random Weight LoRA</sub>, <sub>CR Repeater</sub>, <sub>[CR Save Text To File](node_examples/CR_Save_Text_To_File.md)</sub>, <sub>[CR Schedule Input Switch](node_examples/CR_Schedule_Input_Switch.md)</sub>, <sub>CR Schedule To ScheduleList</sub>, <sub>[CR SD1.5 Aspect Ratio](node_examples/CR_SD1.5_Aspect_Ratio.md)</sub>, <sub>[CR SDXL Aspect Ratio](node_examples/CR_SDXL_Aspect_Ratio.md)</sub>, <sub>[CR SDXL Base Prompt Encoder](node_examples/CR_SDXL_Base_Prompt_Encoder.md)</sub>, <sub>[CR SDXL Prompt Mix Presets](node_examples/CR_SDXL_Prompt_Mix_Presets.md)</sub>, <sub>CR SDXL Prompt Mixer</sub>, <sub>[CR SDXL Style Text](node_examples/CR_SDXL_Style_Text.md)</sub>, <sub>[CR Seamless Checker](node_examples/CR_Seamless_Checker.md)</sub>, <sub>[CR Seed](node_examples/CR_Seed.md)</sub>, <sub>CR Seed to Int</sub>, <sub>[CR Select Font](node_examples/CR_Select_Font.md)</sub>, <sub>CR Select ISO Size</sub>, <sub>CR Select Model</sub>, <sub>CR Select Resize Method</sub>, <sub>[CR Set Switch From String](node_examples/CR_Set_Switch_From_String.md)</sub>, <sub>[CR Set Value On Binary](node_examples/CR_Set_Value_On_Binary.md)</sub>, <sub>[CR Set Value On Boolean](node_examples/CR_Set_Value_On_Boolean.md)</sub>, <sub>CR Set Value on String</sub>, <sub>[CR Simple Banner](node_examples/CR_Simple_Banner.md)</sub>, <sub>CR Simple Binary Pattern</sub>, <sub>CR Simple Binary Pattern Simple</sub>, <sub>[CR Simple Image Compare](node_examples/CR_Simple_Image_Compare.md)</sub>, <sub>CR Simple List</sub>, <sub>[CR Simple Meme Template](node_examples/CR_Simple_Meme_Template.md)</sub>, <sub>CR Simple Prompt List</sub>, <sub>[CR Simple Prompt List Keyframes](node_examples/CR_Simple_Prompt_List_Keyframes.md)</sub>, <sub>[CR Simple Prompt Scheduler](node_examples/CR_Simple_Prompt_Scheduler.md)</sub>, <sub>CR Simple Schedule</sub>, <sub>CR Simple Text Panel</sub>, <sub>[CR Simple Text Scheduler](node_examples/CR_Simple_Text_Scheduler.md)</sub>, <sub>[CR Simple Text Watermark](node_examples/CR_Simple_Text_Watermark.md)</sub>, <sub>[CR Simple Value Scheduler](node_examples/CR_Simple_Value_Scheduler.md)</sub>, <sub>[CR Split String](node_examples/CR_Split_String.md)</sub>, <sub>[CR Starburst Colors](node_examples/CR_Starburst_Colors.md)</sub>, <sub>[CR Starburst Lines](node_examples/CR_Starburst_Lines.md)</sub>, <sub>CR String To Boolean</sub>, <sub>[CR String To Combo](node_examples/CR_String_To_Combo.md)</sub>, <sub>[CR String To Number](node_examples/CR_String_To_Number.md)</sub>, <sub>[CR Style Bars](node_examples/CR_Style_Bars.md)</sub>, <sub>[CR Switch Model and CLIP](node_examples/CR_Switch_Model_and_CLIP.md)</sub>, <sub>CR Text</sub>, <sub>CR Text Blacklist</sub>, <sub>[CR Text Concatenate](node_examples/CR_Text_Concatenate.md)</sub>, <sub>[CR Text Cycler](node_examples/CR_Text_Cycler.md)</sub>, <sub>[CR Text Input Switch](node_examples/CR_Text_Input_Switch.md)</sub>, <sub>[CR Text Input Switch (4 way)](node_examples/CR_Text_Input_Switch_(4_way).md)</sub>, <sub>CR Text Length</sub>, <sub>[CR Text List](node_examples/CR_Text_List.md)</sub>, <sub>CR Text List Simple</sub>, <sub>CR Text List To String</sub>, <sub>[CR Text Operation](node_examples/CR_Text_Operation.md)</sub>, <sub>[CR Text Replace](node_examples/CR_Text_Replace.md)</sub>, <sub>[CR Text Scheduler](node_examples/CR_Text_Scheduler.md)</sub>, <sub>[CR Thumbnail Preview](node_examples/CR_Thumbnail_Preview.md)</sub>, <sub>CR Trigger</sub>, <sub>[CR Upscale Image](node_examples/CR_Upscale_Image.md)</sub>, <sub>CR VAE Decode</sub>, <sub>[CR VAE Input Switch](node_examples/CR_VAE_Input_Switch.md)</sub>, <sub>CR Value</sub>, <sub>CR Value Cycler</sub>, <sub>[CR Value Scheduler](node_examples/CR_Value_Scheduler.md)</sub>, <sub>[CR Vignette Filter](node_examples/CR_Vignette_Filter.md)</sub>, <sub>[CR XY From Folder](node_examples/CR_XY_From_Folder.md)</sub>, <sub>CR XY Index</sub>, <sub>[CR XY Interpolate](node_examples/CR_XY_Interpolate.md)</sub>, <sub>CR XY List</sub>, <sub>[CR XY Product](node_examples/CR_XY_Product.md)</sub>, <sub>[CR XY Save Grid Image](node_examples/CR_XY_Save_Grid_Image.md)</sub>, <sub>CR_Aspect Ratio For Print</sub>
+</details>
+
+
 ## 85. jtydhr88/ComfyUI-qwenmultiangle
 
 
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `1.3k` | **Created at**: `2026-01-08` | **Last updated**: `2026-07-10`
+**Stars**: `1.3k` | **Created at**: `2026-01-08` | **Last updated**: `2026-07-11`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
@@ -1404,7 +1404,7 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 
 # TOP 86 - 90
 
-<details><summary>Star History for TOP 86 - 90</summary><a href="https://api.star-history.com/svg?repos=wyrde/wyrde-comfyui-workflows,mcmonkeyprojects/sd-dynamic-thresholding,chengzeyi/Comfy-WaveSpeed,Acly/comfyui-inpaint-nodes,florestefano1975/comfyui-portrait-master&type=Date"><img src="https://api.star-history.com/svg?repos=wyrde/wyrde-comfyui-workflows,mcmonkeyprojects/sd-dynamic-thresholding,chengzeyi/Comfy-WaveSpeed,Acly/comfyui-inpaint-nodes,florestefano1975/comfyui-portrait-master&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 86 - 90</summary><a href="https://api.star-history.com/svg?repos=wyrde/wyrde-comfyui-workflows,mcmonkeyprojects/sd-dynamic-thresholding,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master,Acly/comfyui-inpaint-nodes&type=Date"><img src="https://api.star-history.com/svg?repos=wyrde/wyrde-comfyui-workflows,mcmonkeyprojects/sd-dynamic-thresholding,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master,Acly/comfyui-inpaint-nodes&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 86. wyrde/wyrde-comfyui-workflows
@@ -1413,7 +1413,7 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `1.2k` | **Created at**: `2023-04-03` | **Last updated**: `2026-07-10` | **Tags**: `Workflow Examples`
+**Stars**: `1.3k` | **Created at**: `2023-04-03` | **Last updated**: `2026-07-11` | **Tags**: `Workflow Examples`
 
 
 some wyrde workflows for comfyUI
@@ -1440,12 +1440,28 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/chengzeyi/Comfy-WaveSpeed'>
 <img src="https://avatars.githubusercontent.com/u/23494160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chengzeyi/Comfy-WaveSpeed
 
-**Stars**: `1.2k` | **Created at**: `2024-11-27` | **Last updated**: `2026-07-03`
+**Stars**: `1.2k` | **Created at**: `2024-11-27` | **Last updated**: `2026-07-11`
 
 
 https://wavespeed.ai/ [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 
-## 89. Acly/comfyui-inpaint-nodes
+## 89. florestefano1975/comfyui-portrait-master
+
+
+<a href='https://github.com/florestefano1975/comfyui-portrait-master'>
+<img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
+
+**Stars**: `1.2k` | **Created at**: `2023-12-13` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
+
+
+This node was designed to help AI image creators to generate prompts for human portraits.
+<details><summary>Included Nodes (7)</summary>
+
+ - <sub>[PortraitMaster](node_examples/PortraitMaster.md)</sub>, <sub>PortraitMasterBaseCharacter</sub>, <sub>PortraitMasterFaceGenerator</sub>, <sub>PortraitMasterMakeup</sub>, <sub>PortraitMasterPromptStyler</sub>, <sub>PortraitMasterSkinDetails</sub>, <sub>PortraitMasterStylePose</sub>
+</details>
+
+
+## 90. Acly/comfyui-inpaint-nodes
 
 
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
@@ -1460,22 +1476,6 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
  - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_ColorMatch</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>INPAINT_MaskBoundingBox</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>INPAINT_StabilizeMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
 </details>
 
-
-## 90. florestefano1975/comfyui-portrait-master
-
-
-<a href='https://github.com/florestefano1975/comfyui-portrait-master'>
-<img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
-
-**Stars**: `1.2k` | **Created at**: `2023-12-13` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
-
-
-This node was designed to help AI image creators to generate prompts for human portraits.
-<details><summary>Included Nodes (7)</summary>
-
- - <sub>[PortraitMaster](node_examples/PortraitMaster.md)</sub>, <sub>PortraitMasterBaseCharacter</sub>, <sub>PortraitMasterFaceGenerator</sub>, <sub>PortraitMasterMakeup</sub>, <sub>PortraitMasterPromptStyler</sub>, <sub>PortraitMasterSkinDetails</sub>, <sub>PortraitMasterStylePose</sub>
-</details>
-
 # TOP 91 - 95
 
 <details><summary>Star History for TOP 91 - 95</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-segment-anything-2,6174/comflowy,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-segment-anything-2,6174/comflowy,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light&type=Date" alt="Star History Chart" width="500"></a></details>
@@ -1487,7 +1487,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `1.2k` | **Created at**: `2024-07-30` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `1.2k` | **Created at**: `2024-07-30` | **Last updated**: `2026-07-11` | **Tags**: `Custom Nodes`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -1570,7 +1570,7 @@ Using IC-LIght models in ComfyUI
 
 # TOP 96 - 100
 
-<details><summary>Star History for TOP 96 - 100</summary><a href="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,cubiq/ComfyUI_essentials,smthemex/ComfyUI_Sonic,602387193c/ComfyUI-wiki,storyicon/comfyui_segment_anything&type=Date"><img src="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,cubiq/ComfyUI_essentials,smthemex/ComfyUI_Sonic,602387193c/ComfyUI-wiki,storyicon/comfyui_segment_anything&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 96 - 100</summary><a href="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,cubiq/ComfyUI_essentials,smthemex/ComfyUI_Sonic,602387193c/ComfyUI-wiki,lquesada/ComfyUI-Inpaint-CropAndStitch&type=Date"><img src="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,cubiq/ComfyUI_essentials,smthemex/ComfyUI_Sonic,602387193c/ComfyUI-wiki,lquesada/ComfyUI-Inpaint-CropAndStitch&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 96. AHEKOT/ComfyUI_VNCCS
@@ -1579,7 +1579,7 @@ Using IC-LIght models in ComfyUI
 <a href='https://github.com/AHEKOT/ComfyUI_VNCCS'>
 <img src="https://avatars.githubusercontent.com/u/119136212?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AHEKOT/ComfyUI_VNCCS
 
-**Stars**: `1.1k` | **Created at**: `2025-09-27` | **Last updated**: `2026-07-10`
+**Stars**: `1.1k` | **Created at**: `2025-09-27` | **Last updated**: `2026-07-11`
 
 
 Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
@@ -1645,26 +1645,24 @@ Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait 
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `1.1k` | **Created at**: `2024-03-18` | **Last updated**: `2026-07-10` | **Tags**: `Resources`
+**Stars**: `1.1k` | **Created at**: `2024-03-18` | **Last updated**: `2026-07-12` | **Tags**: `Resources`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 
-## 100. storyicon/comfyui_segment_anything
+## 100. lquesada/ComfyUI-Inpaint-CropAndStitch
 
 
-<a href='https://github.com/storyicon/comfyui_segment_anything'>
-<img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
+<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
+<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-**Stars**: `1.1k` | **Created at**: `2023-10-07` | **Last updated**: `2026-07-10` | **Tags**: `Custom Nodes`
+**Stars**: `1.1k` | **Created at**: `2024-05-11` | **Last updated**: `2026-07-11`
 
 
-Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
-<details><summary>Included Nodes (5)</summary>
+ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
+<details><summary>Included Nodes (2)</summary>
 
- - <sub>[GroundingDinoModelLoader (segment anything)](node_examples/GroundingDinoModelLoader_(segment_anything).md)</sub>, <sub>[GroundingDinoSAMSegment (segment anything)](node_examples/GroundingDinoSAMSegment_(segment_anything).md)</sub>
- - <sub>[InvertMask (segment anything)](node_examples/InvertMask_(segment_anything).md)</sub>, <sub>[IsMaskEmpty](node_examples/IsMaskEmpty.md)</sub>
- - <sub>[SAMModelLoader (segment anything)](node_examples/SAMModelLoader_(segment_anything).md)</sub>
+ - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
 </details>
 
 
@@ -1689,4 +1687,4 @@ Code can be found in [main.py](main.py). Manual tags are stored in [tags.yml](ta
 
 All rights belong to the original authors of the repositories.
 
-### Automatically updated on: 2026-07-11 02:50:15 UTC
+### Automatically updated on: 2026-07-12 03:14:35 UTC

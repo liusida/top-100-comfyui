@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `120.3k` | **Created at**: `2023-01-17`
+**Stars**: `120.4k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -167,7 +167,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `1.2k` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
+**Stars**: `1.3k` | **Created at**: `2023-04-03` | **Tags**: `Workflow Examples`
 
 
 some wyrde workflows for comfyUI
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `15.3k` | **Created at**: `2023-04-23`
+**Stars**: `15.4k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -501,24 +501,6 @@ Various custom nodes for ComfyUI
  - <sub>TimerNodeKJ</sub>, <sub>TorchCompileControlNet</sub>, <sub>TorchCompileCosmosModel</sub>, <sub>TorchCompileLTXModel</sub>, <sub>TorchCompileModelAdvanced</sub>, <sub>TorchCompileModelFluxAdvanced</sub>, <sub>TorchCompileModelFluxAdvancedV2</sub>, <sub>TorchCompileModelHyVideo</sub>, <sub>TorchCompileModelQwenImage</sub>, <sub>TorchCompileModelWanVideo</sub>, <sub>TorchCompileModelWanVideoV2</sub>, <sub>TorchCompileVAE</sub>, <sub>TransitionImagesInBatch</sub>, <sub>TransitionImagesMulti</sub>
  - <sub>VAEDecodeLoopKJ</sub>, <sub>VAELoaderKJ</sub>, <sub>VAEMergeKJ</sub>, <sub>VisualizeCUDAMemoryHistory</sub>, <sub>VisualizeSigmasKJ</sub>, <sub>[VRAM_Debug](node_examples/VRAM_Debug.md)</sub>
  - <sub>Wan21BlockLoraSelect</sub>, <sub>WanChunkFeedForward</sub>, <sub>WanImageToVideoSVIPro</sub>, <sub>WanVideoEnhanceAVideoKJ</sub>, <sub>WanVideoMemoryEfficientSageAttentionPatch</sub>, <sub>WanVideoNAG</sub>, <sub>WanVideoTeaCacheKJ</sub>, <sub>WebcamCaptureCV2</sub>, <sub>[WeightScheduleConvert](node_examples/WeightScheduleConvert.md)</sub>, <sub>WeightScheduleExtend</sub>, <sub>WidgetToString</sub>
-</details>
-
-
-## storyicon/comfyui_segment_anything
-
-
-<a href='https://github.com/storyicon/comfyui_segment_anything'>
-<img src="https://avatars.githubusercontent.com/u/29772821?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/storyicon/comfyui_segment_anything
-
-**Stars**: `1.1k` | **Created at**: `2023-10-07` | **Tags**: `Custom Nodes`
-
-
-Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.
-<details><summary>Included Nodes (5)</summary>
-
- - <sub>[GroundingDinoModelLoader (segment anything)](node_examples/GroundingDinoModelLoader_(segment_anything).md)</sub>, <sub>[GroundingDinoSAMSegment (segment anything)](node_examples/GroundingDinoSAMSegment_(segment_anything).md)</sub>
- - <sub>[InvertMask (segment anything)](node_examples/InvertMask_(segment_anything).md)</sub>, <sub>[IsMaskEmpty](node_examples/IsMaskEmpty.md)</sub>
- - <sub>[SAMModelLoader (segment anything)](node_examples/SAMModelLoader_(segment_anything).md)</sub>
 </details>
 
 
@@ -908,6 +890,22 @@ Using IC-LIght models in ComfyUI
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
+
+## lquesada/ComfyUI-Inpaint-CropAndStitch
+
+
+<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
+<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
+
+**Stars**: `1.1k` | **Created at**: `2024-05-11`
+
+
+ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
+<details><summary>Included Nodes (2)</summary>
+
+ - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
+</details>
+
 
 ## yolain/ComfyUI-Yolain-Workflows
 
@@ -1510,7 +1508,7 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 <a href='https://github.com/flybirdxx/ComfyUI-Qwen-TTS'>
 <img src="https://avatars.githubusercontent.com/u/26685745?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flybirdxx/ComfyUI-Qwen-TTS
 
-**Stars**: `1.7k` | **Created at**: `2026-01-22`
+**Stars**: `1.8k` | **Created at**: `2026-01-22`
 
 
 A Simple Implementation of Qwen3-TTS's ComfyUI
@@ -1554,7 +1552,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `3.9k` | **Created at**: `2026-03-25`
+**Stars**: `4.0k` | **Created at**: `2026-03-25`
 
 
 AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
