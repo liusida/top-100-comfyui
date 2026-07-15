@@ -2079,6 +2079,7 @@ Lora Input Switch: 0
 Lora Loader: 0
 LoraCyclerLM: -1
 LoraExtractKJ: -1
+LoraInfoLM: -1
 LoraLoader: 79
 LoraLoaderLM: -1
 LoraLoaderModelOnly: 99
