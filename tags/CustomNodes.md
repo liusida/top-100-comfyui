@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `6.1k` | **Created at**: `2026-07-15`
+**Stars**: `6.1k` | **Created at**: `2026-07-16`
 
 
 None
@@ -127,7 +127,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.2k` | **Created at**: `2026-07-15`
+**Stars**: `3.2k` | **Created at**: `2026-07-16`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -199,7 +199,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `2.9k` | **Created at**: `2026-07-15`
+**Stars**: `2.9k` | **Created at**: `2026-07-16`
 
 
 Various custom nodes for ComfyUI
@@ -255,7 +255,7 @@ None
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.6k` | **Created at**: `2026-07-15`
+**Stars**: `2.6k` | **Created at**: `2026-07-17`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -272,7 +272,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `2.3k` | **Created at**: `2026-07-14`
+**Stars**: `2.3k` | **Created at**: `2026-07-16`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -309,7 +309,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.3k` | **Created at**: `2026-07-13`
+**Stars**: `2.3k` | **Created at**: `2026-07-17`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -370,7 +370,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/huchenlei/ComfyUI-layerdiffuse'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-layerdiffuse
 
-**Stars**: `1.8k` | **Created at**: `2026-07-10`
+**Stars**: `1.8k` | **Created at**: `2026-07-16`
 
 
 Layer Diffuse custom nodes
@@ -386,7 +386,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/kijai/ComfyUI-Florence2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Florence2
 
-**Stars**: `1.7k` | **Created at**: `2026-07-15`
+**Stars**: `1.7k` | **Created at**: `2026-07-16`
 
 
 Inference Microsoft Florence2 VLM
