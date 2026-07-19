@@ -31,6 +31,8 @@ ACN_TimestepKeyframeFromStrengthList: 0
 ACN_TimestepKeyframeInterpolation: 0
 ADBlockComboNode: -1
 ADBlockIndivNode: -1
+ADE_ADBlockCombo: -1
+ADE_ADBlockIndiv: -1
 ADE_AdjustPEFullStretch: 0
 ADE_AdjustPEManual: 0
 ADE_AdjustPESweetspotStretch: 0
@@ -75,6 +77,7 @@ ADE_CameraPoseCombo: 0
 ADE_CombineLoraHooks: 0
 ADE_CombineLoraHooksEight: 0
 ADE_CombineLoraHooksFour: 0
+ADE_ConditionExtraction: -1
 ADE_ConditioningCombine: -1
 ADE_ConditioningSetMask: 0
 ADE_ConditioningSetMaskAndCombine: 0
@@ -100,6 +103,7 @@ ADE_CustomCFGKeyframeInterpolation: -1
 ADE_CustomCFGKeyframeSimple: -1
 ADE_CustomCFGSimple: -1
 ADE_EmptyLatentImageLarge: 41
+ADE_FloatToFloats: -1
 ADE_InjectI2VIntoAnimateDiffModel: 0
 ADE_InjectPIAIntoAnimateDiffModel: -1
 ADE_InputPIA_Multival: -1
@@ -134,7 +138,16 @@ ADE_PairedConditioningCombine: -1
 ADE_PairedConditioningSetMask: 0
 ADE_PairedConditioningSetMaskAndCombine: 0
 ADE_PairedConditioningSetUnmaskedAndCombine: 0
+ADE_PerBlockHighLevel: -1
+ADE_PerBlock_SD15_FromFloats: -1
+ADE_PerBlock_SD15_LowLevel: -1
+ADE_PerBlock_SD15_MidLevel: -1
+ADE_PerBlock_SDXL_FromFloats: -1
+ADE_PerBlock_SDXL_LowLevel: -1
+ADE_PerBlock_SDXL_MidLevel: -1
 ADE_PerturbedAttentionGuidanceMultival: -1
+ADE_PromptScheduling: -1
+ADE_PromptSchedulingLatents: -1
 ADE_RawSigmaSchedule: 0
 ADE_RegisterLoraHook: 0
 ADE_RegisterLoraHookModelOnly: 0
@@ -156,6 +169,9 @@ ADE_StandardUniformViewOptions: 0
 ADE_TimestepsConditioning: 0
 ADE_UpscaleAndVAEEncode: 0
 ADE_UseEvolvedSampling: 75
+ADE_ValueScheduling: -1
+ADE_ValueSchedulingLatents: -1
+ADE_ValuesReplace: -1
 ADE_ViewsOnlyContextOptions: 0
 ADE_VisualizeContextOptions: -1
 ADE_VisualizeContextOptionsK: -1
