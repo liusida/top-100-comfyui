@@ -792,6 +792,7 @@ CreateFadeMaskAdvanced: 1
 CreateFluidMask: 0
 CreateGradientFromCoords: 0
 CreateGradientMask: 1
+CreateHookLoraLM: -1
 CreateInstanceDiffusionTracking: 1
 CreateJsonNode: -1
 CreateMagicMask: 0
