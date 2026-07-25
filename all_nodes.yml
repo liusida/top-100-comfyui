@@ -1960,6 +1960,8 @@ LatentUpscaler: 0
 'LayerUtility: NanoBananaImageScale': -1
 'LayerUtility: NumberCalculator': 2
 'LayerUtility: NumberCalculatorV2': -1
+'LayerUtility: Pad Image Batch to 8n+1': -1
+'LayerUtility: PadImageBatch': -1
 'LayerUtility: PhiPrompt': -1
 'LayerUtility: PrintInfo': 1
 'LayerUtility: PromptEmbellish': 1
@@ -1971,7 +1973,9 @@ LatentUpscaler: 0
 'LayerUtility: RGB Value': 1
 'LayerUtility: RandomGenerator': -1
 'LayerUtility: RandomGeneratorV2': -1
+'LayerUtility: Restore Pad Image Batch': -1
 'LayerUtility: RestoreCropBox': 3
+'LayerUtility: RestorePadImageBatch': -1
 'LayerUtility: RoundedRectangle': -1
 'LayerUtility: SD3NegativeConditioning': -1
 'LayerUtility: SaveImagePlus': 1
