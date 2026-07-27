@@ -2220,6 +2220,7 @@ MergeImageChannels: 0
 MergeLayers: 10
 MeshGraphormer+ImpactDetector-DepthMapPreprocessor: 0
 MeshGraphormer-DepthMapPreprocessor: 12
+MetadataOverwriteLM: -1
 Metric3D-DepthMapPreprocessor: 0
 Metric3D-NormalMapPreprocessor: 0
 Metric_DepthAnythingV2Preprocessor: -1
