@@ -62,7 +62,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/6174/comflowyspace'>
 <img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowyspace
 
-**Stars**: `2.3k` | **Created at**: `2026-07-26`
+**Stars**: `2.3k` | **Created at**: `2026-07-27`
 
 
 Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.7k` | **Created at**: `2026-07-26`
+**Stars**: `1.7k` | **Created at**: `2026-07-27`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
