@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `122.5k` | **Created at**: `2023-01-17`
+**Stars**: `122.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -888,29 +888,13 @@ Using IC-LIght models in ComfyUI
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
 
-## lquesada/ComfyUI-Inpaint-CropAndStitch
-
-
-<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
-<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
-
-**Stars**: `1.1k` | **Created at**: `2024-05-11`
-
-
-ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
-</details>
-
-
 ## yolain/ComfyUI-Yolain-Workflows
 
 
 <a href='https://github.com/yolain/ComfyUI-Yolain-Workflows'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Yolain-Workflows
 
-**Stars**: `2.1k` | **Created at**: `2024-05-13` | **Tags**: `Workflow Examples`
+**Stars**: `2.2k` | **Created at**: `2024-05-13` | **Tags**: `Workflow Examples`
 
 
 Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -1436,6 +1420,39 @@ Official SeedVR2 Video Upscaler for ComfyUI
 </details>
 
 
+## diodiogod/TTS-Audio-Suite
+
+
+<a href='https://github.com/diodiogod/TTS-Audio-Suite'>
+<img src="https://avatars.githubusercontent.com/u/160325160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diodiogod/TTS-Audio-Suite
+
+**Stars**: `1.1k` | **Created at**: `2025-08-06`
+
+
+A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools
+<details><summary>Included Nodes (61)</summary>
+
+ - <sub>ASRPunctuationTruecaseNode</sub>, <sub>AudioAnalyzerNode</sub>, <sub>AudioAnalyzerOptionsNode</sub>
+ - <sub>CharacterVoicesNode</sub>, <sub>ChatterBoxAudioAnalyzer</sub>, <sub>ChatterBoxAudioAnalyzerOptions</sub>, <sub>ChatterBoxEngineNode</sub>, <sub>ChatterBoxF5TTSEditOptions</sub>, <sub>ChatterBoxF5TTSEditVoice</sub>, <sub>ChatterBoxOfficial23LangEngineNode</sub>, <sub>ChatterBoxVoiceCapture</sub>, <sub>CosyVoice Engine</sub>, <sub>CosyVoiceEngineNode</sub>
+ - <sub>DotsTTSEngineNode</sub>, <sub>DramaBoxEngineNode</sub>
+ - <sub>EchoTTSEngineNode</sub>
+ - <sub>F5TTSEngineNode</sub>, <sub>FishAudioS2EngineNode</sub>
+ - <sub>GraniteASREngineNode</sub>
+ - <sub>HiggsAudioEngineNode</sub>, <sub>HiggsAudioV3EngineNode</sub>
+ - <sub>IndexTTS Engine</sub>, <sub>IndexTTSEmotionOptionsNode</sub>, <sub>IndexTTSEngineNode</sub>
+ - <sub>LoadRVCModelNode</sub>
+ - <sub>MergeAudioNode</sub>, <sub>MossClipStagingNode</sub>, <sub>MossDatasetPrepNode</sub>, <sub>MossDatasetRowsNode</sub>, <sub>MossSoundEffectV2EngineNode</sub>, <sub>MossTrainingConfigNode</sub>, <sub>MossTTSEngineNode</sub>, <sub>MouthMovementAnalyzer</sub>
+ - <sub>OmniVoiceEngineNode</sub>, <sub>OmniVoiceInstructionBuilderNode</sub>
+ - <sub>PhonemeTextNormalizer</sub>
+ - <sub>Qwen3TTSEngineNode</sub>, <sub>QwenEmotionNode</sub>
+ - <sub>RefreshVoiceCacheNode</sub>, <sub>RVCDatasetPrepNode</sub>, <sub>RVCEngineNode</sub>, <sub>RVCPitchOptionsNode</sub>, <sub>RVCTrainingConfigNode</sub>
+ - <sub>SaveCharacterVoiceNode</sub>, <sub>SRTAdvancedOptionsNode</sub>, <sub>Step Audio EditX Engine</sub>, <sub>StepAudioEditXAudioEditorNode</sub>, <sub>StepAudioEditXEngineNode</sub>, <sub>StringMultilineTagEditor</sub>
+ - <sub>TextToSRTBuilderNode</sub>
+ - <sub>UnifiedASRTranscribeNode</sub>, <sub>UnifiedModelTrainingNode</sub>, <sub>UnifiedSoundEffectsNode</sub>, <sub>UnifiedTTSSRTNode</sub>, <sub>UnifiedTTSTextNode</sub>, <sub>UnifiedVoiceChangerNode</sub>, <sub>UnifiedVoiceDesignerNode</sub>
+ - <sub>VibeVoiceEngineNode</sub>, <sub>VisemeDetectionOptionsNode</sub>, <sub>VocalRemovalNode</sub>, <sub>VoiceFixerNode</sub>
+</details>
+
+
 ## Enemyx-net/VibeVoice-ComfyUI
 
 
@@ -1479,7 +1496,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `26.1k` | **Created at**: `2025-11-07`
+**Stars**: `26.2k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1561,7 +1578,7 @@ AI watermark remover. CLI and Python library to strip visible and invisible AI w
 <a href='https://github.com/hero8152/Infinite-Canvas'>
 <img src="https://avatars.githubusercontent.com/u/37614773?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hero8152/Infinite-Canvas
 
-**Stars**: `2.4k` | **Created at**: `2026-05-11`
+**Stars**: `2.5k` | **Created at**: `2026-05-11`
 
 
 Supports comfyui/API calls/modelscope calls

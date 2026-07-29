@@ -216,6 +216,7 @@ APG: -1
 APISR_Lterative_Zho: 2
 APISR_ModelLoader_Zho: 3
 APISR_Zho: 1
+ASRPunctuationTruecaseNode: -1
 ATM VFI: -1
 About_us: -1
 AddFluxFlow: -1
@@ -282,6 +283,8 @@ ArtGallery_Zho: 0
 ArtistsImage_Zho: 8
 Assistant: 2
 AudioAdjustVolume: -1
+AudioAnalyzerNode: -1
+AudioAnalyzerOptionsNode: -1
 AudioConcat: -1
 AudioConcatenate: -1
 AudioEncoderEncode: -1
@@ -630,6 +633,7 @@ CharacterCreator: -1
 CharacterCreatorV2: -1
 CharacterInText: 2
 CharacterSheetCropper: -1
+CharacterVoicesNode: -1
 Chat: 3
 ChatGLM4InstructMediaNode: -1
 ChatGLM4InstructNode: -1
@@ -638,6 +642,13 @@ ChatGLM4TranslateTextNode: -1
 ChatGPT: 0
 ChatGPTOpenAI: 10
 ChatTTS_Node: -1
+ChatterBoxAudioAnalyzer: -1
+ChatterBoxAudioAnalyzerOptions: -1
+ChatterBoxEngineNode: -1
+ChatterBoxF5TTSEditOptions: -1
+ChatterBoxF5TTSEditVoice: -1
+ChatterBoxOfficial23LangEngineNode: -1
+ChatterBoxVoiceCapture: -1
 Checkpoint Loader: 0
 Checkpoint Loader (Simple): 0
 CheckpointLoader: 0
@@ -780,6 +791,8 @@ CostumeAgent_1: 0
 CostumeAgent_2: 0
 CostumeMaster_1: 0
 CosyVoice: -1
+CosyVoice Engine: -1
+CosyVoiceEngineNode: -1
 Create Grid Image: 0
 Create Grid Image from Batch: 1
 Create Morph Image: 0
@@ -874,6 +887,7 @@ DisplayAny: -1
 DisplayString: 6
 DisplayTextAsImage: 0
 DisplayText_Zho: 20
+DotsTTSEngineNode: -1
 DownloadAndLoadCLIPModel: 4
 DownloadAndLoadCLIPSeg: 0
 DownloadAndLoadCLIPVisionModel: 4
@@ -894,6 +908,7 @@ DownloadAndLoadToraModel: -1
 DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
+DramaBoxEngineNode: -1
 DrawArcFaceLandmarks: -1
 DrawGaussianNoiseOnImage: -1
 DrawInstanceDiffusionTracking: 0
@@ -928,6 +943,7 @@ EasyAnimate_TextBox: -1
 EasyCache: -1
 EasyOCR_advance: -1
 EasyOCR_choose: -1
+EchoTTSEngineNode: -1
 EditBasicPipe: 68
 EditDetailerPipe: 13
 EditDetailerPipeSDXL: 0
@@ -971,6 +987,7 @@ ExtendIntermediateSigmas: -1
 ExtractFluxLoRA: -1
 ExtractKeyframes+: 0
 ExtractStartFramesForContinuations: -1
+F5TTSEngineNode: -1
 FILM VFI: 40
 FLAVR VFI: 0
 Face Swap (mtb): 6
@@ -1002,6 +1019,7 @@ FilePathExists: -1
 Film Interpolation (mtb): 3
 FilmsImage_Zho: 2
 FilterZeroMasksAndCorrespondingImages: 0
+FishAudioS2EngineNode: -1
 Fit Number (mtb): 0
 FlipSigmas: 3
 FlipSigmasAdjusted: 1
@@ -1117,6 +1135,7 @@ GoogleTranslateCLIPTextEncodeNode: 0
 GoogleTranslateTextNode: 0
 GradientImage: 0
 GradientToFloat: 0
+GraniteASREngineNode: -1
 GridDisplayAndSave: 0
 GridInput: 0
 GridOutput: 0
@@ -1132,6 +1151,8 @@ HEDPreprocessor: 58
 HSL to Hex: -1
 Hex to HSL: -1
 HexToHueNode: -1
+HiggsAudioEngineNode: -1
+HiggsAudioV3EngineNode: -1
 HighRes-Fix Script: 25
 HintImageEnchance: 3
 HuMoEmbeds: -1
@@ -1529,6 +1550,9 @@ ImpactWildcardProcessor: 16
 InFluxFlipSigmas: -1
 InFluxModelSamplingPred: -1
 IncrementingListNode_: 0
+IndexTTS Engine: -1
+IndexTTSEmotionOptionsNode: -1
+IndexTTSEngineNode: -1
 InitFluxLoRATraining: -1
 InitFluxTraining: -1
 InitSD3LoRATraining: -1
@@ -2073,6 +2097,7 @@ LoadImagesToBatch: 0
 LoadLatent: 0
 LoadLynxResampler: -1
 LoadNLFModel: -1
+LoadRVCModelNode: -1
 LoadResAdapterNormalization: 0
 LoadTXT: 0
 LoadTextFromFileNode: -1
@@ -2216,6 +2241,7 @@ MediaPipe-FaceMeshPreprocessor: 4
 MediaPipeFaceMeshToSEGS: 1
 MemGPT: 0
 Memory_Excel: 0
+MergeAudioNode: -1
 MergeImageChannels: 0
 MergeLayers: 10
 MeshGraphormer+ImpactDetector-DepthMapPreprocessor: 0
@@ -2282,6 +2308,13 @@ MoonvalleyImg2VideoNode: -1
 MoonvalleyTxt2VideoNode: -1
 MoonvalleyVideo2VideoNode: -1
 Morphology: 0
+MossClipStagingNode: -1
+MossDatasetPrepNode: -1
+MossDatasetRowsNode: -1
+MossSoundEffectV2EngineNode: -1
+MossTTSEngineNode: -1
+MossTrainingConfigNode: -1
+MouthMovementAnalyzer: -1
 MovementsImage_Zho: 8
 MultiPrimitive|pysssss: 0
 MultiTalkModelLoader: -1
@@ -2337,6 +2370,8 @@ ONNXDetectorSEGS: 0
 OffsetMask: 0
 OffsetMaskByNormalizedAmplitude: 0
 Ollama: 0
+OmniVoiceEngineNode: -1
+OmniVoiceInstructionBuilderNode: -1
 OmostDenseDiffusionLayoutNode: -1
 OmostGreedyBagsTextEmbeddingNode: -1
 OmostLLMChatNode: -1
@@ -2391,6 +2426,7 @@ PerBlock_SDXL_MidLevelNode: -1
 PerpNeg: 0
 PerpNegGuider: 0
 PerturbedAttentionGuidance: 6
+PhonemeTextNormalizer: -1
 PhotoMakerAdapter_Loader_fromhub: 7
 PhotoMakerAdapter_Loader_local: 2
 PhotoMakerEncode: 3
@@ -2477,6 +2513,8 @@ PyraCannyPreprocessor: -1
 Qr Code (mtb): 0
 QuadrupleCLIPLoader: -1
 QuadrupleCLIPLoaderGGUF: -1
+Qwen3TTSEngineNode: -1
+QwenEmotionNode: -1
 QwenImageDiffsynthControlnet: -1
 QwenLoader: -1
 QwenMultiangleCameraNode: -1
@@ -2488,6 +2526,10 @@ RIFE VFI: 98
 RMBG: -1
 RSS_loader: -1
 RSS_tool: -1
+RVCDatasetPrepNode: -1
+RVCEngineNode: -1
+RVCPitchOptionsNode: -1
+RVCTrainingConfigNode: -1
 Random Number: 7
 RandomImageFromBatch: -1
 RandomNoise: 46
@@ -2530,6 +2572,7 @@ ReencodeLatent: 0
 ReencodeLatentPipe: 2
 Ref_Image_Preprocessing: 11
 ReferenceLatent: -1
+RefreshVoiceCacheNode: -1
 RegexExtract: -1
 RegexMatch: -1
 RegexReplace: -1
@@ -2636,6 +2679,7 @@ SEGSUpscalerPipe: 0
 SONICSampler: -1
 SONICTLoader: -1
 SONIC_PreData: -1
+SRTAdvancedOptionsNode: -1
 STATIC_TRT_MODEL_CONVERSION: -1
 STGAdvancedPresets: -1
 STGAdvancedPresetsNode: -1
@@ -2690,6 +2734,7 @@ SaveAnimatedWEBP: 33
 SaveAudio: -1
 SaveAudioMP3: -1
 SaveAudioOpus: -1
+SaveCharacterVoiceNode: -1
 SaveExpData: -1
 SaveGLB: -1
 SaveImage: 97
@@ -2899,6 +2944,9 @@ StableZero123_Conditioning: 5
 StableZero123_Conditioning_Batched: 0
 Stack Images (mtb): 0
 StartRecordCUDAMemoryHistory: -1
+Step Audio EditX Engine: -1
+StepAudioEditXAudioEditorNode: -1
+StepAudioEditXEngineNode: -1
 StepsScheduleHookProvider: 0
 String Replace (mtb): 5
 String to Text: 0
@@ -2910,6 +2958,7 @@ StringContains: -1
 StringFunction|pysssss: 35
 StringLength: -1
 StringListToString: 4
+StringMultilineTagEditor: -1
 StringReplace: -1
 StringSubstring: -1
 StringToFloatList: -1
@@ -3059,6 +3108,7 @@ TextLM: -1
 TextOutput: 0
 TextSplitByDelimiter: 1
 TextToNumber: 0
+TextToSRTBuilderNode: -1
 ThresholdMask: 4
 TilePreprocessor: 45
 Tiled Upscaler Script: 1
@@ -3137,6 +3187,13 @@ Uncrop (mtb): 0
 UnetLoaderGGUF: -1
 UnetLoaderGGUFAdvanced: -1
 UniFormer-SemSegPreprocessor: 15
+UnifiedASRTranscribeNode: -1
+UnifiedModelTrainingNode: -1
+UnifiedSoundEffectsNode: -1
+UnifiedTTSSRTNode: -1
+UnifiedTTSTextNode: -1
+UnifiedVoiceChangerNode: -1
+UnifiedVoiceDesignerNode: -1
 Unimatch_OptFlowPreprocessor: 0
 Unpack SDXL Tuple: 10
 UnsamplerDetailerHookProvider: 1
@@ -3254,6 +3311,7 @@ VibeVoice LoRA: -1
 VibeVoice Load Text From File: -1
 VibeVoice Multiple Speakers: -1
 VibeVoice Single Speaker: -1
+VibeVoiceEngineNode: -1
 VibeVoiceFreeMemoryNode: -1
 VibeVoiceLoRANode: -1
 VibeVoiceMultipleSpeakersNode: -1
@@ -3268,9 +3326,12 @@ ViduImageToVideoNode: -1
 ViduReferenceVideoNode: -1
 ViduStartEndToVideoNode: -1
 ViduTextToVideoNode: -1
+VisemeDetectionOptionsNode: -1
 VisualizeCUDAMemoryHistory: -1
 VisualizeLoss: -1
 VisualizeSigmasKJ: -1
+VocalRemovalNode: -1
+VoiceFixerNode: -1
 VoxelToMesh: -1
 VoxelToMeshBasic: -1
 WD14Tagger|pysssss: 82
