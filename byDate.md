@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `122.9k` | **Created at**: `2023-01-17`
+**Stars**: `123.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -791,17 +791,6 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
-## 602387193c/ComfyUI-wiki
-
-
-<a href='https://github.com/602387193c/ComfyUI-wiki'>
-<img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
-
-**Stars**: `1.1k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
-
-
-Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
-
 ## zombieyang/sd-ppp
 
 
@@ -1319,7 +1308,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `6.7k` | **Created at**: `2025-02-25`
+**Stars**: `6.6k` | **Created at**: `2025-02-25`
 
 
 None
@@ -1433,6 +1422,39 @@ Official SeedVR2 Video Upscaler for ComfyUI
 <details><summary>Included Nodes (4)</summary>
 
  - <sub>SeedVR2LoadDiTModel</sub>, <sub>SeedVR2LoadVAEModel</sub>, <sub>SeedVR2TorchCompileSettings</sub>, <sub>SeedVR2VideoUpscaler</sub>
+</details>
+
+
+## diodiogod/TTS-Audio-Suite
+
+
+<a href='https://github.com/diodiogod/TTS-Audio-Suite'>
+<img src="https://avatars.githubusercontent.com/u/160325160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diodiogod/TTS-Audio-Suite
+
+**Stars**: `1.1k` | **Created at**: `2025-08-06`
+
+
+A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools
+<details><summary>Included Nodes (61)</summary>
+
+ - <sub>ASRPunctuationTruecaseNode</sub>, <sub>AudioAnalyzerNode</sub>, <sub>AudioAnalyzerOptionsNode</sub>
+ - <sub>CharacterVoicesNode</sub>, <sub>ChatterBoxAudioAnalyzer</sub>, <sub>ChatterBoxAudioAnalyzerOptions</sub>, <sub>ChatterBoxEngineNode</sub>, <sub>ChatterBoxF5TTSEditOptions</sub>, <sub>ChatterBoxF5TTSEditVoice</sub>, <sub>ChatterBoxOfficial23LangEngineNode</sub>, <sub>ChatterBoxVoiceCapture</sub>, <sub>CosyVoice Engine</sub>, <sub>CosyVoiceEngineNode</sub>
+ - <sub>DotsTTSEngineNode</sub>, <sub>DramaBoxEngineNode</sub>
+ - <sub>EchoTTSEngineNode</sub>
+ - <sub>F5TTSEngineNode</sub>, <sub>FishAudioS2EngineNode</sub>
+ - <sub>GraniteASREngineNode</sub>
+ - <sub>HiggsAudioEngineNode</sub>, <sub>HiggsAudioV3EngineNode</sub>
+ - <sub>IndexTTS Engine</sub>, <sub>IndexTTSEmotionOptionsNode</sub>, <sub>IndexTTSEngineNode</sub>
+ - <sub>LoadRVCModelNode</sub>
+ - <sub>MergeAudioNode</sub>, <sub>MossClipStagingNode</sub>, <sub>MossDatasetPrepNode</sub>, <sub>MossDatasetRowsNode</sub>, <sub>MossSoundEffectV2EngineNode</sub>, <sub>MossTrainingConfigNode</sub>, <sub>MossTTSEngineNode</sub>, <sub>MouthMovementAnalyzer</sub>
+ - <sub>OmniVoiceEngineNode</sub>, <sub>OmniVoiceInstructionBuilderNode</sub>
+ - <sub>PhonemeTextNormalizer</sub>
+ - <sub>Qwen3TTSEngineNode</sub>, <sub>QwenEmotionNode</sub>
+ - <sub>RefreshVoiceCacheNode</sub>, <sub>RVCDatasetPrepNode</sub>, <sub>RVCEngineNode</sub>, <sub>RVCPitchOptionsNode</sub>, <sub>RVCTrainingConfigNode</sub>
+ - <sub>SaveCharacterVoiceNode</sub>, <sub>SRTAdvancedOptionsNode</sub>, <sub>Step Audio EditX Engine</sub>, <sub>StepAudioEditXAudioEditorNode</sub>, <sub>StepAudioEditXEngineNode</sub>, <sub>StringMultilineTagEditor</sub>
+ - <sub>TextToSRTBuilderNode</sub>
+ - <sub>UnifiedASRTranscribeNode</sub>, <sub>UnifiedModelTrainingNode</sub>, <sub>UnifiedSoundEffectsNode</sub>, <sub>UnifiedTTSSRTNode</sub>, <sub>UnifiedTTSTextNode</sub>, <sub>UnifiedVoiceChangerNode</sub>, <sub>UnifiedVoiceDesignerNode</sub>
+ - <sub>VibeVoiceEngineNode</sub>, <sub>VisemeDetectionOptionsNode</sub>, <sub>VocalRemovalNode</sub>, <sub>VoiceFixerNode</sub>
 </details>
 
 
