@@ -7,7 +7,7 @@
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `7.7k` | **Created at**: `2026-08-02`
+**Stars**: `7.7k` | **Created at**: `2026-08-03`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -40,7 +40,7 @@ Some awesome comfyui workflows in here, and they are built using the comfyui-eas
 <a href='https://github.com/fofr/cog-face-to-many'>
 <img src="https://avatars.githubusercontent.com/u/319055?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/fofr/cog-face-to-many
 
-**Stars**: `1.4k` | **Created at**: `2026-07-22`
+**Stars**: `1.4k` | **Created at**: `2026-08-02`
 
 
 Turn any face into a video game character, pixel art, claymation, 3D or toy

@@ -295,6 +295,7 @@ AutoNegativePrompt: 3
 AutogrowNamesTestNode: -1
 AutogrowPrefixTestNode: -1
 BAE-NormalMapPreprocessor: 23
+BBOXToBoundingBoxKJ: -1
 BLIP Analyze Image: 10
 BLIP Model Loader: 9
 BNK_CutoffBasePrompt: 8
@@ -3000,6 +3001,8 @@ TTP_text_mix: -1
 TTPlanet_TileGF_Preprocessor: 0
 TTPlanet_TileSimple_Preprocessor: 0
 TTPlanet_Tile_Preprocessor_Simple: -1
+TavernPresetLoader: -1
+TavernStyleLLM: -1
 TeaCache: -1
 TeaCacheForCogVideoX: -1
 TeaCacheHunyuanVideoSampler: -1
@@ -3807,6 +3810,7 @@ list_append_plus: -1
 list_extend: -1
 list_extend_plus: -1
 listen_audio: -1
+litellm_loader: -1
 llama-cpp: 5
 llava: 0
 load_SQL_memo: -1
