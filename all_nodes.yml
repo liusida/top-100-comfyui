@@ -2256,6 +2256,9 @@ MiDaS Mask Image: 0
 MiDaS Model Loader: 6
 MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: 35
+MiniMaxChunkFeedForward: -1
+MiniMaxH3MemoryEfficientSageAttentionPatch: -1
+MiniMaxLowVRAMAttention: -1
 MinimaxHailuoVideoNode: -1
 MinimaxImageToVideoNode: -1
 MinimaxSubjectToVideoNode: -1
