@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `124.9k` | **Created at**: `2023-01-17`
+**Stars**: `125.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -132,7 +132,7 @@ An extensive node suite for ComfyUI with over 210 new nodes
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.2k` | **Created at**: `2023-03-30` | **Tags**: `Custom Nodes`
+**Stars**: `3.3k` | **Created at**: `2023-03-30` | **Tags**: `Custom Nodes`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -587,7 +587,7 @@ ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai g
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.6k` | **Created at**: `2023-12-10` | **Tags**: `Custom Nodes` `Chinese Language`
+**Stars**: `2.7k` | **Created at**: `2023-12-10` | **Tags**: `Custom Nodes` `Chinese Language`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -1136,7 +1136,7 @@ None
 <a href='https://github.com/Tavris1/ComfyUI-Easy-Install'>
 <img src="https://avatars.githubusercontent.com/u/36665424?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tavris1/ComfyUI-Easy-Install
 
-**Stars**: `1.7k` | **Created at**: `2024-10-16`
+**Stars**: `1.8k` | **Created at**: `2024-10-16`
 
 
 Portable ComfyUI installer for Windows, macOS and Linux with EZi Desktop app 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
@@ -1257,7 +1257,7 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 <a href='https://github.com/willmiao/ComfyUI-Lora-Manager'>
 <img src="https://avatars.githubusercontent.com/u/11958890?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/willmiao/ComfyUI-Lora-Manager
 
-**Stars**: `1.3k` | **Created at**: `2025-01-27`
+**Stars**: `1.4k` | **Created at**: `2025-01-27`
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
@@ -1340,9 +1340,9 @@ None
 
 
 High quality training free inpaint for every stable diffusion model. Supports ComfyUI
-<details><summary>Included Nodes (5)</summary>
+<details><summary>Included Nodes (12)</summary>
 
- - <sub>LanPaint_KSampler</sub>, <sub>LanPaint_KSamplerAdvanced</sub>, <sub>LanPaint_MaskBlend</sub>, <sub>LanPaint_SamplerCustom</sub>, <sub>LanPaint_SamplerCustomAdvanced</sub>
+ - <sub>LanPaint_AVDecode</sub>, <sub>LanPaint_AVEncode</sub>, <sub>LanPaint_ImageDecode</sub>, <sub>LanPaint_ImageEncode</sub>, <sub>LanPaint_KSampler</sub>, <sub>LanPaint_KSamplerAdvanced</sub>, <sub>LanPaint_MaskBlend</sub>, <sub>LanPaint_MiniMaxAudioDecode</sub>, <sub>LanPaint_MiniMaxAudioEncode</sub>, <sub>LanPaint_SamplerCustom</sub>, <sub>LanPaint_SamplerCustomAdvanced</sub>, <sub>LanPaint_VideoMaskEditor</sub>
 </details>
 
 

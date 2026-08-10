@@ -1747,11 +1747,18 @@ LTXVStatNormLatent: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
 LamaRemoverDetailerHookProvider: -1
+LanPaint_AVDecode: -1
+LanPaint_AVEncode: -1
+LanPaint_ImageDecode: -1
+LanPaint_ImageEncode: -1
 LanPaint_KSampler: -1
 LanPaint_KSamplerAdvanced: -1
 LanPaint_MaskBlend: -1
+LanPaint_MiniMaxAudioDecode: -1
+LanPaint_MiniMaxAudioEncode: -1
 LanPaint_SamplerCustom: -1
 LanPaint_SamplerCustomAdvanced: -1
+LanPaint_VideoMaskEditor: -1
 LandmarksToImage: -1
 LaplaceScheduler: -1
 Latent Batch: 0
