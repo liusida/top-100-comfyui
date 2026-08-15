@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `127.4k` | **Created at**: `2023-01-17`
+**Stars**: `127.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `15.7k` | **Created at**: `2023-04-23`
+**Stars**: `15.8k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.3k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
+**Stars**: `3.4k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -308,7 +308,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation'>
 <img src="https://avatars.githubusercontent.com/u/124877023?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation
 
-**Stars**: `2.4k` | **Created at**: `2023-08-15` | **Tags**: `Translation`
+**Stars**: `2.5k` | **Created at**: `2023-08-15` | **Tags**: `Translation`
 
 
 A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
@@ -790,6 +790,17 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+
+## 602387193c/ComfyUI-wiki
+
+
+<a href='https://github.com/602387193c/ComfyUI-wiki'>
+<img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
+
+**Stars**: `1.1k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+
+
+Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 
 ## zombieyang/sd-ppp
 
@@ -1275,22 +1286,6 @@ LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and 
 </details>
 
 
-## smthemex/ComfyUI_Sonic
-
-
-<a href='https://github.com/smthemex/ComfyUI_Sonic'>
-<img src="https://avatars.githubusercontent.com/u/138738845?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/smthemex/ComfyUI_Sonic
-
-**Stars**: `1.1k` | **Created at**: `2025-02-07`
-
-
-Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI
-<details><summary>Included Nodes (3)</summary>
-
- - <sub>SONIC_PreData</sub>, <sub>SONICSampler</sub>, <sub>SONICTLoader</sub>
-</details>
-
-
 ## ATH-MaaS/ComfyUI-Copilot
 
 
@@ -1561,7 +1556,7 @@ Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
 <a href='https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/216600439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI
 
-**Stars**: `1.9k` | **Created at**: `2026-03-20`
+**Stars**: `2.0k` | **Created at**: `2026-03-20`
 
 
 LTX Director and a variety of other custom ComfyUI nodes and workflows
