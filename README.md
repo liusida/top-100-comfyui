@@ -20,7 +20,7 @@ This repository automatically updates a list of the top 100 repositories related
 
 # TOP 1 - 5
 
-<details><summary>Star History for TOP 1 - 5</summary><a href="https://api.star-history.com/svg?repos=Comfy-Org/ComfyUI,ATH-MaaS/Pixelle-Video,Comfy-Org/ComfyUI-Manager,LykosAI/StabilityMatrix,TheLastBen/fast-stable-diffusion&type=Date"><img src="https://api.star-history.com/svg?repos=Comfy-Org/ComfyUI,ATH-MaaS/Pixelle-Video,Comfy-Org/ComfyUI-Manager,LykosAI/StabilityMatrix,TheLastBen/fast-stable-diffusion&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 1 - 5</summary><a href="https://star-history.dera.page/#Comfy-Org/ComfyUI,ATH-MaaS/Pixelle-Video,Comfy-Org/ComfyUI-Manager,LykosAI/StabilityMatrix,TheLastBen/fast-stable-diffusion&type=Date"><img src="https://star-history.dera.page/svg?repos=Comfy-Org/ComfyUI,ATH-MaaS/Pixelle-Video,Comfy-Org/ComfyUI-Manager,LykosAI/StabilityMatrix,TheLastBen/fast-stable-diffusion&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 1. Comfy-Org/ComfyUI
@@ -79,7 +79,7 @@ Multi-Platform Package Manager for Stable Diffusion
 fast-stable-diffusion + DreamBooth
 # TOP 6 - 10
 
-<details><summary>Star History for TOP 6 - 10</summary><a href="https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO,AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin,ddean2009/MoneyPrinterPlus,kijai/ComfyUI-WanVideoWrapper,11cafe/jaaz&type=Date"><img src="https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO,AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin,ddean2009/MoneyPrinterPlus,kijai/ComfyUI-WanVideoWrapper,11cafe/jaaz&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 6 - 10</summary><a href="https://star-history.dera.page/#ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO,AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin,ddean2009/MoneyPrinterPlus,kijai/ComfyUI-WanVideoWrapper,11cafe/jaaz&type=Date"><img src="https://star-history.dera.page/svg?repos=ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO,AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin,ddean2009/MoneyPrinterPlus,kijai/ComfyUI-WanVideoWrapper,11cafe/jaaz&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 6. ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
@@ -155,7 +155,7 @@ None
 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 # TOP 11 - 15
 
-<details><summary>Star History for TOP 11 - 15</summary><a href="https://api.star-history.com/svg?repos=cubiq/ComfyUI_IPAdapter_plus,ATH-MaaS/ComfyUI-Copilot,wiltodelta/remove-ai-watermarks,comfyanonymous/ComfyUI_examples,mcmonkeyprojects/SwarmUI&type=Date"><img src="https://api.star-history.com/svg?repos=cubiq/ComfyUI_IPAdapter_plus,ATH-MaaS/ComfyUI-Copilot,wiltodelta/remove-ai-watermarks,comfyanonymous/ComfyUI_examples,mcmonkeyprojects/SwarmUI&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 11 - 15</summary><a href="https://star-history.dera.page/#cubiq/ComfyUI_IPAdapter_plus,ATH-MaaS/ComfyUI-Copilot,wiltodelta/remove-ai-watermarks,comfyanonymous/ComfyUI_examples,mcmonkeyprojects/SwarmUI&type=Date"><img src="https://star-history.dera.page/svg?repos=cubiq/ComfyUI_IPAdapter_plus,ATH-MaaS/ComfyUI-Copilot,wiltodelta/remove-ai-watermarks,comfyanonymous/ComfyUI_examples,mcmonkeyprojects/SwarmUI&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 11. cubiq/ComfyUI_IPAdapter_plus
@@ -220,7 +220,7 @@ Examples of ComfyUI workflows
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 # TOP 16 - 20
 
-<details><summary>Star History for TOP 16 - 20</summary><a href="https://api.star-history.com/svg?repos=Osmantic/ODS,Fannovel16/comfyui_controlnet_aux,Lightricks/ComfyUI-LTXVideo,nunchaku-ai/nunchaku,city96/ComfyUI-GGUF&type=Date"><img src="https://api.star-history.com/svg?repos=Osmantic/ODS,Fannovel16/comfyui_controlnet_aux,Lightricks/ComfyUI-LTXVideo,nunchaku-ai/nunchaku,city96/ComfyUI-GGUF&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 16 - 20</summary><a href="https://star-history.dera.page/#Osmantic/ODS,Fannovel16/comfyui_controlnet_aux,Lightricks/ComfyUI-LTXVideo,nunchaku-ai/nunchaku,city96/ComfyUI-GGUF&type=Date"><img src="https://star-history.dera.page/svg?repos=Osmantic/ODS,Fannovel16/comfyui_controlnet_aux,Lightricks/ComfyUI-LTXVideo,nunchaku-ai/nunchaku,city96/ComfyUI-GGUF&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 16. Osmantic/ODS
@@ -320,7 +320,7 @@ GGUF Quantization support for native ComfyUI models
 
 # TOP 21 - 25
 
-<details><summary>Star History for TOP 21 - 25</summary><a href="https://api.star-history.com/svg?repos=MrForExample/ComfyUI-3D-Pack,Kosinkadink/ComfyUI-AnimateDiff-Evolved,rgthree/rgthree-comfy,ltdrdata/ComfyUI-Impact-Pack,pythongosssss/ComfyUI-Custom-Scripts&type=Date"><img src="https://api.star-history.com/svg?repos=MrForExample/ComfyUI-3D-Pack,Kosinkadink/ComfyUI-AnimateDiff-Evolved,rgthree/rgthree-comfy,ltdrdata/ComfyUI-Impact-Pack,pythongosssss/ComfyUI-Custom-Scripts&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 21 - 25</summary><a href="https://star-history.dera.page/#MrForExample/ComfyUI-3D-Pack,Kosinkadink/ComfyUI-AnimateDiff-Evolved,rgthree/rgthree-comfy,ltdrdata/ComfyUI-Impact-Pack,pythongosssss/ComfyUI-Custom-Scripts&type=Date"><img src="https://star-history.dera.page/svg?repos=MrForExample/ComfyUI-3D-Pack,Kosinkadink/ComfyUI-AnimateDiff-Evolved,rgthree/rgthree-comfy,ltdrdata/ComfyUI-Impact-Pack,pythongosssss/ComfyUI-Custom-Scripts&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 21. MrForExample/ComfyUI-3D-Pack
@@ -428,7 +428,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 
 # TOP 26 - 30
 
-<details><summary>Star History for TOP 26 - 30</summary><a href="https://api.star-history.com/svg?repos=chflame163/ComfyUI_LayerStyle,kijai/ComfyUI-KJNodes,nunchaku-ai/ComfyUI-nunchaku,hero8152/Infinite-Canvas,FurkanGozukara/Stable-Diffusion&type=Date"><img src="https://api.star-history.com/svg?repos=chflame163/ComfyUI_LayerStyle,kijai/ComfyUI-KJNodes,nunchaku-ai/ComfyUI-nunchaku,hero8152/Infinite-Canvas,FurkanGozukara/Stable-Diffusion&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 26 - 30</summary><a href="https://star-history.dera.page/#chflame163/ComfyUI_LayerStyle,kijai/ComfyUI-KJNodes,nunchaku-ai/ComfyUI-nunchaku,hero8152/Infinite-Canvas,FurkanGozukara/Stable-Diffusion&type=Date"><img src="https://star-history.dera.page/svg?repos=chflame163/ComfyUI_LayerStyle,kijai/ComfyUI-KJNodes,nunchaku-ai/ComfyUI-nunchaku,hero8152/Infinite-Canvas,FurkanGozukara/Stable-Diffusion&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 26. chflame163/ComfyUI_LayerStyle
@@ -517,7 +517,7 @@ Supports comfyui/API calls/modelscope calls
 FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod
 # TOP 31 - 35
 
-<details><summary>Star History for TOP 31 - 35</summary><a href="https://api.star-history.com/svg?repos=numz/ComfyUI-SeedVR2_VideoUpscaler,PowerHouseMan/ComfyUI-AdvancedLivePortrait,yolain/ComfyUI-Easy-Use,kijai/ComfyUI-HunyuanVideoWrapper,heshengtao/super-agent-party&type=Date"><img src="https://api.star-history.com/svg?repos=numz/ComfyUI-SeedVR2_VideoUpscaler,PowerHouseMan/ComfyUI-AdvancedLivePortrait,yolain/ComfyUI-Easy-Use,kijai/ComfyUI-HunyuanVideoWrapper,heshengtao/super-agent-party&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 31 - 35</summary><a href="https://star-history.dera.page/#numz/ComfyUI-SeedVR2_VideoUpscaler,PowerHouseMan/ComfyUI-AdvancedLivePortrait,yolain/ComfyUI-Easy-Use,kijai/ComfyUI-HunyuanVideoWrapper,heshengtao/super-agent-party&type=Date"><img src="https://star-history.dera.page/svg?repos=numz/ComfyUI-SeedVR2_VideoUpscaler,PowerHouseMan/ComfyUI-AdvancedLivePortrait,yolain/ComfyUI-Easy-Use,kijai/ComfyUI-HunyuanVideoWrapper,heshengtao/super-agent-party&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 31. numz/ComfyUI-SeedVR2_VideoUpscaler
@@ -602,7 +602,7 @@ None
 ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 # TOP 36 - 40
 
-<details><summary>Star History for TOP 36 - 40</summary><a href="https://api.star-history.com/svg?repos=AIGODLIKE/AIGODLIKE-ComfyUI-Translation,pydn/ComfyUI-to-Python-Extension,Comfy-Org/desktop,6174/comflowyspace,heshengtao/comfyui_LLM_party&type=Date"><img src="https://api.star-history.com/svg?repos=AIGODLIKE/AIGODLIKE-ComfyUI-Translation,pydn/ComfyUI-to-Python-Extension,Comfy-Org/desktop,6174/comflowyspace,heshengtao/comfyui_LLM_party&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 36 - 40</summary><a href="https://star-history.dera.page/#AIGODLIKE/AIGODLIKE-ComfyUI-Translation,pydn/ComfyUI-to-Python-Extension,Comfy-Org/desktop,6174/comflowyspace,heshengtao/comfyui_LLM_party&type=Date"><img src="https://star-history.dera.page/svg?repos=AIGODLIKE/AIGODLIKE-ComfyUI-Translation,pydn/ComfyUI-to-Python-Extension,Comfy-Org/desktop,6174/comflowyspace,heshengtao/comfyui_LLM_party&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 36. AIGODLIKE/AIGODLIKE-ComfyUI-Translation
@@ -687,7 +687,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 
 # TOP 41 - 45
 
-<details><summary>Star History for TOP 41 - 45</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-SUPIR,yawiii/ComfyUI-Prompt-Assistant,kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-SUPIR,yawiii/ComfyUI-Prompt-Assistant,kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 41 - 45</summary><a href="https://star-history.dera.page/#kijai/ComfyUI-SUPIR,yawiii/ComfyUI-Prompt-Assistant,kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp&type=Date"><img src="https://star-history.dera.page/svg?repos=kijai/ComfyUI-SUPIR,yawiii/ComfyUI-Prompt-Assistant,kijai/ComfyUI-LivePortraitKJ,yolain/ComfyUI-Yolain-Workflows,zombieyang/sd-ppp&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 41. kijai/ComfyUI-SUPIR
@@ -773,7 +773,7 @@ A Photoshop AI plugin
 
 # TOP 46 - 50
 
-<details><summary>Star History for TOP 46 - 50</summary><a href="https://api.star-history.com/svg?repos=1038lab/ComfyUI-RMBG,mut-ex/gligen-gui,siliconflow/onediff,Comfy-Org/ComfyUI_frontend,crystian/ComfyUI-Crystools&type=Date"><img src="https://api.star-history.com/svg?repos=1038lab/ComfyUI-RMBG,mut-ex/gligen-gui,siliconflow/onediff,Comfy-Org/ComfyUI_frontend,crystian/ComfyUI-Crystools&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 46 - 50</summary><a href="https://star-history.dera.page/#1038lab/ComfyUI-RMBG,mut-ex/gligen-gui,siliconflow/onediff,Comfy-Org/ComfyUI_frontend,crystian/ComfyUI-Crystools&type=Date"><img src="https://star-history.dera.page/svg?repos=1038lab/ComfyUI-RMBG,mut-ex/gligen-gui,siliconflow/onediff,Comfy-Org/ComfyUI_frontend,crystian/ComfyUI-Crystools&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 46. 1038lab/ComfyUI-RMBG
@@ -846,7 +846,7 @@ A powerful set of tools for ComfyUI
 
 # TOP 51 - 55
 
-<details><summary>Star History for TOP 51 - 55</summary><a href="https://api.star-history.com/svg?repos=WhatDreamsCost/WhatDreamsCost-ComfyUI,flybirdxx/ComfyUI-Qwen-TTS,MixLabPro/comfyui-mixlab-nodes,cubiq/ComfyUI_InstantID,WASasquatch/was-node-suite-comfyui&type=Date"><img src="https://api.star-history.com/svg?repos=WhatDreamsCost/WhatDreamsCost-ComfyUI,flybirdxx/ComfyUI-Qwen-TTS,MixLabPro/comfyui-mixlab-nodes,cubiq/ComfyUI_InstantID,WASasquatch/was-node-suite-comfyui&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 51 - 55</summary><a href="https://star-history.dera.page/#WhatDreamsCost/WhatDreamsCost-ComfyUI,flybirdxx/ComfyUI-Qwen-TTS,MixLabPro/comfyui-mixlab-nodes,cubiq/ComfyUI_InstantID,WASasquatch/was-node-suite-comfyui&type=Date"><img src="https://star-history.dera.page/svg?repos=WhatDreamsCost/WhatDreamsCost-ComfyUI,flybirdxx/ComfyUI-Qwen-TTS,MixLabPro/comfyui-mixlab-nodes,cubiq/ComfyUI_InstantID,WASasquatch/was-node-suite-comfyui&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 51. WhatDreamsCost/WhatDreamsCost-ComfyUI
@@ -912,7 +912,7 @@ None
 An extensive node suite for ComfyUI with over 210 new nodes
 # TOP 56 - 60
 
-<details><summary>Star History for TOP 56 - 60</summary><a href="https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn,Tavris1/ComfyUI-Easy-Install,huchenlei/ComfyUI-layerdiffuse,Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-Florence2&type=Date"><img src="https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn,Tavris1/ComfyUI-Easy-Install,huchenlei/ComfyUI-layerdiffuse,Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-Florence2&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 56 - 60</summary><a href="https://star-history.dera.page/#ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn,Tavris1/ComfyUI-Easy-Install,huchenlei/ComfyUI-layerdiffuse,Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-Florence2&type=Date"><img src="https://star-history.dera.page/svg?repos=ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn,Tavris1/ComfyUI-Easy-Install,huchenlei/ComfyUI-layerdiffuse,Kosinkadink/ComfyUI-VideoHelperSuite,kijai/ComfyUI-Florence2&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 56. ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
@@ -992,7 +992,7 @@ Inference Microsoft Florence2 VLM
 
 # TOP 61 - 65
 
-<details><summary>Star History for TOP 61 - 65</summary><a href="https://api.star-history.com/svg?repos=NimaNzrii/comfyui-photoshop,XLabs-AI/x-flux-comfyui,jau123/MeiGen-AI-Design-MCP,kijai/ComfyUI-FramePackWrapper,YanWenKun/ComfyUI-Docker&type=Date"><img src="https://api.star-history.com/svg?repos=NimaNzrii/comfyui-photoshop,XLabs-AI/x-flux-comfyui,jau123/MeiGen-AI-Design-MCP,kijai/ComfyUI-FramePackWrapper,YanWenKun/ComfyUI-Docker&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 61 - 65</summary><a href="https://star-history.dera.page/#NimaNzrii/comfyui-photoshop,XLabs-AI/x-flux-comfyui,jau123/MeiGen-AI-Design-MCP,kijai/ComfyUI-FramePackWrapper,YanWenKun/ComfyUI-Docker&type=Date"><img src="https://star-history.dera.page/svg?repos=NimaNzrii/comfyui-photoshop,XLabs-AI/x-flux-comfyui,jau123/MeiGen-AI-Design-MCP,kijai/ComfyUI-FramePackWrapper,YanWenKun/ComfyUI-Docker&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 61. NimaNzrii/comfyui-photoshop
@@ -1068,7 +1068,7 @@ None
 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
 # TOP 66 - 70
 
-<details><summary>Star History for TOP 66 - 70</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,Enemyx-net/VibeVoice-ComfyUI,ssitu/ComfyUI_UltimateSDUpscale,16131zzzzzzzz/EveryoneNobel,BennyKok/comfyui-deploy&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-CogVideoXWrapper,Enemyx-net/VibeVoice-ComfyUI,ssitu/ComfyUI_UltimateSDUpscale,16131zzzzzzzz/EveryoneNobel,BennyKok/comfyui-deploy&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 66 - 70</summary><a href="https://star-history.dera.page/#kijai/ComfyUI-CogVideoXWrapper,Enemyx-net/VibeVoice-ComfyUI,ssitu/ComfyUI_UltimateSDUpscale,16131zzzzzzzz/EveryoneNobel,BennyKok/comfyui-deploy&type=Date"><img src="https://star-history.dera.page/svg?repos=kijai/ComfyUI-CogVideoXWrapper,Enemyx-net/VibeVoice-ComfyUI,ssitu/ComfyUI_UltimateSDUpscale,16131zzzzzzzz/EveryoneNobel,BennyKok/comfyui-deploy&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 66. kijai/ComfyUI-CogVideoXWrapper
@@ -1150,7 +1150,7 @@ An open source `vercel` like deployment platform for Comfy UI
 
 # TOP 71 - 75
 
-<details><summary>Star History for TOP 71 - 75</summary><a href="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,AIGODLIKE/ComfyUI-BlenderAI-node,AlekPet/ComfyUI_Custom_Nodes_AlekPet,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui&type=Date"><img src="https://api.star-history.com/svg?repos=AHEKOT/ComfyUI_VNCCS,AIGODLIKE/ComfyUI-BlenderAI-node,AlekPet/ComfyUI_Custom_Nodes_AlekPet,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 71 - 75</summary><a href="https://star-history.dera.page/#AHEKOT/ComfyUI_VNCCS,AIGODLIKE/ComfyUI-BlenderAI-node,AlekPet/ComfyUI_Custom_Nodes_AlekPet,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui&type=Date"><img src="https://star-history.dera.page/svg?repos=AHEKOT/ComfyUI_VNCCS,AIGODLIKE/ComfyUI-BlenderAI-node,AlekPet/ComfyUI_Custom_Nodes_AlekPet,zhulu111/ComfyUI_Bxb,jags111/efficiency-nodes-comfyui&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 71. AHEKOT/ComfyUI_VNCCS
@@ -1242,7 +1242,7 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
 
 # TOP 76 - 80
 
-<details><summary>Star History for TOP 76 - 80</summary><a href="https://api.star-history.com/svg?repos=11cafe/comfyui-workspace-manager,ZHO-ZHO-ZHO/ComfyUI-InstantID,logtd/ComfyUI-Fluxtapoz,fofr/cog-face-to-many,willmiao/ComfyUI-Lora-Manager&type=Date"><img src="https://api.star-history.com/svg?repos=11cafe/comfyui-workspace-manager,ZHO-ZHO-ZHO/ComfyUI-InstantID,logtd/ComfyUI-Fluxtapoz,fofr/cog-face-to-many,willmiao/ComfyUI-Lora-Manager&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 76 - 80</summary><a href="https://star-history.dera.page/#11cafe/comfyui-workspace-manager,ZHO-ZHO-ZHO/ComfyUI-InstantID,logtd/ComfyUI-Fluxtapoz,fofr/cog-face-to-many,willmiao/ComfyUI-Lora-Manager&type=Date"><img src="https://star-history.dera.page/svg?repos=11cafe/comfyui-workspace-manager,ZHO-ZHO-ZHO/ComfyUI-InstantID,logtd/ComfyUI-Fluxtapoz,fofr/cog-face-to-many,willmiao/ComfyUI-Lora-Manager&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 76. 11cafe/comfyui-workspace-manager
@@ -1331,7 +1331,7 @@ LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and 
 
 # TOP 81 - 85
 
-<details><summary>Star History for TOP 81 - 85</summary><a href="https://api.star-history.com/svg?repos=zanllp/infinite-image-browsing,scraed/LanPaint,nerdyrodent/AVeryComfyNerd,Gourieff/ComfyUI-ReActor,jtydhr88/ComfyUI-qwenmultiangle&type=Date"><img src="https://api.star-history.com/svg?repos=zanllp/infinite-image-browsing,scraed/LanPaint,nerdyrodent/AVeryComfyNerd,Gourieff/ComfyUI-ReActor,jtydhr88/ComfyUI-qwenmultiangle&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 81 - 85</summary><a href="https://star-history.dera.page/#zanllp/infinite-image-browsing,scraed/LanPaint,nerdyrodent/AVeryComfyNerd,Gourieff/ComfyUI-ReActor,jtydhr88/ComfyUI-qwenmultiangle&type=Date"><img src="https://star-history.dera.page/svg?repos=zanllp/infinite-image-browsing,scraed/LanPaint,nerdyrodent/AVeryComfyNerd,Gourieff/ComfyUI-ReActor,jtydhr88/ComfyUI-qwenmultiangle&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 81. zanllp/infinite-image-browsing
@@ -1406,7 +1406,7 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 
 # TOP 86 - 90
 
-<details><summary>Star History for TOP 86 - 90</summary><a href="https://api.star-history.com/svg?repos=Suzie1/ComfyUI_Comfyroll_CustomNodes,wyrde/wyrde-comfyui-workflows,Acly/comfyui-inpaint-nodes,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master&type=Date"><img src="https://api.star-history.com/svg?repos=Suzie1/ComfyUI_Comfyroll_CustomNodes,wyrde/wyrde-comfyui-workflows,Acly/comfyui-inpaint-nodes,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 86 - 90</summary><a href="https://star-history.dera.page/#Suzie1/ComfyUI_Comfyroll_CustomNodes,wyrde/wyrde-comfyui-workflows,Acly/comfyui-inpaint-nodes,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master&type=Date"><img src="https://star-history.dera.page/svg?repos=Suzie1/ComfyUI_Comfyroll_CustomNodes,wyrde/wyrde-comfyui-workflows,Acly/comfyui-inpaint-nodes,chengzeyi/Comfy-WaveSpeed,florestefano1975/comfyui-portrait-master&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 86. Suzie1/ComfyUI_Comfyroll_CustomNodes
@@ -1480,7 +1480,7 @@ This node was designed to help AI image creators to generate prompts for human p
 
 # TOP 91 - 95
 
-<details><summary>Star History for TOP 91 - 95</summary><a href="https://api.star-history.com/svg?repos=mcmonkeyprojects/sd-dynamic-thresholding,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-segment-anything-2,6174/comflowy,cubiq/ComfyUI_essentials&type=Date"><img src="https://api.star-history.com/svg?repos=mcmonkeyprojects/sd-dynamic-thresholding,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-segment-anything-2,6174/comflowy,cubiq/ComfyUI_essentials&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 91 - 95</summary><a href="https://star-history.dera.page/#mcmonkeyprojects/sd-dynamic-thresholding,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-segment-anything-2,6174/comflowy,cubiq/ComfyUI_essentials&type=Date"><img src="https://star-history.dera.page/svg?repos=mcmonkeyprojects/sd-dynamic-thresholding,pythongosssss/ComfyUI-WD14-Tagger,kijai/ComfyUI-segment-anything-2,6174/comflowy,cubiq/ComfyUI_essentials&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 91. mcmonkeyprojects/sd-dynamic-thresholding
@@ -1575,7 +1575,7 @@ None
 
 # TOP 96 - 100
 
-<details><summary>Star History for TOP 96 - 100</summary><a href="https://api.star-history.com/svg?repos=kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light,diodiogod/TTS-Audio-Suite,lquesada/ComfyUI-Inpaint-CropAndStitch,602387193c/ComfyUI-wiki&type=Date"><img src="https://api.star-history.com/svg?repos=kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light,diodiogod/TTS-Audio-Suite,lquesada/ComfyUI-Inpaint-CropAndStitch,602387193c/ComfyUI-wiki&type=Date" alt="Star History Chart" width="500"></a></details>
+<details><summary>Star History for TOP 96 - 100</summary><a href="https://star-history.dera.page/#kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light,diodiogod/TTS-Audio-Suite,lquesada/ComfyUI-Inpaint-CropAndStitch,602387193c/ComfyUI-wiki&type=Date"><img src="https://star-history.dera.page/svg?repos=kijai/ComfyUI-FluxTrainer,kijai/ComfyUI-IC-Light,diodiogod/TTS-Audio-Suite,lquesada/ComfyUI-Inpaint-CropAndStitch,602387193c/ComfyUI-wiki&type=Date" alt="Star History Chart" width="500"></a></details>
 
 
 ## 96. kijai/ComfyUI-FluxTrainer
