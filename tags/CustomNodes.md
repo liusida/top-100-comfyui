@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `6.1k` | **Created at**: `2026-08-17`
+**Stars**: `6.1k` | **Created at**: `2026-08-18`
 
 
 None
@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.1k` | **Created at**: `2026-08-18`
+**Stars**: `4.2k` | **Created at**: `2026-08-18`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -56,7 +56,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `3.9k` | **Created at**: `2026-08-17`
+**Stars**: `3.9k` | **Created at**: `2026-08-18`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -91,7 +91,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.5k` | **Created at**: `2026-08-16`
+**Stars**: `3.5k` | **Created at**: `2026-08-18`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -108,7 +108,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.4k` | **Created at**: `2026-08-17`
+**Stars**: `3.4k` | **Created at**: `2026-08-18`
 
 
 Making ComfyUI more comfortable!
@@ -159,7 +159,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `3.2k` | **Created at**: `2026-08-17`
+**Stars**: `3.2k` | **Created at**: `2026-08-18`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -180,11 +180,11 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `3.1k` | **Created at**: `2026-08-17`
+**Stars**: `3.1k` | **Created at**: `2026-08-18`
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (249)</summary>
+<details><summary>Included Nodes (250)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BBOXToBoundingBoxKJ</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -198,7 +198,7 @@ Various custom nodes for ComfyUI
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
  - <sub>Krea2PromptWeight</sub>
  - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2BlockLoraSelect</sub>, <sub>LTX2LoraLoaderAdvanced</sub>, <sub>LTX2MemoryEfficientSageAttentionPatch</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
- - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
+ - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxH3TokenCounter</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
  - <sub>PadImageBatchInterleaved</sub>, <sub>PatchFlashAttentionKJ</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PatchTritonVAE</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>PiDColorBiasCorrection</sub>, <sub>PlaySoundKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewImageOrMask</sub>, <sub>PreviewLatentNoiseMask</sub>
@@ -216,7 +216,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `3.1k` | **Created at**: `2026-08-17`
+**Stars**: `3.1k` | **Created at**: `2026-08-18`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -232,7 +232,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.7k` | **Created at**: `2026-08-17`
+**Stars**: `2.7k` | **Created at**: `2026-08-19`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -322,7 +322,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `1.8k` | **Created at**: `2026-08-14`
+**Stars**: `1.8k` | **Created at**: `2026-08-18`
 
 
 None
@@ -383,7 +383,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.8k` | **Created at**: `2026-08-17`
+**Stars**: `1.8k` | **Created at**: `2026-08-18`
 
 
 Nodes related to video workflows
@@ -435,7 +435,7 @@ None
 <a href='https://github.com/kijai/ComfyUI-CogVideoXWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-CogVideoXWrapper
 
-**Stars**: `1.5k` | **Created at**: `2026-08-09`
+**Stars**: `1.5k` | **Created at**: `2026-08-18`
 
 
 None
@@ -453,7 +453,7 @@ None
 <a href='https://github.com/ssitu/ComfyUI_UltimateSDUpscale'>
 <img src="https://avatars.githubusercontent.com/u/57548627?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ssitu/ComfyUI_UltimateSDUpscale
 
-**Stars**: `1.5k` | **Created at**: `2026-08-17`
+**Stars**: `1.5k` | **Created at**: `2026-08-18`
 
 
 ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
@@ -485,7 +485,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `1.5k` | **Created at**: `2026-08-12`
+**Stars**: `1.5k` | **Created at**: `2026-08-18`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -589,7 +589,7 @@ This node was designed to help AI image creators to generate prompts for human p
 <a href='https://github.com/mcmonkeyprojects/sd-dynamic-thresholding'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
 
-**Stars**: `1.2k` | **Created at**: `2026-08-14`
+**Stars**: `1.2k` | **Created at**: `2026-08-18`
 
 
 Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and Auto WebUI)
@@ -605,7 +605,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `1.2k` | **Created at**: `2026-08-17`
+**Stars**: `1.2k` | **Created at**: `2026-08-18`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.

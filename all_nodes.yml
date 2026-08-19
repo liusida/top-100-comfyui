@@ -909,7 +909,10 @@ DownloadAndLoadToraModel: -1
 DownloadAndLoadWav2VecModel: -1
 DragNUWA Run: 5
 DragNUWA Run MotionBrush: 2
+DramaBoxDatasetPrepNode: -1
+DramaBoxDatasetRowsNode: -1
 DramaBoxEngineNode: -1
+DramaBoxTrainingConfigNode: -1
 DrawArcFaceLandmarks: -1
 DrawGaussianNoiseOnImage: -1
 DrawInstanceDiffusionTracking: 0
@@ -2265,6 +2268,7 @@ MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: 35
 MiniMaxChunkFeedForward: -1
 MiniMaxH3MemoryEfficientSageAttentionPatch: -1
+MiniMaxH3TokenCounter: -1
 MiniMaxLowVRAMAttention: -1
 MinimaxHailuoVideoNode: -1
 MinimaxImageToVideoNode: -1
@@ -2542,9 +2546,11 @@ RVCEngineNode: -1
 RVCPitchOptionsNode: -1
 RVCTrainingConfigNode: -1
 Random Number: 7
+RandomCheckpointLoaderLM: -1
 RandomImageFromBatch: -1
 RandomNoise: 46
 RandomPrompt: 4
+RandomUNETLoaderLM: -1
 ReActorBuildFaceModel: 4
 ReActorFaceBoost: -1
 ReActorFaceSimilarity: -1

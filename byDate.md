@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `128.1k` | **Created at**: `2023-01-17`
+**Stars**: `128.3k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -270,7 +270,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `8.6k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `8.7k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -319,7 +319,7 @@ A plugin for multilingual translation of ComfyUI，This plugin implements transl
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.1k` | **Created at**: `2023-08-17` | **Tags**: `Custom Nodes`
+**Stars**: `4.2k` | **Created at**: `2023-08-17` | **Tags**: `Custom Nodes`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -475,7 +475,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (249)</summary>
+<details><summary>Included Nodes (250)</summary>
 
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
  - <sub>[BatchCLIPSeg](node_examples/BatchCLIPSeg.md)</sub>, <sub>[BatchCropFromMask](node_examples/BatchCropFromMask.md)</sub>, <sub>BatchCropFromMaskAdvanced</sub>, <sub>[BatchUncrop](node_examples/BatchUncrop.md)</sub>, <sub>BatchUncropAdvanced</sub>, <sub>BBOXToBoundingBoxKJ</sub>, <sub>BboxToInt</sub>, <sub>BboxVisualize</sub>, <sub>BlockifyMask</sub>, <sub>BOOLConstant</sub>
@@ -489,7 +489,7 @@ Various custom nodes for ComfyUI
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
  - <sub>Krea2PromptWeight</sub>
  - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2BlockLoraSelect</sub>, <sub>LTX2LoraLoaderAdvanced</sub>, <sub>LTX2MemoryEfficientSageAttentionPatch</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
- - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
+ - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxH3TokenCounter</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
  - <sub>PadImageBatchInterleaved</sub>, <sub>PatchFlashAttentionKJ</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PatchTritonVAE</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>PiDColorBiasCorrection</sub>, <sub>PlaySoundKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewImageOrMask</sub>, <sub>PreviewLatentNoiseMask</sub>
@@ -1272,13 +1272,14 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
-<details><summary>Included Nodes (20)</summary>
+<details><summary>Included Nodes (22)</summary>
 
  - <sub>CheckpointLoaderLM</sub>, <sub>CreateHookLoraLM</sub>
  - <sub>DebugMetadataLM</sub>
  - <sub>LoraCyclerLM</sub>, <sub>LoraInfoLM</sub>, <sub>LoraLoaderLM</sub>, <sub>LoraPoolLM</sub>, <sub>LoraRandomizerLM</sub>, <sub>LoraStackCombinerLM</sub>, <sub>LoraStackerLM</sub>, <sub>LoraSyntaxToPath</sub>, <sub>LoraTextLoaderLM</sub>
  - <sub>MetadataOverwriteLM</sub>
  - <sub>PromptLM</sub>
+ - <sub>RandomCheckpointLoaderLM</sub>, <sub>RandomUNETLoaderLM</sub>
  - <sub>SaveImageLM</sub>
  - <sub>TextLM</sub>, <sub>TriggerWordToggleLM</sub>
  - <sub>UNETLoaderLM</sub>
@@ -1410,7 +1411,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler'>
 <img src="https://avatars.githubusercontent.com/u/800903?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
 
-**Stars**: `2.7k` | **Created at**: `2025-06-20`
+**Stars**: `2.8k` | **Created at**: `2025-06-20`
 
 
 Official SeedVR2 Video Upscaler for ComfyUI
@@ -1430,11 +1431,11 @@ Official SeedVR2 Video Upscaler for ComfyUI
 
 
 A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools
-<details><summary>Included Nodes (61)</summary>
+<details><summary>Included Nodes (64)</summary>
 
  - <sub>ASRPunctuationTruecaseNode</sub>, <sub>AudioAnalyzerNode</sub>, <sub>AudioAnalyzerOptionsNode</sub>
  - <sub>CharacterVoicesNode</sub>, <sub>ChatterBoxAudioAnalyzer</sub>, <sub>ChatterBoxAudioAnalyzerOptions</sub>, <sub>ChatterBoxEngineNode</sub>, <sub>ChatterBoxF5TTSEditOptions</sub>, <sub>ChatterBoxF5TTSEditVoice</sub>, <sub>ChatterBoxOfficial23LangEngineNode</sub>, <sub>ChatterBoxVoiceCapture</sub>, <sub>CosyVoice Engine</sub>, <sub>CosyVoiceEngineNode</sub>
- - <sub>DotsTTSEngineNode</sub>, <sub>DramaBoxEngineNode</sub>
+ - <sub>DotsTTSEngineNode</sub>, <sub>DramaBoxDatasetPrepNode</sub>, <sub>DramaBoxDatasetRowsNode</sub>, <sub>DramaBoxEngineNode</sub>, <sub>DramaBoxTrainingConfigNode</sub>
  - <sub>EchoTTSEngineNode</sub>
  - <sub>F5TTSEngineNode</sub>, <sub>FishAudioS2EngineNode</sub>
  - <sub>GraniteASREngineNode</sub>
@@ -1567,7 +1568,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `4.8k` | **Created at**: `2026-03-25`
+**Stars**: `4.9k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
