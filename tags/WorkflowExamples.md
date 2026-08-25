@@ -18,7 +18,7 @@
 <a href='https://github.com/comfyanonymous/ComfyUI_examples'>
 <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/comfyanonymous/ComfyUI_examples
 
-**Stars**: `4.5k` | **Created at**: `2026-08-23`
+**Stars**: `4.5k` | **Created at**: `2026-08-24`
 
 
 Examples of ComfyUI workflows

@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `129.4k` | **Created at**: `2023-01-17`
+**Stars**: `129.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -797,7 +797,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/602387193c/ComfyUI-wiki'>
 <img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
 
-**Stars**: `1.1k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+**Stars**: `1.2k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
 
 
 Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
@@ -1497,7 +1497,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.2k` | **Created at**: `2025-11-07`
+**Stars**: `27.3k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1568,7 +1568,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `5.1k` | **Created at**: `2026-03-25`
+**Stars**: `5.2k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
