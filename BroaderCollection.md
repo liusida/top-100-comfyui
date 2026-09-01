@@ -7,7 +7,7 @@
 <a href='https://github.com/open-webui/open-webui'>
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/open-webui/open-webui
 
-**Stars**: `150.5k` | **Created at**: `2023-10-06` | **Last updated**: `2026-08-31`
+**Stars**: `150.5k` | **Created at**: `2023-10-06` | **Last updated**: `2026-09-01`
 
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -18,7 +18,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `130.8k` | **Created at**: `2023-01-17` | **Last updated**: `2026-08-31`
+**Stars**: `130.9k` | **Created at**: `2023-01-17` | **Last updated**: `2026-09-01`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -29,7 +29,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 <a href='https://github.com/punkpeye/awesome-mcp-servers'>
 <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/punkpeye/awesome-mcp-servers
 
-**Stars**: `93.4k` | **Created at**: `2024-11-30` | **Last updated**: `2026-08-31`
+**Stars**: `93.6k` | **Created at**: `2024-11-30` | **Last updated**: `2026-09-01`
 
 
 A collection of MCP servers.
@@ -40,10 +40,10 @@ A collection of MCP servers.
 <a href='https://github.com/diegosouzapw/OmniRoute'>
 <img src="https://avatars.githubusercontent.com/u/8016841?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/diegosouzapw/OmniRoute
 
-**Stars**: `58.7k` | **Created at**: `2026-02-13` | **Last updated**: `2026-08-31`
+**Stars**: `59.4k` | **Created at**: `2026-02-13` | **Last updated**: `2026-09-01`
 
 
-Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
 
 ## calesthio/OpenMontage
 
@@ -51,7 +51,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 
 <a href='https://github.com/calesthio/OpenMontage'>
 <img src="https://avatars.githubusercontent.com/u/213189893?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/calesthio/OpenMontage
 
-**Stars**: `54.7k` | **Created at**: `2026-03-29` | **Last updated**: `2026-08-31`
+**Stars**: `55.1k` | **Created at**: `2026-03-29` | **Last updated**: `2026-09-01`
 
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
@@ -62,7 +62,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 <a href='https://github.com/lllyasviel/Fooocus'>
 <img src="https://avatars.githubusercontent.com/u/19834515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lllyasviel/Fooocus
 
-**Stars**: `52.6k` | **Created at**: `2023-08-09` | **Last updated**: `2026-08-31`
+**Stars**: `52.6k` | **Created at**: `2023-08-09` | **Last updated**: `2026-09-01`
 
 
 Focus on prompting and generating
@@ -73,7 +73,7 @@ Focus on prompting and generating
 <a href='https://github.com/HKUDS/CLI-Anything'>
 <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/HKUDS/CLI-Anything
 
-**Stars**: `48.7k` | **Created at**: `2026-03-08` | **Last updated**: `2026-08-31`
+**Stars**: `48.8k` | **Created at**: `2026-03-08` | **Last updated**: `2026-09-01`
 
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -84,7 +84,7 @@ Focus on prompting and generating
 <a href='https://github.com/GitHubDaily/GitHubDaily'>
 <img src="https://avatars.githubusercontent.com/u/46262515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/GitHubDaily/GitHubDaily
 
-**Stars**: `47.8k` | **Created at**: `2018-12-30` | **Last updated**: `2026-08-31`
+**Stars**: `47.8k` | **Created at**: `2018-12-30` | **Last updated**: `2026-09-01`
 
 
 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -95,7 +95,7 @@ Focus on prompting and generating
 <a href='https://github.com/deepseek-ai/awesome-deepseek-integration'>
 <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/deepseek-ai/awesome-deepseek-integration
 
-**Stars**: `39.0k` | **Created at**: `2024-01-11` | **Last updated**: `2026-08-31`
+**Stars**: `39.0k` | **Created at**: `2024-01-11` | **Last updated**: `2026-09-01`
 
 
 Integrate the DeepSeek API into popular software
@@ -106,7 +106,7 @@ Integrate the DeepSeek API into popular software
 <a href='https://github.com/OpenBMB/VoxCPM'>
 <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/OpenBMB/VoxCPM
 
-**Stars**: `36.3k` | **Created at**: `2025-09-16` | **Last updated**: `2026-08-31`
+**Stars**: `36.4k` | **Created at**: `2025-09-16` | **Last updated**: `2026-09-01`
 
 
 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
@@ -117,10 +117,21 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 <a href='https://github.com/SillyTavern/SillyTavern'>
 <img src="https://avatars.githubusercontent.com/u/134869877?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/SillyTavern/SillyTavern
 
-**Stars**: `32.9k` | **Created at**: `2023-02-09` | **Last updated**: `2026-08-31`
+**Stars**: `32.9k` | **Created at**: `2023-02-09` | **Last updated**: `2026-09-01`
 
 
 LLM Frontend for Power Users.
+
+## THU-MAIC/OpenMAIC
+
+
+<a href='https://github.com/THU-MAIC/OpenMAIC'>
+<img src="https://avatars.githubusercontent.com/u/163809488?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/THU-MAIC/OpenMAIC
+
+**Stars**: `27.7k` | **Created at**: `2026-03-11` | **Last updated**: `2026-09-01`
+
+
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 ## ATH-MaaS/Pixelle-Video
 
@@ -128,7 +139,7 @@ LLM Frontend for Power Users.
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.5k` | **Created at**: `2025-11-07` | **Last updated**: `2026-08-31`
+**Stars**: `27.6k` | **Created at**: `2025-11-07` | **Last updated**: `2026-09-01`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -139,21 +150,10 @@ LLM Frontend for Power Users.
 <a href='https://github.com/OpenBMB/MiniCPM-V'>
 <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/OpenBMB/MiniCPM-V
 
-**Stars**: `26.3k` | **Created at**: `2024-01-29` | **Last updated**: `2026-08-31`
+**Stars**: `26.3k` | **Created at**: `2024-01-29` | **Last updated**: `2026-09-01`
 
 
 A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
-
-## THU-MAIC/OpenMAIC
-
-
-<a href='https://github.com/THU-MAIC/OpenMAIC'>
-<img src="https://avatars.githubusercontent.com/u/163809488?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/THU-MAIC/OpenMAIC
-
-**Stars**: `24.6k` | **Created at**: `2026-03-11` | **Last updated**: `2026-08-31`
-
-
-Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 ## spmallick/learnopencv
 
@@ -161,7 +161,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 <a href='https://github.com/spmallick/learnopencv'>
 <img src="https://avatars.githubusercontent.com/u/1720200?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/spmallick/learnopencv
 
-**Stars**: `23.1k` | **Created at**: `2015-02-17` | **Last updated**: `2026-08-30`
+**Stars**: `23.1k` | **Created at**: `2015-02-17` | **Last updated**: `2026-08-31`
 
 
 Learn OpenCV  : C++ and Python Examples
@@ -172,7 +172,7 @@ Learn OpenCV  : C++ and Python Examples
 <a href='https://github.com/Zeyi-Lin/HivisionIDPhotos'>
 <img src="https://avatars.githubusercontent.com/u/58305964?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Zeyi-Lin/HivisionIDPhotos
 
-**Stars**: `21.5k` | **Created at**: `2023-06-18` | **Last updated**: `2026-08-31`
+**Stars**: `21.5k` | **Created at**: `2023-06-18` | **Last updated**: `2026-09-01`
 
 
 ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -183,7 +183,7 @@ Learn OpenCV  : C++ and Python Examples
 <a href='https://github.com/jnMetaCode/agency-agents-zh'>
 <img src="https://avatars.githubusercontent.com/u/12096460?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jnMetaCode/agency-agents-zh
 
-**Stars**: `20.1k` | **Created at**: `2026-03-06` | **Last updated**: `2026-08-31`
+**Stars**: `20.2k` | **Created at**: `2026-03-06` | **Last updated**: `2026-09-01`
 
 
 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
@@ -194,7 +194,7 @@ Learn OpenCV  : C++ and Python Examples
 <a href='https://github.com/pluja/awesome-privacy'>
 <img src="https://avatars.githubusercontent.com/u/64632615?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pluja/awesome-privacy
 
-**Stars**: `19.6k` | **Created at**: `2020-12-07` | **Last updated**: `2026-08-31`
+**Stars**: `19.6k` | **Created at**: `2020-12-07` | **Last updated**: `2026-09-01`
 
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -205,7 +205,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 <a href='https://github.com/KlingAIResearch/LivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/168244549?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/KlingAIResearch/LivePortrait
 
-**Stars**: `19.0k` | **Created at**: `2024-07-03` | **Last updated**: `2026-08-30`
+**Stars**: `19.0k` | **Created at**: `2024-07-03` | **Last updated**: `2026-09-01`
 
 
 Bring portraits to life!
@@ -216,7 +216,7 @@ Bring portraits to life!
 <a href='https://github.com/sczhou/CodeFormer'>
 <img src="https://avatars.githubusercontent.com/u/14334509?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/sczhou/CodeFormer
 
-**Stars**: `18.1k` | **Created at**: `2022-06-21` | **Last updated**: `2026-08-30`
+**Stars**: `18.1k` | **Created at**: `2022-06-21` | **Last updated**: `2026-09-01`
 
 
 [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
@@ -227,7 +227,7 @@ Bring portraits to life!
 <a href='https://github.com/Wan-Video/Wan2.2'>
 <img src="https://avatars.githubusercontent.com/u/200620180?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Wan-Video/Wan2.2
 
-**Stars**: `17.3k` | **Created at**: `2025-07-28` | **Last updated**: `2026-08-31`
+**Stars**: `17.4k` | **Created at**: `2025-07-28` | **Last updated**: `2026-09-01`
 
 
 Wan: Open and Advanced Large-Scale Video Generative Models
@@ -238,7 +238,7 @@ Wan: Open and Advanced Large-Scale Video Generative Models
 <a href='https://github.com/Wan-Video/Wan2.1'>
 <img src="https://avatars.githubusercontent.com/u/200620180?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Wan-Video/Wan2.1
 
-**Stars**: `16.9k` | **Created at**: `2025-02-25` | **Last updated**: `2026-08-31`
+**Stars**: `16.9k` | **Created at**: `2025-02-25` | **Last updated**: `2026-09-01`
 
 
 Wan: Open and Advanced Large-Scale Video Generative Models
@@ -249,7 +249,7 @@ Wan: Open and Advanced Large-Scale Video Generative Models
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.0k` | **Created at**: `2023-04-23` | **Last updated**: `2026-08-31`
+**Stars**: `16.0k` | **Created at**: `2023-04-23` | **Last updated**: `2026-09-01`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -260,21 +260,10 @@ ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It
 <a href='https://github.com/HBAI-Ltd/Toonflow-app'>
 <img src="https://avatars.githubusercontent.com/u/257465404?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/HBAI-Ltd/Toonflow-app
 
-**Stars**: `14.9k` | **Created at**: `2026-01-29` | **Last updated**: `2026-08-31`
+**Stars**: `15.0k` | **Created at**: `2026-01-29` | **Last updated**: `2026-09-01`
 
 
 Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
-
-## Tencent-Hunyuan/Hunyuan3D-2
-
-
-<a href='https://github.com/Tencent-Hunyuan/Hunyuan3D-2'>
-<img src="https://avatars.githubusercontent.com/u/210980732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent-Hunyuan/Hunyuan3D-2
-
-**Stars**: `14.7k` | **Created at**: `2025-01-21` | **Last updated**: `2026-08-31`
-
-
-High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 
 ## img2threejs/img2threejs
 
@@ -282,10 +271,21 @@ High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models
 <a href='https://github.com/img2threejs/img2threejs'>
 <img src="https://avatars.githubusercontent.com/u/309001690?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/img2threejs/img2threejs
 
-**Stars**: `14.6k` | **Created at**: `2026-07-15` | **Last updated**: `2026-08-31`
+**Stars**: `14.8k` | **Created at**: `2026-07-15` | **Last updated**: `2026-09-01`
 
 
 Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+
+## Tencent-Hunyuan/Hunyuan3D-2
+
+
+<a href='https://github.com/Tencent-Hunyuan/Hunyuan3D-2'>
+<img src="https://avatars.githubusercontent.com/u/210980732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent-Hunyuan/Hunyuan3D-2
+
+**Stars**: `14.7k` | **Created at**: `2025-01-21` | **Last updated**: `2026-09-01`
+
+
+High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 
 ## NVIDIA/TensorRT-LLM
 
@@ -293,7 +293,7 @@ Rebuild the object in a reference image as a code-only, procedural, quality-gate
 <a href='https://github.com/NVIDIA/TensorRT-LLM'>
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NVIDIA/TensorRT-LLM
 
-**Stars**: `14.5k` | **Created at**: `2023-08-16` | **Last updated**: `2026-08-31`
+**Stars**: `14.5k` | **Created at**: `2023-08-16` | **Last updated**: `2026-09-01`
 
 
 TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
@@ -304,7 +304,7 @@ TensorRT LLM provides users with an easy-to-use Python API to define Large Langu
 <a href='https://github.com/awesome-dsh-plugin/awesome-dsh-plugin'>
 <img src="https://avatars.githubusercontent.com/u/316603077?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
-**Stars**: `13.8k` | **Created at**: `2026-08-13` | **Last updated**: `2026-08-31`
+**Stars**: `13.9k` | **Created at**: `2026-08-13` | **Last updated**: `2026-09-01`
 
 
 A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -315,7 +315,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 <a href='https://github.com/modelscope/DiffSynth-Studio'>
 <img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/modelscope/DiffSynth-Studio
 
-**Stars**: `13.0k` | **Created at**: `2023-12-07` | **Last updated**: `2026-08-30`
+**Stars**: `13.0k` | **Created at**: `2023-12-07` | **Last updated**: `2026-08-31`
 
 
 Enjoy the magic of Diffusion models!
@@ -337,7 +337,7 @@ text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 <a href='https://github.com/steven2358/awesome-generative-ai'>
 <img src="https://avatars.githubusercontent.com/u/164072?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/steven2358/awesome-generative-ai
 
-**Stars**: `12.5k` | **Created at**: `2022-10-20` | **Last updated**: `2026-08-30`
+**Stars**: `12.5k` | **Created at**: `2022-10-20` | **Last updated**: `2026-08-31`
 
 
 A curated list of modern Generative Artificial Intelligence projects and services
@@ -348,7 +348,7 @@ A curated list of modern Generative Artificial Intelligence projects and service
 <a href='https://github.com/Tencent-Hunyuan/HunyuanVideo'>
 <img src="https://avatars.githubusercontent.com/u/210980732?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent-Hunyuan/HunyuanVideo
 
-**Stars**: `12.5k` | **Created at**: `2024-11-28` | **Last updated**: `2026-08-30`
+**Stars**: `12.5k` | **Created at**: `2024-11-28` | **Last updated**: `2026-08-31`
 
 
 HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -359,7 +359,7 @@ HunyuanVideo: A Systematic Framework For Large Video Generation Model
 <a href='https://github.com/ace-step/ACE-Step-1.5'>
 <img src="https://avatars.githubusercontent.com/u/209436471?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ace-step/ACE-Step-1.5
 
-**Stars**: `12.5k` | **Created at**: `2025-09-04` | **Last updated**: `2026-08-31`
+**Stars**: `12.5k` | **Created at**: `2025-09-04` | **Last updated**: `2026-09-01`
 
 
 The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
@@ -370,7 +370,7 @@ The most powerful local music generation model that outperforms almost all comme
 <a href='https://github.com/guoyww/AnimateDiff'>
 <img src="https://avatars.githubusercontent.com/u/93254373?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/guoyww/AnimateDiff
 
-**Stars**: `12.2k` | **Created at**: `2023-06-17` | **Last updated**: `2026-08-30`
+**Stars**: `12.2k` | **Created at**: `2023-06-17` | **Last updated**: `2026-09-01`
 
 
 Official implementation of AnimateDiff.
@@ -381,7 +381,7 @@ Official implementation of AnimateDiff.
 <a href='https://github.com/nidhinjs/prompt-master'>
 <img src="https://avatars.githubusercontent.com/u/254035488?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nidhinjs/prompt-master
 
-**Stars**: `12.1k` | **Created at**: `2026-03-11` | **Last updated**: `2026-08-31`
+**Stars**: `12.1k` | **Created at**: `2026-03-11` | **Last updated**: `2026-09-01`
 
 
 A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
@@ -392,7 +392,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 <a href='https://github.com/instantX-research/InstantID'>
 <img src="https://avatars.githubusercontent.com/u/167519742?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/instantX-research/InstantID
 
-**Stars**: `12.0k` | **Created at**: `2023-12-11` | **Last updated**: `2026-08-30`
+**Stars**: `12.0k` | **Created at**: `2023-12-11` | **Last updated**: `2026-09-01`
 
 
 InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
@@ -403,7 +403,7 @@ InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
 <a href='https://github.com/Tongyi-MAI/Z-Image'>
 <img src="https://avatars.githubusercontent.com/u/246097416?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tongyi-MAI/Z-Image
 
-**Stars**: `12.0k` | **Created at**: `2025-11-26` | **Last updated**: `2026-08-30`
+**Stars**: `12.0k` | **Created at**: `2025-11-26` | **Last updated**: `2026-08-31`
 
 
 None
@@ -414,7 +414,7 @@ None
 <a href='https://github.com/hua1995116/awesome-ai-painting'>
 <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/hua1995116/awesome-ai-painting
 
-**Stars**: `11.8k` | **Created at**: `2022-10-08` | **Last updated**: `2026-08-30`
+**Stars**: `11.8k` | **Created at**: `2022-10-08` | **Last updated**: `2026-08-31`
 
 
 AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -436,7 +436,7 @@ Official repository for LTX-Video
 <a href='https://github.com/Acly/krita-ai-diffusion'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/krita-ai-diffusion
 
-**Stars**: `10.5k` | **Created at**: `2023-09-01` | **Last updated**: `2026-08-31`
+**Stars**: `10.5k` | **Created at**: `2023-09-01` | **Last updated**: `2026-09-01`
 
 
 Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -447,7 +447,7 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 <a href='https://github.com/TencentARC/PhotoMaker'>
 <img src="https://avatars.githubusercontent.com/u/83739826?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/TencentARC/PhotoMaker
 
-**Stars**: `10.1k` | **Created at**: `2023-12-06` | **Last updated**: `2026-08-29`
+**Stars**: `10.1k` | **Created at**: `2023-12-06` | **Last updated**: `2026-08-31`
 
 
 PhotoMaker [CVPR 2024]
@@ -458,7 +458,7 @@ PhotoMaker [CVPR 2024]
 <a href='https://github.com/presenton/presenton'>
 <img src="https://avatars.githubusercontent.com/u/210876119?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/presenton/presenton
 
-**Stars**: `9.9k` | **Created at**: `2025-05-10` | **Last updated**: `2026-08-31`
+**Stars**: `9.9k` | **Created at**: `2025-05-10` | **Last updated**: `2026-09-01`
 
 
 Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
@@ -469,7 +469,7 @@ Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Deckt
 <a href='https://github.com/CyberTimon/RapidRAW'>
 <img src="https://avatars.githubusercontent.com/u/78795905?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/CyberTimon/RapidRAW
 
-**Stars**: `9.7k` | **Created at**: `2025-06-13` | **Last updated**: `2026-08-31`
+**Stars**: `9.7k` | **Created at**: `2025-06-13` | **Last updated**: `2026-09-01`
 
 
 A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
@@ -480,7 +480,7 @@ A beautiful, non-destructive, and GPU-accelerated RAW image editor built with pe
 <a href='https://github.com/Lightricks/LTX-2'>
 <img src="https://avatars.githubusercontent.com/u/3170348?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Lightricks/LTX-2
 
-**Stars**: `9.3k` | **Created at**: `2026-01-03` | **Last updated**: `2026-08-31`
+**Stars**: `9.3k` | **Created at**: `2026-01-03` | **Last updated**: `2026-09-01`
 
 
 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -491,7 +491,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 <a href='https://github.com/kyutai-labs/pocket-tts'>
 <img src="https://avatars.githubusercontent.com/u/151010778?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kyutai-labs/pocket-tts
 
-**Stars**: `9.2k` | **Created at**: `2026-01-07` | **Last updated**: `2026-08-31`
+**Stars**: `9.3k` | **Created at**: `2026-01-07` | **Last updated**: `2026-09-01`
 
 
 A TTS that fits in your CPU (and pocket)
@@ -502,7 +502,7 @@ A TTS that fits in your CPU (and pocket)
 <a href='https://github.com/deepbeepmeep/Wan2GP'>
 <img src="https://avatars.githubusercontent.com/u/84379123?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/deepbeepmeep/Wan2GP
 
-**Stars**: `9.1k` | **Created at**: `2025-02-27` | **Last updated**: `2026-08-31`
+**Stars**: `9.1k` | **Created at**: `2025-02-27` | **Last updated**: `2026-09-01`
 
 
 A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
@@ -513,7 +513,7 @@ A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Im
 <a href='https://github.com/NVlabs/Sana'>
 <img src="https://avatars.githubusercontent.com/u/2695301?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NVlabs/Sana
 
-**Stars**: `8.9k` | **Created at**: `2024-10-11` | **Last updated**: `2026-08-31`
+**Stars**: `8.9k` | **Created at**: `2024-10-11` | **Last updated**: `2026-09-01`
 
 
 SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -524,7 +524,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 <a href='https://github.com/ai-boost/awesome-prompts'>
 <img src="https://avatars.githubusercontent.com/u/70333750?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ai-boost/awesome-prompts
 
-**Stars**: `8.8k` | **Created at**: `2024-01-19` | **Last updated**: `2026-08-30`
+**Stars**: `8.8k` | **Created at**: `2024-01-19` | **Last updated**: `2026-09-01`
 
 
 Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
@@ -535,7 +535,7 @@ Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Promp
 <a href='https://github.com/DepthAnything/Depth-Anything-V2'>
 <img src="https://avatars.githubusercontent.com/u/172110102?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/DepthAnything/Depth-Anything-V2
 
-**Stars**: `8.7k` | **Created at**: `2024-06-13` | **Last updated**: `2026-08-31`
+**Stars**: `8.7k` | **Created at**: `2024-06-13` | **Last updated**: `2026-09-01`
 
 
 [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -557,7 +557,7 @@ Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 <a href='https://github.com/digoal/blog'>
 <img src="https://avatars.githubusercontent.com/u/1920239?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/digoal/blog
 
-**Stars**: `8.6k` | **Created at**: `2015-08-02` | **Last updated**: `2026-08-30`
+**Stars**: `8.6k` | **Created at**: `2015-08-02` | **Last updated**: `2026-08-31`
 
 
 AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog
@@ -568,7 +568,7 @@ AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://githu
 <a href='https://github.com/QwenLM/Qwen-Image'>
 <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/QwenLM/Qwen-Image
 
-**Stars**: `8.3k` | **Created at**: `2025-08-03` | **Last updated**: `2026-08-30`
+**Stars**: `8.3k` | **Created at**: `2025-08-03` | **Last updated**: `2026-08-31`
 
 
 Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
@@ -579,7 +579,7 @@ Qwen-Image is a powerful image generation foundation model capable of complex te
 <a href='https://github.com/LiheYoung/Depth-Anything'>
 <img src="https://avatars.githubusercontent.com/u/47178369?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LiheYoung/Depth-Anything
 
-**Stars**: `8.2k` | **Created at**: `2024-01-22` | **Last updated**: `2026-08-30`
+**Stars**: `8.2k` | **Created at**: `2024-01-22` | **Last updated**: `2026-09-01`
 
 
 [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
@@ -590,7 +590,7 @@ Qwen-Image is a powerful image generation foundation model capable of complex te
 <a href='https://github.com/jagenjo/litegraph.js'>
 <img src="https://avatars.githubusercontent.com/u/393515?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jagenjo/litegraph.js
 
-**Stars**: `8.1k` | **Created at**: `2013-09-26` | **Last updated**: `2026-08-31`
+**Stars**: `8.1k` | **Created at**: `2013-09-26` | **Last updated**: `2026-09-01`
 
 
 A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
@@ -601,7 +601,7 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/nomi-sec/PoC-in-GitHub'>
 <img src="https://avatars.githubusercontent.com/u/59186331?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nomi-sec/PoC-in-GitHub
 
-**Stars**: `8.0k` | **Created at**: `2019-12-08` | **Last updated**: `2026-08-31`
+**Stars**: `8.0k` | **Created at**: `2019-12-08` | **Last updated**: `2026-09-01`
 
 
 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
@@ -612,21 +612,10 @@ A graph node engine and editor written in Javascript similar to PD or UDK Bluepr
 <a href='https://github.com/MeiGen-AI/InfiniteTalk'>
 <img src="https://avatars.githubusercontent.com/u/213629870?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MeiGen-AI/InfiniteTalk
 
-**Stars**: `7.7k` | **Created at**: `2025-08-14` | **Last updated**: `2026-08-31`
+**Stars**: `7.7k` | **Created at**: `2025-08-14` | **Last updated**: `2026-09-01`
 
 
 ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
-
-## yzfly/Awesome-MCP-ZH
-
-
-<a href='https://github.com/yzfly/Awesome-MCP-ZH'>
-<img src="https://avatars.githubusercontent.com/u/46625232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yzfly/Awesome-MCP-ZH
-
-**Stars**: `7.6k` | **Created at**: `2025-04-03` | **Last updated**: `2026-08-31`
-
-
-MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 
 ## MiniMax-AI/MiniMax-H3
 
@@ -634,10 +623,21 @@ MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 <a href='https://github.com/MiniMax-AI/MiniMax-H3'>
 <img src="https://avatars.githubusercontent.com/u/194880281?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MiniMax-AI/MiniMax-H3
 
-**Stars**: `7.5k` | **Created at**: `2026-07-30` | **Last updated**: `2026-08-31`
+**Stars**: `7.6k` | **Created at**: `2026-07-30` | **Last updated**: `2026-09-01`
 
 
 None
+
+## yzfly/Awesome-MCP-ZH
+
+
+<a href='https://github.com/yzfly/Awesome-MCP-ZH'>
+<img src="https://avatars.githubusercontent.com/u/46625232?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yzfly/Awesome-MCP-ZH
+
+**Stars**: `7.6k` | **Created at**: `2025-04-03` | **Last updated**: `2026-09-01`
+
+
+MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 
 ## lightningpixel/modly
 
@@ -645,7 +645,7 @@ None
 <a href='https://github.com/lightningpixel/modly'>
 <img src="https://avatars.githubusercontent.com/u/63157773?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lightningpixel/modly
 
-**Stars**: `7.3k` | **Created at**: `2026-03-17` | **Last updated**: `2026-08-31`
+**Stars**: `7.4k` | **Created at**: `2026-03-17` | **Last updated**: `2026-09-01`
 
 
 Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
@@ -656,7 +656,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 <a href='https://github.com/AbdBarho/stable-diffusion-webui-docker'>
 <img src="https://avatars.githubusercontent.com/u/24505302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AbdBarho/stable-diffusion-webui-docker
 
-**Stars**: `7.3k` | **Created at**: `2022-08-27` | **Last updated**: `2026-08-30`
+**Stars**: `7.3k` | **Created at**: `2022-08-27` | **Last updated**: `2026-08-31`
 
 
 Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -667,7 +667,7 @@ Easy Docker setup for Stable Diffusion with user-friendly UI
 <a href='https://github.com/Emily2040/seedance-2.0'>
 <img src="https://avatars.githubusercontent.com/u/191656017?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Emily2040/seedance-2.0
 
-**Stars**: `7.0k` | **Created at**: `2026-02-25` | **Last updated**: `2026-08-31`
+**Stars**: `7.1k` | **Created at**: `2026-02-25` | **Last updated**: `2026-09-01`
 
 
 Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
@@ -678,7 +678,7 @@ Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 <a href='https://github.com/sczhou/ProPainter'>
 <img src="https://avatars.githubusercontent.com/u/14334509?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/sczhou/ProPainter
 
-**Stars**: `6.9k` | **Created at**: `2023-09-01` | **Last updated**: `2026-08-30`
+**Stars**: `6.9k` | **Created at**: `2023-09-01` | **Last updated**: `2026-09-01`
 
 
 [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
@@ -689,7 +689,7 @@ Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 <a href='https://github.com/leejet/stable-diffusion.cpp'>
 <img src="https://avatars.githubusercontent.com/u/31925346?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/leejet/stable-diffusion.cpp
 
-**Stars**: `6.9k` | **Created at**: `2023-08-13` | **Last updated**: `2026-08-31`
+**Stars**: `6.9k` | **Created at**: `2023-08-13` | **Last updated**: `2026-09-01`
 
 
 Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
@@ -700,7 +700,7 @@ Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 <a href='https://github.com/kijai/ComfyUI-WanVideoWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-**Stars**: `6.7k` | **Created at**: `2025-02-25` | **Last updated**: `2026-08-30`
+**Stars**: `6.7k` | **Created at**: `2025-02-25` | **Last updated**: `2026-09-01`
 
 
 None
@@ -728,7 +728,7 @@ None
 <a href='https://github.com/tencent-ailab/IP-Adapter'>
 <img src="https://avatars.githubusercontent.com/u/54961825?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/tencent-ailab/IP-Adapter
 
-**Stars**: `6.7k` | **Created at**: `2023-08-16` | **Last updated**: `2026-08-28`
+**Stars**: `6.7k` | **Created at**: `2023-08-16` | **Last updated**: `2026-08-31`
 
 
 The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
@@ -739,7 +739,7 @@ The image prompt adapter is designed to enable a pretrained text-to-image diffus
 <a href='https://github.com/11cafe/jaaz'>
 <img src="https://avatars.githubusercontent.com/u/152708197?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/11cafe/jaaz
 
-**Stars**: `6.6k` | **Created at**: `2025-06-01` | **Last updated**: `2026-08-31`
+**Stars**: `6.6k` | **Created at**: `2025-06-01` | **Last updated**: `2026-09-01`
 
 
 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
@@ -750,7 +750,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/AILab-CVC/YOLO-World'>
 <img src="https://avatars.githubusercontent.com/u/132903285?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AILab-CVC/YOLO-World
 
-**Stars**: `6.5k` | **Created at**: `2024-01-29` | **Last updated**: `2026-08-30`
+**Stars**: `6.5k` | **Created at**: `2024-01-29` | **Last updated**: `2026-09-01`
 
 
 [CVPR 2024] Real-Time Open-Vocabulary Object Detection
@@ -783,7 +783,7 @@ A list of popular github projects related to deep learning
 <a href='https://github.com/ByteDance-Seed/Depth-Anything-3'>
 <img src="https://avatars.githubusercontent.com/u/202897071?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ByteDance-Seed/Depth-Anything-3
 
-**Stars**: `6.2k` | **Created at**: `2025-11-12` | **Last updated**: `2026-08-30`
+**Stars**: `6.2k` | **Created at**: `2025-11-12` | **Last updated**: `2026-09-01`
 
 
 Depth Anything 3
@@ -794,7 +794,7 @@ Depth Anything 3
 <a href='https://github.com/ikaijua/Awesome-AITools'>
 <img src="https://avatars.githubusercontent.com/u/126046795?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ikaijua/Awesome-AITools
 
-**Stars**: `6.2k` | **Created at**: `2023-04-02` | **Last updated**: `2026-08-30`
+**Stars**: `6.2k` | **Created at**: `2023-04-02` | **Last updated**: `2026-08-31`
 
 
 Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
@@ -816,7 +816,7 @@ Open-source unified multimodal model
 <a href='https://github.com/Tencent/AI-Infra-Guard'>
 <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tencent/AI-Infra-Guard
 
-**Stars**: `6.1k` | **Created at**: `2024-12-25` | **Last updated**: `2026-08-31`
+**Stars**: `6.1k` | **Created at**: `2024-12-25` | **Last updated**: `2026-09-01`
 
 
 A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
@@ -827,7 +827,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 <a href='https://github.com/Doubiiu/ToonCrafter'>
 <img src="https://avatars.githubusercontent.com/u/43002743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Doubiiu/ToonCrafter
 
-**Stars**: `6.0k` | **Created at**: `2024-05-28` | **Last updated**: `2026-08-30`
+**Stars**: `6.0k` | **Created at**: `2024-05-28` | **Last updated**: `2026-08-31`
 
 
 [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
@@ -838,7 +838,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 <a href='https://github.com/anbeime/skill'>
 <img src="https://avatars.githubusercontent.com/u/52991404?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/anbeime/skill
 
-**Stars**: `6.0k` | **Created at**: `2026-02-02` | **Last updated**: `2026-08-31`
+**Stars**: `6.0k` | **Created at**: `2026-02-02` | **Last updated**: `2026-09-01`
 
 
 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。
@@ -849,7 +849,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 <a href='https://github.com/OpenSenseNova/SenseNova-U1'>
 <img src="https://avatars.githubusercontent.com/u/175909011?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/OpenSenseNova/SenseNova-U1
 
-**Stars**: `5.8k` | **Created at**: `2026-04-17` | **Last updated**: `2026-08-31`
+**Stars**: `5.9k` | **Created at**: `2026-04-17` | **Last updated**: `2026-09-01`
 
 
 SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
@@ -860,10 +860,21 @@ SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Princi
 <a href='https://github.com/basketikun/infinite-canvas'>
 <img src="https://avatars.githubusercontent.com/u/114481029?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/basketikun/infinite-canvas
 
-**Stars**: `5.8k` | **Created at**: `2026-05-18` | **Last updated**: `2026-08-31`
+**Stars**: `5.9k` | **Created at**: `2026-05-18` | **Last updated**: `2026-09-01`
 
 
 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
+
+## Osmantic/ODS
+
+
+<a href='https://github.com/Osmantic/ODS'>
+<img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
+
+**Stars**: `5.6k` | **Created at**: `2026-02-09` | **Last updated**: `2026-09-01`
+
+
+Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 
 ## mostlygeek/llama-swap
 
@@ -871,7 +882,7 @@ SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Princi
 <a href='https://github.com/mostlygeek/llama-swap'>
 <img src="https://avatars.githubusercontent.com/u/83972?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mostlygeek/llama-swap
 
-**Stars**: `5.5k` | **Created at**: `2024-10-04` | **Last updated**: `2026-08-30`
+**Stars**: `5.5k` | **Created at**: `2024-10-04` | **Last updated**: `2026-09-01`
 
 
 Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -882,7 +893,7 @@ Reliable model swapping for any local OpenAI/Anthropic compatible server - llama
 <a href='https://github.com/0xNyk/awesome-hermes-agent'>
 <img src="https://avatars.githubusercontent.com/u/93952610?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/0xNyk/awesome-hermes-agent
 
-**Stars**: `5.5k` | **Created at**: `2026-03-23` | **Last updated**: `2026-08-30`
+**Stars**: `5.5k` | **Created at**: `2026-03-23` | **Last updated**: `2026-09-01`
 
 
 Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
@@ -893,7 +904,7 @@ Independent directory of useful skills, plugins, memory providers, tools, surfac
 <a href='https://github.com/modstart-lib/aigcpanel'>
 <img src="https://avatars.githubusercontent.com/u/99697978?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/modstart-lib/aigcpanel
 
-**Stars**: `5.5k` | **Created at**: `2024-10-18` | **Last updated**: `2026-08-31`
+**Stars**: `5.5k` | **Created at**: `2024-10-18` | **Last updated**: `2026-09-01`
 
 
 AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
@@ -904,7 +915,7 @@ AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合�
 <a href='https://github.com/ATH-MaaS/ComfyUI-Copilot'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/ComfyUI-Copilot
 
-**Stars**: `5.5k` | **Created at**: `2025-02-14` | **Last updated**: `2026-08-30`
+**Stars**: `5.5k` | **Created at**: `2025-02-14` | **Last updated**: `2026-08-31`
 
 
 An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
@@ -915,7 +926,7 @@ An AI-powered custom node for ComfyUI designed to enhance workflow automation an
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `5.3k` | **Created at**: `2026-03-25` | **Last updated**: `2026-08-31`
+**Stars**: `5.3k` | **Created at**: `2026-03-25` | **Last updated**: `2026-09-01`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
@@ -926,7 +937,7 @@ Remove visible and invisible AI watermarks and provenance metadata from images a
 <a href='https://github.com/ysharma3501/LuxTTS'>
 <img src="https://avatars.githubusercontent.com/u/244096243?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ysharma3501/LuxTTS
 
-**Stars**: `5.3k` | **Created at**: `2026-01-23` | **Last updated**: `2026-08-30`
+**Stars**: `5.3k` | **Created at**: `2026-01-23` | **Last updated**: `2026-09-01`
 
 
 A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
@@ -942,24 +953,13 @@ A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtim
 
 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
 
-## Osmantic/ODS
-
-
-<a href='https://github.com/Osmantic/ODS'>
-<img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
-
-**Stars**: `5.2k` | **Created at**: `2026-02-09` | **Last updated**: `2026-08-31`
-
-
-Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-
 ## linuxhsj/openclaw-zero-token
 
 
 <a href='https://github.com/linuxhsj/openclaw-zero-token'>
 <img src="https://avatars.githubusercontent.com/u/7509894?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/linuxhsj/openclaw-zero-token
 
-**Stars**: `5.2k` | **Created at**: `2026-02-23` | **Last updated**: `2026-08-30`
+**Stars**: `5.2k` | **Created at**: `2026-02-23` | **Last updated**: `2026-08-31`
 
 
 OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi
@@ -970,7 +970,7 @@ OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/D
 <a href='https://github.com/aigc-apps/sd-webui-EasyPhoto'>
 <img src="https://avatars.githubusercontent.com/u/141981933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/aigc-apps/sd-webui-EasyPhoto
 
-**Stars**: `5.2k` | **Created at**: `2023-08-28` | **Last updated**: `2026-08-30`
+**Stars**: `5.2k` | **Created at**: `2023-08-28` | **Last updated**: `2026-09-01`
 
 
 📷 EasyPhoto | Your Smart AI Photo Generator.
@@ -981,7 +981,7 @@ OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/D
 <a href='https://github.com/philz1337x/clarity-upscaler'>
 <img src="https://avatars.githubusercontent.com/u/112502636?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/philz1337x/clarity-upscaler
 
-**Stars**: `5.1k` | **Created at**: `2024-03-15` | **Last updated**: `2026-08-29`
+**Stars**: `5.1k` | **Created at**: `2024-03-15` | **Last updated**: `2026-08-31`
 
 
 Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -992,7 +992,7 @@ Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Altern
 <a href='https://github.com/Stability-AI/StableSwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/100950301?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Stability-AI/StableSwarmUI
 
-**Stars**: `4.9k` | **Created at**: `2023-05-12` | **Last updated**: `2026-08-29`
+**Stars**: `4.9k` | **Created at**: `2023-05-12` | **Last updated**: `2026-09-01`
 
 
 StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1003,7 +1003,7 @@ StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis o
 <a href='https://github.com/dusty-nv/jetson-containers'>
 <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/dusty-nv/jetson-containers
 
-**Stars**: `4.8k` | **Created at**: `2020-04-29` | **Last updated**: `2026-08-30`
+**Stars**: `4.8k` | **Created at**: `2020-04-29` | **Last updated**: `2026-09-01`
 
 
 Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
@@ -1014,7 +1014,7 @@ Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
 <a href='https://github.com/ace-step/ACE-Step'>
 <img src="https://avatars.githubusercontent.com/u/209436471?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ace-step/ACE-Step
 
-**Stars**: `4.8k` | **Created at**: `2025-04-28` | **Last updated**: `2026-08-31`
+**Stars**: `4.8k` | **Created at**: `2025-04-28` | **Last updated**: `2026-09-01`
 
 
 ACE-Step: A Step Towards Music Generation Foundation Model
@@ -1025,7 +1025,7 @@ ACE-Step: A Step Towards Music Generation Foundation Model
 <a href='https://github.com/ParisNeo/lollms-webui'>
 <img src="https://avatars.githubusercontent.com/u/827993?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ParisNeo/lollms-webui
 
-**Stars**: `4.8k` | **Created at**: `2023-04-06` | **Last updated**: `2026-08-30`
+**Stars**: `4.8k` | **Created at**: `2023-04-06` | **Last updated**: `2026-09-01`
 
 
 Lord of Large Language and Multi modal Systems Web User Interface
@@ -1036,7 +1036,7 @@ Lord of Large Language and Multi modal Systems Web User Interface
 <a href='https://github.com/antgroup/echomimic_v2'>
 <img src="https://avatars.githubusercontent.com/u/37703784?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/antgroup/echomimic_v2
 
-**Stars**: `4.7k` | **Created at**: `2024-11-20` | **Last updated**: `2026-08-30`
+**Stars**: `4.7k` | **Created at**: `2024-11-20` | **Last updated**: `2026-08-31`
 
 
 [CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation

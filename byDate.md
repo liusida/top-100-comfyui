@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `130.8k` | **Created at**: `2023-01-17`
+**Stars**: `130.9k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -791,6 +791,17 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
+## 602387193c/ComfyUI-wiki
+
+
+<a href='https://github.com/602387193c/ComfyUI-wiki'>
+<img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
+
+**Stars**: `1.2k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
+
+
+Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
+
 ## zombieyang/sd-ppp
 
 
@@ -843,26 +854,6 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
  - <sub>URL2IMG</sub>, <sub>url2img_tool</sub>
  - <sub>VAEDecode_party</sub>, <sub>vlmLoader</sub>
  - <sub>weekday_tool</sub>, <sub>whisper_local</sub>, <sub>wikipedia_tool</sub>, <sub>work_wechat</sub>, <sub>work_wechat_tool</sub>, <sub>workflow_tool</sub>, <sub>workflow_transfer</sub>, <sub>workflow_transfer_v2</sub>
-</details>
-
-
-## kijai/ComfyUI-IC-Light
-
-
-<a href='https://github.com/kijai/ComfyUI-IC-Light'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
-
-**Stars**: `1.2k` | **Created at**: `2024-05-09` | **Tags**: `Custom Nodes`
-
-
-Using IC-LIght models in ComfyUI
-<details><summary>Included Nodes (7)</summary>
-
- - <sub>BackgroundScaler</sub>
- - <sub>CalculateNormalsFromImages</sub>
- - <sub>[DetailTransfer](node_examples/DetailTransfer.md)</sub>
- - <sub>[ICLightConditioning](node_examples/ICLightConditioning.md)</sub>
- - <sub>[LightSource](node_examples/LightSource.md)</sub>, <sub>[LoadAndApplyICLightUnet](node_examples/LoadAndApplyICLightUnet.md)</sub>, <sub>LoadHDRImage</sub>
 </details>
 
 
@@ -1120,7 +1111,7 @@ None
 <a href='https://github.com/Tavris1/ComfyUI-Easy-Install'>
 <img src="https://avatars.githubusercontent.com/u/36665424?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tavris1/ComfyUI-Easy-Install
 
-**Stars**: `1.8k` | **Created at**: `2024-10-16`
+**Stars**: `1.9k` | **Created at**: `2024-10-16`
 
 
 Portable ComfyUI installer for Windows, macOS and Linux with EZi Desktop app 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
@@ -1470,7 +1461,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.5k` | **Created at**: `2025-11-07`
+**Stars**: `27.6k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1519,7 +1510,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 <a href='https://github.com/Osmantic/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
 
-**Stars**: `5.2k` | **Created at**: `2026-02-09`
+**Stars**: `5.6k` | **Created at**: `2026-02-09`
 
 
 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
