@@ -3024,6 +3024,8 @@ TeaCacheForCogVideoX: -1
 TeaCacheHunyuanVideoSampler: -1
 TemporalScoreRescaling: -1
 Tensor Batch to Image: 0
+TensorLoopClose: -1
+TensorLoopOpen: -1
 TensorRTLoader: -1
 Terminal: 0
 TestAccumulateNode: -1
@@ -3298,6 +3300,7 @@ VNCCS_ColorFix: -1
 VNCCS_ControlCenter: -1
 VNCCS_EmotionsGenerator: -1
 VNCCS_Float: -1
+VNCCS_Flux_Klein_Encoder: -1
 VNCCS_ImageList: -1
 VNCCS_Integer: -1
 VNCCS_LoraBypass: -1
@@ -3536,6 +3539,15 @@ Yoloworld_ModelLoader_Zho: 20
 ZImageFunControlnet: -1
 Zoe-DepthMapPreprocessor: 65
 Zoe_DepthAnythingPreprocessor: 6
+_AccumulateNode: -1
+_AccumulationToImageBatch: -1
+_BatchOps: -1
+_ConditionalSelect: -1
+_ImageAccumStatePack: -1
+_ImageAccumStateUnpack: -1
+_IntOperations: -1
+_WhileLoopClose: -1
+_WhileLoopOpen: -1
 accuweather_tool: -1
 advance_ebd_tool: -1
 aisuite_loader: -1
