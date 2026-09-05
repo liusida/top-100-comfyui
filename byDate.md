@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `131.4k` | **Created at**: `2023-01-17`
+**Stars**: `131.5k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -864,7 +864,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `7.0k` | **Created at**: `2024-05-09`
+**Stars**: `7.1k` | **Created at**: `2024-05-09`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -1128,11 +1128,11 @@ Portable ComfyUI installer for Windows, macOS and Linux with EZi Desktop app �
 
 A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
 
-## nunchaku-ai/nunchaku
+## nunchux-ai/nunchaku
 
 
-<a href='https://github.com/nunchaku-ai/nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/nunchaku
+<a href='https://github.com/nunchux-ai/nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchux-ai/nunchaku
 
 **Stars**: `3.9k` | **Created at**: `2024-11-06`
 
@@ -1317,11 +1317,11 @@ High quality training free inpaint for every stable diffusion model. Supports Co
 
 ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 
-## nunchaku-ai/ComfyUI-nunchaku
+## nunchux-ai/ComfyUI-nunchaku
 
 
-<a href='https://github.com/nunchaku-ai/ComfyUI-nunchaku'>
-<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchaku-ai/ComfyUI-nunchaku
+<a href='https://github.com/nunchux-ai/ComfyUI-nunchaku'>
+<img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchux-ai/ComfyUI-nunchaku
 
 **Stars**: `2.9k` | **Created at**: `2025-03-12`
 
@@ -1461,7 +1461,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.7k` | **Created at**: `2025-11-07`
+**Stars**: `27.8k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
