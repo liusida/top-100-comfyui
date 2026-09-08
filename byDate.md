@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `131.8k` | **Created at**: `2023-01-17`
+**Stars**: `132.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -827,7 +827,7 @@ A Photoshop AI plugin
 <a href='https://github.com/heshengtao/comfyui_LLM_party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/comfyui_LLM_party
 
-**Stars**: `2.3k` | **Created at**: `2024-04-13` | **Tags**: `Custom Nodes` `LLM`
+**Stars**: `2.4k` | **Created at**: `2024-04-13` | **Tags**: `Custom Nodes` `LLM`
 
 
 LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
@@ -855,6 +855,26 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
  - <sub>URL2IMG</sub>, <sub>url2img_tool</sub>
  - <sub>VAEDecode_party</sub>, <sub>vlmLoader</sub>
  - <sub>weekday_tool</sub>, <sub>whisper_local</sub>, <sub>wikipedia_tool</sub>, <sub>work_wechat</sub>, <sub>work_wechat_tool</sub>, <sub>workflow_tool</sub>, <sub>workflow_transfer</sub>, <sub>workflow_transfer_v2</sub>
+</details>
+
+
+## kijai/ComfyUI-IC-Light
+
+
+<a href='https://github.com/kijai/ComfyUI-IC-Light'>
+<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-IC-Light
+
+**Stars**: `1.2k` | **Created at**: `2024-05-09` | **Tags**: `Custom Nodes`
+
+
+Using IC-LIght models in ComfyUI
+<details><summary>Included Nodes (7)</summary>
+
+ - <sub>BackgroundScaler</sub>
+ - <sub>CalculateNormalsFromImages</sub>
+ - <sub>[DetailTransfer](node_examples/DetailTransfer.md)</sub>
+ - <sub>[ICLightConditioning](node_examples/ICLightConditioning.md)</sub>
+ - <sub>[LightSource](node_examples/LightSource.md)</sub>, <sub>[LoadAndApplyICLightUnet](node_examples/LoadAndApplyICLightUnet.md)</sub>, <sub>LoadHDRImage</sub>
 </details>
 
 
@@ -1461,7 +1481,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.8k` | **Created at**: `2025-11-07`
+**Stars**: `27.9k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1510,7 +1530,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 <a href='https://github.com/Osmantic/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
 
-**Stars**: `6.2k` | **Created at**: `2026-02-09`
+**Stars**: `6.3k` | **Created at**: `2026-02-09`
 
 
 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
@@ -1526,24 +1546,13 @@ Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
 
 LTX Director and a variety of other custom ComfyUI nodes and workflows
 
-## PurpleDoubleD/locally-uncensored
-
-
-<a href='https://github.com/PurpleDoubleD/locally-uncensored'>
-<img src="https://avatars.githubusercontent.com/u/224399100?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PurpleDoubleD/locally-uncensored
-
-**Stars**: `1.4k` | **Created at**: `2026-03-24`
-
-
-Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud.
-
 ## wiltodelta/remove-ai-watermarks
 
 
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `5.4k` | **Created at**: `2026-03-25`
+**Stars**: `5.5k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
@@ -1565,7 +1574,7 @@ Supports comfyui/API calls/modelscope calls
 <a href='https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/149470765?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `1.4k` | **Created at**: `2026-08-04`
+**Stars**: `1.5k` | **Created at**: `2026-08-04`
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
