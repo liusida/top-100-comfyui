@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `132.1k` | **Created at**: `2023-01-17`
+**Stars**: `132.3k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1154,7 +1154,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 <a href='https://github.com/nunchux-ai/nunchaku'>
 <img src="https://avatars.githubusercontent.com/u/220671840?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/nunchux-ai/nunchaku
 
-**Stars**: `4.0k` | **Created at**: `2024-11-06`
+**Stars**: `3.9k` | **Created at**: `2024-11-06`
 
 
 [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -1481,7 +1481,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `27.9k` | **Created at**: `2025-11-07`
+**Stars**: `28.0k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1492,7 +1492,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `1.3k` | **Created at**: `2026-01-08`
+**Stars**: `1.4k` | **Created at**: `2026-01-08`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
