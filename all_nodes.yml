@@ -3579,10 +3579,12 @@ duckduckgo_loader: -1
 duckduckgo_tool: -1
 dynamicThresholdingFull: 0
 easy LLLiteLoader: 0
+easy PassOrNone: -1
 'easy XYInputs: CFG Scale': 0
 'easy XYInputs: Checkpoint': 0
 'easy XYInputs: ControlNet': 0
 'easy XYInputs: Denoise': 0
+'easy XYInputs: DiffusionModel': -1
 'easy XYInputs: FluxGuidance': -1
 'easy XYInputs: Lora': 0
 'easy XYInputs: ModelMergeBlocks': 0
@@ -3624,6 +3626,7 @@ easy controlnetStack: 1
 easy controlnetStackApply: -1
 easy convertAnything: 0
 easy detailerFix: 1
+easy diffusionModelLoader: -1
 easy dynamiCrafterLoader: 0
 easy float: 0
 easy fluxLoader: -1

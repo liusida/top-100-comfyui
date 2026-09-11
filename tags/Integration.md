@@ -7,7 +7,7 @@
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `8.8k` | **Created at**: `2026-09-09`
+**Stars**: `8.8k` | **Created at**: `2026-09-11`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `4.5k` | **Created at**: `2026-09-10`
+**Stars**: `4.5k` | **Created at**: `2026-09-11`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -84,7 +84,7 @@ An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 <a href='https://github.com/NimaNzrii/comfyui-photoshop'>
 <img src="https://avatars.githubusercontent.com/u/148809650?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NimaNzrii/comfyui-photoshop
 
-**Stars**: `1.7k` | **Created at**: `2026-09-07`
+**Stars**: `1.7k` | **Created at**: `2026-09-10`
 
 
 ComfyUi inside of your Photoshop! you can install the plugin and enjoy free ai genration
