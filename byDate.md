@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `132.6k` | **Created at**: `2023-01-17`
+**Stars**: `132.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -951,7 +951,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `4.5k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
+**Stars**: `4.6k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1135,7 +1135,7 @@ None
 **Stars**: `1.9k` | **Created at**: `2024-10-16`
 
 
-Portable ComfyUI installer for Windows, macOS and Linux with EZi Desktop app 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
+One-click portable ComfyUI installer for Windows, macOS and Linux, with EZi Desktop: a full dashboard for packages, environments and configuration 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
 
 ## 16131zzzzzzzz/EveryoneNobel
 
@@ -1519,7 +1519,7 @@ A Simple Implementation of Qwen3-TTS's ComfyUI
 <a href='https://github.com/jau123/MeiGen-AI-Design-MCP'>
 <img src="https://avatars.githubusercontent.com/u/130447398?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jau123/MeiGen-AI-Design-MCP
 
-**Stars**: `1.7k` | **Created at**: `2026-02-07`
+**Stars**: `1.8k` | **Created at**: `2026-02-07`
 
 
 Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
