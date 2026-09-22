@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `134.1k` | **Created at**: `2023-01-17`
+**Stars**: `134.4k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -99,7 +99,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/zanllp/infinite-image-browsing'>
 <img src="https://avatars.githubusercontent.com/u/25872019?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/zanllp/infinite-image-browsing
 
-**Stars**: `1.3k` | **Created at**: `2023-03-07`
+**Stars**: `1.4k` | **Created at**: `2023-03-07`
 
 
 A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.
@@ -1526,7 +1526,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 <a href='https://github.com/Osmantic/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
 
-**Stars**: `6.6k` | **Created at**: `2026-02-09`
+**Stars**: `6.7k` | **Created at**: `2026-02-09`
 
 
 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
@@ -1537,7 +1537,7 @@ Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
 <a href='https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/216600439?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI
 
-**Stars**: `2.0k` | **Created at**: `2026-03-20`
+**Stars**: `2.1k` | **Created at**: `2026-03-20`
 
 
 LTX Director and a variety of other custom ComfyUI nodes and workflows
