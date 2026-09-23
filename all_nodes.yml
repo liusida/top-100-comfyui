@@ -836,6 +836,7 @@ CustomT2IAdapterWeights: 0
 CutAndDragOnPath: -1
 CutForInpaint: 0
 DCTestNode: -1
+DLSS5FrameEnhancer: -1
 DSINE-NormalMapPreprocessor: 4
 DWPreprocessor: 88
 DYNAMIC_TRT_MODEL_CONVERSION: -1
@@ -1725,6 +1726,7 @@ LTXVLaplacianPyramidBlend: -1
 LTXVLatentUpsampler: -1
 LTXVLinearOverlapLatentTransition: -1
 LTXVLoadConditioning: -1
+LTXVLoadEXRSequence: -1
 LTXVLoopingSampler: -1
 LTXVMiddleFrame_TTP: -1
 LTXVMultiPromptProvider: -1
@@ -1739,7 +1741,9 @@ LTXVPromptEnhancerLoader: -1
 LTXVQ8LoraModelLoader: -1
 LTXVQ8Patch: -1
 LTXVRecurrentKSampler: -1
+LTXVSDRToHDRWorkingSpace: -1
 LTXVSaveConditioning: -1
+LTXVSaveHLG: -1
 LTXVScheduler: -1
 LTXVSelectLatents: -1
 LTXVSeparateAVLatent: -1
@@ -1749,6 +1753,7 @@ LTXVSparseTrackEditor: -1
 LTXVStatNormLatent: -1
 LTXVTiledSampler: -1
 LTXVTiledVAEDecode: -1
+LTXVVAEForceFloat32: -1
 LamaRemoverDetailerHookProvider: -1
 LanPaint_AVDecode: -1
 LanPaint_AVEncode: -1
