@@ -2101,6 +2101,7 @@ LoadImage: 97
 LoadImageByUrl //Browser: 0
 LoadImageDataSetFromFolder: -1
 LoadImageMask: 72
+LoadImageMetadataLM: -1
 LoadImageOutput: -1
 LoadImageSetFromFolderNode: -1
 LoadImageTextDataSetFromFolder: -1

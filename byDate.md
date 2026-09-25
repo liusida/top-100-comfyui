@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `134.8k` | **Created at**: `2023-01-17`
+**Stars**: `134.9k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.2k` | **Created at**: `2023-04-23`
+**Stars**: `16.3k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -1254,11 +1254,11 @@ Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
 
 
 LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
-<details><summary>Included Nodes (20)</summary>
+<details><summary>Included Nodes (21)</summary>
 
  - <sub>CheckpointLoaderLM</sub>, <sub>CreateHookLoraLM</sub>
  - <sub>DebugMetadataLM</sub>
- - <sub>LoraCyclerLM</sub>, <sub>LoraInfoLM</sub>, <sub>LoraLoaderLM</sub>, <sub>LoraPoolLM</sub>, <sub>LoraRandomizerLM</sub>, <sub>LoraStackCombinerLM</sub>, <sub>LoraStackerLM</sub>, <sub>LoraSyntaxToPath</sub>, <sub>LoraTextLoaderLM</sub>
+ - <sub>LoadImageMetadataLM</sub>, <sub>LoraCyclerLM</sub>, <sub>LoraInfoLM</sub>, <sub>LoraLoaderLM</sub>, <sub>LoraPoolLM</sub>, <sub>LoraRandomizerLM</sub>, <sub>LoraStackCombinerLM</sub>, <sub>LoraStackerLM</sub>, <sub>LoraSyntaxToPath</sub>, <sub>LoraTextLoaderLM</sub>
  - <sub>MetadataOverwriteLM</sub>
  - <sub>PromptLM</sub>
  - <sub>SaveImageLM</sub>
@@ -1530,7 +1530,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 **Stars**: `6.8k` | **Created at**: `2026-02-09`
 
 
-Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
 
 ## WhatDreamsCost/WhatDreamsCost-ComfyUI
 
