@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `135.4k` | **Created at**: `2023-01-17`
+**Stars**: `135.5k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -864,7 +864,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/ddean2009/MoneyPrinterPlus'>
 <img src="https://avatars.githubusercontent.com/u/13955545?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ddean2009/MoneyPrinterPlus
 
-**Stars**: `7.1k` | **Created at**: `2024-05-09`
+**Stars**: `7.2k` | **Created at**: `2024-05-09`
 
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
@@ -1051,7 +1051,7 @@ None
 <a href='https://github.com/Comfy-Org/desktop'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/desktop
 
-**Stars**: `2.4k` | **Created at**: `2024-08-13`
+**Stars**: `2.3k` | **Created at**: `2024-08-13`
 
 
 [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
@@ -1096,29 +1096,6 @@ Nodes for image juxtaposition for Flux in ComfyUI
  - <sub>PAGAttention</sub>, <sub>PrepareAttnBank</sub>
  - <sub>RegionalStyleModelApply</sub>, <sub>RFDoubleBlocksOverride</sub>, <sub>RFSingleBlocksOverride</sub>
  - <sub>SEGAttention</sub>
-</details>
-
-
-## kijai/ComfyUI-FluxTrainer
-
-
-<a href='https://github.com/kijai/ComfyUI-FluxTrainer'>
-<img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-FluxTrainer
-
-**Stars**: `1.2k` | **Created at**: `2024-08-15`
-
-
-None
-<details><summary>Included Nodes (32)</summary>
-
- - <sub>ExtractFluxLoRA</sub>
- - <sub>FluxKohyaInferenceSampler</sub>, <sub>FluxTrainAndValidateLoop</sub>, <sub>FluxTrainBlockSelect</sub>, <sub>FluxTrainEnd</sub>, <sub>FluxTrainerLossConfig</sub>, <sub>FluxTrainLoop</sub>, <sub>FluxTrainModelSelect</sub>, <sub>FluxTrainResume</sub>, <sub>FluxTrainSave</sub>, <sub>FluxTrainSaveModel</sub>, <sub>FluxTrainValidate</sub>, <sub>FluxTrainValidationSettings</sub>
- - <sub>InitFluxLoRATraining</sub>, <sub>InitFluxTraining</sub>, <sub>InitSD3LoRATraining</sub>, <sub>InitSDXLLoRATraining</sub>
- - <sub>OptimizerConfig</sub>, <sub>OptimizerConfigAdafactor</sub>, <sub>OptimizerConfigProdigy</sub>, <sub>OptimizerConfigProdigyPlusScheduleFree</sub>
- - <sub>SD3ModelSelect</sub>, <sub>SD3TrainValidationSettings</sub>, <sub>SDXLModelSelect</sub>, <sub>SDXLTrainValidate</sub>, <sub>SDXLTrainValidationSettings</sub>
- - <sub>TrainDatasetAdd</sub>, <sub>TrainDatasetGeneralConfig</sub>, <sub>TrainDatasetRegularization</sub>, <sub>TrainNetworkConfig</sub>
- - <sub>UploadToHuggingFace</sub>
- - <sub>VisualizeLoss</sub>
 </details>
 
 
@@ -1322,6 +1299,17 @@ High quality training free inpaint for every stable diffusion model. Supports Co
  - <sub>LanPaint_AVDecode</sub>, <sub>LanPaint_AVEncode</sub>, <sub>LanPaint_ImageDecode</sub>, <sub>LanPaint_ImageEncode</sub>, <sub>LanPaint_KSampler</sub>, <sub>LanPaint_KSamplerAdvanced</sub>, <sub>LanPaint_MaskBlend</sub>, <sub>LanPaint_MiniMaxAudioDecode</sub>, <sub>LanPaint_MiniMaxAudioEncode</sub>, <sub>LanPaint_SamplerCustom</sub>, <sub>LanPaint_SamplerCustomAdvanced</sub>, <sub>LanPaint_VideoMaskEditor</sub>
 </details>
 
+
+## Comfy-Org/workflow_templates
+
+
+<a href='https://github.com/Comfy-Org/workflow_templates'>
+<img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/workflow_templates
+
+**Stars**: `1.2k` | **Created at**: `2025-02-28`
+
+
+ComfyUI template workflows
 
 ## heshengtao/super-agent-party
 
