@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `135.5k` | **Created at**: `2023-01-17`
+**Stars**: `135.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -787,7 +787,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 
-**Stars**: `7.8k` | **Created at**: `2024-03-06` | **Tags**: `Workflow Examples` `Chinese Language`
+**Stars**: `7.9k` | **Created at**: `2024-03-06` | **Tags**: `Workflow Examples` `Chinese Language`
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
@@ -1159,7 +1159,7 @@ A ComfyUI custom node designed for advanced image background removal and object,
 <a href='https://github.com/Lightricks/ComfyUI-LTXVideo'>
 <img src="https://avatars.githubusercontent.com/u/3170348?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Lightricks/ComfyUI-LTXVideo
 
-**Stars**: `4.1k` | **Created at**: `2024-11-21`
+**Stars**: `4.2k` | **Created at**: `2024-11-21`
 
 
 LTX-Video Support for ComfyUI
