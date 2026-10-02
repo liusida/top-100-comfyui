@@ -185,6 +185,7 @@ AILab_Florence2ToCoordinates: -1
 AILab_ICLoRAConcat: -1
 AILab_ImageCombiner: -1
 AILab_ImageCompare: -1
+AILab_ImageCompareView: -1
 AILab_ImageCrop: -1
 AILab_ImageMaskConvert: -1
 AILab_ImageMaskResize: -1
@@ -206,6 +207,7 @@ AILab_MaskPreview: -1
 AILab_MaskToList: -1
 AILab_Preview: -1
 AILab_ReferenceLatentMask: -1
+AILab_Resolution_Selector: -1
 AILab_SDMatte: -1
 AILab_UnbatchImages: -1
 AILab_YoloV8: -1
