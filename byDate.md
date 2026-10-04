@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `135.9k` | **Created at**: `2023-01-17`
+**Stars**: `136.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -1105,7 +1105,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 <a href='https://github.com/Tavris1/ComfyUI-Easy-Install'>
 <img src="https://avatars.githubusercontent.com/u/36665424?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Tavris1/ComfyUI-Easy-Install
 
-**Stars**: `1.9k` | **Created at**: `2024-10-16`
+**Stars**: `2.0k` | **Created at**: `2024-10-16`
 
 
 One-click portable ComfyUI installer for Windows, macOS and Linux, with EZi Desktop: a full dashboard for packages, environments and configuration 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
@@ -1537,7 +1537,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `5.7k` | **Created at**: `2026-03-25`
+**Stars**: `5.8k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
@@ -1559,7 +1559,7 @@ Supports comfyui/API calls/modelscope calls
 <a href='https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/149470765?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `2.1k` | **Created at**: `2026-08-04`
+**Stars**: `2.2k` | **Created at**: `2026-08-04`
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
