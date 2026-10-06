@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `136.1k` | **Created at**: `2023-01-17`
+**Stars**: `136.2k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.3k` | **Created at**: `2023-04-23`
+**Stars**: `16.4k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -869,22 +869,6 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
 
-## lquesada/ComfyUI-Inpaint-CropAndStitch
-
-
-<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
-<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
-
-**Stars**: `1.2k` | **Created at**: `2024-05-11`
-
-
-ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
-</details>
-
-
 ## yolain/ComfyUI-Yolain-Workflows
 
 
@@ -919,7 +903,7 @@ SD变现宝：一键把comfyui工作流转换成小程序。
 <a href='https://github.com/Comfy-Org/ComfyUI_frontend'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI_frontend
 
-**Stars**: `2.0k` | **Created at**: `2024-06-13` | **Tags**: `Core`
+**Stars**: `2.1k` | **Created at**: `2024-06-13` | **Tags**: `Core`
 
 
 Official front-end implementation of ComfyUI
@@ -1466,7 +1450,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `28.6k` | **Created at**: `2025-11-07`
+**Stars**: `28.7k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1563,3 +1547,14 @@ Supports comfyui/API calls/modelscope calls
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
+
+## NikoDemon80/ComfyUI-H3-Motion-Context
+
+
+<a href='https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context'>
+<img src="https://avatars.githubusercontent.com/u/262659861?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context
+
+**Stars**: `1.2k` | **Created at**: `2026-08-07`
+
+
+Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins
