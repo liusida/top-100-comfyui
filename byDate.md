@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `136.4k` | **Created at**: `2023-01-17`
+**Stars**: `136.5k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -362,7 +362,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.6k` | **Created at**: `2023-08-26` | **Tags**: `Custom Nodes`
+**Stars**: `3.5k` | **Created at**: `2023-08-26` | **Tags**: `Custom Nodes`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -1434,13 +1434,15 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 
 
 Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
-<details><summary>Included Nodes (44)</summary>
+<details><summary>Included Nodes (47)</summary>
 
  - <sub>CharacterAssetSelector</sub>, <sub>CharacterAssetSelectorQWEN</sub>, <sub>CharacterCloner</sub>, <sub>CharacterCreator</sub>, <sub>CharacterCreatorV2</sub>, <sub>CharacterSheetCropper</sub>, <sub>ClothesDesigner</sub>
  - <sub>DatasetGenerator</sub>
  - <sub>EmotionGenerator</sub>, <sub>EmotionGeneratorV2</sub>
+ - <sub>MiniMaxH3ReferenceToVideo</sub>
  - <sub>SpriteGenerator</sub>, <sub>SpriteManager</sub>
- - <sub>VNCCS_CharacterCloneGenerator</sub>, <sub>VNCCS_CharacterGenerator</sub>, <sub>VNCCS_ClothesGenerator</sub>, <sub>VNCCS_ClothesTemplates</sub>, <sub>VNCCS_ColorFix</sub>, <sub>VNCCS_ControlCenter</sub>, <sub>VNCCS_EmotionsGenerator</sub>, <sub>VNCCS_Float</sub>, <sub>VNCCS_Flux_Klein_Encoder</sub>, <sub>VNCCS_ImageList</sub>, <sub>VNCCS_Integer</sub>, <sub>VNCCS_LoraBypass</sub>, <sub>VNCCS_LoraStack</sub>, <sub>VNCCS_MaskExtractor</sub>, <sub>VNCCS_MigrationAssistant</sub>, <sub>VNCCS_MultilineText</sub>, <sub>VNCCS_Pipe</sub>, <sub>VNCCS_PoseGenerator</sub>, <sub>VNCCS_PromptConcat</sub>, <sub>VNCCS_QuadSplitter</sub>, <sub>VNCCS_QWEN_Encoder</sub>, <sub>VNCCS_Resize</sub>, <sub>VNCCS_RMBG2</sub>, <sub>VNCCS_Service_Emotions_Generator</sub>, <sub>VNCCS_String</sub>, <sub>VNCCS_Variable</sub>, <sub>VNCCS_VLAnalyzer</sub>, <sub>VNCCSChromaKey</sub>, <sub>VNCCSChromaKeyExperimental</sub>, <sub>VNCCSSamplerSchedulerPicker</sub>, <sub>VNCCSSheetExtractor</sub>, <sub>VNCCSSheetManager</sub>
+ - <sub>TestNode</sub>
+ - <sub>VNCCS_CharacterCloneGenerator</sub>, <sub>VNCCS_CharacterGenerator</sub>, <sub>VNCCS_ClothesGenerator</sub>, <sub>VNCCS_ClothesTemplates</sub>, <sub>VNCCS_ColorFix</sub>, <sub>VNCCS_ControlCenter</sub>, <sub>VNCCS_EmotionsGenerator</sub>, <sub>VNCCS_Float</sub>, <sub>VNCCS_Flux_Klein_Encoder</sub>, <sub>VNCCS_ImageList</sub>, <sub>VNCCS_Integer</sub>, <sub>VNCCS_LoraBypass</sub>, <sub>VNCCS_LoraStack</sub>, <sub>VNCCS_MaskExtractor</sub>, <sub>VNCCS_MigrationAssistant</sub>, <sub>VNCCS_MultilineText</sub>, <sub>VNCCS_Pipe</sub>, <sub>VNCCS_PoseGenerator</sub>, <sub>VNCCS_PromptConcat</sub>, <sub>VNCCS_QuadSplitter</sub>, <sub>VNCCS_QWEN_Encoder</sub>, <sub>VNCCS_Resize</sub>, <sub>VNCCS_RMBG2</sub>, <sub>VNCCS_Service_Emotions_Generator</sub>, <sub>VNCCS_String</sub>, <sub>VNCCS_Variable</sub>, <sub>VNCCS_VLAnalyzer</sub>, <sub>VNCCSChromaKey</sub>, <sub>VNCCSChromaKeyExperimental</sub>, <sub>VNCCSSamplerSchedulerPicker</sub>, <sub>VNCCSSheetExtractor</sub>, <sub>VNCCSSheetManager</sub>, <sub>VNCCSStylePreviewTest</sub>
 </details>
 
 
@@ -1521,7 +1523,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `5.8k` | **Created at**: `2026-03-25`
+**Stars**: `5.9k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.

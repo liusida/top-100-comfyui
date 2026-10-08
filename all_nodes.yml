@@ -2278,6 +2278,7 @@ MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: 35
 MiniMaxChunkFeedForward: -1
 MiniMaxH3MemoryEfficientSageAttentionPatch: -1
+MiniMaxH3ReferenceToVideo: -1
 MiniMaxH3TokenCounter: -1
 MiniMaxLowVRAMAttention: -1
 MinimaxHailuoVideoNode: -1
@@ -3074,6 +3075,7 @@ TestLazyMixImages: -1
 TestListToAccumulationNode: -1
 TestMakeListNode: -1
 TestMixedExpansionReturns: -1
+TestNode: -1
 TestOutputNodeWithSocketOutput: -1
 TestParallelSleep: -1
 TestSamplingInExpansion: -1
@@ -3302,6 +3304,7 @@ VNCCSChromaKeyExperimental: -1
 VNCCSSamplerSchedulerPicker: -1
 VNCCSSheetExtractor: -1
 VNCCSSheetManager: -1
+VNCCSStylePreviewTest: -1
 VNCCS_CharacterCloneGenerator: -1
 VNCCS_CharacterGenerator: -1
 VNCCS_ClothesGenerator: -1
