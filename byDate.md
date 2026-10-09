@@ -292,7 +292,7 @@ A powerful tool that translates ComfyUI workflows into executable Python code.
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.5k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
+**Stars**: `3.6k` | **Created at**: `2023-08-14` | **Tags**: `Custom Nodes`
 
 
 Making ComfyUI more comfortable!
@@ -791,17 +791,6 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 
 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
-
-## 602387193c/ComfyUI-wiki
-
-
-<a href='https://github.com/602387193c/ComfyUI-wiki'>
-<img src="https://avatars.githubusercontent.com/u/131376756?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/602387193c/ComfyUI-wiki
-
-**Stars**: `1.2k` | **Created at**: `2024-03-18` | **Tags**: `Resources`
-
-
-Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 
 ## zombieyang/sd-ppp
 
@@ -1452,7 +1441,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `28.7k` | **Created at**: `2025-11-07`
+**Stars**: `28.8k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1501,7 +1490,7 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 <a href='https://github.com/Osmantic/ODS'>
 <img src="https://avatars.githubusercontent.com/u/262014141?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Osmantic/ODS
 
-**Stars**: `7.1k` | **Created at**: `2026-02-09`
+**Stars**: `7.2k` | **Created at**: `2026-02-09`
 
 
 ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
@@ -1549,6 +1538,17 @@ Supports comfyui/API calls/modelscope calls
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
+
+## huangserva/ComfyUI_MiniMaxH3_Director
+
+
+<a href='https://github.com/huangserva/ComfyUI_MiniMaxH3_Director'>
+<img src="https://avatars.githubusercontent.com/u/201197786?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huangserva/ComfyUI_MiniMaxH3_Director
+
+**Stars**: `1.2k` | **Created at**: `2026-08-04`
+
+
+ComfyUI MiniMax H3 Director workflow
 
 ## NikoDemon80/ComfyUI-H3-Motion-Context
 

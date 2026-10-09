@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.2k` | **Created at**: `2026-10-08`
+**Stars**: `4.2k` | **Created at**: `2026-10-09`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -76,7 +76,7 @@ GGUF Quantization support for native ComfyUI models
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.9k` | **Created at**: `2026-10-07`
+**Stars**: `3.9k` | **Created at**: `2026-10-09`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -85,13 +85,29 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
  - Sorry, we can't get the node list for this project since it lacks conventional `NODE_CLASS_MAPPINGS` and doesn't have a `node_list.json` file to specify the node details according to [ComfyUI-Manager's support guide](https://github.com/ltdrdata/ComfyUI-Manager#custom-node-support-guide)</details>
 
 
+## rgthree/rgthree-comfy
+
+
+<a href='https://github.com/rgthree/rgthree-comfy'>
+<img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
+
+**Stars**: `3.6k` | **Created at**: `2026-10-09`
+
+
+Making ComfyUI more comfortable!
+<details><summary>Included Nodes (24)</summary>
+
+ - <sub>RgthreeAnySwitch</sub>, <sub>RgthreeBigContext</sub>, <sub>RgthreeContext</sub>, <sub>RgthreeContextMerge</sub>, <sub>RgthreeContextMergeBig</sub>, <sub>RgthreeContextSwitch</sub>, <sub>RgthreeContextSwitchBig</sub>, <sub>RgthreeDisplayAny</sub>, <sub>RgthreeDisplayInt</sub>, <sub>RgthreeImageComparer</sub>, <sub>RgthreeImageInsetCrop</sub>, <sub>RgthreeImageOrLatentSize</sub>, <sub>RgthreeImageResize</sub>, <sub>RgthreeKSamplerConfig</sub>, <sub>RgthreeLoraLoaderStack</sub>, <sub>RgthreePowerLoraLoader</sub>, <sub>RgthreePowerPrimitive</sub>, <sub>RgthreePowerPrompt</sub>, <sub>RgthreePowerPromptSimple</sub>, <sub>RgthreePowerPuter</sub>, <sub>RgthreeSDXLEmptyLatentImage</sub>, <sub>RgthreeSDXLPowerPromptPositive</sub>, <sub>RgthreeSDXLPowerPromptSimple</sub>, <sub>RgthreeSeed</sub>
+</details>
+
+
 ## Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
 
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.5k` | **Created at**: `2026-10-08`
+**Stars**: `3.5k` | **Created at**: `2026-10-09`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -102,29 +118,13 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 </details>
 
 
-## rgthree/rgthree-comfy
-
-
-<a href='https://github.com/rgthree/rgthree-comfy'>
-<img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
-
-**Stars**: `3.5k` | **Created at**: `2026-10-08`
-
-
-Making ComfyUI more comfortable!
-<details><summary>Included Nodes (24)</summary>
-
- - <sub>RgthreeAnySwitch</sub>, <sub>RgthreeBigContext</sub>, <sub>RgthreeContext</sub>, <sub>RgthreeContextMerge</sub>, <sub>RgthreeContextMergeBig</sub>, <sub>RgthreeContextSwitch</sub>, <sub>RgthreeContextSwitchBig</sub>, <sub>RgthreeDisplayAny</sub>, <sub>RgthreeDisplayInt</sub>, <sub>RgthreeImageComparer</sub>, <sub>RgthreeImageInsetCrop</sub>, <sub>RgthreeImageOrLatentSize</sub>, <sub>RgthreeImageResize</sub>, <sub>RgthreeKSamplerConfig</sub>, <sub>RgthreeLoraLoaderStack</sub>, <sub>RgthreePowerLoraLoader</sub>, <sub>RgthreePowerPrimitive</sub>, <sub>RgthreePowerPrompt</sub>, <sub>RgthreePowerPromptSimple</sub>, <sub>RgthreePowerPuter</sub>, <sub>RgthreeSDXLEmptyLatentImage</sub>, <sub>RgthreeSDXLPowerPromptPositive</sub>, <sub>RgthreeSDXLPowerPromptSimple</sub>, <sub>RgthreeSeed</sub>
-</details>
-
-
 ## kijai/ComfyUI-KJNodes
 
 
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `3.4k` | **Created at**: `2026-10-07`
+**Stars**: `3.4k` | **Created at**: `2026-10-09`
 
 
 Various custom nodes for ComfyUI
@@ -196,7 +196,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
 <a href='https://github.com/pythongosssss/ComfyUI-Custom-Scripts'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 
-**Stars**: `3.2k` | **Created at**: `2026-10-07`
+**Stars**: `3.2k` | **Created at**: `2026-10-08`
 
 
 Enhancements & experiments for ComfyUI, mostly focusing on UI features
@@ -250,7 +250,7 @@ In order to make it easier to use the ComfyUI, I have made some optimizations an
 <a href='https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait'>
 <img src="https://avatars.githubusercontent.com/u/177083328?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
 
-**Stars**: `2.7k` | **Created at**: `2026-10-07`
+**Stars**: `2.7k` | **Created at**: `2026-10-08`
 
 
 None
@@ -307,7 +307,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.3k` | **Created at**: `2026-10-07`
+**Stars**: `2.3k` | **Created at**: `2026-10-08`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -323,7 +323,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.9k` | **Created at**: `2026-10-08`
+**Stars**: `1.9k` | **Created at**: `2026-10-09`
 
 
 Nodes related to video workflows
@@ -339,7 +339,7 @@ Nodes related to video workflows
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `1.9k` | **Created at**: `2026-10-07`
+**Stars**: `1.9k` | **Created at**: `2026-10-09`
 
 
 WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
@@ -350,7 +350,7 @@ WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, num
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `1.8k` | **Created at**: `2026-10-03`
+**Stars**: `1.8k` | **Created at**: `2026-10-08`
 
 
 None
@@ -368,7 +368,7 @@ None
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.8k` | **Created at**: `2026-10-05`
+**Stars**: `1.8k` | **Created at**: `2026-10-08`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -400,7 +400,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/kijai/ComfyUI-Florence2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Florence2
 
-**Stars**: `1.8k` | **Created at**: `2026-10-03`
+**Stars**: `1.8k` | **Created at**: `2026-10-08`
 
 
 Inference Microsoft Florence2 VLM
@@ -417,7 +417,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/177552519?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/XLabs-AI/x-flux-comfyui
 
-**Stars**: `1.7k` | **Created at**: `2026-10-02`
+**Stars**: `1.7k` | **Created at**: `2026-10-08`
 
 
 None
@@ -486,7 +486,7 @@ An open source `vercel` like deployment platform for Comfy UI
 <a href='https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet'>
 <img src="https://avatars.githubusercontent.com/u/25489996?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
 
-**Stars**: `1.5k` | **Created at**: `2026-10-05`
+**Stars**: `1.5k` | **Created at**: `2026-10-08`
 
 
 Custom nodes that extend the capabilities of Comfyui
@@ -558,7 +558,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.2k` | **Created at**: `2026-10-04`
+**Stars**: `1.2k` | **Created at**: `2026-10-08`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -590,7 +590,7 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'>
 <img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: `1.2k` | **Created at**: `2026-10-05`
+**Stars**: `1.2k` | **Created at**: `2026-10-08`
 
 
 This node was designed to help AI image creators to generate prompts for human portraits.
@@ -622,7 +622,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `1.2k` | **Created at**: `2026-09-30`
+**Stars**: `1.2k` | **Created at**: `2026-10-09`
 
 
 ComfyUI nodes to use segment-anything-2
