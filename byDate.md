@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `136.5k` | **Created at**: `2023-01-17`
+**Stars**: `136.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -362,7 +362,7 @@ ComfyUI related stuff and things
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.5k` | **Created at**: `2023-08-26` | **Tags**: `Custom Nodes`
+**Stars**: `3.6k` | **Created at**: `2023-08-26` | **Tags**: `Custom Nodes`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -1419,7 +1419,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AHEKOT/ComfyUI_VNCCS'>
 <img src="https://avatars.githubusercontent.com/u/119136212?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AHEKOT/ComfyUI_VNCCS
 
-**Stars**: `1.6k` | **Created at**: `2025-09-27`
+**Stars**: `1.7k` | **Created at**: `2025-09-27`
 
 
 Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
@@ -1534,7 +1534,7 @@ Supports comfyui/API calls/modelscope calls
 <a href='https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/149470765?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `2.2k` | **Created at**: `2026-08-04`
+**Stars**: `2.3k` | **Created at**: `2026-08-04`
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
