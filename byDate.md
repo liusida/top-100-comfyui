@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `137.4k` | **Created at**: `2023-01-17`
+**Stars**: `137.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.4k` | **Created at**: `2023-04-23`
+**Stars**: `16.5k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -416,36 +416,6 @@ A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
  - <sub>[Tiled Upscaler Script](node_examples/Tiled_Upscaler_Script.md)</sub>
  - <sub>[Unpack SDXL Tuple](node_examples/Unpack_SDXL_Tuple.md)</sub>
  - <sub>XY Input: Add/Return Noise</sub>, <sub>XY Input: Aesthetic Score</sub>, <sub>[XY Input: CFG Scale](node_examples/XY_Input_CFG_Scale.md)</sub>, <sub>[XY Input: Checkpoint](node_examples/XY_Input_Checkpoint.md)</sub>, <sub>XY Input: Clip Skip</sub>, <sub>XY Input: Control Net</sub>, <sub>XY Input: Control Net Plot</sub>, <sub>[XY Input: Denoise](node_examples/XY_Input_Denoise.md)</sub>, <sub>[XY Input: LoRA](node_examples/XY_Input_LoRA.md)</sub>, <sub>[XY Input: LoRA Plot](node_examples/XY_Input_LoRA_Plot.md)</sub>, <sub>XY Input: LoRA Stacks</sub>, <sub>XY Input: Manual XY Entry</sub>, <sub>XY Input: Prompt S/R</sub>, <sub>XY Input: Refiner On/Off</sub>, <sub>[XY Input: Sampler/Scheduler](node_examples/XY_Input_SamplerScheduler.md)</sub>, <sub>[XY Input: Seeds++ Batch](node_examples/XY_Input_Seeds++_Batch.md)</sub>, <sub>[XY Input: Steps](node_examples/XY_Input_Steps.md)</sub>, <sub>XY Input: VAE</sub>, <sub>[XY Plot](node_examples/XY_Plot.md)</sub>
-</details>
-
-
-## cubiq/ComfyUI_essentials
-
-
-<a href='https://github.com/cubiq/ComfyUI_essentials'>
-<img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
-
-**Stars**: `1.2k` | **Created at**: `2023-09-20` | **Tags**: `Custom Nodes`
-
-
-None
-<details><summary>Included Nodes (85)</summary>
-
- - <sub>ApplyCLIPSeg+</sub>
- - <sub>[BatchCount+](node_examples/BatchCount+.md)</sub>
- - <sub>[CLIPTextEncodeSDXL+](node_examples/CLIPTextEncodeSDXL+.md)</sub>, <sub>[ConditioningCombineMultiple+](node_examples/ConditioningCombineMultiple+.md)</sub>, <sub>[ConsoleDebug+](node_examples/ConsoleDebug+.md)</sub>
- - <sub>[DebugTensorShape+](node_examples/DebugTensorShape+.md)</sub>, <sub>DisplayAny</sub>, <sub>DrawText+</sub>
- - <sub>FluxAttentionSeeker+</sub>, <sub>FluxBlocksBuster+</sub>, <sub>FluxSamplerParams+</sub>
- - <sub>[GetImageSize+](node_examples/GetImageSize+.md)</sub>, <sub>GuidanceTimestepping+</sub>
- - <sub>ImageApplyLUT+</sub>, <sub>[ImageBatchMultiple+](node_examples/ImageBatchMultiple+.md)</sub>, <sub>ImageBatchToList+</sub>, <sub>[ImageCASharpening+](node_examples/ImageCASharpening+.md)</sub>, <sub>ImageColorMatch+</sub>, <sub>ImageColorMatchAdobe+</sub>, <sub>ImageComposite+</sub>, <sub>ImageCompositeFromMaskBatch+</sub>, <sub>[ImageCrop+](node_examples/ImageCrop+.md)</sub>, <sub>[ImageDesaturate+](node_examples/ImageDesaturate+.md)</sub>, <sub>[ImageEnhanceDifference+](node_examples/ImageEnhanceDifference+.md)</sub>, <sub>ImageExpandBatch+</sub>, <sub>[ImageFlip+](node_examples/ImageFlip+.md)</sub>, <sub>[ImageFromBatch+](node_examples/ImageFromBatch+.md)</sub>, <sub>ImageHistogramMatch+</sub>, <sub>[ImageListToBatch+](node_examples/ImageListToBatch+.md)</sub>, <sub>[ImagePosterize+](node_examples/ImagePosterize+.md)</sub>, <sub>ImagePreviewFromLatent+</sub>, <sub>[ImageRandomTransform+](node_examples/ImageRandomTransform+.md)</sub>, <sub>ImageRemoveAlpha+</sub>, <sub>[ImageRemoveBackground+](node_examples/ImageRemoveBackground+.md)</sub>, [ImageResize+🌟](node_examples/ImageResize+.md), <sub>ImageSeamCarving+</sub>, <sub>ImageSmartSharpen+</sub>, <sub>ImageTile+</sub>, <sub>ImageToDevice+</sub>, <sub>ImageUntile+</sub>, <sub>InjectLatentNoise+</sub>
- - <sub>KSamplerVariationsStochastic+</sub>, <sub>KSamplerVariationsWithNoise+</sub>
- - <sub>LoadCLIPSegModels+</sub>, <sub>LorasForFluxParams+</sub>
- - <sub>MaskBatch+</sub>, <sub>[MaskBlur+](node_examples/MaskBlur+.md)</sub>, <sub>MaskBoundingBox+</sub>, <sub>MaskExpandBatch+</sub>, <sub>MaskFix+</sub>, <sub>[MaskFlip+](node_examples/MaskFlip+.md)</sub>, <sub>MaskFromBatch+</sub>, <sub>[MaskFromColor+](node_examples/MaskFromColor+.md)</sub>, <sub>MaskFromList+</sub>, <sub>[MaskFromRGBCMYBW+](node_examples/MaskFromRGBCMYBW+.md)</sub>, <sub>MaskFromSegmentation+</sub>, [MaskPreview+🌟](node_examples/MaskPreview+.md), <sub>MaskSmooth+</sub>, <sub>ModelCompile+</sub>, <sub>ModelSamplingSD3Advanced+</sub>
- - <sub>NoiseFromImage+</sub>
- - <sub>PixelOEPixelize+</sub>, <sub>PlotParameters+</sub>
- - <sub>[RemBGSession+](node_examples/RemBGSession+.md)</sub>, <sub>[RemoveLatentMask+](node_examples/RemoveLatentMask+.md)</sub>
- - <sub>SamplerSelectHelper+</sub>, <sub>SchedulerSelectHelper+</sub>, <sub>SD3AttentionSeekerLG+</sub>, <sub>SD3AttentionSeekerT5+</sub>, <sub>SD3NegativeConditioning+</sub>, <sub>[SDXLEmptyLatentSizePicker+](node_examples/SDXLEmptyLatentSizePicker+.md)</sub>, <sub>SimpleComparison+</sub>, <sub>SimpleCondition+</sub>, <sub>[SimpleMath+](node_examples/SimpleMath+.md)</sub>, <sub>SimpleMathBoolean+</sub>, <sub>SimpleMathCondition+</sub>, <sub>SimpleMathDual+</sub>, <sub>SimpleMathFloat+</sub>, <sub>SimpleMathInt+</sub>, <sub>SimpleMathPercent+</sub>, <sub>SimpleMathSlider+</sub>, <sub>SimpleMathSliderLowRes+</sub>
- - <sub>TextEncodeForSamplerParams+</sub>, <sub>TransitionMask+</sub>, <sub>TransparentBGSession+</sub>
 </details>
 
 
@@ -1534,7 +1504,7 @@ Supports comfyui/API calls/modelscope calls
 <a href='https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/149470765?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `2.3k` | **Created at**: `2026-08-04`
+**Stars**: `2.4k` | **Created at**: `2026-08-04`
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
@@ -1560,3 +1530,14 @@ ComfyUI MiniMax H3 Director workflow
 
 
 Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins
+
+## Arekejoker/qwen21-nsfw-pose-skill
+
+
+<a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
+<img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
+
+**Stars**: `1.3k` | **Created at**: `2026-10-13`
+
+
+Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw

@@ -76,7 +76,7 @@ GGUF Quantization support for native ComfyUI models
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.9k` | **Created at**: `2026-10-13`
+**Stars**: `3.9k` | **Created at**: `2026-10-15`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -107,7 +107,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.6k` | **Created at**: `2026-10-13`
+**Stars**: `3.6k` | **Created at**: `2026-10-14`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -161,7 +161,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.3k` | **Created at**: `2026-10-11`
+**Stars**: `3.3k` | **Created at**: `2026-10-14`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -217,7 +217,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `3.2k` | **Created at**: `2026-10-14`
+**Stars**: `3.2k` | **Created at**: `2026-10-15`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -233,7 +233,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.8k` | **Created at**: `2026-10-13`
+**Stars**: `2.8k` | **Created at**: `2026-10-14`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -307,7 +307,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.3k` | **Created at**: `2026-10-13`
+**Stars**: `2.3k` | **Created at**: `2026-10-14`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -323,7 +323,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.9k` | **Created at**: `2026-10-13`
+**Stars**: `1.9k` | **Created at**: `2026-10-15`
 
 
 Nodes related to video workflows
@@ -350,7 +350,7 @@ WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, num
 <a href='https://github.com/cubiq/ComfyUI_InstantID'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_InstantID
 
-**Stars**: `1.8k` | **Created at**: `2026-10-13`
+**Stars**: `1.8k` | **Created at**: `2026-10-14`
 
 
 None
@@ -368,7 +368,7 @@ None
 <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn'>
 <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn
 
-**Stars**: `1.8k` | **Created at**: `2026-10-09`
+**Stars**: `1.8k` | **Created at**: `2026-10-15`
 
 
 肖像大师 中文版 comfyui-portrait-master
@@ -417,7 +417,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/XLabs-AI/x-flux-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/177552519?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/XLabs-AI/x-flux-comfyui
 
-**Stars**: `1.7k` | **Created at**: `2026-10-12`
+**Stars**: `1.7k` | **Created at**: `2026-10-14`
 
 
 None
@@ -452,7 +452,7 @@ ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.
 <a href='https://github.com/kijai/ComfyUI-CogVideoXWrapper'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-CogVideoXWrapper
 
-**Stars**: `1.5k` | **Created at**: `2026-10-13`
+**Stars**: `1.5k` | **Created at**: `2026-10-14`
 
 
 None
@@ -470,7 +470,7 @@ None
 <a href='https://github.com/BennyKok/comfyui-deploy'>
 <img src="https://avatars.githubusercontent.com/u/18395202?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/BennyKok/comfyui-deploy
 
-**Stars**: `1.5k` | **Created at**: `2026-10-09`
+**Stars**: `1.5k` | **Created at**: `2026-10-14`
 
 
 An open source `vercel` like deployment platform for Comfy UI
@@ -552,22 +552,6 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 </details>
 
 
-## Acly/comfyui-inpaint-nodes
-
-
-<a href='https://github.com/Acly/comfyui-inpaint-nodes'>
-<img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
-
-**Stars**: `1.2k` | **Created at**: `2026-10-13`
-
-
-Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
-<details><summary>Included Nodes (13)</summary>
-
- - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_ColorMatch</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>INPAINT_MaskBoundingBox</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>INPAINT_StabilizeMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
-</details>
-
-
 ## pythongosssss/ComfyUI-WD14-Tagger
 
 
@@ -581,6 +565,22 @@ A ComfyUI extension allowing for the interrogation of booru tags from images.
 <details><summary>Included Nodes (1)</summary>
 
  - [WD14Tagger|pysssss🌟](node_examples/WD14Taggerpysssss.md)
+</details>
+
+
+## Acly/comfyui-inpaint-nodes
+
+
+<a href='https://github.com/Acly/comfyui-inpaint-nodes'>
+<img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
+
+**Stars**: `1.2k` | **Created at**: `2026-10-13`
+
+
+Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
+<details><summary>Included Nodes (13)</summary>
+
+ - <sub>[INPAINT_ApplyFooocusInpaint](node_examples/INPAINT_ApplyFooocusInpaint.md)</sub>, <sub>INPAINT_ColorMatch</sub>, <sub>INPAINT_DenoiseToCompositingMask</sub>, <sub>INPAINT_ExpandMask</sub>, <sub>[INPAINT_InpaintWithModel](node_examples/INPAINT_InpaintWithModel.md)</sub>, <sub>[INPAINT_LoadFooocusInpaint](node_examples/INPAINT_LoadFooocusInpaint.md)</sub>, <sub>[INPAINT_LoadInpaintModel](node_examples/INPAINT_LoadInpaintModel.md)</sub>, <sub>INPAINT_MaskBoundingBox</sub>, <sub>[INPAINT_MaskedBlur](node_examples/INPAINT_MaskedBlur.md)</sub>, <sub>[INPAINT_MaskedFill](node_examples/INPAINT_MaskedFill.md)</sub>, <sub>INPAINT_ShrinkMask</sub>, <sub>INPAINT_StabilizeMask</sub>, <sub>[INPAINT_VAEEncodeInpaintConditioning](node_examples/INPAINT_VAEEncodeInpaintConditioning.md)</sub>
 </details>
 
 
@@ -622,7 +622,7 @@ Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and
 <a href='https://github.com/kijai/ComfyUI-segment-anything-2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-segment-anything-2
 
-**Stars**: `1.2k` | **Created at**: `2026-10-12`
+**Stars**: `1.2k` | **Created at**: `2026-10-14`
 
 
 ComfyUI nodes to use segment-anything-2
@@ -631,35 +631,5 @@ ComfyUI nodes to use segment-anything-2
  - <sub>DownloadAndLoadSAM2Model</sub>
  - <sub>Florence2toCoordinates</sub>
  - <sub>Sam2AutoSegmentation</sub>, <sub>Sam2Segmentation</sub>, <sub>Sam2VideoSegmentation</sub>, <sub>Sam2VideoSegmentationAddPoints</sub>
-</details>
-
-
-## cubiq/ComfyUI_essentials
-
-
-<a href='https://github.com/cubiq/ComfyUI_essentials'>
-<img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_essentials
-
-**Stars**: `1.2k` | **Created at**: `2026-10-12`
-
-
-None
-<details><summary>Included Nodes (85)</summary>
-
- - <sub>ApplyCLIPSeg+</sub>
- - <sub>[BatchCount+](node_examples/BatchCount+.md)</sub>
- - <sub>[CLIPTextEncodeSDXL+](node_examples/CLIPTextEncodeSDXL+.md)</sub>, <sub>[ConditioningCombineMultiple+](node_examples/ConditioningCombineMultiple+.md)</sub>, <sub>[ConsoleDebug+](node_examples/ConsoleDebug+.md)</sub>
- - <sub>[DebugTensorShape+](node_examples/DebugTensorShape+.md)</sub>, <sub>DisplayAny</sub>, <sub>DrawText+</sub>
- - <sub>FluxAttentionSeeker+</sub>, <sub>FluxBlocksBuster+</sub>, <sub>FluxSamplerParams+</sub>
- - <sub>[GetImageSize+](node_examples/GetImageSize+.md)</sub>, <sub>GuidanceTimestepping+</sub>
- - <sub>ImageApplyLUT+</sub>, <sub>[ImageBatchMultiple+](node_examples/ImageBatchMultiple+.md)</sub>, <sub>ImageBatchToList+</sub>, <sub>[ImageCASharpening+](node_examples/ImageCASharpening+.md)</sub>, <sub>ImageColorMatch+</sub>, <sub>ImageColorMatchAdobe+</sub>, <sub>ImageComposite+</sub>, <sub>ImageCompositeFromMaskBatch+</sub>, <sub>[ImageCrop+](node_examples/ImageCrop+.md)</sub>, <sub>[ImageDesaturate+](node_examples/ImageDesaturate+.md)</sub>, <sub>[ImageEnhanceDifference+](node_examples/ImageEnhanceDifference+.md)</sub>, <sub>ImageExpandBatch+</sub>, <sub>[ImageFlip+](node_examples/ImageFlip+.md)</sub>, <sub>[ImageFromBatch+](node_examples/ImageFromBatch+.md)</sub>, <sub>ImageHistogramMatch+</sub>, <sub>[ImageListToBatch+](node_examples/ImageListToBatch+.md)</sub>, <sub>[ImagePosterize+](node_examples/ImagePosterize+.md)</sub>, <sub>ImagePreviewFromLatent+</sub>, <sub>[ImageRandomTransform+](node_examples/ImageRandomTransform+.md)</sub>, <sub>ImageRemoveAlpha+</sub>, <sub>[ImageRemoveBackground+](node_examples/ImageRemoveBackground+.md)</sub>, [ImageResize+🌟](node_examples/ImageResize+.md), <sub>ImageSeamCarving+</sub>, <sub>ImageSmartSharpen+</sub>, <sub>ImageTile+</sub>, <sub>ImageToDevice+</sub>, <sub>ImageUntile+</sub>, <sub>InjectLatentNoise+</sub>
- - <sub>KSamplerVariationsStochastic+</sub>, <sub>KSamplerVariationsWithNoise+</sub>
- - <sub>LoadCLIPSegModels+</sub>, <sub>LorasForFluxParams+</sub>
- - <sub>MaskBatch+</sub>, <sub>[MaskBlur+](node_examples/MaskBlur+.md)</sub>, <sub>MaskBoundingBox+</sub>, <sub>MaskExpandBatch+</sub>, <sub>MaskFix+</sub>, <sub>[MaskFlip+](node_examples/MaskFlip+.md)</sub>, <sub>MaskFromBatch+</sub>, <sub>[MaskFromColor+](node_examples/MaskFromColor+.md)</sub>, <sub>MaskFromList+</sub>, <sub>[MaskFromRGBCMYBW+](node_examples/MaskFromRGBCMYBW+.md)</sub>, <sub>MaskFromSegmentation+</sub>, [MaskPreview+🌟](node_examples/MaskPreview+.md), <sub>MaskSmooth+</sub>, <sub>ModelCompile+</sub>, <sub>ModelSamplingSD3Advanced+</sub>
- - <sub>NoiseFromImage+</sub>
- - <sub>PixelOEPixelize+</sub>, <sub>PlotParameters+</sub>
- - <sub>[RemBGSession+](node_examples/RemBGSession+.md)</sub>, <sub>[RemoveLatentMask+](node_examples/RemoveLatentMask+.md)</sub>
- - <sub>SamplerSelectHelper+</sub>, <sub>SchedulerSelectHelper+</sub>, <sub>SD3AttentionSeekerLG+</sub>, <sub>SD3AttentionSeekerT5+</sub>, <sub>SD3NegativeConditioning+</sub>, <sub>[SDXLEmptyLatentSizePicker+](node_examples/SDXLEmptyLatentSizePicker+.md)</sub>, <sub>SimpleComparison+</sub>, <sub>SimpleCondition+</sub>, <sub>[SimpleMath+](node_examples/SimpleMath+.md)</sub>, <sub>SimpleMathBoolean+</sub>, <sub>SimpleMathCondition+</sub>, <sub>SimpleMathDual+</sub>, <sub>SimpleMathFloat+</sub>, <sub>SimpleMathInt+</sub>, <sub>SimpleMathPercent+</sub>, <sub>SimpleMathSlider+</sub>, <sub>SimpleMathSliderLowRes+</sub>
- - <sub>TextEncodeForSamplerParams+</sub>, <sub>TransitionMask+</sub>, <sub>TransparentBGSession+</sub>
 </details>
 
