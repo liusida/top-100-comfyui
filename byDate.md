@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `137.6k` | **Created at**: `2023-01-17`
+**Stars**: `137.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -828,6 +828,22 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 
 AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.
 
+## lquesada/ComfyUI-Inpaint-CropAndStitch
+
+
+<a href='https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch'>
+<img src="https://avatars.githubusercontent.com/u/4499933?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
+
+**Stars**: `1.2k` | **Created at**: `2024-05-11`
+
+
+ComfyUI nodes to crop before sampling and stitch back after sampling that speed up inpainting
+<details><summary>Included Nodes (2)</summary>
+
+ - <sub>InpaintCropImproved</sub>, <sub>InpaintStitchImproved</sub>
+</details>
+
+
 ## yolain/ComfyUI-Yolain-Workflows
 
 
@@ -1411,7 +1427,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `29.0k` | **Created at**: `2025-11-07`
+**Stars**: `29.1k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1442,17 +1458,6 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 
 
 A Simple Implementation of Qwen3-TTS's ComfyUI
-
-## jau123/MeiGen-AI-Design-MCP
-
-
-<a href='https://github.com/jau123/MeiGen-AI-Design-MCP'>
-<img src="https://avatars.githubusercontent.com/u/130447398?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jau123/MeiGen-AI-Design-MCP
-
-**Stars**: `1.8k` | **Created at**: `2026-02-07`
-
-
-Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
 
 ## Osmantic/ODS
 
@@ -1537,7 +1542,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `1.3k` | **Created at**: `2026-10-13`
+**Stars**: `2.1k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
