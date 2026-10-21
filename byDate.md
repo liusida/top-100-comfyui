@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `139.9k` | **Created at**: `2023-01-17`
+**Stars**: `140.9k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -482,17 +482,6 @@ Various custom nodes for ComfyUI
 
 
 Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
-
-## 6174/comflowy
-
-
-<a href='https://github.com/6174/comflowy'>
-<img src="https://avatars.githubusercontent.com/u/3872872?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/6174/comflowy
-
-**Stars**: `1.2k` | **Created at**: `2023-11-20` | **Tags**: `Website`
-
-
-Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users. 
 
 ## 6174/comflowyspace
 
@@ -1100,7 +1089,7 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 **Stars**: `2.2k` | **Created at**: `2024-11-14`
 
 
-A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.
+A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, VRMBG-3.0, FeyNoBg, Finegrain Box Segmenter, INSPYRENET, BEN, BEN2, BiRefNet, Lucida, SDMatte, SAM, SAM2, SAM3, Florence-2, YOLOv8/YOLO11, Big-Lama, and GroundingDINO.
 <details><summary>Included Nodes (45)</summary>
 
  - <sub>AILab_ColorInput</sub>, <sub>AILab_ColorToMask</sub>, <sub>AILab_CropObject</sub>, <sub>AILab_Florence2</sub>, <sub>AILab_Florence2ToCoordinates</sub>, <sub>AILab_ICLoRAConcat</sub>, <sub>AILab_ImageCombiner</sub>, <sub>AILab_ImageCompare</sub>, <sub>AILab_ImageCompareView</sub>, <sub>AILab_ImageCrop</sub>, <sub>AILab_ImageMaskConvert</sub>, <sub>AILab_ImageMaskToList</sub>, <sub>AILab_ImagePreview</sub>, <sub>AILab_ImageResize</sub>, <sub>AILab_ImageStitch</sub>, <sub>AILab_ImageToList</sub>, <sub>AILab_LamaRemover</sub>, <sub>AILab_LoadImage</sub>, <sub>AILab_LoadImageAdvanced</sub>, <sub>AILab_LoadImageBatch</sub>, <sub>AILab_LoadImageSimple</sub>, <sub>AILab_MaskCombiner</sub>, <sub>AILab_MaskEnhancer</sub>, <sub>AILab_MaskExtractor</sub>, <sub>AILab_MaskOverlay</sub>, <sub>AILab_MaskPreview</sub>, <sub>AILab_MaskToList</sub>, <sub>AILab_Preview</sub>, <sub>AILab_ReferenceLatentMask</sub>, <sub>AILab_Resolution_Selector</sub>, <sub>AILab_SDMatte</sub>, <sub>AILab_UnbatchImages</sub>, <sub>AILab_YoloV8</sub>, <sub>AILab_YoloV8Adv</sub>
@@ -1454,7 +1443,7 @@ A ComfyUI custom node for 3D camera angle control. Provides an interactive Three
 <a href='https://github.com/flybirdxx/ComfyUI-Qwen-TTS'>
 <img src="https://avatars.githubusercontent.com/u/26685745?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/flybirdxx/ComfyUI-Qwen-TTS
 
-**Stars**: `1.9k` | **Created at**: `2026-01-22`
+**Stars**: `2.0k` | **Created at**: `2026-01-22`
 
 
 A Simple Implementation of Qwen3-TTS's ComfyUI
@@ -1525,6 +1514,17 @@ Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
 
 ComfyUI MiniMax H3 Director workflow
 
+## T8mars/comfyui-minimax-h3-audio-T8
+
+
+<a href='https://github.com/T8mars/comfyui-minimax-h3-audio-T8'>
+<img src="https://avatars.githubusercontent.com/u/96167788?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/T8mars/comfyui-minimax-h3-audio-T8
+
+**Stars**: `1.2k` | **Created at**: `2026-08-05`
+
+
+None
+
 ## NikoDemon80/ComfyUI-H3-Motion-Context
 
 
@@ -1542,7 +1542,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `3.4k` | **Created at**: `2026-10-13`
+**Stars**: `3.5k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
