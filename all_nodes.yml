@@ -177,9 +177,12 @@ ADE_VisualizeContextOptions: -1
 ADE_VisualizeContextOptionsK: -1
 ADE_VisualizeContextOptionsKAdv: -1
 ADE_VisualizeContextOptionsSCustom: -1
+AILab_Canvas: -1
 AILab_ColorInput: -1
 AILab_ColorToMask: -1
 AILab_CropObject: -1
+AILab_FeyNoBg: -1
+AILab_FinegrainBoxSegment: -1
 AILab_Florence2: -1
 AILab_Florence2ToCoordinates: -1
 AILab_ICLoRAConcat: -1
@@ -210,6 +213,8 @@ AILab_ReferenceLatentMask: -1
 AILab_Resolution_Selector: -1
 AILab_SDMatte: -1
 AILab_UnbatchImages: -1
+AILab_VRMBG: -1
+AILab_Yolo: -1
 AILab_YoloV8: -1
 AILab_YoloV8Adv: -1
 AIO_Preprocessor: 54
@@ -1046,6 +1051,8 @@ FlowEditReverseSampler: -1
 FlowEditSampler: -1
 Flux2ProImageNode: -1
 Flux2Scheduler: -1
+Flux3BoxReconcileKJ: -1
+Flux3PromptBuilderKJ: -1
 FluxAttentionSeeker+: -1
 FluxAttnOverride: -1
 FluxBlockLoraLoader: -1
@@ -1720,6 +1727,7 @@ LTXVGemmaEnhancePrompt: -1
 LTXVGetTilingSizes: -1
 LTXVHDRDecodePostprocess: -1
 LTXVImgToVideo: -1
+LTXVImgToVideoAdvanced: -1
 LTXVImgToVideoConditionOnly: -1
 LTXVImgToVideoInplace: -1
 LTXVImgToVideoInplaceKJ: -1
@@ -2337,6 +2345,8 @@ Morphology: 0
 MossClipStagingNode: -1
 MossDatasetPrepNode: -1
 MossDatasetRowsNode: -1
+MossImagePromptBuilderKJ: -1
+MossImagePromptWeight: -1
 MossSoundEffectV2EngineNode: -1
 MossTTSEngineNode: -1
 MossTrainingConfigNode: -1
@@ -2355,6 +2365,7 @@ NLFPredict: -1
 NNLatentUpscale: 17
 NNlLatentUpscale: -1
 NewLayer: 10
+Node: -1
 Noise Control Script: 2
 NoiseFromImage+: -1
 NoiseImage: 2
@@ -2563,6 +2574,7 @@ RandomNoise: 46
 RandomPrompt: 4
 RandomUNETLoaderLM: -1
 ReActorBuildFaceModel: 4
+ReActorCinematicEnhancer: -1
 ReActorFaceBoost: -1
 ReActorFaceSimilarity: -1
 ReActorFaceSwap: 95
@@ -3039,6 +3051,7 @@ TensorLoopClose: -1
 TensorLoopOpen: -1
 TensorRTLoader: -1
 Terminal: 0
+Test: -1
 TestAccumulateNode: -1
 TestAccumulationGetItemNode: -1
 TestAccumulationGetLengthNode: -1

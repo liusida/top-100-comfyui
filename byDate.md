@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `142.1k` | **Created at**: `2023-01-17`
+**Stars**: `142.4k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.5k` | **Created at**: `2023-04-23`
+**Stars**: `16.6k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -270,7 +270,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/LykosAI/StabilityMatrix'>
 <img src="https://avatars.githubusercontent.com/u/136279213?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/LykosAI/StabilityMatrix
 
-**Stars**: `8.9k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
+**Stars**: `9.0k` | **Created at**: `2023-06-13` | **Tags**: `Integration`
 
 
 Multi-Platform Package Manager for Stable Diffusion
@@ -445,7 +445,7 @@ Nodes related to video workflows
 
 
 Various custom nodes for ComfyUI
-<details><summary>Included Nodes (261)</summary>
+<details><summary>Included Nodes (265)</summary>
 
  - <sub>_AccumulateNode</sub>, <sub>_AccumulationToImageBatch</sub>, <sub>_BatchOps</sub>, <sub>_ConditionalSelect</sub>, <sub>_ImageAccumStatePack</sub>, <sub>_ImageAccumStateUnpack</sub>, <sub>_IntOperations</sub>, <sub>_WhileLoopClose</sub>, <sub>_WhileLoopOpen</sub>
  - <sub>[AddLabel](node_examples/AddLabel.md)</sub>, <sub>AddNoiseToTrackPath</sub>, <sub>[AppendInstanceDiffusionTracking](node_examples/AppendInstanceDiffusionTracking.md)</sub>, <sub>AppendStringsToList</sub>, <sub>ApplyRifleXRoPE_HunuyanVideo</sub>, <sub>ApplyRifleXRoPE_WanVideo</sub>, <sub>AudioConcatenate</sub>
@@ -453,14 +453,14 @@ Various custom nodes for ComfyUI
  - <sub>CameraPoseVisualizer</sub>, <sub>CFGZeroStarAndInit</sub>, <sub>CheckpointLoaderKJ</sub>, <sub>CheckpointPerturbWeights</sub>, <sub>[ColorMatch](node_examples/ColorMatch.md)</sub>, <sub>ColorMatchV2</sub>, <sub>[ColorToMask](node_examples/ColorToMask.md)</sub>, <sub>ConditioningMultiCombine</sub>, <sub>ConditioningSetMaskAndCombine</sub>, <sub>ConditioningSetMaskAndCombine3</sub>, <sub>ConditioningSetMaskAndCombine4</sub>, <sub>ConditioningSetMaskAndCombine5</sub>, <sub>CondPassThrough</sub>, <sub>ConsolidateMasksKJ</sub>, <sub>ContextWindowsVisualizerKJ</sub>, <sub>CreateAudioMask</sub>, <sub>[CreateFadeMask](node_examples/CreateFadeMask.md)</sub>, <sub>[CreateFadeMaskAdvanced](node_examples/CreateFadeMaskAdvanced.md)</sub>, <sub>CreateFluidMask</sub>, <sub>CreateGradientFromCoords</sub>, <sub>[CreateGradientMask](node_examples/CreateGradientMask.md)</sub>, <sub>[CreateInstanceDiffusionTracking](node_examples/CreateInstanceDiffusionTracking.md)</sub>, <sub>CreateMagicMask</sub>, <sub>CreateShapeImageOnPath</sub>, <sub>[CreateShapeMask](node_examples/CreateShapeMask.md)</sub>, <sub>[CreateShapeMaskOnPath](node_examples/CreateShapeMaskOnPath.md)</sub>, <sub>[CreateTextMask](node_examples/CreateTextMask.md)</sub>, <sub>CreateTextOnPath</sub>, <sub>CreateVoronoiMask</sub>, <sub>CrossFadeImages</sub>, <sub>CrossFadeImagesMulti</sub>, <sub>CustomControlNetWeightsFluxFromList</sub>, <sub>[CustomSigmas](node_examples/CustomSigmas.md)</sub>, <sub>CutAndDragOnPath</sub>
  - <sub>DecodeAndSaveVideo</sub>, <sub>DifferentialDiffusionAdvanced</sub>, <sub>DiffusionModelLoaderKJ</sub>, <sub>DiffusionModelSelector</sub>, <sub>DiTBlockLoraLoader</sub>, <sub>DownloadAndLoadCLIPSeg</sub>, <sub>DrawInstanceDiffusionTracking</sub>, <sub>DrawMaskOnImage</sub>, <sub>DummyOut</sub>
  - <sub>EmptyLatentImageCustomPresets</sub>, <sub>EmptyLatentImagePresets</sub>, <sub>EncodeVideoComponents</sub>, <sub>EndRecordCUDAMemoryHistory</sub>
- - <sub>FastPreview</sub>, <sub>FastPreviewBatch</sub>, <sub>FilterZeroMasksAndCorrespondingImages</sub>, <sub>[FlipSigmasAdjusted](node_examples/FlipSigmasAdjusted.md)</sub>, <sub>[FloatConstant](node_examples/FloatConstant.md)</sub>, <sub>FloatToMask</sub>, <sub>FloatToSigmas</sub>, <sub>FluxBlockLoraSelect</sub>
+ - <sub>FastPreview</sub>, <sub>FastPreviewBatch</sub>, <sub>FilterZeroMasksAndCorrespondingImages</sub>, <sub>[FlipSigmasAdjusted](node_examples/FlipSigmasAdjusted.md)</sub>, <sub>[FloatConstant](node_examples/FloatConstant.md)</sub>, <sub>FloatToMask</sub>, <sub>FloatToSigmas</sub>, <sub>Flux3BoxReconcileKJ</sub>, <sub>Flux3PromptBuilderKJ</sub>, <sub>FluxBlockLoraSelect</sub>
  - <sub>[GenerateNoise](node_examples/GenerateNoise.md)</sub>, <sub>[GetImageRangeFromBatch](node_examples/GetImageRangeFromBatch.md)</sub>, <sub>[GetImagesFromBatchIndexed](node_examples/GetImagesFromBatchIndexed.md)</sub>, <sub>[GetImageSizeAndCount](node_examples/GetImageSizeAndCount.md)</sub>, <sub>GetLatentRangeFromBatch</sub>, <sub>GetLatentsFromBatchIndexed</sub>, <sub>GetLatentSizeAndCount</sub>, <sub>[GetMaskSizeAndCount](node_examples/GetMaskSizeAndCount.md)</sub>, <sub>GetPreviewOverrideFramesKJ</sub>, <sub>GetTrackRange</sub>, <sub>GGUFLoaderKJ</sub>, <sub>GLIGENTextBoxApplyBatchCoords</sub>, <sub>GradientToFloat</sub>, <sub>[GrowMaskWithBlur](node_examples/GrowMaskWithBlur.md)</sub>
  - <sub>HDRPreviewKJ</sub>, <sub>HunyuanVideoBlockLoraSelect</sub>, <sub>HunyuanVideoEncodeKeyframesToCond</sub>
  - <sub>Ideogram4OptimizationsKJ</sub>, <sub>Ideogram4PromptBuilderKJ</sub>, <sub>ImageAddMulti</sub>, <sub>ImageAndMaskPreview</sub>, <sub>ImageBatchExtendWithOverlap</sub>, <sub>ImageBatchFilter</sub>, <sub>ImageBatchJoinWithTransition</sub>, <sub>[ImageBatchMulti](node_examples/ImageBatchMulti.md)</sub>, <sub>[ImageBatchRepeatInterleaving](node_examples/ImageBatchRepeatInterleaving.md)</sub>, <sub>ImageBatchTestPattern</sub>, <sub>[ImageConcanate](node_examples/ImageConcanate.md)</sub>, <sub>ImageConcatFromBatch</sub>, <sub>ImageConcatMulti</sub>, <sub>ImageCropByMask</sub>, <sub>ImageCropByMaskAndResize</sub>, <sub>ImageCropByMaskBatch</sub>, <sub>ImageGrabPIL</sub>, <sub>ImageGridComposite2x2</sub>, <sub>ImageGridComposite3x3</sub>, <sub>ImageGridtoBatch</sub>, <sub>ImageNoiseAugmentation</sub>, <sub>ImageNormalize_Neg1_To_1</sub>, <sub>[ImagePadForOutpaintMasked](node_examples/ImagePadForOutpaintMasked.md)</sub>, <sub>ImagePadForOutpaintTargetSize</sub>, <sub>ImagePadKJ</sub>, <sub>ImagePass</sub>, <sub>ImagePrepForICLora</sub>, <sub>[ImageResizeKJ](node_examples/ImageResizeKJ.md)</sub>, <sub>ImageResizeKJv2</sub>, <sub>ImageSharpenKJ</sub>, <sub>ImageTensorList</sub>, <sub>ImageTransformByNormalizedAmplitude</sub>, <sub>ImageTransformKJ</sub>, <sub>ImageUncropByMask</sub>, <sub>ImageUpscaleWithModelBatched</sub>, <sub>[InjectNoiseToLatent](node_examples/InjectNoiseToLatent.md)</sub>, <sub>InsertImageBatchByIndexes</sub>, <sub>InsertImagesToBatchIndexed</sub>, <sub>InsertLatentToIndexed</sub>, <sub>[INTConstant](node_examples/INTConstant.md)</sub>, <sub>InterpolateCoords</sub>
  - <sub>JoinStringMulti</sub>, <sub>[JoinStrings](node_examples/JoinStrings.md)</sub>
  - <sub>Krea2PromptWeight</sub>
  - <sub>LatentInpaintTTM</sub>, <sub>LazySwitchKJ</sub>, <sub>LeapfusionHunyuanI2VPatcher</sub>, <sub>LoadAndResizeImage</sub>, <sub>LoadImagesFromFolderKJ</sub>, <sub>LoadVideosFromFolder</sub>, <sub>LoraExtractKJ</sub>, <sub>LoraReduceRankKJ</sub>, <sub>LTX2_NAG</sub>, <sub>LTX2AttentionTunerPatch</sub>, <sub>LTX2AudioLatentNormalizingSampling</sub>, <sub>LTX2BlockLoraSelect</sub>, <sub>LTX2LoraLoaderAdvanced</sub>, <sub>LTX2MemoryEfficientSageAttentionPatch</sub>, <sub>LTX2SamplingPreviewOverride</sub>, <sub>LTXVAddGuideMulti</sub>, <sub>LTXVAddGuidesFromBatch</sub>, <sub>LTXVAudioVideoMask</sub>, <sub>LTXVChunkFeedForward</sub>, <sub>LTXVEnhanceAVideoKJ</sub>, <sub>LTXVImgToVideoInplaceKJ</sub>
- - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxH3TokenCounter</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>
+ - <sub>MaskBatchMulti</sub>, <sub>MaskOrImageToWeight</sub>, <sub>MergeImageChannels</sub>, <sub>MiniMaxChunkFeedForward</sub>, <sub>MiniMaxH3MemoryEfficientSageAttentionPatch</sub>, <sub>MiniMaxH3TokenCounter</sub>, <sub>MiniMaxLowVRAMAttention</sub>, <sub>ModelMemoryUsageFactorOverride</sub>, <sub>ModelMemoryUseReportPatch</sub>, <sub>ModelPassThrough</sub>, <sub>ModelPatchTorchSettings</sub>, <sub>ModelPreviewOverrideKJ</sub>, <sub>ModelSaveKJ</sub>, <sub>MossImagePromptBuilderKJ</sub>, <sub>MossImagePromptWeight</sub>
  - <sub>NABLA_AttentionKJ</sub>, <sub>NormalizedAmplitudeToFloatList</sub>, <sub>NormalizedAmplitudeToMask</sub>
  - <sub>OffsetMask</sub>, <sub>OffsetMaskByNormalizedAmplitude</sub>
  - <sub>PadImageBatchInterleaved</sub>, <sub>PatchFlashAttentionKJ</sub>, <sub>PatchModelPatcherOrder</sub>, <sub>PatchTritonVAE</sub>, <sub>PathchSageAttentionKJ</sub>, <sub>PiDColorBiasCorrection</sub>, <sub>PlaySoundKJ</sub>, <sub>[PlotCoordinates](node_examples/PlotCoordinates.md)</sub>, <sub>PointsEditor</sub>, <sub>[PreviewAnimation](node_examples/PreviewAnimation.md)</sub>, <sub>PreviewImageOrMask</sub>, <sub>PreviewLatentNoiseMask</sub>
@@ -1090,9 +1090,9 @@ A flexible framework powered by ComfyUI for generating personalized Nobel Prize 
 
 
 A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, VRMBG-3.0, FeyNoBg, Finegrain Box Segmenter, INSPYRENET, BEN, BEN2, BiRefNet, Lucida, SDMatte, SAM, SAM2, SAM3, Florence-2, YOLOv8/YOLO11, Big-Lama, and GroundingDINO.
-<details><summary>Included Nodes (45)</summary>
+<details><summary>Included Nodes (49)</summary>
 
- - <sub>AILab_ColorInput</sub>, <sub>AILab_ColorToMask</sub>, <sub>AILab_CropObject</sub>, <sub>AILab_Florence2</sub>, <sub>AILab_Florence2ToCoordinates</sub>, <sub>AILab_ICLoRAConcat</sub>, <sub>AILab_ImageCombiner</sub>, <sub>AILab_ImageCompare</sub>, <sub>AILab_ImageCompareView</sub>, <sub>AILab_ImageCrop</sub>, <sub>AILab_ImageMaskConvert</sub>, <sub>AILab_ImageMaskToList</sub>, <sub>AILab_ImagePreview</sub>, <sub>AILab_ImageResize</sub>, <sub>AILab_ImageStitch</sub>, <sub>AILab_ImageToList</sub>, <sub>AILab_LamaRemover</sub>, <sub>AILab_LoadImage</sub>, <sub>AILab_LoadImageAdvanced</sub>, <sub>AILab_LoadImageBatch</sub>, <sub>AILab_LoadImageSimple</sub>, <sub>AILab_MaskCombiner</sub>, <sub>AILab_MaskEnhancer</sub>, <sub>AILab_MaskExtractor</sub>, <sub>AILab_MaskOverlay</sub>, <sub>AILab_MaskPreview</sub>, <sub>AILab_MaskToList</sub>, <sub>AILab_Preview</sub>, <sub>AILab_ReferenceLatentMask</sub>, <sub>AILab_Resolution_Selector</sub>, <sub>AILab_SDMatte</sub>, <sub>AILab_UnbatchImages</sub>, <sub>AILab_YoloV8</sub>, <sub>AILab_YoloV8Adv</sub>
+ - <sub>AILab_Canvas</sub>, <sub>AILab_ColorInput</sub>, <sub>AILab_ColorToMask</sub>, <sub>AILab_CropObject</sub>, <sub>AILab_FeyNoBg</sub>, <sub>AILab_FinegrainBoxSegment</sub>, <sub>AILab_Florence2</sub>, <sub>AILab_ICLoRAConcat</sub>, <sub>AILab_ImageCombiner</sub>, <sub>AILab_ImageCompare</sub>, <sub>AILab_ImageCompareView</sub>, <sub>AILab_ImageCrop</sub>, <sub>AILab_ImageMaskConvert</sub>, <sub>AILab_ImageMaskToList</sub>, <sub>AILab_ImagePreview</sub>, <sub>AILab_ImageResize</sub>, <sub>AILab_ImageStitch</sub>, <sub>AILab_ImageToList</sub>, <sub>AILab_LamaRemover</sub>, <sub>AILab_LoadImage</sub>, <sub>AILab_LoadImageAdvanced</sub>, <sub>AILab_LoadImageBatch</sub>, <sub>AILab_LoadImageSimple</sub>, <sub>AILab_MaskCombiner</sub>, <sub>AILab_MaskEnhancer</sub>, <sub>AILab_MaskExtractor</sub>, <sub>AILab_MaskOverlay</sub>, <sub>AILab_MaskPreview</sub>, <sub>AILab_MaskToList</sub>, <sub>AILab_Preview</sub>, <sub>AILab_ReferenceLatentMask</sub>, <sub>AILab_Resolution_Selector</sub>, <sub>AILab_SDMatte</sub>, <sub>AILab_UnbatchImages</sub>, <sub>AILab_VRMBG</sub>, <sub>AILab_Yolo</sub>, <sub>AILab_YoloV8</sub>, <sub>AILab_YoloV8Adv</sub>
  - <sub>BiRefNetRMBG</sub>, <sub>BodySegment</sub>
  - <sub>ClothesSegment</sub>
  - <sub>FaceSegment</sub>, <sub>FashionSegmentAccessories</sub>, <sub>FashionSegmentClothing</sub>
@@ -1111,14 +1111,13 @@ A ComfyUI custom node designed for advanced image background removal and object,
 
 
 LTX-Video Support for ComfyUI
-<details><summary>Included Nodes (75)</summary>
+<details><summary>Included Nodes (49)</summary>
 
- - <sub>AddLatentGuide</sub>
  - <sub>DynamicConditioning</sub>
  - <sub>GemmaAPITextEncode</sub>, <sub>GuiderParameters</sub>
  - <sub>ImageToCPU</sub>
- - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddImageGuide</sub>, <sub>LTXAddVideoICLoRAGuide</sub>, <sub>LTXAddVideoICLoRAGuideAdvanced</sub>, <sub>LTXAttentionBank</sub>, <sub>LTXAttentioOverride</sub>, <sub>LTXAttnOverride</sub>, <sub>LTXFetaEnhance</sub>, <sub>LTXFloatToInt</sub>, <sub>LTXFlowEditCFGGuider</sub>, <sub>LTXFlowEditSampler</sub>, <sub>LTXForwardModelSamplingPred</sub>, <sub>LTXICLoRALoaderModelOnly</sub>, <sub>LTXPerturbedAttention</sub>, <sub>LTXPrepareAttnInjections</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXReverseModelSamplingPred</sub>, <sub>LTXRFForwardODESampler</sub>, <sub>LTXRFReverseODESampler</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVAddGuideAdvanced</sub>, <sub>LTXVAddGuideAdvancedAttention</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVAudioOnlyEmptyVideoLatent</sub>, <sub>LTXVAudioOnlyModel</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVDilateVideoMask</sub>, <sub>LTXVDrawTracks</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVGetTilingSizes</sub>, <sub>LTXVHDRDecodePostprocess</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVInpaintPreprocess</sub>, <sub>LTXVLaplacianPyramidBlend</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoadConditioning</sub>, <sub>LTXVLoadEXRSequence</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVNormalizingSampler</sub>, <sub>LTXVPatcherVAE</sub>, <sub>LTXVPerStepAdainPatcher</sub>, <sub>LTXVPerStepStatNormPatcher</sub>, <sub>LTXVPreprocessMasks</sub>, <sub>LTXVPromptEnhancer</sub>, <sub>LTXVPromptEnhancerLoader</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSaveConditioning</sub>, <sub>LTXVSaveHLG</sub>, <sub>LTXVSDRToHDRWorkingSpace</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetAudioRefTokens</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVSparseTrackEditor</sub>, <sub>LTXVStatNormLatent</sub>, <sub>LTXVTiledFusionSampler</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>, <sub>LTXVVAEForceFloat32</sub>
- - <sub>ModifyLTXModel</sub>, <sub>MultimodalGuider</sub>
+ - <sub>LowVRAMAudioVAELoader</sub>, <sub>LowVRAMCheckpointLoader</sub>, <sub>LowVRAMLatentUpscaleModelLoader</sub>, <sub>LTXAddVideoICLoRAGuide</sub>, <sub>LTXAddVideoICLoRAGuideAdvanced</sub>, <sub>LTXFloatToInt</sub>, <sub>LTXICLoRALoaderModelOnly</sub>, <sub>LTXQ8Patch</sub>, <sub>LTXVAdainLatent</sub>, <sub>LTXVApplySTG</sub>, <sub>LTXVAudioOnlyEmptyVideoLatent</sub>, <sub>LTXVAudioOnlyModel</sub>, <sub>LTXVBaseSampler</sub>, <sub>LTXVDilateVideoMask</sub>, <sub>LTXVDrawTracks</sub>, <sub>LTXVExtendSampler</sub>, <sub>LTXVGemmaCLIPModelLoader</sub>, <sub>LTXVGemmaEnhancePrompt</sub>, <sub>LTXVGetTilingSizes</sub>, <sub>LTXVHDRDecodePostprocess</sub>, <sub>LTXVImgToVideoAdvanced</sub>, <sub>LTXVImgToVideoConditionOnly</sub>, <sub>LTXVInContextSampler</sub>, <sub>LTXVInpaintPreprocess</sub>, <sub>LTXVLaplacianPyramidBlend</sub>, <sub>LTXVLinearOverlapLatentTransition</sub>, <sub>LTXVLoadConditioning</sub>, <sub>LTXVLoadEXRSequence</sub>, <sub>LTXVLoopingSampler</sub>, <sub>LTXVMultiPromptProvider</sub>, <sub>LTXVNormalizingSampler</sub>, <sub>LTXVQ8LoraModelLoader</sub>, <sub>LTXVSelectLatents</sub>, <sub>LTXVSetAudioRefTokens</sub>, <sub>LTXVSetVideoLatentNoiseMasks</sub>, <sub>LTXVSparseTrackEditor</sub>, <sub>LTXVTiledFusionSampler</sub>, <sub>LTXVTiledSampler</sub>, <sub>LTXVTiledVAEDecode</sub>, <sub>LTXVVAEForceFloat32</sub>
+ - <sub>MultimodalGuider</sub>
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
 
@@ -1161,11 +1160,11 @@ None
 
 
 Fast and Simple Face Swap Extension Node for ComfyUI (SFW)
-<details><summary>Included Nodes (17)</summary>
+<details><summary>Included Nodes (18)</summary>
 
  - <sub>DLSS5FrameEnhancer</sub>
  - <sub>[ImageRGBA2RGB](node_examples/ImageRGBA2RGB.md)</sub>
- - <sub>[ReActorBuildFaceModel](node_examples/ReActorBuildFaceModel.md)</sub>, <sub>ReActorFaceBoost</sub>, <sub>ReActorFaceSimilarity</sub>, [ReActorFaceSwap🌟](node_examples/ReActorFaceSwap.md), <sub>[ReActorFaceSwapOpt](node_examples/ReActorFaceSwapOpt.md)</sub>, <sub>ReActorImageDublicator</sub>, <sub>[ReActorLoadFaceModel](node_examples/ReActorLoadFaceModel.md)</sub>, <sub>ReActorMakeFaceModelBatch</sub>, <sub>[ReActorMaskHelper](node_examples/ReActorMaskHelper.md)</sub>, <sub>[ReActorOptions](node_examples/ReActorOptions.md)</sub>, <sub>[ReActorRestoreFace](node_examples/ReActorRestoreFace.md)</sub>, <sub>ReActorRestoreFaceAdvanced</sub>, <sub>[ReActorSaveFaceModel](node_examples/ReActorSaveFaceModel.md)</sub>, <sub>ReActorSetWeight</sub>, <sub>ReActorUnload</sub>
+ - <sub>[ReActorBuildFaceModel](node_examples/ReActorBuildFaceModel.md)</sub>, <sub>ReActorCinematicEnhancer</sub>, <sub>ReActorFaceBoost</sub>, <sub>ReActorFaceSimilarity</sub>, [ReActorFaceSwap🌟](node_examples/ReActorFaceSwap.md), <sub>[ReActorFaceSwapOpt](node_examples/ReActorFaceSwapOpt.md)</sub>, <sub>ReActorImageDublicator</sub>, <sub>[ReActorLoadFaceModel](node_examples/ReActorLoadFaceModel.md)</sub>, <sub>ReActorMakeFaceModelBatch</sub>, <sub>[ReActorMaskHelper](node_examples/ReActorMaskHelper.md)</sub>, <sub>[ReActorOptions](node_examples/ReActorOptions.md)</sub>, <sub>[ReActorRestoreFace](node_examples/ReActorRestoreFace.md)</sub>, <sub>ReActorRestoreFaceAdvanced</sub>, <sub>[ReActorSaveFaceModel](node_examples/ReActorSaveFaceModel.md)</sub>, <sub>ReActorSetWeight</sub>, <sub>ReActorUnload</sub>
 </details>
 
 
@@ -1309,7 +1308,7 @@ The world's first open-source multimodal creative assistant  This is a substitut
 <a href='https://github.com/yawiii/ComfyUI-Prompt-Assistant'>
 <img src="https://avatars.githubusercontent.com/u/82788731?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yawiii/ComfyUI-Prompt-Assistant
 
-**Stars**: `2.4k` | **Created at**: `2025-06-06`
+**Stars**: `2.5k` | **Created at**: `2025-06-06`
 
 
 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
@@ -1398,15 +1397,14 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 
 
 Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
-<details><summary>Included Nodes (47)</summary>
+<details><summary>Included Nodes (20)</summary>
 
- - <sub>CharacterAssetSelector</sub>, <sub>CharacterAssetSelectorQWEN</sub>, <sub>CharacterCloner</sub>, <sub>CharacterCreator</sub>, <sub>CharacterCreatorV2</sub>, <sub>CharacterSheetCropper</sub>, <sub>ClothesDesigner</sub>
- - <sub>DatasetGenerator</sub>
- - <sub>EmotionGenerator</sub>, <sub>EmotionGeneratorV2</sub>
+ - <sub>CharacterCloner</sub>, <sub>CharacterCreatorV2</sub>, <sub>ClothesDesigner</sub>
+ - <sub>EmotionGeneratorV2</sub>
  - <sub>MiniMaxH3ReferenceToVideo</sub>
- - <sub>SpriteGenerator</sub>, <sub>SpriteManager</sub>
- - <sub>TestNode</sub>
- - <sub>VNCCS_CharacterCloneGenerator</sub>, <sub>VNCCS_CharacterGenerator</sub>, <sub>VNCCS_ClothesGenerator</sub>, <sub>VNCCS_ClothesTemplates</sub>, <sub>VNCCS_ColorFix</sub>, <sub>VNCCS_ControlCenter</sub>, <sub>VNCCS_EmotionsGenerator</sub>, <sub>VNCCS_Float</sub>, <sub>VNCCS_Flux_Klein_Encoder</sub>, <sub>VNCCS_ImageList</sub>, <sub>VNCCS_Integer</sub>, <sub>VNCCS_LoraBypass</sub>, <sub>VNCCS_LoraStack</sub>, <sub>VNCCS_MaskExtractor</sub>, <sub>VNCCS_MigrationAssistant</sub>, <sub>VNCCS_MultilineText</sub>, <sub>VNCCS_Pipe</sub>, <sub>VNCCS_PoseGenerator</sub>, <sub>VNCCS_PromptConcat</sub>, <sub>VNCCS_QuadSplitter</sub>, <sub>VNCCS_QWEN_Encoder</sub>, <sub>VNCCS_Resize</sub>, <sub>VNCCS_RMBG2</sub>, <sub>VNCCS_Service_Emotions_Generator</sub>, <sub>VNCCS_String</sub>, <sub>VNCCS_Variable</sub>, <sub>VNCCS_VLAnalyzer</sub>, <sub>VNCCSChromaKey</sub>, <sub>VNCCSChromaKeyExperimental</sub>, <sub>VNCCSSamplerSchedulerPicker</sub>, <sub>VNCCSSheetExtractor</sub>, <sub>VNCCSSheetManager</sub>, <sub>VNCCSStylePreviewTest</sub>
+ - <sub>Node</sub>
+ - <sub>Test</sub>, <sub>TestNode</sub>
+ - <sub>VNCCS_CharacterCloneGenerator</sub>, <sub>VNCCS_CharacterGenerator</sub>, <sub>VNCCS_ClothesGenerator</sub>, <sub>VNCCS_ControlCenter</sub>, <sub>VNCCS_EmotionsGenerator</sub>, <sub>VNCCS_Flux_Klein_Encoder</sub>, <sub>VNCCS_MaskExtractor</sub>, <sub>VNCCS_Pipe</sub>, <sub>VNCCS_QWEN_Encoder</sub>, <sub>VNCCSChromaKey</sub>, <sub>VNCCSSamplerSchedulerPicker</sub>, <sub>VNCCSStylePreviewTest</sub>
 </details>
 
 
@@ -1542,7 +1540,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `3.6k` | **Created at**: `2026-10-13`
+**Stars**: `3.7k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
