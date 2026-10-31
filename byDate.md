@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `144.0k` | **Created at**: `2023-01-17`
+**Stars**: `144.2k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -178,7 +178,7 @@ some wyrde workflows for comfyUI
 <a href='https://github.com/Comfy-Org/ComfyUI-Manager'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI-Manager
 
-**Stars**: `16.6k` | **Created at**: `2023-04-23`
+**Stars**: `16.7k` | **Created at**: `2023-04-23`
 
 
 ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -1398,7 +1398,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `29.5k` | **Created at**: `2025-11-07`
+**Stars**: `29.6k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1409,7 +1409,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/jtydhr88/ComfyUI-qwenmultiangle'>
 <img src="https://avatars.githubusercontent.com/u/860985?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
-**Stars**: `1.4k` | **Created at**: `2026-01-08`
+**Stars**: `1.5k` | **Created at**: `2026-01-08`
 
 
 A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
@@ -1535,7 +1535,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `3.8k` | **Created at**: `2026-10-13`
+**Stars**: `3.9k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
