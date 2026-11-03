@@ -1389,6 +1389,7 @@ ImageColorMatch+: 0
 ImageColorMatchAdobe+: -1
 ImageColorToMask: 8
 ImageColorTransfer: 0
+ImageCompareKJ: -1
 ImageComposite+: -1
 ImageCompositeFromMaskBatch+: 0
 ImageCompositeMasked: 77
@@ -2170,6 +2171,7 @@ LoraStackCombinerLM: -1
 LoraStackerLM: -1
 LoraSyntaxToPath: -1
 LoraTextLoaderLM: -1
+LoraWildcardSource: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
 Lorebook: -1
