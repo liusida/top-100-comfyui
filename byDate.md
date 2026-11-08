@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `145.5k` | **Created at**: `2023-01-17`
+**Stars**: `145.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -879,7 +879,7 @@ Inference Microsoft Florence2 VLM
 <a href='https://github.com/mcmonkeyprojects/SwarmUI'>
 <img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/SwarmUI
 
-**Stars**: `4.7k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
+**Stars**: `4.8k` | **Created at**: `2024-06-21` | **Tags**: `Integration`
 
 
 SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1022,7 +1022,7 @@ Nodes for image juxtaposition for Flux in ComfyUI
 **Stars**: `2.1k` | **Created at**: `2024-10-16`
 
 
-One-click portable ComfyUI installer for Windows, macOS and Linux, with EZi Desktop: a dashboard for packages, environments and configuration 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
+One-click Portable ComfyUI with EZi Desktop - install, manage and customize ComfyUI in one place. 🔹 Nvidia GPU support 🔹 Pixaroma Community Edition
 
 ## 16131zzzzzzzz/EveryoneNobel
 
@@ -1219,7 +1219,7 @@ High quality training free inpaint for every stable diffusion model. Supports Co
 <a href='https://github.com/Comfy-Org/workflow_templates'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/workflow_templates
 
-**Stars**: `1.4k` | **Created at**: `2025-02-28`
+**Stars**: `1.5k` | **Created at**: `2025-02-28`
 
 
 ComfyUI template workflows
@@ -1359,7 +1359,7 @@ A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech mod
 <a href='https://github.com/AHEKOT/ComfyUI_VNCCS'>
 <img src="https://avatars.githubusercontent.com/u/119136212?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AHEKOT/ComfyUI_VNCCS
 
-**Stars**: `1.7k` | **Created at**: `2025-09-27`
+**Stars**: `1.8k` | **Created at**: `2025-09-27`
 
 
 Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
@@ -1380,7 +1380,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `29.8k` | **Created at**: `2025-11-07`
+**Stars**: `29.9k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
