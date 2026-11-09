@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `145.6k` | **Created at**: `2023-01-17`
+**Stars**: `145.8k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -136,11 +136,11 @@ WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, num
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
-<details><summary>Included Nodes (200)</summary>
+<details><summary>Included Nodes (202)</summary>
 
  - <sub>[AddMask](node_examples/AddMask.md)</sub>, <sub>AnyPipeToBasic</sub>
  - <sub>[BasicPipeToDetailerPipe](node_examples/BasicPipeToDetailerPipe.md)</sub>, <sub>[BasicPipeToDetailerPipeSDXL](node_examples/BasicPipeToDetailerPipeSDXL.md)</sub>, <sub>BboxDetectorCombined_v2</sub>, <sub>[BboxDetectorSEGS](node_examples/BboxDetectorSEGS.md)</sub>, <sub>[BitwiseAndMask](node_examples/BitwiseAndMask.md)</sub>, <sub>BitwiseAndMaskForEach</sub>, <sub>BlackPatchRetryHookProvider</sub>
- - <sub>[CfgScheduleHookProvider](node_examples/CfgScheduleHookProvider.md)</sub>, <sub>[CLIPSegDetectorProvider](node_examples/CLIPSegDetectorProvider.md)</sub>, <sub>[CombineRegionalPrompts](node_examples/CombineRegionalPrompts.md)</sub>, <sub>[CoreMLDetailerHookProvider](node_examples/CoreMLDetailerHookProvider.md)</sub>, <sub>CustomSamplerDetailerHookProvider</sub>
+ - <sub>[CfgScheduleHookProvider](node_examples/CfgScheduleHookProvider.md)</sub>, <sub>ChangingTextSourceV3</sub>, <sub>[CLIPSegDetectorProvider](node_examples/CLIPSegDetectorProvider.md)</sub>, <sub>[CombineRegionalPrompts](node_examples/CombineRegionalPrompts.md)</sub>, <sub>[CoreMLDetailerHookProvider](node_examples/CoreMLDetailerHookProvider.md)</sub>, <sub>CustomSamplerDetailerHookProvider</sub>
  - <sub>[DenoiseScheduleHookProvider](node_examples/DenoiseScheduleHookProvider.md)</sub>, <sub>[DenoiseSchedulerDetailerHookProvider](node_examples/DenoiseSchedulerDetailerHookProvider.md)</sub>, <sub>[DetailerForEach](node_examples/DetailerForEach.md)</sub>, <sub>DetailerForEachAutoRetry</sub>, <sub>[DetailerForEachDebug](node_examples/DetailerForEachDebug.md)</sub>, <sub>[DetailerForEachDebugPipe](node_examples/DetailerForEachDebugPipe.md)</sub>, <sub>[DetailerForEachPipe](node_examples/DetailerForEachPipe.md)</sub>, <sub>[DetailerForEachPipeForAnimateDiff](node_examples/DetailerForEachPipeForAnimateDiff.md)</sub>, <sub>[DetailerHookCombine](node_examples/DetailerHookCombine.md)</sub>, <sub>[DetailerPipeToBasicPipe](node_examples/DetailerPipeToBasicPipe.md)</sub>
  - [EditBasicPipe🌟](node_examples/EditBasicPipe.md), <sub>[EditDetailerPipe](node_examples/EditDetailerPipe.md)</sub>, <sub>EditDetailerPipeSDXL</sub>, <sub>EmptySegs</sub>
  - [FaceDetailer🌟](node_examples/FaceDetailer.md), <sub>[FaceDetailerPipe](node_examples/FaceDetailerPipe.md)</sub>, [FromBasicPipe🌟](node_examples/FromBasicPipe.md), <sub>[FromBasicPipe_v2](node_examples/FromBasicPipe_v2.md)</sub>, <sub>[FromDetailerPipe](node_examples/FromDetailerPipe.md)</sub>, <sub>FromDetailerPipe_v2</sub>, <sub>[FromDetailerPipeSDXL](node_examples/FromDetailerPipeSDXL.md)</sub>
@@ -154,7 +154,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
  - <sub>[PixelKSampleHookCombine](node_examples/PixelKSampleHookCombine.md)</sub>, <sub>[PixelKSampleUpscalerProvider](node_examples/PixelKSampleUpscalerProvider.md)</sub>, <sub>[PixelKSampleUpscalerProviderPipe](node_examples/PixelKSampleUpscalerProviderPipe.md)</sub>, <sub>[PixelTiledKSampleUpscalerProvider](node_examples/PixelTiledKSampleUpscalerProvider.md)</sub>, <sub>[PixelTiledKSampleUpscalerProviderPipe](node_examples/PixelTiledKSampleUpscalerProviderPipe.md)</sub>, <sub>[PreviewBridge](node_examples/PreviewBridge.md)</sub>, <sub>PreviewBridgeLatent</sub>, <sub>PreviewDetailerHookProvider</sub>
  - <sub>ReencodeLatent</sub>, <sub>[ReencodeLatentPipe](node_examples/ReencodeLatentPipe.md)</sub>, <sub>[RegionalPrompt](node_examples/RegionalPrompt.md)</sub>, <sub>[RegionalSampler](node_examples/RegionalSampler.md)</sub>, <sub>RegionalSamplerAdvanced</sub>, <sub>RemoveImageFromSEGS</sub>, <sub>RemoveNoiseMask</sub>
  - <sub>[SAMDetectorCombined](node_examples/SAMDetectorCombined.md)</sub>, <sub>[SAMDetectorSegmented](node_examples/SAMDetectorSegmented.md)</sub>, [SAMLoader🌟](node_examples/SAMLoader.md), <sub>[SegmDetectorCombined_v2](node_examples/SegmDetectorCombined_v2.md)</sub>, <sub>[SegmDetectorSEGS](node_examples/SegmDetectorSEGS.md)</sub>, <sub>Segs  Mask</sub>, <sub>Segs  Mask ForEach</sub>, <sub>SEGSDetailer</sub>, <sub>[SEGSDetailerForAnimateDiff](node_examples/SEGSDetailerForAnimateDiff.md)</sub>, <sub>SEGSLabelFilterDetailerHookProvider</sub>, <sub>SEGSOrderedFilterDetailerHookProvider</sub>, <sub>[SEGSPaste](node_examples/SEGSPaste.md)</sub>, <sub>[SEGSPreview](node_examples/SEGSPreview.md)</sub>, <sub>SEGSPreviewCNet</sub>, <sub>SEGSRangeFilterDetailerHookProvider</sub>, <sub>SEGSSwitch</sub>, <sub>[SegsToCombinedMask](node_examples/SegsToCombinedMask.md)</sub>, <sub>[SEGSToImageList](node_examples/SEGSToImageList.md)</sub>, <sub>SEGSUpscaler</sub>, <sub>SEGSUpscalerPipe</sub>, <sub>SetDefaultImageForSEGS</sub>, <sub>StepsScheduleHookProvider</sub>, <sub>[StringListToString](node_examples/StringListToString.md)</sub>, <sub>[SubtractMask](node_examples/SubtractMask.md)</sub>, <sub>SubtractMaskForEach</sub>
- - <sub>TiledKSamplerProvider</sub>, [ToBasicPipe🌟](node_examples/ToBasicPipe.md), <sub>[ToBinaryMask](node_examples/ToBinaryMask.md)</sub>, <sub>[ToDetailerPipe](node_examples/ToDetailerPipe.md)</sub>, <sub>[ToDetailerPipeSDXL](node_examples/ToDetailerPipeSDXL.md)</sub>, <sub>[TwoAdvancedSamplersForMask](node_examples/TwoAdvancedSamplersForMask.md)</sub>, <sub>[TwoSamplersForMask](node_examples/TwoSamplersForMask.md)</sub>, <sub>[TwoSamplersForMaskUpscalerProvider](node_examples/TwoSamplersForMaskUpscalerProvider.md)</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
+ - <sub>TextOutputs</sub>, <sub>TiledKSamplerProvider</sub>, [ToBasicPipe🌟](node_examples/ToBasicPipe.md), <sub>[ToBinaryMask](node_examples/ToBinaryMask.md)</sub>, <sub>[ToDetailerPipe](node_examples/ToDetailerPipe.md)</sub>, <sub>[ToDetailerPipeSDXL](node_examples/ToDetailerPipeSDXL.md)</sub>, <sub>[TwoAdvancedSamplersForMask](node_examples/TwoAdvancedSamplersForMask.md)</sub>, <sub>[TwoSamplersForMask](node_examples/TwoSamplersForMask.md)</sub>, <sub>[TwoSamplersForMaskUpscalerProvider](node_examples/TwoSamplersForMaskUpscalerProvider.md)</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
  - <sub>[UnsamplerDetailerHookProvider](node_examples/UnsamplerDetailerHookProvider.md)</sub>, <sub>UnsamplerHookProvider</sub>
  - <sub>VariationNoiseDetailerHookProvider</sub>
  - <sub>WildcardPromptFromString</sub>
@@ -1073,7 +1073,7 @@ A ComfyUI custom node designed for advanced image background removal and object,
 <a href='https://github.com/Lightricks/ComfyUI-LTXVideo'>
 <img src="https://avatars.githubusercontent.com/u/3170348?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Lightricks/ComfyUI-LTXVideo
 
-**Stars**: `4.2k` | **Created at**: `2024-11-21`
+**Stars**: `4.3k` | **Created at**: `2024-11-21`
 
 
 LTX-Video Support for ComfyUI
@@ -1443,7 +1443,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 **Stars**: `6.3k` | **Created at**: `2026-03-25`
 
 
-Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks. By Victor Kuznetsov.
 
 ## hero8152/Infinite-Canvas
 
@@ -1528,7 +1528,7 @@ Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 
 <a href='https://github.com/D3voz/openjutsu'>
 <img src="https://avatars.githubusercontent.com/u/139697969?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/D3voz/openjutsu
 
-**Stars**: `1.9k` | **Created at**: `2026-10-26`
+**Stars**: `2.0k` | **Created at**: `2026-10-26`
 
 
 One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.

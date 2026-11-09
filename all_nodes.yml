@@ -634,6 +634,7 @@ CaptureWebcam: 1
 CaseConverter: -1
 CenterImage: 0
 CfgScheduleHookProvider: 11
+ChangingTextSourceV3: -1
 CharacterAssetSelector: -1
 CharacterAssetSelectorQWEN: -1
 CharacterCloner: -1
@@ -3154,6 +3155,7 @@ TextInput: 0
 TextInput_: 4
 TextLM: -1
 TextOutput: 0
+TextOutputs: -1
 TextSplitByDelimiter: 1
 TextToNumber: 0
 TextToSRTBuilderNode: -1

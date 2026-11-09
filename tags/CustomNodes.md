@@ -24,7 +24,7 @@ None
 <a href='https://github.com/Fannovel16/comfyui_controlnet_aux'>
 <img src="https://avatars.githubusercontent.com/u/16047777?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Fannovel16/comfyui_controlnet_aux
 
-**Stars**: `4.3k` | **Created at**: `2026-11-08`
+**Stars**: `4.3k` | **Created at**: `2026-11-09`
 
 
 ComfyUI's ControlNet Auxiliary Preprocessors
@@ -56,7 +56,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `4.2k` | **Created at**: `2026-11-07`
+**Stars**: `4.2k` | **Created at**: `2026-11-09`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -91,7 +91,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.7k` | **Created at**: `2026-11-07`
+**Stars**: `3.7k` | **Created at**: `2026-11-09`
 
 
 Making ComfyUI more comfortable!
@@ -107,7 +107,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.6k` | **Created at**: `2026-11-07`
+**Stars**: `3.6k` | **Created at**: `2026-11-08`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -124,7 +124,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `3.5k` | **Created at**: `2026-11-08`
+**Stars**: `3.5k` | **Created at**: `2026-11-09`
 
 
 Various custom nodes for ComfyUI
@@ -161,15 +161,15 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.4k` | **Created at**: `2026-11-08`
+**Stars**: `3.4k` | **Created at**: `2026-11-09`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
-<details><summary>Included Nodes (200)</summary>
+<details><summary>Included Nodes (202)</summary>
 
  - <sub>[AddMask](node_examples/AddMask.md)</sub>, <sub>AnyPipeToBasic</sub>
  - <sub>[BasicPipeToDetailerPipe](node_examples/BasicPipeToDetailerPipe.md)</sub>, <sub>[BasicPipeToDetailerPipeSDXL](node_examples/BasicPipeToDetailerPipeSDXL.md)</sub>, <sub>BboxDetectorCombined_v2</sub>, <sub>[BboxDetectorSEGS](node_examples/BboxDetectorSEGS.md)</sub>, <sub>[BitwiseAndMask](node_examples/BitwiseAndMask.md)</sub>, <sub>BitwiseAndMaskForEach</sub>, <sub>BlackPatchRetryHookProvider</sub>
- - <sub>[CfgScheduleHookProvider](node_examples/CfgScheduleHookProvider.md)</sub>, <sub>[CLIPSegDetectorProvider](node_examples/CLIPSegDetectorProvider.md)</sub>, <sub>[CombineRegionalPrompts](node_examples/CombineRegionalPrompts.md)</sub>, <sub>[CoreMLDetailerHookProvider](node_examples/CoreMLDetailerHookProvider.md)</sub>, <sub>CustomSamplerDetailerHookProvider</sub>
+ - <sub>[CfgScheduleHookProvider](node_examples/CfgScheduleHookProvider.md)</sub>, <sub>ChangingTextSourceV3</sub>, <sub>[CLIPSegDetectorProvider](node_examples/CLIPSegDetectorProvider.md)</sub>, <sub>[CombineRegionalPrompts](node_examples/CombineRegionalPrompts.md)</sub>, <sub>[CoreMLDetailerHookProvider](node_examples/CoreMLDetailerHookProvider.md)</sub>, <sub>CustomSamplerDetailerHookProvider</sub>
  - <sub>[DenoiseScheduleHookProvider](node_examples/DenoiseScheduleHookProvider.md)</sub>, <sub>[DenoiseSchedulerDetailerHookProvider](node_examples/DenoiseSchedulerDetailerHookProvider.md)</sub>, <sub>[DetailerForEach](node_examples/DetailerForEach.md)</sub>, <sub>DetailerForEachAutoRetry</sub>, <sub>[DetailerForEachDebug](node_examples/DetailerForEachDebug.md)</sub>, <sub>[DetailerForEachDebugPipe](node_examples/DetailerForEachDebugPipe.md)</sub>, <sub>[DetailerForEachPipe](node_examples/DetailerForEachPipe.md)</sub>, <sub>[DetailerForEachPipeForAnimateDiff](node_examples/DetailerForEachPipeForAnimateDiff.md)</sub>, <sub>[DetailerHookCombine](node_examples/DetailerHookCombine.md)</sub>, <sub>[DetailerPipeToBasicPipe](node_examples/DetailerPipeToBasicPipe.md)</sub>
  - [EditBasicPipe🌟](node_examples/EditBasicPipe.md), <sub>[EditDetailerPipe](node_examples/EditDetailerPipe.md)</sub>, <sub>EditDetailerPipeSDXL</sub>, <sub>EmptySegs</sub>
  - [FaceDetailer🌟](node_examples/FaceDetailer.md), <sub>[FaceDetailerPipe](node_examples/FaceDetailerPipe.md)</sub>, [FromBasicPipe🌟](node_examples/FromBasicPipe.md), <sub>[FromBasicPipe_v2](node_examples/FromBasicPipe_v2.md)</sub>, <sub>[FromDetailerPipe](node_examples/FromDetailerPipe.md)</sub>, <sub>FromDetailerPipe_v2</sub>, <sub>[FromDetailerPipeSDXL](node_examples/FromDetailerPipeSDXL.md)</sub>
@@ -183,7 +183,7 @@ Custom nodes pack for ComfyUI This custom node helps to conveniently enhance ima
  - <sub>[PixelKSampleHookCombine](node_examples/PixelKSampleHookCombine.md)</sub>, <sub>[PixelKSampleUpscalerProvider](node_examples/PixelKSampleUpscalerProvider.md)</sub>, <sub>[PixelKSampleUpscalerProviderPipe](node_examples/PixelKSampleUpscalerProviderPipe.md)</sub>, <sub>[PixelTiledKSampleUpscalerProvider](node_examples/PixelTiledKSampleUpscalerProvider.md)</sub>, <sub>[PixelTiledKSampleUpscalerProviderPipe](node_examples/PixelTiledKSampleUpscalerProviderPipe.md)</sub>, <sub>[PreviewBridge](node_examples/PreviewBridge.md)</sub>, <sub>PreviewBridgeLatent</sub>, <sub>PreviewDetailerHookProvider</sub>
  - <sub>ReencodeLatent</sub>, <sub>[ReencodeLatentPipe](node_examples/ReencodeLatentPipe.md)</sub>, <sub>[RegionalPrompt](node_examples/RegionalPrompt.md)</sub>, <sub>[RegionalSampler](node_examples/RegionalSampler.md)</sub>, <sub>RegionalSamplerAdvanced</sub>, <sub>RemoveImageFromSEGS</sub>, <sub>RemoveNoiseMask</sub>
  - <sub>[SAMDetectorCombined](node_examples/SAMDetectorCombined.md)</sub>, <sub>[SAMDetectorSegmented](node_examples/SAMDetectorSegmented.md)</sub>, [SAMLoader🌟](node_examples/SAMLoader.md), <sub>[SegmDetectorCombined_v2](node_examples/SegmDetectorCombined_v2.md)</sub>, <sub>[SegmDetectorSEGS](node_examples/SegmDetectorSEGS.md)</sub>, <sub>Segs  Mask</sub>, <sub>Segs  Mask ForEach</sub>, <sub>SEGSDetailer</sub>, <sub>[SEGSDetailerForAnimateDiff](node_examples/SEGSDetailerForAnimateDiff.md)</sub>, <sub>SEGSLabelFilterDetailerHookProvider</sub>, <sub>SEGSOrderedFilterDetailerHookProvider</sub>, <sub>[SEGSPaste](node_examples/SEGSPaste.md)</sub>, <sub>[SEGSPreview](node_examples/SEGSPreview.md)</sub>, <sub>SEGSPreviewCNet</sub>, <sub>SEGSRangeFilterDetailerHookProvider</sub>, <sub>SEGSSwitch</sub>, <sub>[SegsToCombinedMask](node_examples/SegsToCombinedMask.md)</sub>, <sub>[SEGSToImageList](node_examples/SEGSToImageList.md)</sub>, <sub>SEGSUpscaler</sub>, <sub>SEGSUpscalerPipe</sub>, <sub>SetDefaultImageForSEGS</sub>, <sub>StepsScheduleHookProvider</sub>, <sub>[StringListToString](node_examples/StringListToString.md)</sub>, <sub>[SubtractMask](node_examples/SubtractMask.md)</sub>, <sub>SubtractMaskForEach</sub>
- - <sub>TiledKSamplerProvider</sub>, [ToBasicPipe🌟](node_examples/ToBasicPipe.md), <sub>[ToBinaryMask](node_examples/ToBinaryMask.md)</sub>, <sub>[ToDetailerPipe](node_examples/ToDetailerPipe.md)</sub>, <sub>[ToDetailerPipeSDXL](node_examples/ToDetailerPipeSDXL.md)</sub>, <sub>[TwoAdvancedSamplersForMask](node_examples/TwoAdvancedSamplersForMask.md)</sub>, <sub>[TwoSamplersForMask](node_examples/TwoSamplersForMask.md)</sub>, <sub>[TwoSamplersForMaskUpscalerProvider](node_examples/TwoSamplersForMaskUpscalerProvider.md)</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
+ - <sub>TextOutputs</sub>, <sub>TiledKSamplerProvider</sub>, [ToBasicPipe🌟](node_examples/ToBasicPipe.md), <sub>[ToBinaryMask](node_examples/ToBinaryMask.md)</sub>, <sub>[ToDetailerPipe](node_examples/ToDetailerPipe.md)</sub>, <sub>[ToDetailerPipeSDXL](node_examples/ToDetailerPipeSDXL.md)</sub>, <sub>[TwoAdvancedSamplersForMask](node_examples/TwoAdvancedSamplersForMask.md)</sub>, <sub>[TwoSamplersForMask](node_examples/TwoSamplersForMask.md)</sub>, <sub>[TwoSamplersForMaskUpscalerProvider](node_examples/TwoSamplersForMaskUpscalerProvider.md)</sub>, <sub>TwoSamplersForMaskUpscalerProviderPipe</sub>
  - <sub>[UnsamplerDetailerHookProvider](node_examples/UnsamplerDetailerHookProvider.md)</sub>, <sub>UnsamplerHookProvider</sub>
  - <sub>VariationNoiseDetailerHookProvider</sub>
  - <sub>WildcardPromptFromString</sub>
@@ -233,7 +233,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.8k` | **Created at**: `2026-11-08`
+**Stars**: `2.8k` | **Created at**: `2026-11-09`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -323,7 +323,7 @@ SUPIR upscaling wrapper for ComfyUI
 <a href='https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
-**Stars**: `1.9k` | **Created at**: `2026-11-07`
+**Stars**: `1.9k` | **Created at**: `2026-11-08`
 
 
 Nodes related to video workflows
@@ -384,7 +384,7 @@ None
 <a href='https://github.com/huchenlei/ComfyUI-layerdiffuse'>
 <img src="https://avatars.githubusercontent.com/u/20929282?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huchenlei/ComfyUI-layerdiffuse
 
-**Stars**: `1.8k` | **Created at**: `2026-11-07`
+**Stars**: `1.8k` | **Created at**: `2026-11-08`
 
 
 Layer Diffuse custom nodes
@@ -400,7 +400,7 @@ Layer Diffuse custom nodes
 <a href='https://github.com/kijai/ComfyUI-Florence2'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-Florence2
 
-**Stars**: `1.8k` | **Created at**: `2026-11-03`
+**Stars**: `1.8k` | **Created at**: `2026-11-08`
 
 
 Inference Microsoft Florence2 VLM
@@ -497,7 +497,7 @@ Custom nodes that extend the capabilities of Comfyui
 <a href='https://github.com/jags111/efficiency-nodes-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/5968619?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/jags111/efficiency-nodes-comfyui
 
-**Stars**: `1.5k` | **Created at**: `2026-11-06`
+**Stars**: `1.5k` | **Created at**: `2026-11-08`
 
 
 A collection of ComfyUI custom nodes.- Awesome smart way to work with nodes!
@@ -590,7 +590,7 @@ Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, 
 <a href='https://github.com/florestefano1975/comfyui-portrait-master'>
 <img src="https://avatars.githubusercontent.com/u/153757302?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/florestefano1975/comfyui-portrait-master
 
-**Stars**: `1.2k` | **Created at**: `2026-11-06`
+**Stars**: `1.2k` | **Created at**: `2026-11-08`
 
 
 This node was designed to help AI image creators to generate prompts for human portraits.
