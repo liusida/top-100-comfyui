@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `145.8k` | **Created at**: `2023-01-17`
+**Stars**: `146.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -658,7 +658,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.3k` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
+**Stars**: `1.2k` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -1473,7 +1473,7 @@ TripoSplat converts a single 2D image into high-quality and variable number of 3
 <a href='https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/149470765?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `2.7k` | **Created at**: `2026-08-04`
+**Stars**: `2.8k` | **Created at**: `2026-08-04`
 
 
 Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
@@ -1484,7 +1484,7 @@ Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
 <a href='https://github.com/huangserva/ComfyUI_MiniMaxH3_Director'>
 <img src="https://avatars.githubusercontent.com/u/201197786?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/huangserva/ComfyUI_MiniMaxH3_Director
 
-**Stars**: `1.4k` | **Created at**: `2026-08-04`
+**Stars**: `1.5k` | **Created at**: `2026-08-04`
 
 
 ComfyUI MiniMax H3 Director workflow
@@ -1517,7 +1517,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `4.2k` | **Created at**: `2026-10-13`
+**Stars**: `4.3k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
@@ -1528,7 +1528,7 @@ Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 
 <a href='https://github.com/D3voz/openjutsu'>
 <img src="https://avatars.githubusercontent.com/u/139697969?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/D3voz/openjutsu
 
-**Stars**: `2.0k` | **Created at**: `2026-10-26`
+**Stars**: `2.1k` | **Created at**: `2026-10-26`
 
 
 One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.
