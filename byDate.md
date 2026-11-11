@@ -40,26 +40,10 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `146.0k` | **Created at**: `2023-01-17`
+**Stars**: `146.2k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-
-## mcmonkeyprojects/sd-dynamic-thresholding
-
-
-<a href='https://github.com/mcmonkeyprojects/sd-dynamic-thresholding'>
-<img src="https://avatars.githubusercontent.com/u/43497670?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
-
-**Stars**: `1.2k` | **Created at**: `2023-01-27` | **Tags**: `Custom Nodes`
-
-
-Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and Auto WebUI)
-<details><summary>Included Nodes (2)</summary>
-
- - <sub>[DynamicThresholdingFull](node_examples/DynamicThresholdingFull.md)</sub>, <sub>[DynamicThresholdingSimple](node_examples/DynamicThresholdingSimple.md)</sub>
-</details>
-
 
 ## comfyanonymous/ComfyUI_examples
 
@@ -658,7 +642,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Acly/comfyui-inpaint-nodes'>
 <img src="https://avatars.githubusercontent.com/u/6485914?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Acly/comfyui-inpaint-nodes
 
-**Stars**: `1.2k` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
+**Stars**: `1.3k` | **Created at**: `2024-01-24` | **Tags**: `Custom Nodes`
 
 
 Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas.
@@ -1380,7 +1364,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `29.9k` | **Created at**: `2025-11-07`
+**Stars**: `30.0k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1462,7 +1446,7 @@ Supports comfyui/API calls/modelscope calls
 <a href='https://github.com/VAST-AI-Research/TripoSplat'>
 <img src="https://avatars.githubusercontent.com/u/149052137?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/VAST-AI-Research/TripoSplat
 
-**Stars**: `1.4k` | **Created at**: `2026-06-01`
+**Stars**: `1.5k` | **Created at**: `2026-06-01`
 
 
 TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
@@ -1510,6 +1494,17 @@ None
 
 
 Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins
+
+## shanliuling/dsh-image-gen
+
+
+<a href='https://github.com/shanliuling/dsh-image-gen'>
+<img src="https://avatars.githubusercontent.com/u/83563400?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shanliuling/dsh-image-gen
+
+**Stars**: `1.3k` | **Created at**: `2026-08-17`
+
+
+ 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
 
 ## Arekejoker/qwen21-nsfw-pose-skill
 
