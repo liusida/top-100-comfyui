@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `146.4k` | **Created at**: `2023-01-17`
+**Stars**: `146.6k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -1501,7 +1501,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/shanliuling/dsh-image-gen'>
 <img src="https://avatars.githubusercontent.com/u/83563400?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shanliuling/dsh-image-gen
 
-**Stars**: `1.3k` | **Created at**: `2026-08-17`
+**Stars**: `1.4k` | **Created at**: `2026-08-17`
 
 
  可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
@@ -1512,7 +1512,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `4.3k` | **Created at**: `2026-10-13`
+**Stars**: `4.4k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
@@ -1523,7 +1523,7 @@ Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 
 <a href='https://github.com/D3voz/openjutsu'>
 <img src="https://avatars.githubusercontent.com/u/139697969?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/D3voz/openjutsu
 
-**Stars**: `2.2k` | **Created at**: `2026-10-26`
+**Stars**: `2.3k` | **Created at**: `2026-10-26`
 
 
 One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.

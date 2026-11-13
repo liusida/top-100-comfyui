@@ -7,7 +7,7 @@
 <a href='https://github.com/cubiq/ComfyUI_IPAdapter_plus'>
 <img src="https://avatars.githubusercontent.com/u/427614?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/cubiq/ComfyUI_IPAdapter_plus
 
-**Stars**: `6.2k` | **Created at**: `2026-11-10`
+**Stars**: `6.2k` | **Created at**: `2026-11-12`
 
 
 None
@@ -56,7 +56,7 @@ ComfyUI's ControlNet Auxiliary Preprocessors
 <a href='https://github.com/city96/ComfyUI-GGUF'>
 <img src="https://avatars.githubusercontent.com/u/125218114?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/city96/ComfyUI-GGUF
 
-**Stars**: `4.2k` | **Created at**: `2026-11-11`
+**Stars**: `4.2k` | **Created at**: `2026-11-13`
 
 
 GGUF Quantization support for native ComfyUI models
@@ -76,7 +76,7 @@ GGUF Quantization support for native ComfyUI models
 <a href='https://github.com/MrForExample/ComfyUI-3D-Pack'>
 <img src="https://avatars.githubusercontent.com/u/62230687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/MrForExample/ComfyUI-3D-Pack
 
-**Stars**: `3.9k` | **Created at**: `2026-11-11`
+**Stars**: `3.9k` | **Created at**: `2026-11-12`
 
 
 An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
@@ -91,7 +91,7 @@ An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Tex
 <a href='https://github.com/rgthree/rgthree-comfy'>
 <img src="https://avatars.githubusercontent.com/u/476360?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/rgthree/rgthree-comfy
 
-**Stars**: `3.7k` | **Created at**: `2026-11-11`
+**Stars**: `3.7k` | **Created at**: `2026-11-12`
 
 
 Making ComfyUI more comfortable!
@@ -107,7 +107,7 @@ Making ComfyUI more comfortable!
 <a href='https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved'>
 <img src="https://avatars.githubusercontent.com/u/7365912?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
-**Stars**: `3.6k` | **Created at**: `2026-11-11`
+**Stars**: `3.6k` | **Created at**: `2026-11-13`
 
 
 Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -124,7 +124,7 @@ Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 <a href='https://github.com/kijai/ComfyUI-KJNodes'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-KJNodes
 
-**Stars**: `3.5k` | **Created at**: `2026-11-11`
+**Stars**: `3.5k` | **Created at**: `2026-11-12`
 
 
 Various custom nodes for ComfyUI
@@ -161,7 +161,7 @@ Various custom nodes for ComfyUI
 <a href='https://github.com/ltdrdata/ComfyUI-Impact-Pack'>
 <img src="https://avatars.githubusercontent.com/u/128333288?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-**Stars**: `3.4k` | **Created at**: `2026-11-10`
+**Stars**: `3.4k` | **Created at**: `2026-11-13`
 
 
 Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.
@@ -217,7 +217,7 @@ Enhancements & experiments for ComfyUI, mostly focusing on UI features
 <a href='https://github.com/chflame163/ComfyUI_LayerStyle'>
 <img src="https://avatars.githubusercontent.com/u/130118553?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chflame163/ComfyUI_LayerStyle
 
-**Stars**: `3.2k` | **Created at**: `2026-11-11`
+**Stars**: `3.2k` | **Created at**: `2026-11-12`
 
 
 A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -233,7 +233,7 @@ A set of nodes for ComfyUI that can composite layer and mask to achieve Photosho
 <a href='https://github.com/yolain/ComfyUI-Easy-Use'>
 <img src="https://avatars.githubusercontent.com/u/73304135?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/yolain/ComfyUI-Easy-Use
 
-**Stars**: `2.8k` | **Created at**: `2026-11-11`
+**Stars**: `2.8k` | **Created at**: `2026-11-12`
 
 
 In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to some commonly used nodes.
@@ -307,7 +307,7 @@ LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT
 <a href='https://github.com/kijai/ComfyUI-SUPIR'>
 <img src="https://avatars.githubusercontent.com/u/40791699?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/kijai/ComfyUI-SUPIR
 
-**Stars**: `2.3k` | **Created at**: `2026-11-11`
+**Stars**: `2.3k` | **Created at**: `2026-11-12`
 
 
 SUPIR upscaling wrapper for ComfyUI
@@ -339,7 +339,7 @@ Nodes related to video workflows
 <a href='https://github.com/WASasquatch/was-node-suite-comfyui'>
 <img src="https://avatars.githubusercontent.com/u/1151589?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/WASasquatch/was-node-suite-comfyui
 
-**Stars**: `1.9k` | **Created at**: `2026-11-12`
+**Stars**: `1.9k` | **Created at**: `2026-11-13`
 
 
 WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
@@ -542,7 +542,7 @@ Unofficial implementation of InstantID for ComfyUI
 <a href='https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes'>
 <img src="https://avatars.githubusercontent.com/u/42118269?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
 
-**Stars**: `1.3k` | **Created at**: `2026-11-12`
+**Stars**: `1.3k` | **Created at**: `2026-11-13`
 
 
 Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes.
@@ -558,7 +558,7 @@ Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, 
 <a href='https://github.com/pythongosssss/ComfyUI-WD14-Tagger'>
 <img src="https://avatars.githubusercontent.com/u/125205205?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/pythongosssss/ComfyUI-WD14-Tagger
 
-**Stars**: `1.3k` | **Created at**: `2026-11-10`
+**Stars**: `1.3k` | **Created at**: `2026-11-12`
 
 
 A ComfyUI extension allowing for the interrogation of booru tags from images.
