@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `146.6k` | **Created at**: `2023-01-17`
+**Stars**: `146.7k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -949,7 +949,7 @@ None
 <a href='https://github.com/Comfy-Org/desktop'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/desktop
 
-**Stars**: `2.3k` | **Created at**: `2024-08-13`
+**Stars**: `2.4k` | **Created at**: `2024-08-13`
 
 
 [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
@@ -1071,17 +1071,6 @@ LTX-Video Support for ComfyUI
  - <sub>Set VAE Decoder Noise</sub>, <sub>STGAdvancedPresets</sub>, <sub>STGGuiderAdvanced</sub>, <sub>STGGuiderNode</sub>
 </details>
 
-
-## chengzeyi/Comfy-WaveSpeed
-
-
-<a href='https://github.com/chengzeyi/Comfy-WaveSpeed'>
-<img src="https://avatars.githubusercontent.com/u/23494160?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/chengzeyi/Comfy-WaveSpeed
-
-**Stars**: `1.2k` | **Created at**: `2024-11-27`
-
-
-https://wavespeed.ai/ [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 
 ## kijai/ComfyUI-HunyuanVideoWrapper
 
@@ -1364,7 +1353,7 @@ Visual Novel Character Creation Suite is a comprehensive tool for creating chara
 <a href='https://github.com/ATH-MaaS/Pixelle-Video'>
 <img src="https://avatars.githubusercontent.com/u/172576026?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/ATH-MaaS/Pixelle-Video
 
-**Stars**: `30.0k` | **Created at**: `2025-11-07`
+**Stars**: `30.1k` | **Created at**: `2025-11-07`
 
 
 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -1501,7 +1490,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/shanliuling/dsh-image-gen'>
 <img src="https://avatars.githubusercontent.com/u/83563400?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shanliuling/dsh-image-gen
 
-**Stars**: `1.4k` | **Created at**: `2026-08-17`
+**Stars**: `1.5k` | **Created at**: `2026-08-17`
 
 
  可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
@@ -1516,6 +1505,17 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
+
+## neuregex/freefield
+
+
+<a href='https://github.com/neuregex/freefield'>
+<img src="https://avatars.githubusercontent.com/u/47640766?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/neuregex/freefield
+
+**Stars**: `1.3k` | **Created at**: `2026-10-20`
+
+
+Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every model open weights; runs on Modal or your own GPU
 
 ## D3voz/openjutsu
 
