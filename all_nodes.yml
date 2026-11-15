@@ -868,6 +868,7 @@ DepthViewer: -1
 DetailDaemonGraphSigmasNode: -1
 DetailDaemonSamplerNode: -1
 DetailTransfer: 1
+DetailerAdvancedOptionsHook: -1
 DetailerForEach: 30
 DetailerForEachAutoRetry: -1
 DetailerForEachDebug: 30
@@ -2163,6 +2164,7 @@ LoraLoaderModelOnly: 99
 LoraLoader|pysssss: 11
 LoraModelLoader: -1
 LoraNames_: 0
+LoraNodeAdapterDemoLoader: -1
 LoraPoolLM: -1
 LoraPrompt: 0
 LoraRandomizerLM: -1
@@ -2172,6 +2174,7 @@ LoraStackCombinerLM: -1
 LoraStackerLM: -1
 LoraSyntaxToPath: -1
 LoraTextLoaderLM: -1
+LoraTriggerWordsLM: -1
 LoraWildcardSource: -1
 LorapathLoader: -1
 LorasForFluxParams+: -1
@@ -2289,6 +2292,7 @@ MiDaS-DepthMapPreprocessor: 95
 MiDaS-NormalMapPreprocessor: 35
 MiniMaxChunkFeedForward: -1
 MiniMaxH3MemoryEfficientSageAttentionPatch: -1
+MiniMaxH3PromptWeight: -1
 MiniMaxH3ReferenceToVideo: -1
 MiniMaxH3TokenCounter: -1
 MiniMaxLowVRAMAttention: -1
