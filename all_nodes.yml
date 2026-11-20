@@ -1480,6 +1480,7 @@ Images to RGB: 12
 Images2Image: -1
 ImagesPrompt_: 0
 ImpactAssembleSEGS: 4
+ImpactAssembleSEGSList: -1
 ImpactBoolean: -1
 ImpactCombineConditionings: 0
 ImpactCompare: 14
@@ -1494,6 +1495,7 @@ ImpactControlNetClearSEGS: 0
 ImpactConvertDataType: 0
 ImpactCount_Elts_in_SEGS: 0
 ImpactDecomposeSEGS: 4
+ImpactDecomposeSEGSList: -1
 ImpactDilateMask: 5
 ImpactDilateMaskInSEGS: 1
 ImpactDilate_Mask_SEG_ELT: 0
