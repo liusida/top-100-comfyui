@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `147.7k` | **Created at**: `2023-01-17`
+**Stars**: `147.9k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -1490,7 +1490,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/shanliuling/dsh-image-gen'>
 <img src="https://avatars.githubusercontent.com/u/83563400?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/shanliuling/dsh-image-gen
 
-**Stars**: `1.6k` | **Created at**: `2026-08-17`
+**Stars**: `1.7k` | **Created at**: `2026-08-17`
 
 
  可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
@@ -1512,7 +1512,7 @@ Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 
 <a href='https://github.com/neuregex/freefield'>
 <img src="https://avatars.githubusercontent.com/u/47640766?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/neuregex/freefield
 
-**Stars**: `1.6k` | **Created at**: `2026-10-20`
+**Stars**: `1.7k` | **Created at**: `2026-10-20`
 
 
 Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every model open weights; runs on Modal or your own GPU
