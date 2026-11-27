@@ -51,7 +51,7 @@ Turn any face into a video game character, pixel art, claymation, 3D or toy
 <a href='https://github.com/wyrde/wyrde-comfyui-workflows'>
 <img src="https://avatars.githubusercontent.com/u/9657443?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wyrde/wyrde-comfyui-workflows
 
-**Stars**: `1.3k` | **Created at**: `2026-11-25`
+**Stars**: `1.3k` | **Created at**: `2026-11-26`
 
 
 some wyrde workflows for comfyUI
