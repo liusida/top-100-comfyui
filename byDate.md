@@ -40,7 +40,7 @@ A user-friendly plug-in that makes it easy to generate stable diffusion images i
 <a href='https://github.com/Comfy-Org/ComfyUI'>
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Comfy-Org/ComfyUI
 
-**Stars**: `148.8k` | **Created at**: `2023-01-17`
+**Stars**: `149.0k` | **Created at**: `2023-01-17`
 
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -1203,7 +1203,7 @@ ComfyUI template workflows
 <a href='https://github.com/heshengtao/super-agent-party'>
 <img src="https://avatars.githubusercontent.com/u/20573295?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/heshengtao/super-agent-party
 
-**Stars**: `2.8k` | **Created at**: `2025-03-08`
+**Stars**: `2.9k` | **Created at**: `2025-03-08`
 
 
 ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -1413,7 +1413,7 @@ LTX Director and a variety of other custom ComfyUI nodes and workflows
 <a href='https://github.com/wiltodelta/remove-ai-watermarks'>
 <img src="https://avatars.githubusercontent.com/u/1192743?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/wiltodelta/remove-ai-watermarks
 
-**Stars**: `6.5k` | **Created at**: `2026-03-25`
+**Stars**: `6.6k` | **Created at**: `2026-03-25`
 
 
 Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other AI marks. By Victor Kuznetsov.
@@ -1501,7 +1501,7 @@ Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac
 <a href='https://github.com/Arekejoker/qwen21-nsfw-pose-skill'>
 <img src="https://avatars.githubusercontent.com/u/131444687?v=4" width="50" height="50"></a> &nbsp; &nbsp; https://github.com/Arekejoker/qwen21-nsfw-pose-skill
 
-**Stars**: `4.6k` | **Created at**: `2026-10-13`
+**Stars**: `4.7k` | **Created at**: `2026-10-13`
 
 
 Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
